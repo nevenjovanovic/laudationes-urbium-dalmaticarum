@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Italiae illustratae undecima regio: Histria (1448-1458), versio electronica</title>
+    <author>
+        <name>Flavius Blondus (Flavio Biondo)</name>, <date from="1392" to="1463">1392-1463</date></author>
+        <respStmt>
+        <resp>Editionem electronicam curavit</resp>
+        <name>Neven Jovanović</name>
+        
+    </respStmt>
+    
+</titleStmt>
+<editionStmt>
+<edition>
+<date from="1481" to="1482">1481-82</date>
+</edition>
+</editionStmt>
+    <publicationStmt>
+        <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+            Hrvatska.  <date>lipnja 2009</date></p>
+    </publicationStmt>
+<sourceDesc>
+    <p>Denuo typis editum in: <bibl><editor>P. Kandler</editor>, "Corografia dell'Istria", Archeografo triestino, II [1840], pp. 19--25.</bibl> Est facsimile <ref target="http://books.google.com/books?id=FdEOAAAAQAAJ">apud Google Book Search</ref>. 
+        Quae editio facta est ad fidem editionis: <bibl>Flavius Blondus, Roma instaurata. Add: De origine et gestis Venetorum. Italia illustrata. Ed: Johannes Antonius Pantheus (Additions by Hieronymus Broianicus and Paulus Ramusius). Verona: Boninus de Boninis, de Ragusia, 1481-82. (Goff B702; HC 3243* (I) + 3247* (II)).</bibl>
+        Editio princeps autem erat:
+        <bibl>Flavii Blondi Italia illustrata, Romae : Johannes Philippus de Lignamine, 1474 (Hain 3246).</bibl>
+        
+    </p>
+    
+</sourceDesc>
+</fileDesc>
+    <profileDesc>
+        <creation>
+            <date from="1448" to="1458">1448-1458</date>
+        </creation>
+    </profileDesc>
+<revisionDesc>
+<change>
+    Versio prima electronica.
+<name>Neven Jovanović</name>
+<date>2010-03-08</date>
+</change>
+</revisionDesc>
+</teiHeader>
+<text type="prorsaOratio">
+<front><milestone unit="page" n="19"/>
+    <docTitle>
+        <titlePart>N.° i.</titlePart>
+        
+        <titlePart>BLONDI FLAVII FORLIVIENSIS</titlePart>
+        
+        <titlePart>ITALIAE ILLUSTRATAE
+        
+        UNDECIMA REGIO
+        
+        HISTRIA</titlePart>
+        
+    </docTitle>
+</front>
+    <body>
+
+        
+        <div type="prorsaOratio-chorographia"><p>Histriam nunc, non quidem nonam quae ante Caesaris Augusti tempora Italiae censebatur, sed inter caeteras oras ultimo aditam inchoemus. Eam Plinius, ut in peninsulam excurrere dicit latitudine quadraginta millium, circuitu viginti quinque et centum. Et quidem a Formionis sive Cisani <add resp="PK">(Risani)</add> ostio, ubi ultima est Tergestini sinus pars, ad Phanatici sinus, quem nunc Carnarium appellant, intimam concavitatem, ubi est Castrum novum sive Arsiae fluminis ostium, via difficilior quidem per arduos montes sed brevior vix quadraginta milia passus implet, quom circuitus mari secundum littora factus supradicta vigintiquinque et centum amplissime complectatur. Hinc pulchrum est cognoscere oram Adriatici maritimam supra a Venetiis Justinopolim usque a nobis descriptam ubique sinuosissimam et adeo tortuosam esse, ut <sic>dimidia</sic> brevior sit mari quam terra directum, e regione centum 
+            <milestone unit="page"  n="20"/>
+        milia passus iter. A Formione autem fluvio ad Phanatici sive Carnarii promontorium ea, sicut dicit Plinius, peninsula Histriae se in mare Italiam versus dextrorsum flectit. Sed ad rem.</p>
+        
+        <p>
+        Histriam regionem <note>Japigia</note>Japigiam prius simul cum Foro Julio appellatam, vult ex Trogo Pompejo Justinus sic fuisse appellatam ab Histri amnis, qui et Danubius, accolis: qui cum Argon navim ab Argonautis a Danubio in Adriaticum mare humeris deferri adjuvissent, in ea Japigum regione consedentes Histriam de patria e regionis nomine appellarunt. Plinius vero, quom aliquorum confutasset errorem dicentium, et quidem absurdissime, Histriam dici a parte Histri fluminis in Adriaticum delabente, subinfert Argon navim flumine in mare Adriaticum descendisse non procul Tergesto, nec jam constare quo flumine, alpinosque diligentiores affirmare humeris fuisse transvectam; subisse autem Histro, dein Sabo, dein Nauporto, cui nomen ex ea sit causa, inter Aemoniam Alpesque exorienti.
+        </p>
+        
+        <p>
+        Prima Histriae urbs est ut diximus Justinopolis,<note>Justinopolis</note> quam
+        Justinus Justiniani primi Imperatoris filius atque imperii successor in insula tunc Capraria, sed prius Pullaria appellata,<note>Capraria Pullaria</note> edificavit. Causam autem ejus condendae urbis in historiis fuisse ondimus <add resp="PK">(audimus)</add>, ut in eo natura loci munitissimo loco tuti essent Histriae populi, variis diutinisque barbarorum incursionibus agitati. Jungitur tamen continenti ea insula bracchio mille passus longitudine et ad decem latitudine ducto, in cujus medio arx valida, Leoninum appellata Castellum, oppidanis a terrestri oppugnatione praesidio est imposita. Magno fuit per aetatem nostram Justinopoli ornamento Petrus Paulus Vergerius, Jure consultissimus et philosophus, quodque supra saepe numero diximus, inter primos hujus saeculi eloquentissimus. 
+        </p>
+        
+        <p>
+        Primum a Justinopoli quinque milia passus semotum est Insula oppidum;<note>Insula Piranum Salborium</note> et post tantundem inde distans Piranum civitas; et tertio loco Salodi <add resp="PK">(Salborii)</add> promontorium totidem 
+            <milestone unit="page" n="21"/>
+        
+        abest passus; quartumque paria a superiori distantiae Humagum <note>Humagum</note> oppidum cursu prope recto et ad Italiam transverso per medium pelagus incurvari ferrique videtur. Deinceps aequaliore ad fanaticum sive Carnarium promontorium et tum sinuosissimo inter se prospectu caetera Histriae maritima oppida habentur: ab Humagoque quinque pariter milia passus abest Emonia civitas,<note>Emonia.</note> cui nunc Civitatis Novae est nomen, prope quam Nauporti sunt hostia fluminis, Quieti nunc appellati, in <note>Quietus</note> quem Alpibus exorientem Argon navim Plinius asserit fuisse dimissam. Post Nauportum prima est Parentium civitas <note>Parentium</note> vetusta, cui Orsarium continet et mons et oppidum prominens <note>Orsarium</note> illi impositum. Post haec Ruvignum oppidolum, deinde <note>Ruvignum</note> sinu supereminet amplo, colli imposita arduo naturaque loci munitissimo, urbs Pola romana colonia et Histriae ac Italiae <note>Pola</note> urbium postrema. Ab ea vero urbe incipiens fanaticum promontorium, postquam longo tractu contra Ariminum, vel sicut Plinio placet, contra Anconem in mare se praeripuit; sinum ejusdem nominis effecit quem nunc Carnarium diximus <note>Sinus Carnarius</note> appellari. Estque ejusdem sinus novum prisco correspondens vocabulum quod fanaticus a priscis a tempestatum frequentia atque, ut ita dixerim, insania, nunc vero Carnarius a multitudine cadaverum, quae frequentibus ibi tempestatibus fiunt, est appellatus. Prius vero quam ea describamus quae fanatico sinu apposita ad Arsiam amnem, certissimum atque notissimum <note>Arsia</note> Italiae ad Liburnos terminum, pertinent mediterranea quae altissimis in montibus a Justinopoli ad Nauportum sive Quietum amnem interjacent explicabimus.
+        
+        Suntque in montibus Justinopoli superaeminentibus jurisdictionis suae Castella, Rasponum et Roggium. Sunt item in <note>Rasponum. Roggium</note> montibus a mari longius quam praedicta recedentibus in ea, quam diximus flectentis se ad Italiam peninsulae curvitate, Bulea, Mimianum, Sanctus Laurentius, Portule, Grisana <note>Bulea, Mimianum, S Laurentius, Portula, Grisana, Pimontium, Pigmentium</note> <add resp="PK">(Grisiniana)</add> et superiori loco Pimontium, Pigmentium et Petra Pilosa, quae omnia Justinopolitanorum sunt oppida et 
+            <milestone unit="page" n="22"/>
+        
+        
+        castella, medioque ferme eorum omnium spatio Petram pilosam inter et Portulam ac Primontem, est oppidulum nune <note>Sdrigna</note> nomine Sdrigna quod fuisse constat olim Stridonis oppidum unde gloriosissimus Ecclesiae Dei doctor illustratorque Hieronymus originem duxit. Et trans Nauportum sive Quietum amnem ad Arsiam usque amnem Castella nunc in montibus oppidaque extant, Vallis, Duo castra, Justinopolitanis supposisita;<note>Vallis. Duo Castra. Montona. Pisinum</note> superiusque Montona, et Pisinum. Ne etiam superius promissum ulterius differamus, a fanatico promontorio ad Arsiae amnis nostrae limitis Italiae ostium, quo se in Carnarium sive in fanaticum sinum exonerat, oppida ipsi supereminent <note>Albona. Terranova</note> sinui Albona et Terranova, quae duo et superius dictum Pisinum, quod Arsiae et sinui fanatico <sic>proprinquent</sic>, Histriae atque Italiae ultima sunt censenda.
+        </p>
+        
+        <p>
+        Adhibita est nobis superiori loco describendis Histriae montium oppidis et Castellis solito major diligentia, quod quidem nulla alia fecimus ratione, quam ut rem minime nobis peritisque regionum dubiam; sed de qua multos ambigere vidimus praestantissimos Italiae atque orbis christiani aliarum provinciarum viros, doceremus. Stridonem, oppidum gloriosi Hieronymi patriam, in Italia (et quae nunc et quae Octaviani Augusti imperatoris et multo magis Plinii atque etiam natalium ipsius Hieronymi temporibus erat) situm esse, ut tantum virum plane italicum et non alienigenam fuisse, constat. Idque verba sua de se ipso scripta in libro de viris illustribus certissimum efficiunt : <quote>Hieronymus presbyter patre natus Eusebio ex oppido Stridonis, quod a Gothis eversum Dalmatiae quondam Pannoniaeque confinium fuit, usque in presentem annum, idest Theodosii principis quartum decimum, haec scripsit vitam, Pauli Monachi epistolarum ad diversos librum unum et caetera</quote> <add resp="PK">(?)</add>. Visitur vero apud Sdrignam sive Stridonem praedicti Eusebii genitoris Sancti Hieronymi sepulchrum, et fama per aetatis successiones tradita et literis laminae inscriptis plumbeae in eo, ut ferunt, repertae, notissimum. 
+            <milestone unit="page" n="23"/>
+        Videmus vero multos in eam de qua diximus opinionem ductos fuisse ut crederent beatum Hieronymum dalmatam fuisse, quia literas illas adinvenerit composueritque, a latinis graecisque diversas, quae sint postea appellatae Sclavonicae a Sclavonibus Germaniae olim populis quos nunc appellant Boemos, a quibus sicut in historiis ostendimus, regio Dalmatiae Histris contermina, paulo post fuuctum vita ipsum beatum Hieronyimum fuit occupata et semper postea, sicut nunc quoque fit, Sclavonia est dicta. Et quidem non solum eas praedictas composuit deditque sclavonicas literas, sed officium quoque divinum quo catholici utuntur cristiani ex graeco in id novum idioma traduxit, quod gloriosus Pontifex Eugenius IV per nostras manus illis confirmavit. Quo tempore apud Florentiam et Graecorum unio cum ecclesia occidentali est facta, et Armenii Jacobitae Nestorini ac Ethiopes, acceperunt ab eodem Eugenio catholicae Ecclesiae documenta. Ilis vero qui pertinaces contenderent beatum Hieronymum, si in patria sua idiomate ab italico penitus alieno usus fuit et suos contribulos Histros uti docuit atque voluit, videri fuisse alienigenam, respondemus majorem melioremqne, quam sit Histria, partem esse Italiae Calabriam atque Brutios quibus in regionibus sine controversia italicis et semper antea viguit et nunc quoque viget germanicae linguae usus. Quin etiam circa Hastam, Taurinos, Iporedienses et omnem eam Alpibus subjectam Italiae regionem cui gentes diu praefuerunt Gallice alieno magis populi illi quam proprio idiomate italico abutuntur; pariter apud Vicentiam Veronamque praeclaras elegantissimasque moribus Italia urbes, licet a Germania sint remotissimae, multi sunt vici multa oppida ipsis subdita civitatibus quorum populi theotonica frequentius quam italica locutione utuntur. Sed jam ad nostrum ordinem revertamur.
+        </p>
+        
+        <p>
+        Gesta in Histris particulatim referre non expedit, sed satis fuerit ea quae supra diversis in locis sunt dicta in suum hunc locum colligere, primam scilicet invasionem factam in
+            <milestone unit="page" n="24"/>
+        regionem ab Histris qui Japigas vel expulerunt vel dominio oppresserunt. Theutanaque muliere praestantissima in Histris regnante barbaros supervenisse, qui omnia in Histris ferro ignique vastarunt, tertiamque his populis fuisse maximam et horribilem cladem illam a Visigothis illatam, de qua nos in Romanorum Imperii inclinatione initio scripsimus, quae quidem clades illa fuit de qua gloriosissimus ipse Hieronymus apud Bethleem degens voluit intelligi et supradicto in libro de viris illustribus et in expositionibus minorum XII prophetarum ubi textum declarans prophetae Abacuc multas in urbes provinciasque desolationes spiritu prophetico predicentis in hanc maxime sententiam commentatus est: <quote>Nonne hoc impletum esse audivimus in nostrae originis regione finium Pannoniae atque Illyrici, ubi post varias barbarorum incursiones ad tantam desolationem est perventum ut nec humana ibi manserit creatura nec animal superesse conservarique dicatur, ex his quae hominibus amicari et convivere consueverunt</quote>, quae quidem desolatio quom ad annos centum continuasset, Justinum impulit ut, sicut supra diximus, Justinopolim munitissimo et tuto a barbarorum incursionibus loco edificari curaverit. Proximae vero aetati nostrae in bello quod Venetos inter et Genuenses acerrimum fuit, et Justinopolis de Venetis in potestatem Genuensium est facta, et ea adjacentesque urbes maxima calamitate aliquandiu pressae et conculcatae fuerunt. Finita jam ad hanc Alpium per milia passus quadringenta et quinquaginta ab Varo ad Arsiam amnem externis nationibus munimento Italiae oppositarum partem sit Italiae nostrae latitudo in recentem gloriosissimi Hieronymi doctoris commemorationem, qui sic eam et me sibi devotum ab omnibus tueatur adversitatibus sicut ad hos limites originem illum in ea habuisse ostendimus.</p>
+        </div>
+        <div type="prorsaOratio-chorographia">
+            <gap resp="NJ" reason="Italice-nota-editoris"/>
+            <milestone unit="page" n="25"/>
+            <gap resp="PK" reason="irrelevant"/>
+            <p>
+                Sed ad ea qua maris litoribus sunt propinqua post Montemfalchonem celso item in colle est Duinum <note>Duinum</note> nobile munitissimumque oppidum et minore in colle Mocolanum.<note>Mocolanum</note> Deinceps urbs Tergestum<note>Tergestum</note> romana colonia quom vetustatum <add resp="PK">(quae ob vetustatem)</add> etiam apud vetustos scriptores Caium Caesarem in Comentariis, Plinium et alios cum Historicos tum Cosmographos celebrata, tertioque et trigesimo miliario, ut inquit Plinius, distans ab Aquileja: ultraque Tergestum sex milia passus esse dicit Plinius Formionem amnem cui nunc Cisano est appellatio, et uno de ducentesimo passuum miliario a Ravenna distantem, qui quidem amnis fuerit antiquus Italiae terminus. Labitur autem <sic>his</sic> amnis Formio sive Cisanus inter Muglam<note>Mugla</note> proximum Tergesto oppidum et Justinopolim urbem Caput Histriae haudquaquam improprie appellatam, quando ad praedictum Formionem Histria inchoetur. Sed priusquam novae huic nobis regioni manum apponamus paucula explicemus quae retro in montibus de Foro-Juliensibus sunt ommissa. In ea montium parte quae in Adriaticum e regione Duini oppidi est versa, Goricia<note>Goricia</note> est sub Alpibus quod oppidum familiae nobili patrium comitatus titulum referenti subditum populo et opibus est refertum. Supraque Tergestum pariter sub Alpibus est Castrum novum.
+            </p>
+            <gap resp="PK" reason="irrelevant"/>
+        </div>
+
+</body>
+   
+</text>
+</TEI>

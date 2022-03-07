@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In laudem nobilitatis Aspalatensis (post 1452)</title>
+            <author><persName>Leonardus Montagna</persName> (
+               <persName>Leonardo Montagna</persName>, c. 1425-30 – 1485)
+               <idno type="wikidata">Q23617599</idno>
+            </author>
+            <respStmt>
+               <resp>editionem electronicam praeparavit</resp>
+               <persName>Neven Jovanović
+               <idno type="VIAF">6913774</idno></persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+    Romae, <date>1492</date>.
+  Prima editio electronica, Zagreb 2010.
+  </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>elektronska verzija: Neolatina Croatica, znanstveni
+	   projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+	   Hrvatska.  <date>veljača 2010</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Kristeller, Iter: Volume VI; Città Del Vaticano; Città Del Vaticano; Biblioteca Apostolica Vaticana (1966-72, 1974, 1975, 1976-84, 1987, 1989); Fondo De Marinis
+             <idno>Ms. 7. mbr. XV. 45 fols. Old binding. Decorated. Formerly Soranzo ms. CCLXVI. Cf. Iter II, p. 607. De Marinis I, p. 85, no. 951 C (ldm 77). Quinto Centenario, p. 117, no. 303.</idno>
+               <note>f. 1v. Leonardi Montagne Veronensis secretarii Ap(ostoli)ci et poete laureati carmina epistolarum et epigrammatum (title only). 2-3. To Lau(rentius Zane) Archipresul Aspalatensis, a verse prologue, inc. Laurenti Aspalati presul clarissime salve. Poems to Alex. Gonzaga in praise of Victorinus Feltrensis (f. 3-4), in praise of Jampetrus Lucensis (4-5v), in laudem Lau(rentii) Valle ad memoratum d. suum (Laur. Zane) et Mar. Donatum (6-7), to Alanus card. Avinionensis (7), to Pius II (7-7v), to the Cardinal of Avignon (7v-8v), to Herm. Barbarus ep. Veronensis (8v-10v), in laudem divi Symeonis de Armenia ad Pium II, with a verse prologue (10v-15v), ad Barbaram Mantue Marchionissam in prohemium cuiusdam libelli rhitmici de iuribus et laudibus mulierum (six lines, f. 16), in laudem nobilitatis Aspalatensis (16-17), ad Bartholomeam coniugem absentem (17-18), in Janum Fsini (sic) opidi Croatie dominum (18), ad Collam Campanum (18v), ad Musam suam (18v-19v), ad Philippam commatrem suam (19v-20), ad Catherinam Bosnie reginam (21-21v). 21v. Liber secundus. Pro R(e)pu(blica) Veneta (22v), ad principes Italie (22v-23), in coniuratos iuvenes contra Paulum II (23), ad Franc. Montagnam patruelem (23v-24v), in detractores Jo. Marii Philelfi Verone conducti (23v-24v), to Marius Philelfus (27v-28v), ad Jo. Jadrievicum Traguriensem compatrem suum (31-35), ad Colam Campanum Aspalati defunctum (35v-37), ad Dossum tabellarium (38v), ad Vitalem Landum (38v-42), in laudem et defensionem Marii Philelfi (42-42v). Responsum eiusdem D. Marii ad ipsum auctorem cum insertis laudibus supradicti domini archipresulis Aspalatini (42v-45v).</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="genus">
+           <!-- kontrolirani katalog za žanrove, za novolatinski? -->
+               <category>
+                  <catDesc>genera litteraria</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy xml:id="aetas">
+           <!-- gdje je kontrolirani katalog za periodizaciju? -->
+               <category>
+                  <catDesc>aetates</catDesc>
+               </category>
+               <category xml:id="locus">
+                  <catDesc>locus</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1452">non ante 1452</date>
+            <address>
+               <addrLine>Spalati?</addrLine>
+            </address>
+         </creation>
+         <textClass>
+            <keywords scheme="#aetas">
+               <list>
+                  <item>litterae renatae</item>
+                  <item>latinitas recentior</item>
+                  <item>saec. XV</item>
+                  <item>1450-1500</item>
+               </list>
+            </keywords>
+            <keywords scheme="#genus">
+               <list>
+                  <item>poesis</item>
+                  <item>epigramma</item>
+               </list>
+            </keywords>
+            <keywords scheme="#locus">
+               <list>
+             <!-- kontrolirani katalog za mjesta -->
+                  <item>Spalatum</item>
+                  <item>Dalmatia</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12-8</date>
+            <name>Neven Jovanović</name>
+Prvi unos.
+</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docAuthor>Leonardi Montagnae Veronensis, secretarii apostolici, comitis Palatini et poetae laureati</docAuthor>
+         <docTitle>
+            <titlePart>Carmina epistolarum et epigrammatum</titlePart>
+         </docTitle>
+      </front>
+      <body>
+         <div type="epigramma" met="elegiacum">
+            <head>
+               <w norm="in">In</w>
+               <w norm="laudem">laudem</w>
+               <w norm="nobilitatis">nobilitatis</w>
+               <w norm="Aspalatensis">Aspalatensis</w>
+            </head>
+            <l n="1">
+               <w norm="quis">Quis</w>
+               <w norm="te">te</w>
+               <pc>,</pc>
+               <w norm="nobilitas">nobilitas</w>
+               <w norm="pulchri">pulchri</w>
+               <w norm="ueneranda">ueneranda</w>
+               <w norm="uetusque">uetusque</w>
+            </l>
+            <l n="2">
+               <w norm="Aspalati">Aspalati</w>
+               <pc>,</pc>
+               <w norm="posset">posset</w>
+               <w norm="dignas">dignas</w>
+               <w norm="expromere">expromere</w>
+               <w norm="laudes">laudes</w>
+               <pc>?</pc>
+            </l>
+            <l n="3">
+               <w norm="heu">Heu</w>
+               <w norm="neque">neque</w>
+               <w norm="Vergilius">Virgilius</w>
+               <w norm="nec">nec</w>
+               <w norm="magnus">magnus</w>
+               <w norm="uiuit">uiuit</w>
+               <w norm="Homerus">Homerus</w>
+               <pc>,</pc>
+            </l>
+            <l n="4">
+               <w norm="diuino">Diuino</w>
+               <w norm="ornarunt">ornarunt</w>
+               <w norm="qui">qui</w>
+               <w norm="sicut">sicut</w>
+               <w norm="carmine">carmine</w>
+               <w norm="Troiam">Troiam</w>
+            </l>
+            <milestone unit="page"/>
+            <l n="5">
+               <w norm="Troianosque">Troianosque</w>
+               <w norm="uiros">uiros</w>
+               <w norm="armis">armis</w>
+               <w norm="noua">noua</w>
+               <w norm="regna">regna</w>
+               <w norm="petentes">petentes</w>
+               <pc>,</pc>
+            </l>
+            <l n="6">
+               <w norm="sic">Sic</w>
+               <w norm="possint">possint</w>
+               <w norm="ueteris">ueteris</w>
+               <w norm="famae">famae</w>
+               <w norm="monumenta">monumenta</w>
+               <w norm="Salonae">Salonae</w>
+            </l>
+            <l n="7">
+               <w norm="mandare">mandare</w>
+               <w norm="aeternae">aeternae</w>
+               <w norm="teque">teque</w>
+               <pc>,</pc>
+               <w norm="urbis">urbis</w>
+               <w norm="semina">semina</w>
+               <w norm="tantae">tantae</w>
+               <pc>.</pc>
+            </l>
+            <l n="8">
+               <w norm="namque">Namque</w>
+               <w norm="es">es</w>
+               <w norm="reliquiae">reliquiae</w>
+               <w norm="illius">illius</w>
+               <w norm="populusque">populusque</w>
+               <w norm="superstes">superstes</w>
+               <pc>,</pc>
+            </l>
+            <l n="9">
+               <w norm="conciuisque">Conciuisque</w>
+               <w norm="tui">tui</w>
+               <w norm="tandem">tandem</w>
+               <w norm="facta">facta</w>
+               <w norm="incola">incola</w>
+               <w norm="tecti">tecti</w>
+            </l>
+            <l n="10">
+               <w norm="Caesaris">Cesaris</w>
+               <w norm="Illyricique">Illiricique</w>
+               <w norm="decus">decus</w>
+               <w norm="maris">maris</w>
+               <w norm="altaque">altaque</w>
+               <w norm="longe">longe</w>
+            </l>
+            <l n="11">
+               <w norm="gloria">Gloria</w>
+               <w norm="Dalmatiae">Dalmatiae</w>
+               <w norm="Veneta">Veneta</w>
+               <w norm="ditione">ditione</w>
+               <w norm="beatae">beatae</w>
+               <pc>.</pc>
+            </l>
+            <l n="12">
+               <w norm="Maximus">Maximus</w>
+               <w norm="ut">ut</w>
+               <w norm="torque">torque</w>
+               <w norm="est">est</w>
+               <w norm="Torquatus">Torquatus</w>
+               <w norm="dictus">dictus</w>
+               <w norm="ab">ab</w>
+               <w norm="hostis">hostis</w>
+            </l>
+            <l n="13">
+               <w norm="utque">Vtque</w>
+               <w norm="sibi">sibi</w>
+               <w norm="domitis">Domitis</w>
+               <w norm="supersit">supersit</w>
+               <w norm="cognomen">cognomen</w>
+               <w norm="ab">ab</w>
+               <w norm="Afris">Afris</w>
+            </l>
+            <l n="14">
+               <w norm="Scipio">Scipio</w>
+               <w norm="et">et</w>
+               <w norm="euersis">euersis</w>
+               <w norm="iisdem">iisdem</w>
+               <w norm="maiorque">maiorque</w>
+               <w norm="minorque">minorque</w>
+               <pc>,</pc>
+            </l>
+            <l n="15">
+               <w norm="Pollio">Pollio</w>
+               <w norm="ab">ab</w>
+               <w norm="antiqua">antiqua</w>
+               <w norm="sic">sic</w>
+               <w norm="nato">nato</w>
+               <w norm="imponere">imponere</w>
+               <w norm="terra">terra</w>
+            </l>
+            <l n="16">
+               <w norm="ipse">Ipse</w>
+               <w norm="tua">tua</w>
+               <pc>,</pc>
+               <w norm="magnos">magnos</w>
+               <w norm="a">a</w>
+               <w norm="qua">qua</w>
+               <w norm="tulit">tulit</w>
+               <w norm="hoste">hoste</w>
+               <w norm="triumphos">triumphos</w>
+               <pc>,</pc>
+            </l>
+            <l n="17">
+               <w norm="nascenti">Nascenti</w>
+               <w norm="nomen">nomen</w>
+               <w norm="non">non</w>
+               <w norm="dedignatus">dedignatus</w>
+               <w norm="honoris">honoris</w>
+               <pc>.</pc>
+            </l>
+            <l n="18">
+               <w norm="ergo">Ergo</w>
+               <w norm="nobilitas">nobilitas</w>
+               <w norm="meritis">meritis</w>
+               <w norm="clarissima">clarissima</w>
+               <w norm="tantis">tantis</w>
+            </l>
+            <l n="19">
+               <w norm="perpetuo">Perpetuo</w>
+               <w norm="laetare">laetare</w>
+               <w norm="tuis">tuis</w>
+               <pc>:</pc>
+               <w norm="nec">nec</w>
+               <w norm="sit">sit</w>
+               <w norm="tibi">tibi</w>
+               <w norm="causa">causa</w>
+            </l>
+            <l n="20">
+               <w norm="tristitiae">Tristitiae</w>
+               <pc>,</pc>
+               <w norm="quod">quod</w>
+               <w norm="nemo">nemo</w>
+               <w norm="queat">queat</w>
+               <w norm="te">te</w>
+               <w norm="condere">condere</w>
+               <w norm="digna">digna</w>
+            </l>
+            <milestone unit="page"/>
+            <l n="21">
+               <w norm="carmina">Carmina</w>
+               <pc>;</pc>
+               <w norm="sat">sat</w>
+               <w norm="decori">decori</w>
+               <w norm="tibi">tibi</w>
+               <w norm="sunt">sunt</w>
+               <w norm="monumenta">monumenta</w>
+               <w norm="tuorum">tuorum</w>
+               <pc>.</pc>
+            </l>
+            <l n="22">
+               <w norm="nec">Nec</w>
+               <w norm="minus">minus</w>
+               <w norm="ipse">ipse</w>
+               <w norm="tuus">tuus</w>
+               <w norm="praesul">praesul</w>
+               <w norm="tibi">tibi</w>
+               <w norm="praestat">prestat</w>
+               <w norm="honoris">honoris</w>
+               <pc>:</pc>
+            </l>
+            <l n="23">
+               <w norm="cui">Cui</w>
+               <w norm="Veneta">Veneta</w>
+               <w norm="degente">degente</w>
+               <w norm="domus">domus</w>
+               <w norm="dat">dat</w>
+               <w norm="Zanna">Zanna</w>
+               <w norm="paternum">paternum</w>
+            </l>
+            <l n="24">
+               <w norm="clara">Clara</w>
+               <w norm="genus">genus</w>
+               <pc>,</pc>
+               <w norm="ueterum">ueterum</w>
+               <w norm="titulis">titulis</w>
+               <w norm="ornatur">ornatur</w>
+               <w norm="auorum">auorum</w>
+               <pc>;</pc>
+            </l>
+            <l n="25">
+               <w norm="Eugeniique">Eugeniique</w>
+               <w norm="nepos">nepos</w>
+               <w norm="materno">materno</w>
+               <w norm="est">est</w>
+               <w norm="sanguine">sanguine</w>
+               <w norm="quarti">quarti</w>
+            </l>
+            <l n="26">
+               <w norm="huicque">Huicque</w>
+               <w norm="secundus">secundus</w>
+               <w norm="erat">erat</w>
+               <w norm="Franciscus">Franciscus</w>
+               <w norm="auunculus">auunculus</w>
+               <pc>,</pc>
+               <w norm="almae">almae</w>
+            </l>
+            <l n="27">
+               <w norm="ecclesiae">Ecclesiae</w>
+               <w norm="princeps">princeps</w>
+               <pc>:</pc>
+               <w norm="nomen">nomen</w>
+               <w norm="Laurentius">Laurentius</w>
+               <w norm="ipsi">ipsi</w>
+               <w norm="est">est</w>
+               <pc>,</pc>
+            </l>
+            <l n="28">
+               <w norm="fronde">Fronde</w>
+               <w norm="uelut">uelut</w>
+               <w norm="laurus">laurus</w>
+               <pc>,</pc>
+               <w norm="quoniam">quoniam</w>
+               <w norm="uirtute">uirtute</w>
+               <w norm="uirescit">uirescit</w>
+               <pc>.</pc>
+            </l>
+         </div>
+      </body>
+   </text>
+</TEI>

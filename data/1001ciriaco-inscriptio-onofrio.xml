@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscriptio Onofrii Ragusae (ante 1438), versio electronica</title>
+                <author><name>Ciriaco d'Ancona (Kyriacus Anconitanus, Ceriaco Pizzicolli)</name>, <date from="1391" to="1455">c. 1391 – c. 1455</date></author>
+                <editor>
+                             
+                    <name>Neven Jovanović</name>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                    projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+                    Hrvatska.  <date when="2010-02">veljače 2010</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p><bibl>Kokole, Stanko: Cyriacus of Ancona and the Revival of Two Forgotten Ancient Personifications in the Rector's Palace of Dubrovnik In: Renaissance Quarterly , Vol. 49 , Nr. 2 The University of Chicago Press on behalf of the Renaissance Society of America (1996), S. 225-267; textum inscriptionis edididit <editor>Stanko Kokole</editor>, p. 239, n. 24</bibl>, e marmore Ragusino et codice collectaneo <bibl>Bartolomei Fontii (Oxford, Bodleian Library, Lat. Misc. d.85, fol. 45)</bibl>, sicut et <bibl>codice Palatino Targioni-Tozzetti, 49, fol. 18v (70v)</bibl>.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1438-01-27">ante 27. Jan. 1438.</date>
+            </creation>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2010-02-04</date>
+                <name>Neven Jovanović</name>
+                Prva verzija.
+            </change>
+           
+        </revisionDesc>
+    </teiHeader>
+    <text type="prorsaOratio">
+
+	
+
+<body>
+    <div type="prorsaOratio-inscriptio">
+        
+<p>
+    <expan cert="medium">Posuerunt</expan> ONOFRIO <expan>IORDANI FILIO</expan> ONOSIPHORO <lb/>
+    PARTHENOPEO EGREGIO <expan>NOSTRI TEMPORIS</expan><lb/>
+    ARCHITECTO<lb/>
+    MVNICIPES<lb/>
+    QVOD <expan>OPTIMO</expan> INGENIO ET DILIGENTIA SVA <expan>RAGVSEORVM NOBILIVM</expan> PROVI<lb/>DENTIA ET <expan cert="medium">AMPLIssimi</expan> ORDINIS IVSSV COACTO ARGENTO <expan>PUBLICO</expan> HANC IN <lb/> 
+    <expan>EPIDAVRIAM RAGVSAM</expan> <expan>NEC NON</expan> ILLY<lb/>RIDIS VRBEM DIV IAM <expan>AQVARVM</expan> PENVRIIS EGESTANT<lb/>EM AQVAS IN <sic>EA</sic> HODIE ET <expan>ANTE DIEM</expan> VI <expan>KALENDAS FEBRVARIAS</expan> KYRIACEO FAVSTO ET FELICISS<lb/>IMO DIE <expan>CONSPICVIS FONTIBVS</expan> EXVBERANTISSIME <sic>DEELVENTES</sic> VIII <lb/> 
+    AB VRBE <sic>MILia</sic> PASSVS SCRVPEOS <expan>ARDVOSQVE</expan> PER COLLES <sic>DIFEICILLIMO</sic> DVCTV<lb/>
+    PERDVXIT<lb/>
+    <expan>KYRIACVS ANCONITANVS</expan>
+    <date when="1438-01-27">ANNO DOMINI MCCCCXXXVIII VI <expan>KALENDAS FEBRVARIAS</expan><lb/>
+    ALBERTO <expan>IMPERATORE DESIGNATO ANNO</expan> I</date>
+    
+</p>
+        
+
+    </div>
+    <div type="prosaOratio-inscriptio-inCodice">
+        <p>
+            <expan>Posuerunt</expan> ONOFRIO <sic>P</sic> <expan>Filio</expan> ONOSIPHORO <lb/> 
+            Parthenopeo egregio <expan>Nostri Temporis</expan> ARCHITECTO <lb/>
+            MVNICIPES <lb/>
+            quod optimo ingenio et <expan>diligentia</expan> sua <expan>Raguseorum</expan> <lb/>
+            <expan>NOBilivim</expan> prouidentia et <expan>amplissimi ordinis</expan> iussu <sic>cohacto</sic> <lb/>
+            argento <expan>publico</expan> hanc in <expan cert="medium">Epidauream Raguseam</expan> <expan>Nec Non</expan> Illy<lb/>ridis urbem diu jam <expan>aquarum</expan> penurijs egestantem <lb/> 
+            Aquas in ea hodie <expan>conspicuis</expan> fontibus exuberan<lb/>tissime defluentes Octo ab VRBE milibus Scru<lb/>peos <expan>arduosque</expan> <expan>per</expan> colles difficillimo ductu <expan>producendas</expan> <lb/> 
+            curauit <date when="1438-01-27"><expan>Anno Domini</expan> MCCCCXXXVIIJ. VI. <expan>KaLendas FEBRuarias</expan> <lb/> 
+                <expan>EVGenij pape</expan> <expan>Anno</expan> <sic>VIIJ</sic></date> <lb/>
+            finis.
+        </p>
+    </div>
+    
+</body>
+    </text>
+    </TEI>

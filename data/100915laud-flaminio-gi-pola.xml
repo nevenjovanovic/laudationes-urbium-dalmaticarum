@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Joannis Antonii Flaminii
+                    ad Bernardinum Bonasium epistola (c. 1500), versio electronica</title>
+                <author>Giannantonio Flaminio (Ioannes Antonius Flaminius Forocorneliensis
+                    Imola 1464 - Bologna 1536)</author>
+                
+                <respStmt>
+                <resp>Editionem electronicam curavit</resp>
+                <name>Neven Jovanović</name>
+                
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Prima versio electronica <date when-iso="2009-06">2010-09</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                    projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+                    Hrvatska.  <date>rujna 2010</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    Epistola 4, 5 e libro: Flaminius, Joannes Antonius:  J. A. Flaminii ... Epistolae familiares, nunc primum editae: et argumentis, notis, auctoris vita, aliisque accessionibus illustratae a D. J. Capponi.  Bononiae: ex typographia Santi Thomae Aquinatis (1744), p. 174-175. 
+                </bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="genus">
+                    <!-- kontrolirani katalog za žanrove, za novolatinski? -->
+                    <category>
+                        <catDesc>genera litteraria</catDesc>
+                    </category>
+                </taxonomy>
+                
+                <taxonomy xml:id="aetas">
+                    <!-- gdje je kontrolirani katalog za periodizaciju? -->
+                    <category>
+                        <catDesc>aetates</catDesc>
+                    </category>
+                    <category xml:id="locus">
+                        <catDesc>locus</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="1500">1500 circa</date>
+                <address>
+                    <addrLine>Imolae</addrLine>
+                </address>
+            </creation>
+            
+            <textClass>
+                
+                <keywords scheme="#aetas">
+                    <list>
+                        <item>litterae renatae</item>
+                        <item>latinitas recentior</item>
+                        <item>saec. XVI</item>
+                        <item>1500-1550</item>
+                    </list>
+                </keywords>
+                <keywords scheme="#genus">
+                    <list>
+                        <item>prorsa</item>
+                        <item>epistola</item>
+                        
+                        
+                    </list>
+                </keywords>
+                <keywords scheme="#locus">
+                    <list>
+                        <!-- kontrolirani katalog za mjesta -->
+                        <item>Imola</item>
+                        <item>Italia</item>
+                        
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2010-09-16</date>
+                Versio prima.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="prorsa-epistola">
+        <front>
+            <titlePart>Joannis Antonii Flaminii Forocorneliensis</titlePart>
+            <titlePart>Epistolae familiares</titlePart>
+            <titlePart>nunc primum editae, et argumentis, notis, auctoris vita, aliisque accessionibus illustratae a D. J. Capponi.  </titlePart>
+            <docImprint>Bononiae <date when="1744">MDCCXLIV</date>: ex typographia Santi Thomae Aquinatis.</docImprint>
+        </front>
+        <body>
+              
+            <gap resp="NJ" reason="irrelevant"/>
+            
+            
+            <milestone unit="page" n="174"/>
+            
+            <div n="4-5"><opener>Epistola V.
+                Joannes Antonius Flaminius
+                Bernardino Bonasio <salute><abbr>S. D.</abbr></salute>
+                <argument>
+                    <head>ARGUMENTUM.</head>
+                    <p>
+                    
+                    Bonasium certiorem facit quid de quibusdam versiculis vetustatem praeseferentibus sentiat.</p></argument>
+            </opener>
+            
+            <p>
+                
+                
+                INventi sunt proximis diebus apud nos complusculi versus vetustatem praeseferentes, et profecto mea quidem sententia non contemnendi, quorum titulus est: <bibl>De Роlae urbis <note place="end">[a] Pola urbs Istriae sub dominio Reipublicae Venetae distans a Tergeste in meridiem 60. mill. pass., Anconam versus circiter 96. <bibl>Novum lexic. geograph.</bibl></note> Origine.</bibl> Qui, quum tibi fuissent oblati, ut est unicuique a natura tributum, ut ad audienda Patriae suae primordia libenter aures accomodet, coepisti eos avidissime legere; sed quia conscissa et cariosa vetustate pagella, in qua perscripti erant, difficultatem legenti afferebat, familiariter ad me conversus, qui tum forte aderam; quia nostrae professionis magis ea res videbatur, rogasti ut ego legerem, ratus id quod erat propter longam, quae mihi cum Poetis est, familiaritatem et quotidianam eorum lectionem, me, si qua etiam manca forent, posse quodam (ut ita dicam) olfactu integra restituere. Igitur legi versus quidem integros omnes, sed vitio illius, a quo olim scripti sunt, pluribus in locis depravatos, ас mendis deformatos. Quare et quia tu ita petebas, et ego tibi viro humanissimo, quocum nuperrime non vulgaris amicitia inita esset, rem tibi me gratam esse facturum, intelligebam, curam ejusmodi libenter desumpsi ad sinceritatem illos redigendi, operae hujus, quantulacumque esset, pretium pergrande reportaturus, si non solum tibi, sed et tuis civibus, quos (ita vivam) tua quidem caussa amare jam coepi, hoc essem gratificatus. Et quia de Polae urbis origine titulum et materiam hi versus habent, dixi quidem ab illis dissentire Geographos. Nam, ut alios qui vel graece vel latine libros de Cosmographia reliquerunt silentio praeteream, Pomponius Mela <note place="end">[b] <bibl>Pomponius Mela de situ Orbis lib. 2. pag. mihi 68</bibl>.</note> inquit: <q>Sinus Polaticus, et Pola a Colchis, ut ferunt , habitata, nunc Romana Colonia.</q>  Et Plinius <q>Oppida Civium Romanorum Aegida, Parentium, Сolonia
+                <milestone unit="page" n="175"/>
+                Pola quondam a Colchis condita.</q><note place="end">[c] <bibl>Plinius hist. nat. lib. 3. c. 19</bibl></note> Et Strabo: <q>Ceterum Pola in sinu portus formam habente sita est, parvas quidem, verum fructuosas et portuosas praeseferente Insulas; Priscum autem, idest Colchorum aedificium, qui adversus Medem immissi fuerant. Ii votorum impotes, ac fugae desperatione solliciti, Graecorum quidem lingua exulum , Colcorum vero sermone Polam appellavere locum, uti Callimacus commemorat.</q><note place="end">[d] Calimachi verba in fragmentis Ricardo Bentlejo collectis c. 104. haec sunt illi quidem in Illyrico mari demittentes remos apud Iapidem in flavae Harmoniae serpentis urbem condiderunt, quam exulum utbem vocaverit Graecus quis, sed illorum lingua nominavit Polas.</note>. Sed tum dixi, non tamen iccirco versus ejusmodi rejiciendos esse tanquam prorsus vanos, quamquam scriptores egregii ab iis diverse sentirent. Nam dixi solere quidem accidere, ut scriptores ipsi de principiis antiquissimarum urbium, e quarum numero Pola est, loquentes inter se plerumque dissentiant; adeo quidem ut qui priori urbem Romam, quam multis seculis Pola praecessit, condiderint, ambigatur. Sed illud me inter alia in iis versibus mirifice delectavit, quod etsi conditores alii ab Historicis fuisse traduntur, tempora tamen concordant, et magnis quibusdam conjecturis veri non dissimile videtur quod afferunt. Siquidem constans fama est a Colchis qui adversus Medeam missi fuerant, urbem hanc fuisse conditam, quam quidem Medeam Jasonis amore captam Argonanutas secutam fuisse, nemo est qui ambigat. Pollux autem, quem ii versus Patriae tuae conditorem fuisse memorant, quemque de Jove genitum perhibent, unus ex iisdem fuit Argonautis. Taceo autem eorum versuum nitorem et elegantiam quamque haud dubiam prae se vetustatem ferant, judicabunt docti qui legerint. Quid ipse sentiam vides. Qui si forte prolixior in hac re vestiganda et disserenda fuisse videbor, mirari non debebis; nam quum ii versus e tenebris in quibus diu latuere, in lucem prodierint, favore aliquo adjuvandi erant, et praejudicio, ne statim lecturi, quia cum Geographis non sentirent, aspernandos, ac explodendos esse, arbitrarentur. 
+  </p>              
+                <closer><salute>Vale.</salute></closer>        
+                
+                
+                
+                
+                
+                
+                
+            </div> 
+            <gap resp="NJ" reason="irrelevant"/>
+            </body>
+    </text>
+</TEI>

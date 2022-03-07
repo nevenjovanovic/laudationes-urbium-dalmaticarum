@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="regin-c">
+         <titleStmt>
+           <title>Carmina ad Ragusinos (1449-1471), editio electronica</title>
+            <author><name>Iohannes Laurentius Reginus Feltrensis</name>,
+	     <date>floruit 1435 – 1471</date></author>
+           <editor>Milan Rešetar</editor>
+<respStmt>
+  <resp>Electronice edidit</resp>
+<name>Neven Jovanović</name>
+</respStmt>
+
+         </titleStmt>
+        <editionStmt>
+          <p>
+            Digitalizat kasnijeg izdanja (1901).
+          </p>
+        </editionStmt>
+        <extent>
+          138 verborum
+        </extent>
+         <publicationStmt>
+	   <p>Elektronska verzija: Neolatina Croatica, znanstveni
+	   projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+	   Hrvatska.  <date>Svibanj 2012.</date></p>
+	 </publicationStmt>
+	 
+         <sourceDesc>
+           <bibl>
+             Rešetar, M.: Pjesme Ivana Lovra Regina, dubrovačkoga kancelara XV. vijeka. Građa JA, 3 (1901), s. 19-25 (br. 71-89).
+           </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+     <revisionDesc>
+       <change><name>Neven Jovanović</name>
+       Početna verzija.
+       </change>
+     </revisionDesc>
+   </teiHeader>
+<text>
+<body>
+  <pb n="14"/>
+  <milestone unit="page" n="29b"/>
+  <div type="poesis-epigramma" n="28">
+  <head>(28.) Epitaphium <expan>domini</expan> Pasqualis de Restis patricii Ragusini et militis
+  per eundem <expan>Johannem Laurentium</expan></head>
+<l>Virtutum Pasqualis apex milesque sepulcro</l>
+<l>Resteus hoc latitat, patrii lux ampla senatus;</l>
+<l>Qui ut mundo nituit, sic nunc est clarus Olympo.</l>
+  </div>
+  <div type="poesis-epigramma" n="29">
+    <milestone unit="page" n="30a"/> 
+  <head>(29.) Vel sic.</head>
+<l><corr>Hac</corr> Pasqualis, apex virtutum, Resteus urna</l>
+<l>Clauditur. hic patriae fuit et lux ampla senatus,</l>
+<l>Splendidus et miles, cuius ueneranda corona</l>
+<l>Consilio Vngarie freta est dominumque uocauit</l>
+<l>Beluanium et Scredona suum, qui ad maxima missus</l>
+<l>Orator summa laude et probitate peregit.</l>
+<l>Saepe fuit magnae classis praefectus et hostes</l>
+<l>Fregit et ipse suo deuicit moenia bello,</l>
+<l>Vexillo ornauit quem gestis Ianua digno.</l>
+<l>Claruit ut mundo, sic nunc resplendet Olympo</l>
+  </div>
+  <div type="poesis-epigramma" n="30">  
+  <head>(30.) Vel sic.</head>
+<l>Quid mihi quod Regi fuerim gratissimus almo</l>
+<l>Vngariae, cuius munere miles eram?</l>
+<l>Quidue quod orator per magna negotia missus,</l>
+<l>Scredona et fuerit Beluaniumque mihi,</l>
+  <pb n="15"/>
+<l>Quid quod eram classis totiens praefectus et hoste</l>
+<l>Prostrato cepi moenia marte meo?</l>
+<l>Quid mihi nobilitas et quod me Restea gestis</l>
+<l>Clara tribus genuit, cui decus ipse fui?</l>
+<l>Quid mihi quod dederit uexillum Ianua? Solus</l>
+<l>Est mihi proficuus religionis amor.</l>
+<l>Et quamuis iaceam Pasqualis corpore saxo</l>
+<l>Marmoris hoc, tamen est umbra recepta polo.</l>
+  </div>
+  <gap reason="non-necesse"/>
+  <pb n="19"/>
+  <gap reason="non-necesse"/>
+      <div type="poesis-epigramma" n="71">
+        <head>(71.) Ad Nicolaum de Restis patricium Ragusinum. Idem <expan>Ioannes</expan> <expan>Laurentius</expan></head>
+        
+<l>Si fortasse cares albo, Nicolae, papiro,</l>
+<l>Accipe; nam mitto, scribere nunc poteris.</l>
+<l>Sed si scribendi tibi abest sincera uoluntas</l>
+<l>Charta nihil faciet, mortua carta manet.</l>
+        <milestone unit="page" n="54b"/> 
+<l>Ingenio et manibus opus est: quibus uteris ipse</l>
+<l>Cum placet. Ingenium sacra Minerua dedit.</l>
+<l>Sed forte ingenium subtile ad magna reseruas,</l>
+<l>Despicis et mecum ludere carminibus:</l>
+<l>Quod uix credo, tamen, si sic sententia firma est,</l>
+<l>Dic quod nostra nihil garrula lingua canat.</l>
+      </div>
+  <div type="poesis-epigramma" n="72">
+        <head>(72.) Ad eundem.</head>
+<l>Perdita clauis erat studii; quae inuenta dolorem</l>
+<l>Abstulerat, sed nunc me dolor alter habet:</l>
+<l>Hospitibus mensa tibi quod, Nicolae, remotis</l>
+<l>Pollicitusque mihi non datur ille liber.</l>
+<l>Seruius est sacri reserans arcana Maronis:</l>
+<l>Quem carum retines: carmina <sic>nostri</sic> magis.</l>
+<l>Restea carminibus nostris aeterna manebit</l>
+<l>Inclita progenies, cui decus esse potes.</l>
+<l>Ergo uale, et certe, tibi si mea metra placebunt,</l>
+<l>Promissus ueniet Seruius ipse mihi.</l>
+  </div>
+  <div type="poesis-epigramma" n="73">
+        <head>(73.) Ad eundem.</head>
+<l>Quod nouus ipse uelis fieri, Nicolae, poeta,</l>
+<l>Perpendi repetens carmina missa mihi.</l>
+<l>Prosequere, et totis huic sacrae uiribus arti</l>
+<l>Inuigiles, qua nil carius esse potest.</l>
+<l>Prouenit aeterna hac fama et post funera nomen</l>
+<l>Viuit et haec capiti laurea serta dabit.</l>
+<l>Cuique facis similem Franciscus me arte Petrarcha</l>
+<l>Ista immortalis nomine semper erit.</l>
+        <milestone unit="page" n="55a"/>
+<l>Francisco similis non sum: sed numina uatum</l>
+<l>Insequor et doleo quod mihi tempus abest</l>
+<l>Pieridesque negant nostros intrare penates</l>
+<l>Et mihi surrepta est fluminis unda sui.</l>
+<l>Sed si forte meis precibus tractabilis unquam</l>
+<l>Phoebus erit, tecum carmina multa canam.</l>
+  </div>
+  <div type="poesis-epigramma" n="74">
+        <head>(74.) Ad eundem.</head>
+<l>Materna (ut uideo) tibi carmina nostra fuere</l>
+<l>Insipida, et merito; nam mihi cantus abest.</l>
+        <pb n="20"/>
+<l>Non mea Francisco est similis uox rauca Petrarchae,</l>
+<l>Non similis Danti, sed rudis usque manet.</l>
+<l>Ipse cliens uellem fieri suus; aethera nobis</l>
+<l>Et natura negant, sors mihi talis adest.</l>
+<l>Sed si forte cupis resonantia metra, per orbem</l>
+<l>Quaere alium, non me; non bene lingua canit.</l>
+<l>Non etiam credas quod sint haec carmina sacro</l>
+<l>Missa Helicone mihi. Calliope renuit.</l>
+<l>Nam mecum turbata dea est quia <sic>sacra poesis</sic></l>
+<l>Linquo, iussa notans, crimina, damna fori.</l>
+<l>Qualia sint, precor ut mihi dulcis epistola dicat</l>
+<l>Vt sileam uel quod garrula lingua canat.</l>
+  </div>
+  <div type="poesis-epigramma" n="75">
+        <head>(75.) Ad  eundem.</head>
+<l>Pollicitis seruare fidem quia conuenit, ista</l>
+<l>Littera promissi sit tibi parua caput.</l>
+        <milestone unit="page" n="55b"/> 
+<l>Conuenimus, Nicolae, simul dare carmina saepe</l>
+<l>Alternis uicibus; carmina multa dabo.</l>
+<l>Tuque, precor, simile facias ut foedera nobis</l>
+<l>Sint paria et pariter fistula nostra canat.</l>
+<l>Viuimus unanimes, similes in amore, benignus</l>
+<l>Atque hylaris nostro est semper in ore iocus.</l>
+<l><sic>Perithous</sic>, Theseus, <sic>Phitias</sic> Damonque fideli</l>
+<l>Nisus et Euryalus nos in amore tenent.</l>
+<l>Sed nostra in melius dii uertant fata, sorores</l>
+<l>Clotho colo, Lachesis stamine nos foueant.</l>
+<l>Sis felix, metra et mea quae materna uidebis</l>
+<l>Suscipias, ueniant et tua metra mihi.</l>
+  </div>
+<gap reason="non-necesse"/>
+
+</body>
+</text>
+</TEI>

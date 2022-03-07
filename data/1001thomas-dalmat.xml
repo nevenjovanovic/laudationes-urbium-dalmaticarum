@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Excerpta e Historia seu cronica Salonitanorum atque Spalatinorum pontificum (ante 1268), versio electronica</title>
+            <author><name>Toma Arhiđakon (Thomas Archidiaconus Spalatensis)</name>, Split, <date from="1200" to="1268">c. 1200–1268</date></author>
+            <respStmt>
+               <resp>Textum edidit</resp>
+               <name>Olga Perić</name>
+            </respStmt>
+            <respStmt>
+               <resp>editionem electronicam praeparavit</resp>
+               <name>Neven Jovanović</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date when-iso="2008-08">mense Augusto, 2008.</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+               projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+               Hrvatska.  <date when-iso="2008-08">kolovoz 2008</date></p>
+	 </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Thomas Archidiaconus <date>c. 1200–1268</date> </author>
+               <author>Radoslav Katičić</author>
+               <author>Mirjana Matijević-Sokol</author>
+               <title>Historia Salonitana: povijest salonitanskih i splitskih prvosvećenika</title>
+               <editor>Olga Perić</editor>
+               <pubPlace>Split</pubPlace>
+               <publisher>Književni krug</publisher>
+               <date>2003.</date>
+               
+            </bibl>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1268">1268</date>
+         </creation>
+      </profileDesc>
+      <encodingDesc>
+      <classDecl>
+         <taxonomy xml:id="genus">
+            <!-- kontrolirani katalog za žanrove, za novolatinski? -->
+            <category>
+               <catDesc>genera litteraria</catDesc>
+            </category>
+         </taxonomy>
+         
+         <taxonomy xml:id="aetas">
+            <!-- gdje je kontrolirani katalog za periodizaciju? -->
+            <category>
+               <catDesc>aetates</catDesc>
+            </category>
+            <category>
+               <catDesc>locus</catDesc>
+            </category>
+         </taxonomy>
+      </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date when-iso="1268">ante 1268</date>
+            <address>
+               <addrLine>Spalati, in Dalmatia</addrLine>
+            </address>
+         </creation>
+         
+         <textClass>
+            
+            <keywords scheme="#aetas">
+               <list>
+                  <item>Medium aevum</item>
+                  <item>saec. XIII</item>
+                  <item>1250-1300</item>
+               </list>
+            </keywords>
+            <keywords scheme="#genus">
+               <list>
+                  <item>prorsa</item>
+                  <item>historia</item>
+                  <item>gesta episcoporum</item>
+               </list>
+            </keywords>
+            <keywords scheme="#locus">
+               <list>
+                  <!-- kontrolirani katalog za mjesta -->
+                  <item>Dalmatia</item>
+                  <item>Spalatum</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06-29</date>
+            <name>Neven Jovanović</name>
+            TEI zaglavlje uređeno prema PhiloLogic obrascu. 
+            
+         </change>
+         <change>
+            <date>2008-08-21</date>
+            <name>Neven Jovanović</name>
+            Validacija oznaka u Oxygenu (TEI P5), 
+            
+         </change>
+         
+      </revisionDesc>
+   </teiHeader>
+<text type="historia">
+<front>
+
+<docTitle>
+<titlePart>
+INCIPIT HISTORIA SEU CRONICA SALONITANORUM ATQUE
+SPALATINORUM PONTIFICUM
+</titlePart>
+</docTitle>
+
+</front>
+<body>
+<div>
+<head>I. De Dalmatia</head>
+<p>&lt;1&gt;Dalmatia secundum Ysidorum est prima pars Gretie et dicitur a Delmi ciuitate antiqua, que ibi fuit, sed ubi hec ciuitas Delmis in Dalmatie partibus fuerit, non satis patet. Verum tamen Dalmatia dicebatur olim largius, censebatur enim cum Chrouatia una prouintia. Est enim regio quedam in superioribus partibus, que dicitur Delmina, ubi antiqua menia ostenduntur, ibi fuisse Delmis ciuitas memoratur. Nunc uero Dalmatia est regio maritima, incipiens ab Epyro, ubi est Dirachium et protenditur usque ad sinum Quarnarium, in cuius interioribus est oppidum Stridonis, quod Dalmatie Pannonieque confinium fuit. Hec fuit patria tellus beati Hieronymi, egregii doctoris. Dicta est Dalmatia etiam alio nomine Liburnia a quodam genere nauis piratice, que in usu erat apud illos, unde Lucanus: <q>Pugnacesque mari Graia cum classe Liburnos</q>. Exercebant enim piraterium propter oportunitatem locorum, quia mare illud ob multitudinem insularum latebrosum et portuosum est ualde.</p>
+<p>&lt;2&gt;Dicta est etiam hec prouintia Illiris a quadam regina Amazonum, que ibi regnauit, de cuius stirpe dicuntur illi populi traxisse originem. Per mare huius prouintie transiuit Antenor Troyanus, qui sue urbis euadens excidium, cum gente Dalmatica prelia multa commisit, ad ultimum peruenit ad partes Venetiarum. Et inde progrediens super oras Padi fluminis edificauit ciuitatem Patauium, que nunc Padua nuncupatur, sicut in Virgilio legitur.</p>
+<p>&lt;3&gt;In istoriis uero Romanorum habetur, quod cum imperator Augustus in partibus Illyricis exercitum duceret et ipse alio properaret, misit quendam ducem, Venium nomine, contra Pannonios, qui duobus acribus fluuiis circumuallantur Drauo et Sauo, contra Dalmatas itidem misit ducem Vibium cum exercitu multo. Qui Dalmate commorantes in siluis circumadiacentes prouincias latrocinando uastabant. Qui Vibius congressus cum eis uictoriaque potitus gentem illam, licet esset efferum genus hominum, coegit ab armis discedere et terram fodere aurumque de uenis terre purgare.</p>
+<p>&lt;4&gt;Secundum poetarum fabulas Cadmus dicitur in eandem deuenisse prouintiam, quando in serpentem mutatus est. Fuit autem ciuitas eius Epitaurus, que est iuxta Ragusium, in qua est magnum antrum et usque hodie opinio est, ibi habitare draconem, unde poeta: Cur in amicorum uitiis tam cernis acutum, ut serpens Epitaurius. Ob hanc causam populi illi dicebantur anguigene. Et etiam de beato Ylarione legitur, quod magnum ibi draconem peremit. Secundum ystoriam uero idem Cadmus rex fuit in Gretia, qui depulsus regno uenit in Dalmatiam factusque pirata seuissimus cepit quasi lubricus anguis per mare discurrere, nauigantibus insidiari et quoscumque poterat opprimere impotentes.</p>
+<p>&lt;5&gt;Adria nichilominus hec prouintia nuncupatur ab Adrianne filia Minoys regis, quam rapuit Theseus et per mare nauigans, cum iam ipsam exosam haberet, reliquit in quadam insula solam et aufugit cum sorore ipsius Phedra, sed Bachus, qui et Liber pater dicitur, eam inueniens sibi in uxorem accepit. Quidam dicunt, quod Adria dicitur a quodam Adrio Ytali fratre, qui regnauit ibidem uel secundum quosdam Adria dicitur ab adra, quod est lapis, quia lapidosa et montuosa est hec prouintia. Vnde Ouidius: Subdita montane brachia Dalmatie.</p>
+</div>
+
+<div>
+<head>II. De Salona</head>
+
+<p>&lt;1&gt;Fuit autem metropolis ciuitas Dalmatie Salona, urbs magna et antiqua, de qua dicit Lucanus: Qua maris Adriaci longas ferit unda Salonas. Dicta autem est Salona a salo, hoc est a mari, quia in litore maris sita est. Longa uero idcirco dicta est, quia modicum lata, sed in longum fere sex milibus uersus occidentalem plagam protendebatur. </p>
+<p>&lt;2&gt;Hec ciuitas tempore bellorum ciuilium fidem inconcussam Romane rei publice obseruans dominium Cesaris respuebat. Quam ob rem ad subiugandum eam misit Cesar Antonium cognatum suum cum magno nauali exercitu, ipse uero insequendo Pompeium a Brundusio transuectus est in Epirum. Tunc Antonius premisit quendam ducem, nomine Vulteum, qui in insulis Salonitani litoris exercitum coadunaret. Sed ex parte Pompei erant in Salona duo duces Basilus et Octauius. Isti coegerant magnas populorum adiacentium cateruas, uidelicet Curetum, Dalmatinorum et Ystrorum, expectantes Cesaris partes, ut cum eis confligerent. Sed Vulteus famis sitisque coartatus penuria non potuit alterius in insulis comorari et licet esset undique hostium uallatus insidiis, tamen quandam nauem cum meliori sociorum manu conscendens uoluit latenter transponi in terram, sed hostium insidiis circumpositis nauis in medio transitu intercepta est. Cumque nauis hereret immobilis, uidens Uulteus, quod non pateret via diuertendi, cohortatus est suos, ut pro honore Cesaris mori fortiter parati essent antequam in hostiles inciderent manus. Sicque factum est: nam cum uiderent Pompeianos iaculis, lapidibus et sagittis instare, iamque paratos ad nauem manus apponere intusque insilire defessus iam Vulteus cum suis cum diutissime uiriliter restitisset, ne uiui ad manus hostium deuenirent, mutuis se uulneribus confoderunt et mortui sunt. Audiens ergo Antonius interitum Vultei et suorum comilitonum non apposuit ulterius uenire Salonam, sed ad Cesarem reuersus est. In tantum autem ciuitas hec fidem inuiolatam rei publice custodiuit, quod patrata Cesar totius orbis uictoria et iam solus ad mundi monarchiam prouectus adhuc ciuitati Salone minime imperabat.</p>
+<p>&lt;3&gt;Quam ob rem post Cesaris necem Octauianus Augustus misit
+quendam illustrem uirum ex consulibus, nomine Asynium Pollionem, cum
+exercitu multo, qui Salonam Romano imperio subiugaret. Tunc Pollio in
+Dalmatiam ueniens multis bellis cepit impugnare Salonam. Vnde obsessa
+ciuitas et diutius nauali et equestri exagitata congressu tandem in
+manibus Romanorum tradita est. In qua obsidione natus est Pollioni
+filius, cui Saloninus nomen imposuit. Tunc uero magna pars ciuitatis
+illius destructa fuit, maiores etiam munitiones dirute, ne Romane rei
+publice rebellare ulterius posset. Peracta ergo uictoria Pollio cum
+quo exercitu reuersus est Romam, ubi cum magna gloria et laudis
+triumpho a senatu populoque Romano susceptus est, de quo in odis
+concinens Oratius dicit: Cui eternos honores Dalmatico peperit
+triumpho. Fuit iste Pollio non solum armis strenuus, sed etiam poetica
+facundia insignis librosque nonullos liricis metris composuit.</p>
+</div>
+<gap reason="irrelevant" resp="NJ"/>
+<div>
+<head>IV. De constructione edificii, quod Spalatum nuncupatur</head>
+
+<p>&lt;1&gt;Per idem tempus Dioclitianus, pater Maximiani, qui ex Dalmatie partibus oriundus extitit, ob res ab eo pro re publica multum strenue gestas a senatu populoque Romano imperator fuerat constitutus. Hic super omnes alios predecessores suos immanissimus christianorum extitit persecutor. Qui cum per uniuersum orbem fideles Christi beluina feritate persequi non cessaret, uelut rabidus leo sitim sue perfidie christiano cruore non poterat satiare. Propter ipsius siquidem edicta pestifera tot milia christianorum cotidie trucidabantur, ut pene uideretur totius humani generis excidium iminere. Vnde a suis aulicis tiranno suggestum est, ut tam crudele reuocaret edictum, ne tanta hominum cedes cotidie fieret, quia timendum erat, ne forte toto mundo in exterminium dato non esset, cui posset ulterius imperare. Tunc Dioclitianus tale moderamen sue uoluit adhibere seuitie dans legem, ut qui nollet a christiana cultura recedere, non ut prius statim capite plecteretur, sed bonis omnibus expoliatus ad diuersa metalla et ad fodiendas arenas exul patria dampnaretur.</p>
+<p>&lt;2&gt;Itaque in diuersis mundi partibus iussit imperator ob augustalem memoriam multa edificia erigi. Ad quorum laboriosas operas dampnaticios quosque, maxime christianos, mitti precepit. Preter alia quidem multa edificia Rome fecit fieri termas. In Pannonie partibus in confinio Rutenie quoddam construxit edificium ex lapidibus porfireticis satis excellens, quod adhuc, licet dirutum, magnum tamen inde transeuntibus admirationis spectaculum prestat, sicut legitur in ystoria quatuor coronatorum. In terra uero Getarum, que nunc Seruia seu Rasia nuncupatur, prope stagnum quoddam ciuitatem fecit construi, quam ex suo nomine Diocliam appellauit. Et quia Dalmatinus erat origine, nobilius edificium prope Salonam edificari iussit in modum urbis munitissime, quasi imperiale palatium, in quo templa facta sunt ydolorum Iouis, Asclepii, Martis, sicut apparet usque in hodiernum diem. In hoc edificio Dioclitianus matrem suam habitare fecit tradens ei Salonam cum tota prouincia. Hoc scilicet edificium Spalatum dictum est a pallantheo, quod antiqui spaciosum dicebant palatium.</p>
+<p>&lt;3&gt;Huius temporibus Gaius, similiter natione Dalmaticus, summus pontifex factus est apostolice sedis. Fuit autem iste Gaius tempore Sebastiani martiris, qui cum Chromatio urbi prefecto, Marcelliano et Marco agonizantes martirio confortabat. Quamuis enim esset de genere Dioclitiani cesaris, non tamen pacem christianis optinere potuit, quin immo persecutionis turbo cum ceteris eum inuoluit martiribus. XII fere annis apostolice presidens ecclesie cum triumpho martirii perexit ad Dominum. </p>
+</div>
+   <gap reason="irrelevant" resp="NJ"/>
+<div>
+<head>VIII. Qualiter ad insulas Salonitani fugerunt</head>
+
+<p>&lt;1&gt;Postquam procul iam a litore rates subduxerant, sparsim alii ad alias insulas properabant. Alii uero nec in insulis se satis tutos posse fieri arbitrantes longius remigabant. Tandem pars aliqua tenuit insulam, que Soluta uocatur, alii ad Bratie, alii ad Faron, alii ad portus Lysie et Corrcire applicuerunt.</p>
+<p>&lt;2&gt;Ergo de nauibus exeuntes ceperunt singuli familias suas inquirere, per alias et alias insulas mittere, seseque per tribus iungere; qui se inueniebant, letabantur tantum periculum euasisse, qui uero non inueniebantur, pro mortuis plangebantur. Vbi autem tanti mali dolor et mestitia conquieuit aliquantulum, ceperunt se ad inuicem consolari. Tunc omnes incipiunt tuguria ex frondibus uiminibusque contexere seseque per loca competentia collocare. Ceperunt alii alia negotia exercere. Hi terram incolunt, hi nauibus negotiantes per mare discurrunt. Pro dolor, quot opulenti et delicati in Salona fuerant, qui tunc ad aliena hostia panem miserabiliter mendicabant! Tunc electi iuuenes armatis liburnis ceperunt per Dalmatie litora discurrentes hostibus insidiari. Tantas enim cedes et predas de ipsis cotidie faciebant, quod nullus Sclauorum erat ausus ad mare descendere. His etenim modis Salonitani erumnosam uitam ducentes multo tempore in insulis comorati sunt.</p>
+<p>&lt;3&gt;Eodem tempore Iohannes summus pontifex apostolice sedis, cum esset Dalmatinus natione, audiens sue gentis miserabilem casum ualde condoluit missitque abbatem quendam, Martinum nomine, cum multa pecunie quantitate pro redimendis captiuis. Qui ueniens ad partes Dalmatie multos redemit captiuos de Sclauis eosque ad parentes suos remisit. Iste Martinus ex apostolica iussione multorum sanctorum reliquias accepit in partibus Dalmatie et Ystrie et detulit eas Romam ad predictum papam Iohannem. Qui uenerabilis pontifex eas reuerenter suscipiens recondidit apud ecclesiam beati Iohannis Lateranensis, ubi est fons baptisterii et ibidem iuxta fecit depingi ymaginem beati Domnii cum pallio et ceteris pontificalibus indumentis totum ex musio aureo. Similiter fecit ymaginem beati Anastasii inter alios sanctos.</p>
+<p>&lt;4&gt;Per idem fere tempus quidam aduene, ut ferunt, Romana urbe depulsi, non longe ab Epitauro ratibus applicuerunt. Erat autem Epitauros episcopalis ciuitas, Salonitane ecclesie suffraganea. Quod ex epistola beati Gregorii pape conicimus, quam misit Natali archiepiscopo Salonitano, arguens ipsum, quia absque auctoritate synodali quendam Florentium Epitauritane ecclesie episcopum pro quibusdam iniectis criminibus, sed non probatis, deposuerat. Cuius causam comisit predictus papa suo subdiacono Antonio, quem in Salonam fuisse missum superius memorauimus. Prenotati ergo aduene sedem sibi in illis partibus collocantes ciuitatem Epitaurum sepius impugnantes nimium atriuerunt, atritamque ceperunt et captam in solitudinem redegerunt. Homines autem cum eis permixti sunt et facti sunt populus unus. Edificauerunt Ragusium et habitauerunt in eo. Ex eo tempore conari ceperunt pallium suo episcopo optinere.</p>
+</div>
+<div>
+<head>
+IX. Qualiter Salonitani per diuersa sunt loca dispersi
+</head>
+
+<p>&lt;1&gt;Interea Salonitani in insulis commorantes magno afficiebantur tedio propter terre sterilitatem et propter aquarum penuriam ingenti etiam desiderio cupiebant ad patriam reuerti. Sed licet Salona deserta iaceret nullique hostes auderent in ea manere, Salonitanis tamen uidebatur non satis tuta statio ibi fieri posse. Hostile quippe incendium consumpserat omnia, turres et menia prostrata iacebant. Solum teatri edificium, quod in occidentali parte constructum fuerat, adhuc integrum remanebat. Sic ergo miseri ciues hinc rerum urgebantur inopia, illinc metus adhuc deterrebat hostilis. Et quia pars magna eorum per orbem erat dispersa et ipsi pauci et inopes remanserant, de reedificanda ciuitate deliberare non presumebant.</p>
+<p>&lt;2&gt;Unde factum est, ut aliqui ex ipsis exeuntes de insulis per diuersas partes Dalmatici litoris oportuna sibi ad habitandum loca querebant. Quidam uersus occidentalem plagam nauigantes ad portum cuiusdam urbis antique sed dirute applicuerunt. Et uidentes locum satis habilem ad manendum parauerunt ibi aliquod munimentum et habitauerunt in eo. Et quia situs loci propter adiacentes insulas et propter comoditatem portus multum eis placebat, non habebant iam necesse ad Salonam redire. Nichil enim eis uidebatur deesse preter fluuium Yadrum, qui ex orientali parte Salonitane urbi multum delectabiliter influebat. De quo legitur in Lucano: Qua maris Adriaci longas ferit unda Salonas et trepidum in molles zefiros excurrit Yader. Hoc igitur sepius nominato urbi nomen impositum est Yadria uel, ut quibusdam placet, ab Yadrio conditore Yadria nomen accepit.</p>
+</div>
+<div>
+<head>
+X. Qualiter de insulis redeuntes Spalatum intrauerunt
+</head>
+<p>&lt;1&gt;Erat autem inter Salonitanos, qui ad proximas insulas seccesserant, uir quidam, Seuerus nomine, cuius domus fuerat iuxta colunas palatii supra mare. Hic quia pre ceteris maiori auctoritate pollebat, magnus Seuerus appellabatur. Iste cepit adhortari conciues suos, ut ad patriam redirent. Sed quia non erat tutum inter ruinas urbis antique habitacula ponere, consulebat eis, ut in edificio Dioclitiani se interim reciperent, ubi securius comorantes aliquam saltem particulam sui territorii incolere sine magno timore ualerent, donec rebus prosperius succedentibus Salonam reedificandi possibile foret. Et tandem placuit hoc consilium nobilibus et popularibus uniuersis et tale pactum inter se statuerunt, ut ditiores sibi domos propriis sumptibus edificarent, ceteri uero, quibus res non erat sufficiens pro domibus construendis, haberent turres circumpositas pro habitaculis suis, reliquum uulgus habitaret in fornicibus et in criptis.</p>
+<p>&lt;2&gt;Tunc auferentes omnia, que habebant in insulis, ac nauibus imponentes transtulerunt se cum mulieribus et paruulis exceptis animalibus et uenientes intrauerunt predictum edificium, quod non pro ciuitate sed pro regia aula constructum erat. Et quia spatiosum erat palatium, Spalatum appellare ceperunt. Ibi ergo se collocantes posuerunt habitacula uilia, sicut temporis necessitas cogebat.</p>
+<p>&lt;3&gt;Et sic illa populosa ciuitas Salona, nobilis et antiqua, pro multis peccatis, que in Deum comiserat, ad tantam extitit miseriam deuoluta, ut de illa magna sui populi frequentia non tot remanserant, qui possent illius parui oppidi ambitum ciuibus replere, sed in ea parte, que supra mare respicit, se componentes reliquam partem urbicule uacuam dimiserunt.</p>
+<p>&lt;4&gt;Tunc ceperunt paulatim exire et terras prope positas colere. Vbi autem Gothorum duces audierunt, Salonitanos ciues de insulis fuisse reuersos, protinus ceperunt exercitum ducere contra ipsos, uastantes omnia culta eorum nec permittentes eos extra muros exire. Tunc ciues inter se consilio habito legationem miserunt ad imperatores Constantinopolitanos supplicantes et petentes, ut liceret eis in Spalato habitare et territorium sue ciuitatis Salone iure pristino possidere. Quod et factum est. Nam impetratis omnibus, que uolebant, ad conciues suos legati redierunt portantes sacrum rescriptum dominorum principum. Iussio etiam ad duces Gothorum et Sclauorum missa est districte precipiens, ut nullam Salonitanis ciuibus in Spalato degentibus molestiam irrogarent.</p>
+<p>&lt;5&gt;Accepta ergo iussione principum non fuerunt ausi ulterius contra Spalatenses arma mouere. Tunc inter eos pace composita ceperunt Spalatenses cum Sclauis paulatim conuersari, comertiorum negocia exercere, conubia iungere ac paccatos eos sibi et familiares reddere.</p>
+</div>
+   <gap reason="irrelevant" resp="NJ"/>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,3928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Francisci Natalis Carmina, versio electronica</title>
+            <author><name>Frano Božićević (Franciscus Natalis)</name>, Split, <date from="1469" to="1562">1469--1562</date>.</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>elektronska verzija: <name>Digitalizacija hrvatskih latinista</name>, znanstveni
+               projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+               Hrvatska.  <date when="2009-05">svibnja 2009</date></p>
+	 </publicationStmt>
+         <sourceDesc>
+            <bibl>Božičević Natalis, Franjo, and Miroslav Marcovich. Pesme Franja Božičevića Natalisa. Beograd: Naučno delo, 1958.
+	    </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01-18</date>
+            <name>Neven Jovanović</name>
+            Dodao marginalije o Klisu. Premjestio tuđe pjesme u "back". Dodao podatke u zaglavlje. Dodao milestone u pjesmu o Klisu i na početak.
+         </change>
+         <change>
+            <date>2009-05-02</date>
+            <name>Neven Jovanović</name>
+            Ujednačio zaglavlje. Čini se da fale marginalije u pjesmi o Klisu.
+         </change>
+         <change>
+            <date>2008-08-21</date>
+            <name>Neven Jovanović</name>
+            Validacija oznaka u Oxygenu (TEI P5),
+            tipovi pjesama, id:xml za tekstove
+                      Choice kod ispravaka.
+                        Označen metar.
+         </change>
+           </revisionDesc>
+   </teiHeader>
+<text>
+   <front>
+      <docTitle>
+         <titlePart>Francisci Natalis carmina</titlePart>
+      </docTitle>
+   </front>
+<body>
+<div1>
+   <milestone unit="page" n="2r"/>
+ <div2 xml:id="FBN001" type="poesis" met="elegiacum">
+	<head>1.</head>
+<gap reason="folia exciderunt" />
+<l>Nos modo, si quemquam dederit fortuna secundum,</l>
+<l>Conquerimur, laeti si quis at hostis adest.</l>
+<l>Iam nitidas nostris labris non tingimus undas,</l>
+<l>Sed potius tristes nunc iuuat esse cibos.</l>
+<l>Non aliter quam cum deserta coniuge turtur</l>
+<l>Immemor escarum flebile carmen habet.</l>
+<l>Carminibus uultur raucis mihi semper ad aures</l>
+<l>Personat et cornix tristia signa canit.</l>
+<l>Non nisi nocturnum fas est mihi cernere tempus:</l>
+<l>Vtque fugit lucem noctua, nos fugimus.</l>
+<l>Si genus horrendae sortis quis nescit iniquum,</l>
+<l>Inspiciat nostrae fata seuera necis.</l>
+<l>Rupibus in mediis animalia cuncta quiescunt,</l>
+<l>Mollius haec trunco, frondibus illa cubant:</l>
+<l>Ast ego uana deum sub diuo numina maestus</l>
+<l>Conqueror et fractam spemque fidemque gemo.</l>
+<l>En uiret omnis ager, tamen at mihi sicca uidentur</l>
+<l>Omnia: nil maestos tempora laeta iuuant.</l>
+<l>Si lacrimis uocem confundimus, hei mihi nullus</l>
+<l>Mitiget alloquio tot mala nostra pio.</l>
+<l>Huc age, Tartareus foedi regnator Auerni,</l>
+<l>Huc tuus aduertat portitor ipse ratem</l>
+<l>Meque per obscurum traducat ad infera pontum</l>
+<l>Regna: decet maestos maesta tenere locos.</l>
+<l>Signa iuuant alios felicia, Pallados arbor:</l>
+<l>Nos cupimus Martis bella tremenda feri.</l>
+<l>Vndique iam cupimus gladios a caede rubentes</l>
+<l>Et simul horrisonas Martia signa tubas.</l>
+<l>Splendida tecta iuuant alios; hi lacta fluentes</l>
+<l>Exoptant fontes mellifluumque mare:</l>
+<l>Ast ego, terra, tuis modo uellem degere fossis,</l>
+<l>Aequora quam uellem sanguinolenta forent.</l>
+<l>Nempe tulit multis cursus fortuna benignos</l>
+<l>Et pietas multis non inimica fuit:</l>
+<l>Ast mihi saeua dedit sors nigros undique casus,</l>
+<l>Impia caelicolae fata dedere mihi.</l>
+<l>Sunt quibus alma placet peruoluere lumina caeli</l>
+<l>Quosque decet nitidi splendida forma poli:</l>
+<l>Ast caderent uellem nunc mundi sidera, Phoebus</l>
+<l>Lunaque uel totum frangeret axis onus.</l>
+<l>Sunt et qui cupiant contentum cernere quemquam</l>
+<l>Felicesque hilari uiuere pace uiros:</l>
+<l>Ast ego ut inuadant omnes rabiesque furorque,</l>
+<l>Discordesque sient uentus et unda precor.</l>
+<l>Ignibus absumptos fluctus modo cernere uellem,</l>
+<l>Vellem fulminibus scindier omne solum.</l>
+<l>Tristis ubique gemat luctus, suspiria, tristis</l>
+<l>Sit timor et lacrimis mixtus ubique dolor.</l>
+<l>Hippotades soluat tumidos nunc impiger utres</l>
+<l>Aeolus et uentis uim ferat ipse suis.</l>
+<l>Sparsa cadant magnum nunc moenia cuncta per orbem,</l>
+<l>Aethera serpentum peruolet omne genus.</l>
+<l>Quisque foret Tityus renouato uiscere uellem,</l>
+<l>Sisyphiis poenis omnia plena forent.</l>
+<l>Exeat immensum Furiarum foeda barathrum</l>
+<l>Turba, graues uolucres conueniantque simul.</l>
+<l>Bis comes et rabidus ueniat Canis ore trifauci,</l>
+<l>Qui uorat humanum dilaniatque genus.</l>
+<l>Sitque Chaos nigrum nunc undique nubibus atris,</l>
+<l>Atra uelim miseris sidera cuncta uiris.</l>
+<l>Hesperus et fiant utinam modo Lucifer unum,</l>
+<l>Quaque cadit Phoebus efferat inde iubar.</l>
+<l>Inque caput cunctos uellem conuertere ferrum,</l>
+<l>Verteret in patriam quisquis et arma suam.</l>
+<l>O utinam caelum fieret Plutonia sedes</l>
+<l>Et fierent summi Tartara regna Iouis.</l>
+<l>Filius et patrem manibus trucidaret iniquis,</l>
+<l>Interimat fratrem frater ubique suum.</l>
+<l>Non aliud quicquam decimus circumsonet orbis</l>
+<l>Quam mortem, mortem cuncta elementa sonent.</l>
+<l>Si mihi saeua darent Oenidae fata sorores,</l>
+<l>Illicet haec auidis ignibus ipse darem.</l>
+<l>Tantalias uellem durus perdiscere sortes</l>
+<l>Et Phaethonteae fulmina ferre necis.</l>
+<l>Vtque Erysichthonius consumpsit uiscera quondam,</l>
+<l>In proprium corpus dentibus ire uelim.</l>
+<l>O mihi cuncta ferae laniarent membra dolenti,</l>
+<l>Alter ut Actaeon et miser ipse forem.</l>
+<l>Quas ego non poenas, quae non discrimina ferrem,</l>
+<l>Dummodo tot mortes clauderet ima dies.</l>
+<l>Quid dolor humanos non iussit ferre? Manerem</l>
+<l>Nunc Ixioniis in miser ipse rotis.</l>
+<l>Sint mihi signa deum contraria, nil ego curo</l>
+<l>An fuerint Martis falciferique senis.</l>
+<l>Ite procul Veneris felicia sidera faustae,</l>
+<l>Ite procul placidi candida signa Iouis.</l>
+<l>Augurium nigro sit nostrum nomine tinctum</l>
+<l>Semper et auspiciis sint maledicta meis.</l>
+<l>O mihi damna forent cunctis oppleta ruinis</l>
+<l>Inque meum ruerent omnia bruta caput.</l>
+<l>Rupibus, Aetna, tuis cudunt quae fulmina Brontes</l>
+<l>Et Steropes: feriant in caput illa meum.</l>
+<l>Gorgon saeua, ferox ueniat Mezentius in me</l>
+<l>Centimanusque Gyas impius atque Nero.</l>
+<l>Barbara corda feri uellem sentire tyranni,</l>
+<l>Aeri Perilleo qui mea membra daret.</l>
+<l>Quid Marium, quid te, crudelis Sulla, superbe</l>
+<l>Quid Capaneu, quid te, Pyrrhe cruente, feram?</l>
+<l>In mea nunc uestros conuertite fata furores,</l>
+<l>Tydes in nostrum dente ruatque caput.</l>
+<l>Denique, ne ueterum memorem monumenta uirorum,</l>
+<l>Ipse miser paterer quot subiere mala.</l>
+<l>Cur igitur, Lachesis, tantum mea stamina profers</l>
+<l>Totque malis nolles ponere dura modum?</l>
+<l>Fila precor frangas; iam fusos rumpite, Parcae:</l>
+<l>Mors, uenias misero nil metuenda mihi.</l>
+<l>Heu uarium, caecum, fallax, heu temporis aeuum</l>
+<l>Mobilis. O mundi gloria uana, leuis.</l>
+<l>Falsus amor, nostro contraria cura labori;</l>
+<l>Vana est spes ueneris, uanior ipsa fides.</l>
+<l>Nunc mihi delicias sperabam, nunc ego pacem:</l>
+<l>In leuibus zephyris spes mea fixa fuit.</l>
+<l>Conqueror heu ueneris falsae de pace caduca</l>
+<l>Et lacrimans maesta proelia mente gero.</l>
+<l>Hoc scelus illa iubet nostro quae funere gaudet,</l>
+<l>Ingenio cuius nomen ad astra tuli.</l>
+<l>Quid moror infelix? Quid enim mihi denique restat:</l>
+<l>Mors, uenias misero nil metuenda mihi.</l>
+<l>Impia fata deum, cur tantos ferre labores</l>
+<l>Me sinitis? Saltem uos, rogo, detis opem.</l>
+<l>Confiteor, superi, uos reddere praemia dignis</l>
+<l>Et meritum nocuis, impia fata malis:</l>
+<l>Ast ego quid merui? Quid nunc peccauimus ipsi?</l>
+<l>Parcite, non digne tot mala nempe gero.</l>
+<l>Di facerent uarias o possem sumere formas</l>
+<l>Induere et uultus nunc miser ipse nouos,</l>
+<l>Vt melius dulces possem perquirere amores,</l>
+<l>Vt dominam peterem protinus ipse meam.</l>
+<l>Sed quia caelestes non praebent talia nobis:</l>
+<l>Mors, uenias misero nil metuenda mihi.</l>
+<l>Non cuiuis liceat flauum simularier imbrem</l>
+<l>Inque sinum dominae procubuisse suae.</l>
+<l>Non taurum liceat cuiuis, non fingere cycnum,</l>
+<l>Nec deus aut quisquis Iuppiter esse potest.</l>
+<l>Quod si forte alios possem mihi sumere uultus,</l>
+<l>Si facies posset nostra referre Iouem,</l>
+<l>Ipse darem finem tam longo nempe dolori,</l>
+<l>Nec fieret fletus ulla querella mei.</l>
+<l>O mihi ceratas aptaret Daedalus alas,</l>
+<l>Vt sequerer lumen protinus ipse meum.</l>
+<l>Non mea planta tuas imitatur, Daedale, pennas,</l>
+<l>Nec leuibus plumis praeda tenenda fuit.</l>
+<l>Quid loquor infelix? Nil prosunt uerba dolori:</l>
+<l>Mors o uenias misero nil metuenda mihi.</l>
+<l>Hanc ego Tarpeiam nunquam confringere sperem,</l>
+<l>Exclusit quae nos ad mala tanta foras.</l>
+<l>Quo latites, Circe? Quo nos, Medeides herbae,</l>
+<l>Aufugitis? Dominam reddite quaeso meam,</l>
+<l>Quae mihi cor leuibus reddit penetrabile telis,</l>
+<l>Quae rapidis flammis uulnera nostra fouet.</l>
+<l>His nec Apollinea possit medicarier arte,</l>
+<l>Hippolyto medicam quae tulit ante manum.</l>
+<l>Hei mihi, cum nostrum non sit medicabile uulnus:</l>
+<l>Mors, uenias misero nil metuenda mihi.</l>
+<l>Quae mihi sola fuit tantorum causa laborum</l>
+<l>Sola potest nostri finis et esse mali.</l>
+<l>Sola meos poterit, si uult, compescere luctus,</l>
+<l>Vulneribus nostris esse medella potest.</l>
+<l>Haec est illa mali spiritus quae funera semper</l>
+<l>Suadet: et hei finem mortis habere negat.</l>
+<l>Auxilium petimus, nostra nos luce dolentes:</l>
+<l>Dura manet surdis auribus illa tamen.</l>
+<l>Immemor est nostrae quam durae sortis iniqua;</l>
+<l>Me miserum! curat tot mala nostra nihil.</l>
+<l>Non licet ulterius sine dulci uiuere amore:</l>
+<l>Mors, uenias misero nil metuenda mihi.</l>
+<l>Supplicium uideas modo lux tu candida nostrum,</l>
+<l>Vndique tot lacrimas, tot gemitusque graues.</l>
+<l>Qualiter et fugimus clarum modo cernere Phoebum,</l>
+<l>Inspicias querulos quos facimusque modos.</l>
+<l>Quamque piget lucis cernas rogo lumine grato</l>
+<l>Cui misero et quoties uota fuere mori.</l>
+<l>Verba damus leuibus uentis foribus quoque duris;</l>
+<l>Fabula sum cunctis inde ego nota locis.</l>
+<l>Ipsa manes surdis tamen at mihi surdior undis</l>
+<l>Aegrotoque negas tu mihi ferre manum.</l>
+<l>Proh scelus indignum! dilecta linquor amica:</l>
+<l>Mors, uenias misero nil metuenda mihi.</l>
+<l>Saeua precor uenias rabidarum turba ferarum,</l>
+<l>Dentibus ut duris uiscera nostra uores.</l>
+<l>Iam uenias nigrae moderator maximus aulae,</l>
+<l>At querulis ponas fletibus ipse modum.</l>
+<l>Cerberus immanis tandem tria guttura pandens</l>
+<l>Faucibus accipiat uiscera nostra suis.</l>
+<l>Quaeque fouet nostras auido nunc igne medullas</l>
+<l>Accedat, nostram cernat ut illa necem.</l>
+<l>Saeuus Amor, uenias: satiabere sanguine nostro;</l>
+<l>Mors, uenias misero nil metuenda mihi.</l>
+<l>Qui modo cumque meos felix imitabere amores,</l>
+<l>Iam poteris damno cautior esse meo.</l>
+<l>Quisquis is es, uerbis ne te modo demorer, audi:</l>
+<l>Sit satis hoc speculum me tribuisse tibi.</l>
+<l>Ille erit o quoties felix quotiesque beatus</l>
+<l>Sumptibus alterius qui didicisse potest.</l>
+<l>Nos tamen at nostrae ueniam praebebimus hosti,</l>
+<l>Tot lacrimas et tot quae mala longa dedit.</l>
+<l>Denique sit mea mors totum uulgata per orbem,</l>
+<l>Damna per exemplum sint fugienda meum.</l>
+<l>Vade, meum nigro uestitu flebile, carmen,</l>
+<l>Ante pedes cuius non licet ire mihi.</l>
+<l>Non sine honore tamen uolumus te cernere castam,</l>
+<l>Contulerit quamuis tristia fata mihi.</l>
+<l>Nec mora cum fueris perlectum; protinus illam</l>
+<l>Desere: felices et loca laeta fuge.</l>
+<l>Cum mare, cum terras lustraueris ordine longo,</l>
+<l>Descendas nigri regna profunda Iouis.</l>
+<l>Nos ubi tum cernes cum maestis uana gerentem</l>
+<l>Saecula mundanam spemque fidemque leuem.</l>
+ </div2>
+<div2 xml:id="FBN002" type="poesis" met="elegiacum"> 
+<head>2. Ad amicam diutius expectatam</head>
+<l>Ignis et expectet uanae promissa puellae,</l>
+<l>Ludit amatorem quae male fida suum;</l>
+<l>Quae toties in amore deos iurata fefellit</l>
+<l>Et dixit: "Veniam, fac properanter eas.</l>
+<l>Vade, sed incassum ne sim uentura uideto.</l>
+<l>Festina, ne te serior hora uehat.</l>
+<l>Quo possim, mea uita, tuo paulisper amore</l>
+<l>Longius amoto non sine teste frui;</l>
+<l>Quo medium possim cupidis amplectier ulnis</l>
+<l>Figere et in collo stigmata blanda tuo;</l>
+<l>Quo possim tecum iucundos carpere fructus</l>
+<l>Et ueneris gratas enumerasse uices.</l>
+<l>Et quid erit quod non tua sit factura Neaera,</l>
+<l>Dummodo mentis ero non aliena meae.</l>
+<l>Non ego Caucaseas renuam transcendere rupes,</l>
+<l>Inter inhumanos dilaceranda lupos;</l>
+<l>Iusseris ad Libycas Syrtes: ego iussa natabo,</l>
+<l>Caeruleis audax associata feris;</l>
+<l>Seu uelis ad Gangem? Ganges mihi terminus esto:</l>
+<l>Si placeat, uiuam; si mea mors, moriar."</l>
+<l>His ego pollicitis - quis enim non talibus esset? ­</l>
+<l>Illectus miser, hac credulitate tumens,</l>
+<l>Curro nec ardentem timeo Procyona, laborem</l>
+<l>Sperno nec amotum me remoratur iter.</l>
+<l>En uenit, ecce uenit promissae cura Neaerae -</l>
+<l>Expecto; tandem nulla Neaera uenit.</l>
+<l>At ueniet forsan paulum tardata: fidelis</l>
+<l>Saepe fuit; forsan causa probanda sua est.</l>
+<l>Aut fortasse patris grauior censura retardat;</l>
+<l>Aut negat aduentus mater iniqua suos.</l>
+<l>Quis scit an ipsa nouae resicet profluuia lunae,</l>
+<l>Pallidula roseas tabe notante genas.</l>
+<l>Posset et ad notum sese conferre sacellum:</l>
+<l>Perfidiae non est sed tamen ille locus.</l>
+<l>Rei miser, iniustae sunt haec commenta Neaerae</l>
+<l>Vana; meum falso torret amore iecur.</l>
+<l>Dic ubi uera fides? Vbi tot promissa? Cadentes</l>
+<l>More niuis lacrimae? Dic ubi uerus amor?</l>
+<l>Anne putas superos sine uindice perfida diuos?</l>
+<l>Tardior est quantum poena timenda magis.</l>
+<l>Fulmina missa time! Timens ne gurgite saeuo,</l>
+<l>Cum mare sulcabis, te maris unda uoret.</l>
+<l>Ah pereat quicumque fidem putat esse puellis:</l>
+<l>Nulla puella meo tempore fida manet.</l>
+<l>Non possum tolerare leues: sint gaudia uulgi;</l>
+<l>Esse potest leuius qua leuitate nihil.</l>
+</div2>
+<div2 xml:id="FBN003" type="poesis" met="elegiacum">
+	<head>3. puellam quam uiderat laudat</head>
+<l>Vidimus hesterna spatiantem luce puellam,</l>
+<l>Credibile est qualem non rapuisse Parim.</l>
+<l>Nec niueum Tyriis quondam uexisse iuuencum</l>
+<l>Littoribus talem trans freta longa ferunt.</l>
+<l>Et tunicas liceat non erat induta uagantes,</l>
+<l>Aut manibus fuerat lucida gemma suis;</l>
+<l>Non Arabo flaui spirabant rore capilli,</l>
+<l>Non erat in uarios forma relata modos:</l>
+<l>Digna tamen cuius fierent praeconia formae</l>
+<l>Splendida, perpetuo carmine digna fuit.</l>
+<l>Digna fuit merces pro qua uel obiret Achilles,</l>
+<l>Herculeus pro qua sudor emendus erat.</l>
+<l>Haec mihi Pisaei fieret si praemia currus</l>
+<l>Quicquid et est duri muneris, instar erit.</l>
+<l>Ismarios hanc ob cuperem transcendere montes,</l>
+<l>Armenias tigres Maenaliosque lupos;</l>
+<l>Visere seu nulla contactam nube Syenem</l>
+<l>Iusserit et Scythicam seu uelit illa niuem.</l>
+<l>Tantum cara mihi dicat: "Carissime, ueni:</l>
+<l>Te uolo, tu nostro solus amore uige."</l>
+</div2>
+<div2 xml:id="FBN004" type="poesis" met="elegiacum">
+	<head>4. ad amicam futuram</head>
+<l>O nimium felix, felicior illa sed esset,</l>
+<l>Quam facerent ueram carmina nostra deam.</l>
+<l>Quid? Formosa tuas superasset, Cynthia, laudes,</l>
+<l>Blandidulis quamquam sis celebrata modis;</l>
+<l>Delia non tantos posset numerare fauores,</l>
+<l>Quos adhibes formae, culte Tibulle, suae,</l>
+<l>Ipse meis quantos canerem felicis amicae</l>
+<l>Carminibus: turpis uel, foret illa decens.</l>
+</div2>
+<div2 xml:id="FBN005" type="poesis" met="elegiacum"> 
+	<head>5. Valerio cantilenam cuiusdam puellae laudat</head>
+<l>Forte meo fueram nuper comitatus Achate;</l>
+<l>Hinc illinc, Valeri, forte uagabar iners</l>
+<l>Passibus ambiguis per amoena silentia lunae.</l>
+<l>Multa sodalitio more sonabat amor:</l>
+<l>Ille suam recitare mihi iucundus amicam,</l>
+<l>Qualia contulerat basia quotue sibi;</l>
+<l>Felices in amore moras, liuentia colli</l>
+<l>Stigmata, Cecropiis labra refusa fauis;</l>
+<l>Quid sibi uita dedit longi monumenta teporis</l>
+<l>Nocteque praeterita gaudia quanta tulit.</l>
+<l>Cum subito nostras peruenit talis ad aures</l>
+<l>Vox, Sicula qualis rupe uenire solet;</l>
+<l>Cum subito audimus cuiusdam forte puellae</l>
+<l>Carmina, Threicios usque secuta modos.</l>
+<l>Vltima funerei testatus dona sepulchri,</l>
+<l>Non sic in herboso flumine cantat olor.</l>
+<l>Quid? Philomela suas nollet recitare querellas;</l>
+<l>Muta foret, si quid dulcius esse potest.</l>
+<l>Accessi, ut melius possem sentire; uidebat</l>
+<l>Inde tamen quoquam non tulit illa pedem.</l>
+<l>O me felicem: modo constat carmina quondam</l>
+<l>Posse peregrinas praecipitasse rates.</l>
+<l>Carmine credibile est duros saliisse molares,</l>
+<l>Flumina currentes substituisse gradus.</l>
+<l>Carmine, contendam, Libycas posuisse leaenas,</l>
+<l>Armenias animos imminuisse tigres.</l>
+<l>Carmine Nestoream constat tepuisse senectam,</l>
+<l>Cum Priamo statuas Laomedonta licet.</l>
+<l>Si quis erit qui uult mecum certare, puellis</l>
+<l>Omnia non flecti: credite, uictus erit.</l>
+<l>Miraris? Vellem sentires. Fabula forsan</l>
+<l>Et mihi, si non haec nota fuisset, erat.</l>
+<l>Adde quod et pulchro formosa gerebat in ore</l>
+<l>Sidera, pectoribus hei male nota meis.</l>
+<l>Haec magis est multo socio populata medullas,</l>
+<l>Qui totiens Paphios spreuerat ante iocos.</l>
+<l>Dum laudat uultus, miratur brachia, gratum</l>
+<l>Pectus et exigui crura rotunda pedis;</l>
+<l>Dum rutilam redimita comam, suffusa rubore</l>
+<l>Virgineo, niueos explicat orbe sinus:</l>
+<l>Iurat in Arcadica tantum non esse decoris</l>
+<l>Virgine, Maenalios dum remoratur apros.</l>
+</div2>
+<div2 xml:id="FBN006" type="poesis" met="elegiacum"> 
+<head>6. Quod rarius sine amore scribat</head>
+<l>Nondum saeua dei sentimus toxica caeci,</l>
+<l>Toxica Thessalicis deteriora malis;</l>
+<l>Pectoribus nondum uenenato cuspide telum</l>
+<l>Sensimus, horrendae uulnera militiae.</l>
+<l>Nostra Cupidineo nec adhuc summisimus oestro</l>
+<l>Colla; Dionaeas spreuimus usque faces.</l>
+<l>Scribimus iccirco rarissima carmina, Domni,</l>
+<l>Otia libertas nam mihi blanda facit.</l>
+<l>At mea si grauibus oneraret colla catenis</l>
+<l>Mollia quae Gnidon, quae Paphos alma tenet:</l>
+<l>Pagina multa mihi formaret nempe libellos.</l>
+<l>Tum legeres sacri carmina Callimachi;</l>
+<l>Tum mihi Naso foret superandus carmine blando</l>
+<l>Ipse Philetaeos consequererque modos.</l>
+<l>Historias molli narrarem carmine longas</l>
+<l>Ex pulice et liber surgeret Iliados.</l>
+</div2>
+<div2 xml:id="FBN007" type="poesis" met="elegiacum"><!-- ovo u izdanje; Marković 49 --> 
+<head>7. <name key="HierMart">Hieronymo Martiniaco</name> 
+qualiter Cupidineis telis mederi possit 
+respondet</head>
+<lg ana="militia-amoris">
+<l>Miles inexpertae referens noua proelia pugnae,</l>
+<l>Quid quereris fixum uulnus habere iecur?</l>
+   <l>Quid gemis et duras detrectas ferre <choice><sic>cathenas</sic><corr resp="MirMark">catenas</corr></choice>?</l>
+<l>Mollia credebas signa cruenta fore?</l>
+<l n="5">Credideras forsan placidum certamen inire:</l>
+<pb n="12r" />
+<l>Cum puero fortes conseruisse manus?</l>
+</lg>
+<lg ana="potentia-amoris">
+<l>Ah, miser, ignoras pueri penetrabile telum;</l>
+<l>Vt graue succensus uulnus ad ossa facit.</l>
+<l>Vt ferus est domitor puer hic, praecordia quanto</l>
+<l n="10">Turbine discindit, quo modo bella gerit.</l>
+   <l>Implicat hamatis nudantia terga <choice><sic>sagitis</sic><corr resp="MirMark">sagittis</corr></choice></l>
+<l>Vndique, quis prorsus nulla medella datur;</l>
+   <l>Quoque magis tentas <choice><sic>uulnus</sic><corr resp="author">morbo</corr></choice> medicarier isto,</l>
+<l>Hoc mage crudescit uulneribusque nocet.</l>
+</lg>
+<lg ana="exempla-naturae">
+<l n="15">Vt leuis ardescit concusso stipite flamma</l>
+<l>Et fuerat quae iam semisopita, furit;</l>
+<l>Sauciat ut grauius renuentia colla iuuencus,</l>
+<l>Ora negata iugo contudit asper equus:</l>
+<l>Sic amor indomito crescit ferus igne, fauillam</l>
+<l>Ingerit ulterius, quo magis ipse negas.</l>
+</lg>
+<lg ana="summarium">
+<l>Qua ratione, petis, poteris cohibere dolores</l>
+<l>Vulneris illati: cedito, sanus eris.</l>
+</lg>
+</div2>
+<div2 xml:id="FBN008" type="poesis" met="elegiacum"><!-- izdanje; Marković 49-50 -->
+<head>8. Insomnium de reditu 
+<name key="IoVict">Ioannis Victurii</name> ad Musas</head>
+<lg ana="narratio">
+<l>Per iuga montiuagas, <name key="mit">Parnasia numina</name>, nymphas</l>
+<l>Vidi ego praeterita ducere nocte choros.</l>
+<l>Dulcia dulcisonis nec non perstringere uerbis</l>
+<l>Carmina, festiui maxima signa ioci.</l>
+<l>Et dextras dextris coniungere quaeque uolebant,</l>
+<l>Et roseo dulces excipere ore notas.</l>
+   <l>In medium tremulo pulsabat <choice><sic>police</sic><corr resp="MirMark">pollice</corr></choice> <name key="mit-Apollo">Phoebus</name></l>
+<l>Pulcher inauratae fila sonora lyrae.</l>
+<l>Protinus accedens timida sum uoce profatus:</l>
+<l>"Laetitiae causam dicite, quaeso, deae."</l>
+   <l>Vna deum <choice><sic>breuibus</sic><corr resp="author">placidis</corr></choice> sic coepit reddere uerbis</l>
+   <l>(Nomen erat cuius docta <choice><sic>Talia</sic> <corr resp="MirMark">Thalia</corr></choice> reor):</l>
+	<l>"Cesserat a nostro duro coetu sacra Ioannis</l>
+	     <l>Gloria, quae felix tempus in omne uiget,</l>
+ 	<l>Tristis erat Phoebus, tristes Heliconia Musae</l>
+	     <l>Numina, Parnasus tristis et ipse fuit.</l>
+	<l>Nunc quoniam rediit celeberrima fama dearum</l>
+	     <l>Castalidum, diuas gaudia tanta mouent."</l>
+<pb n="13r" />
+	<l>Talia dum memorat quamprimum candida uirgo,</l>
+ 	     <l>Languidus excutior et mihi somnus abit.</l>
+</lg>
+<lg ana="exhortatio">
+	<l>Quare age, qui fueras Musarum uerus alumnus,</l>
+	     <l>Da Musis uerae munera laetitiae.</l>
+</lg>
+</div2>
+<div2 xml:id="FBN009" type="poesis" met="elegiacum"><!-- izdanje; Marković 50; MS 13r-14r -->
+<head>9. Ad <name key="FrancMart">Franciscum Martiniacum</name> 
+ut elegiaco carmini se totum tradat</head>
+<lg ana="myth">
+<l>Sacra <name key="mit-Venus">Venus</name> puerum cum corripuisset <name key="mit-Amor">Amorem</name></l>
+<l>(Quod sine uate nihil tot sua regna forent),</l>
+   <l>Protinus assumpta pharetra <choice><sic>cithareius</sic><corr>Cythereius</corr></choice> ales</l>
+   <l><choice><sic>Dicitus</sic><corr resp="Poeta">Dicitur</corr></choice> ante tuos aduolitasse pedes.</l>
+<l>Inde ubi conspicuum ueluti cum numen adorat</l>
+<l>Inferius, supplex talia uerba dedit:</l>
+</lg>
+<sp ana="prituzba">
+<lg ana="novi-veteres">
+<l>"Hactenus excultus uiguit, <name key="FranMart">Francisce</name>, <name
+key="poeta-Catullus">Catullus</name>;</l>
+<l><name key="poeta-Ovid">Nasonis</name> uiguit gloria, <name key="poeta-Gallus">Gallus</name> erat.</l>
+<l>Tot prius excelsi modo conticuere poetae,</l>
+<l>Quadriiugis quorum fama triumphat equis.</l>
+   <l>Nunc mea regna uides, totum <choice><sic>diffussa</sic><corr resp="MirMark">diffusa</corr></choice> per orbem,</l>
+<pb n="21v" />
+<l>Turpiter obducto contumulata situ.</l>
+<l>Nullus adest tantum pulchro qui carmine numen</l>
+<l>Ponere flammigera (proh dolor!) arte uelit.</l>
+</lg>
+<lg ana="commiseratio">
+<l>Imperium sine fine mihi, mea regna sub aequor;</l>
+<l>Iura damus, gemini sunt mea sceptra poli.</l>
+<l>Et tamen exquiro, titulos cui dicere nostros,</l>
+<l>Cui liceat tanti gesta referre ducis.</l>
+<l>Proh scelus! imperium cuius non despicit aether,</l>
+<l>Cum <name key="mit-Iuppiter">Ioue</name> <name key="mit-Neptunus">Neptunus</name> quem timet: ecce rogat.</l>
+</lg>
+<lg ana="obecanje fama zahtjev">
+   <l><choice><sic>mirthea</sic><corr resp="MirMark">Myrtea</corr></choice> serta geres, genetricis praemia nostrae,</l>
+	     <l>Praemia funereos non subitura rogos.</l>
+   <l>Quae modo nos ad te <choice><sic>missit</sic><corr resp="MirMark">misit</corr></choice>, sacrate poeta,</l>
+<l>Vnus ut e nostris uatibus esse uelis.</l>
+<l>Esto <name key="mit-Amor">Cupidinei</name> felix tutela triumphi,</l>
+<l>Esto meus uates, signifer esto meus."</l>
+</lg>
+</sp>
+<lg ana="pocast">
+	<l>Dixit et ornauit doctam diademate frontem;</l>
+	     <l>Imposita est capiti sacra corona tuo.</l>
+</lg>
+<lg ana="renuntiatio">
+   <l>Ergo age, luctificos <choice><sic>omite</sic><corr resp="MirMark">omitte</corr></choice>, poeta, tumultus,</l>
+<pb n="14r" />
+  	     <l>Desine grandiloquo bella tonare sono.</l>
+<l>Effera <name key="Dalmatia">Dalmaticis</name> quotiens <name key="Croatia">Coruatia</name> campis</l>
+   <l>Irruerit, <name key="Turcae">Turcae</name> quam nocuere feri.</l>
+<l>Mille per <name key="Adria">Adriacas</name> fluctus memorare carinas</l>
+	     <l>Desine cur <name key="Veneti">Veneti</name> signa leonis agant.</l>
+<l>Sanguineis <name key="mit-Bellona">Bellona</name> comis procul, ira furorque;</l>
+	     <l>Classica terribiles effugiantque tubae:</l>
+</lg>
+<lg ana="amores">
+   <l>Dulcis amor, dulces tibi sint in <choice><sic>corde</sic><corr resp="author">mente</corr></choice> puellae:</l>
+<l>Sit coma, sit niuei grata rapina pedis.</l>
+   <l>Argutos cantet, cantet tua <choice><sic>molis</sic><corr resp="MirMark">mollis</corr></choice> ocellos</l>
+<l><name key="mit-Musae">Musa</name>, papillarum quam duo poma tument;</l>
+<l>Iurgia nocturno rixantia tempore amantum</l>
+	     <l>Scribito, liuentes, lactea colla, notas.</l>
+</lg>
+<lg ana="laus">
+<l>Docta corymbiferis ornabis tempora sertis,</l><!-- MM Myrca 2 -->
+<l>Hac tua nobilitas scandet in astra uia.</l><!-- ljuti MM -->
+<l>Inter honoratos felix cantabere uates,</l>
+<l><name key="Spalatum">Spalaetum</name> per te nomen ad astra feret.</l>
+</lg>
+</div2>
+<div2 xml:id="FBN010" type="poesis" met="elegiacum"> 
+<head>	10. ad Alexim quod forma sine moribus sordescit</head>
+<l>Nunc formosa tibi facies fulgebat, Alexi</l>
+<l>Candide, nunc Phrygius, nunc puer Ilus eras.</l>
+<l>Conspicuam tenero mirabar corpore formam;</l>
+<l>Pulchrior Hippolyto, pulcher Adonis eras.</l>
+<l>Et bene, nam studiis fueras comitatus honestis,</l>
+<l>Viuebat claro pectore clarus honos.</l>
+<l>Et bene, nam liquidi Parnasia numina fontis</l>
+<l>Pallidulos latices ad tua labra dabant.</l>
+<l>Te Charites blando stringebant pectore, Nais</l>
+<l>Texebatque tuis florea serta comis.</l>
+<l>Quo fugit illa tui praestantis gratia uultus?</l>
+<l>Heu periit cur nam tam bona forma tibi?</l>
+<l>An quia clara tuo discessit pectore uirtus,</l>
+<l>Turpior iccirco tu mihi forsan ades?</l>
+<l>Qua sine, forma nihil. Iuuenes, ne credite formae:</l>
+<l>Forma fluit, probitas, ni sua iura regat.</l>
+</div2>
+<div2 xml:id="FBN011" type="poesis" met="elegiacum"><!-- izdanje, Marković s. 52 -->
+	<head>11. <name key="MarkMarul">Marco Marulo</name></head>
+<lg ana="vota">
+<pb n="15r" />
+	<l>Quam mihi misisti, uatum celeberrime, nuper,</l>
+	     <l>Sit tibi perpetuo munere missa salus.</l>
+	<l>Nam tua fama uiget, longae dignissima uitae,</l>
+	     <l>Conuenit ingenuis moribus aucta dies.</l>
+ 	<l>Conueniunt studiis longissima saecula claris:</l>
+	     <l>Tam facili quid non conuenit ingenio!</l>
+</lg>
+<lg ana="scripta">
+	<l>Scire uelis fortasse meam quae gaudia mentem</l>
+   <l>Sollicitant: <choice><sic>lectis</sic><corr resp="author">scriptis</corr></choice>, dulcis amice, tuis.</l>
+</lg>
+<lg ana="adynaton">
+	<l>Grata fuere nimis, sed quot numerauimus, inquis.</l>
+  	     <l>Multa cupis: stellis, si potes, adde modum.</l>
+	<l>Aequore quot pisces fluitant, quot in arbore frondes,</l>
+   <l><choice><sic>plummigerae</sic><corr>Plumigerae</corr></choice> siluis quot modulantur aues;</l>
+	<l>Magna racemiferos quot habet uindemia fructus,</l>
+	     <l>Grana quot in sicco tempore messis habet;</l>
+ 	<l>Corpora parua niuis uolitant quot in aethere caro,</l>
+	     <l>Florida quot uiolas uere remittit humus.</l>
+</lg>
+<lg ana="exhortatio">
+	<l>Saepe igitur facias tali me munere dignum,</l>
+	     <l>Talia si dederis saepe, beatus ero.</l>
+</lg>
+</div2>
+<div2 xml:id="FBN012" type="poesis" met="hexametrum"><!-- izdanje; Marković s. 52 -->
+	<head>12. <name key="HierMart">Hieronymo Martinicho</name></head>
+<lg ana="gratulatio">
+<pb n="15v" />
+<l>Artibus ingenuis, patriae lux clara iuuentae,</l>
+<l>Gratulor. Ecce meo tempore <name key="mit-Musae">Musa</name> uiget;</l>
+<l>Ecce biceps nostra uiget en <name>Parnasus</name> in urbe,</l>
+<l>Cumque <name key="mit-">Caballino flumine</name> mons <name
+key="mit-">Helicon</name>.</l>
+</lg>
+<lg ana="novi-veteres">
+   <l><choice><sic>imodo</sic><corr resp="MirMark">Amodo</corr></choice> degeneres uocitet quis temporis annos</l>
+	     <l>Huius: habent magnum saecula nostra decus.</l>
+</lg>
+<lg ana="carmina">
+<l>Carmina misisti, totiens ego missa relegi,</l>
+   <l>Quae mihi, <choice><sic>melifluis</sic><corr>mellifluis</corr></choice> condita nempe modis,</l>
+<l>Quis neget <name key="mit-Musae">Aonias</name> <name key="Apollo">Phoebo</name> dictasse sorores</l>
+<l>Illa suo, <name key="mit-Apollo">Phoebum</name> concrepuisse lyra.</l>
+</lg>
+<lg ana="perge">
+<l>Doctiloqui tibi sint curae oblectamina uersus;</l>
+<l>Hos decet ingenio semper inesse tuo.</l>
+</lg>
+<lg ana="diligentia-moralia">
+<l>Tenditur ad superos studioso tramite calles,</l>
+<l><name key="mit-Athene">Palladia</name> aetherius scanditur arte polus.</l>
+</lg>
+</div2>
+   <div2 xml:id="FBN013" type="poesis" met="elegiacum">
+<head>13. ad Gilibertum Grineum, poetam eximium, pro magnifico Vrsato Iustiniano responsio</head>
+
+<l>Nobilium decus o uatum, celeberrime uates,</l>
+<l>Grineu, Musarum rector, alumne, pater.</l>
+<l>Cuius honoratae uolitant monumenta Camoenae</l>
+<l>Iam super Hesperias Mygdoniasque domos;</l>
+<l>Nomen erit cuius mansurum semper in aeuum,</l>
+<l>Destituent cuius saecula nulla sophos.</l>
+<l>Carmina misisti mihi quae dulcissima nuper,</l>
+<l>Legimus: haec animo grata fuere meo.</l>
+<l>Pro quibus innumeras grates tibi non ego solus</l>
+<l>Debeo: debebit Iustiniana domus.</l>
+<l>Haec mihi perpetui gratissima muneris instar</l>
+<l>Semper erunt medio condita nempe sinu.</l>
+<l>Non quia cuncta uelim de me mihi credere, quae tu</l>
+<l>Concinis, ast illo sed quod ab ore fluunt,</l>
+<l>Quo resonante lyra lapides mitescere possent,</l>
+<l>Posses montiuagas sollicitare feras.</l>
+<l>Felix o totiens cui di tribuere sonoro</l>
+<l>Carmine terrigenas tollere ad astra uiros.</l>
+<l>Cunctarum cedant rerum diademata solis</l>
+<l>Carminibus, semper carmina sola manent.</l>
+</div2>
+   <div2 xml:id="FBN014" type="poesis" met="elegiacum">
+<head>14. in detractores pro magnifico Petro Triuisano, Spalatensium
+rectore</head>
+<l>Mens mala, corrupti mores, ignobile uulgus</l>
+<l>Et cum periura lingua canina fide:</l>
+<l>Hei duo pacificam turbantia carmina mentem,</l>
+<l>Nescio quod dedecus conuiciumque nefas,</l>
+<l>Ausa fuere modo genuinos frangere dentes</l>
+<l>Nomen et illius uelle notare uiri,</l>
+<l>Qui tulit huic miserae tantum solaminis urbi,</l>
+<l>Aegroto quantum ferre medella potest;</l>
+<l>Qui populos ratione feros grauitate coercet,</l>
+<l>Conspicua cunctos qui pietate fouet;</l>
+<l>Quo melius quicquam uoto exoptarier ullo</l>
+<l>Haud potuit, probius iustitiaque prius.</l>
+<l>Nil nocuit sed enim foedae petulantia linguae,</l>
+<l>Iccirco mala mens uicta dolore iacet.</l>
+<l>Victa iace, mala mens: mala dis tribuantur iniquis</l>
+<l>Cuilibet, exemplo corruat ipse suo.</l>
+<pb n="17r" />
+<l>Non potis est claram uirtutis rumpere famam</l>
+<l>Improbo: stat titulis non uitiata suis.</l>
+</div2>
+   <div2 xml:id="FBN015" type="poesis" met="elegiacum"><!-- izdanje; Marković s. 53-54 -->
+<head>	15. ad amicam crudelem Nicolae Cippici</head>
+<l><name>Lydia</name> cara, tui tandem miserere <name
+key="NicolCippicus">Nicolae</name>,</l>
+<lg ana="cruciatus">
+<l>Qui nimium pro te nocte dieque gemit;</l>
+<l>Qui totiens in amore mori uoluisse fatetur,</l>
+<l>Sed sine consensu non potuisse tuo.</l>
+<l>Aspice pallenti languentia membra colore,</l>
+<l>Vt miser absumpto corpore tardus eat;</l>
+<l>Vt tua forma sibi graciles tenuauerit artus,</l>
+<l>Vsserit ut miserum <choice><sic>flama</sic><corr>flamma</corr></choice> corusca iecur.</l>
+<l>Qualiter aduertas oculos, in fronte reduxit,</l><!-- ne razumijem -->
+<l>Lapsus in extrema conditione miser.</l>
+</lg>
+<lg ana="castigatio">
+<l>Saxea, dura, ferox, crudelior aequore saeuo,</l>
+<l>An tibi magnificum mors sua munus erit?</l>
+<l>Quandoquidem cupias iuuenili caede lauari,</l>
+<l>Improba, quid cessas: utere sorte tua.</l>
+<l>Si sua uita tibi, felix o <name>Lydia</name>, sordet,</l>
+<l>Trade neci: ingrato mors in amore bona est.</l>
+</lg>
+</div2>
+<div2 xml:id="FBN016" type="epitaph-pseudo" met="elegiacum">
+	<head>16. de naufragio <name key="LodLuchar">Lodouici Luchari</name></head>
+	<l>Vade quis insanis et credat fluctibus, i nunc,</l>
+	     <l>Puppe per Adriacas currat auarus aquas!</l>
+	<l>Aera profana uigent, scelerata pecunia regnat;</l>
+	     <l>Mors emitur nummis et uenit ante diem.</l>
+ 	<l>Mercibus externas uariis Lodouicus ad urbes</l>
+	     <l>Nauigat; obstructa iam rate uela dabat,</l>
+	<l>In patriam remeare uolens patriosque penates</l>
+	     <l>Visere et heu pietas quos cupiebat, amor.</l>
+	<l>Proh scelus! inuidit Boreas crudelis et unda</l>
+  	     <l>Mersaque concussae terga dedere ratis.</l>
+	<l>Dumque procellosis moreretur fluctibus, aequor</l>
+	     <l>Mergeret et feruens ora natantis, ait:</l>
+	<l>"Parcite, Nereides, parcas, Neptune, rogamus,</l>
+	     <l>Et quaecumque meis obstrepis unda malis.</l>
+  	<l>Haec uolui ipse miser, dum me mea uota morantur,</l>
+	     <l>Dum uolui in uestris fluctibus esse ferox.</l>
+	<l>Debebam patrio non soluere littore funes,</l>
+	     <l>Debebam uestrum non perarasse fretum.</l>
+	<l>Iure igitur patior male fidi uerbera ponti,</l>
+  	     <l>Iure tuis uoluor nunc periturus aquis.</l>
+	<l>Ah, quanto melius patria considere terra,</l>
+	     <l>Iucundae fuerat pacis amore frui</l>
+	<l>Et mandare suis mandata nouissima uitae,</l>
+	     <l>Non disperata conditione tamen.</l>
+  	<l>Piscibus esca natet, bibula tumuletur harena:</l>
+	     <l>Ah, pereat merito cui sua terra parum est!".</l>
+	<l>Dixit et exsurgens irrupit guttura uortex</l>
+	     <l>Illius, Adriacis spiritus exit aquis.</l>
+	<l>Intereat quicumque cauas construxerit aluos</l>
+  	     <l>Primus et aequoreas sollicitauit aquas;</l>
+	<l>Quicumque ille fuit, primas qui trans mare merces</l>
+	     <l>Vexit, erat dignus morte perire graui.</l>
+</div2>
+<div2 xml:id="FBN017" type="detractor" met="elegiacum"><!-- izdanje; Marković s. 55 -->
+	<head>17. in detractorem fratris Dominici Buchiae, sacrae theologiae
+	magistri</head>
+<pb n="18v" />
+<lg ana="mythos">
+<l>Dux <name key="mit-Argo">Minyae</name> gentis per saecula uiuet <name
+key="mit-Iason">Iason</name>:</l>
+<l>Aurea <name>Phrixeae</name> <choice><sic>velera</sic><corr resp="MirMark">uellera</corr></choice> uexit ouis,</l>
+<l>Igniuomos domuit tauros uigilemque draconem,</l><!-- cf. MM o zmaju -->
+<l><name>Phasiacas</name> postquam sollicitauit aquas.</l>
+<l><name key="mit-Aeneas">Troius Aeneas</name>, dum conderet altera <name key="mit-Apollo">Phoebi</name></l>
+   <l><name>Pergama</name>, sidereos transiit ille polos;</l>
+<l>Per mare, per terras uentos <choice><sic>perpesus. hymbres</sic><corr>perpessus et imbres</corr></choice>,</l>
+	     <l>Hic profugus tandem plurima bella tulit.</l>
+</lg>
+<lg ana="antiteza">
+	<l>Hoc mortale decus, sunt haec mortalia famae</l>
+	     <l>Praemia, semidii quae meruere duces.</l>
+<l><name key="DomBuch">Domnice</name>, quae tibi dant caelestia munera diui,</l>
+	     <l>Haec sunt humanis nobiliora bonis.</l>
+</lg>
+<lg ana="laudatio">
+	<l>Fulgura diuino, cum uis, tibi ab ore coruscant</l>
+	     <l>Et uitium quotiens corrigis, ipse tonas.</l>
+<l>Ipse <name key="mit-Gigantes">Giganteos</name> terres formidine fastus,</l>
+<pb n="19r" />
+	     <l>Destruis infelix ambitionis onus.</l>
+	<l>Turpis auaritiae quae sunt discrimina, monstras;</l>
+	     <l>Quid ualeant leges, quid pia iura monent.</l>
+<l><sic>lurrida</sic><corr>Lurida</corr> <name key="mit-Tartar">Tartareo</name> depellis corde uenena,</l>
+	     <l>Fumiferos motus tu ratione domas.</l>
+	<l>Eloquio superas praecordia ferrea grato,</l>
+	     <l>Moribus expellis, religione, fide.</l><!-- asindetski stih -->
+</lg>
+<lg ana="invidia irrita">
+	<l>Proh scelus! et tantus, stimulis obnoxius, atrae</l>
+	     <l>Vir gemit inuidiae: quae sibi cuncta rapit.</l>
+	<l>Nil facis, o liuor; dentes constringier in te</l>
+	     <l>Conuenit: hic multo celsior inuidia est.</l>
+</lg>
+</div2>
+   <div2 xml:id="FBN018" type="poesis" met="elegiacum">
+<head>18. in laudem Ioannis Baptistae Mullini, Spalatensium praetoris
+dignissimi</head>
+<l>Bella, fames, morbus totum sub legibus orbem</l>
+<l>Constituisse suis, cum uoluere, queunt:</l>
+<l>Spalaetum tribus his mundoque potentius ipso</l>
+<l>Exsuperat felix haec tria damna tamen.</l>
+<l>Quo duce tam saeuos miraris uicerit hostes,</l>
+<l>Vis recitem? Superant quae, rogo, scripta lege.</l>
+<l>Tempore quo nostram Mullinus praetor ad urbem</l>
+<l>Applicuit, dextra non sine uectus aue,</l>
+<l>Ferrea belligeri patuerunt limina Iani,</l>
+<l>Omnia terrifico plena fuere metu.</l>
+<l>Clausit at horrendum postquam prudentia templum</l>
+<l>Huius, adest placidae pacis amoena quies.</l>
+<l>Rura colonus arat, feruent cultoribus agri,</l>
+<l>Liber agit saturas undique pastor oues.</l>
+<l>Non Turcae insultant portis, non arma minantur:</l>
+<l>Dalmata iucundae munera pacis habet.</l>
+<l>Hinc suberat Cereris non parua penuria flauae,</l>
+<l>Dura fames, rigido durius ense malum.</l>
+<l>Hanc bonus extinxit propria uirtute Ioannes,</l>
+<l>Ingenio, studio consilioque graui.</l>
+<l>Ecce uides tibi quid felix uindemia profert:</l>
+<l>Vina Maroneis nobiliora cadis.</l>
+<l>Vndique subuectant celeres uitalia nautae</l>
+<l>Commoda, diuersis trans mare uecta plagis.</l>
+<l>Post bellum saeuamque famem saeuissima pestis</l>
+<l>Ausa est in nostrum sumere tela caput.</l>
+<l>Sed quia finitimos circum lustrauerat omnes</l>
+<l>Felle suo, rabiem perdidit illa trucem.</l>
+<l>Nam bene dispositis uigilanti pectore rebus</l>
+<l>Dispulit in tumidos saeua uenena notos;</l>
+<l>Dispulit obscurae tam saeua pericula mortis</l>
+<l>Praetoris clari nobile consilium.</l>
+<l>Ergo luem superas, superas bellumque famemque</l>
+<l>Viribus atque animo, clare Baptista, tuo.</l>
+<l>Omnia magnanimae uirtuti incommoda cedunt,</l>
+<l>Haec domina humanis casibus imperitat.</l>
+</div2>
+
+   <div2 xml:id="FBN019" type="poesis" met="hendecasyllabus">
+<head>19. ad Angelum, Dominici Manlipetri, classis Venetae prouisoris, logothecam
+fidissimum</head>
+<l>Non si Corycii pateret antri,</l>
+<l><sic>Secesus</sic>, foribus mihi reclusis</l>
+<l>Ad sacras, uenerabilis, cohortes,</l>
+<l>Phoebe, Castalios et ad liquores;</l>
+<l>Non si Pindaricam chelym ferirem,</l>
+<l>Sublatus Getici fauore plectri,</l>
+<l>Lesbois modulantior libellis,</l>
+<l>Dircaeum superando uoce cycnum;</l>
+<l>Non si tergemino ferar uolatu</l>
+<l>Caelum, Dulichii Camena uatis,</l>
+<l>Quo uel Pierii decus Maronis</l>
+<l>Felix aetherias adiuit auras,</l>
+<l>Musarum preciosior corona:</l>
+<l>Princeps Angele, gloriose uatum,</l>
+<l>Felix Ausonii leporis auctor,</l>
+<l>Possem tot tibi gratias referre,</l>
+<l>Grates tot meritas habere possem.</l>
+<l>In nostrum refoues amore fratrem,</l>
+<l>Quo non Tyndareos ferunt calores</l>
+<l>Arsisse, Haemoniae fidem fauillae.</l>
+<l>Vincis, Pirithous tibi relinquat</l>
+<l>Exemplum ueteris fidele flammae.</l>
+<l>Defessum tumidis leuas procellis,</l>
+<l>Tali sed catus allocutione,</l>
+<l>Quali Marmaridum feros leones,</l>
+<l>Saeuos Leucadii furoris aestus,</l>
+<l>Posses Bistonias mouere quercus,</l>
+<l>Pectus seu tetricae uelis nouercae.</l>
+<l>Tu mentis dubiae bacillus et tu</l>
+<l>Nostris pectoribus serena Phoebe:</l>
+<l>Omnis terrificos motus repellis.</l>
+<l>Tecum raucisonae Charybdis aequor,</l>
+<l>Gaetulis liceat uadis; Cerauni</l>
+<l>Addantur scopuli timorque Graium</l>
+<l>Scribit mellifluos habere portus.</l>
+<l>Ne fractis humeris onus recumbat</l>
+<l>Tantum continuo labore, curas.</l>
+<l>Ingratum domino facis benigno,</l>
+<l>Seu mauis Curio, Numae, Camillo;</l>
+<l>Illum si nomina potentiorum</l>
+<l>Laedunt, qui titulos, decus, triumphos</l>
+<l>Condonat patriae libens beatae;</l>
+<l>Qui rerum dominos scelus nefasque</l>
+<l>Accusat, lacerat, fugat, refellit.</l>
+<l>Famae quadriiuga leuatus aura,</l>
+<l>Nunc ad fluctiuagae caput Maleae,</l>
+<l>Qui nunc occiduis uidetur undis,</l>
+<l>Seu uolt aerisonis mouere rostris</l>
+<l>Bellum, tabifico cruore taetrum.</l>
+<l>Viso magnanimi ducis leone,</l>
+<l>Diffidit solio tumens auito</l>
+<l>Rector caerulei maris; profundo</l>
+<l>Exsurgit tubicen chorusque Phorci;</l>
+<l>Miratur gelido pauore Tethys,</l>
+<l>Horrens insolitum uenire numen.</l>
+<l>Seu uult pulueream citare nubem</l>
+<l>Hic, o belligeri ducis uideres</l>
+<l>Quid pectus ualeat, quid alta uirtus.</l>
+<l>Quanto compositis decore signis</l>
+<l>Prudenti uidet hic et inde cura</l>
+<l>Quid sit conueniens, quid arma queant.</l>
+<l>Mox celsa generosior cohorte</l>
+<l>In partes celer aduolat priores,</l>
+<l>Exemplum reliquis uirile monstrat.</l>
+<l>Illo quis melior toga, senatu</l>
+<l>De tanta referente mole rerum,</l>
+<l>Seu fors barbaricos mouet tumultus,</l>
+<l>Quo maior Venetis fauor triumphis</l>
+<l>Accedat, Latio corona regno;</l>
+<l>Aestus quo Rhodani Padus furentis</l>
+<l>Demergat grauius potentiusque.</l>
+<l>Stant patres solito frequentiores,</l>
+<l>Flammas magnifici uomunt penates,</l>
+<l>Omnis sollicitus uidetur ordo.</l>
+<l>Consultant uario tenore quorsum</l>
+<l>Diffundet grauidos aquosa Plias</l>
+<l>Nimbos, terribilis globum procellae;</l>
+<l>Qua possint remouere laude tantos</l>
+<l>Incursus rabidi ruentis hostis.</l>
+<l>Hic splendet, ueneratur inter omnes;</l>
+<l>Solus Dominicus uiget, probatur.</l>
+<l>Vt Phoebi uigor arduus minores</l>
+<l>Praelustri faculas coma renidet.</l>
+<l>Fasces purpurei nitent, curules</l>
+<l>Hinc sedes. Tituli beatiores,</l>
+<l>Crescunt stemmata nobilisque famae</l>
+<l>Ardor perspicuae. Decus perenne</l>
+<l>Hinc et Mygdonias opes flagellat;</l>
+<l>Sors quamquam renuit caduca, dicens:</l>
+<l>	"Non sunt perpetuo premenda fructu".</l>
+<l>O si laurigerum caput reuincta</l>
+<l>E sacris penetralibus faueret</l>
+<l>Nostro Calliope benigna plectro.</l>
+<l>O possem celebrare, sancta Clio,</l>
+<l>Nomen perpetui ducis uerendum,</l>
+<l>Claros, Inachium genus, triumphos,</l>
+<l>Sed non degeneri superbus oestro.</l>
+<l>Esset Threicio canore plenum,</l>
+<l>Quid non Cecropio maderet imbre!</l>
+<l>Audirent dociles maris procellae,</l>
+<l>Coetus plumigerum uagus uolucrum,</l>
+<l>Quid blanda canerem lyra sonaret,</l>
+<l>De te quid gladius meus feriret.</l>
+<l>Per frondes, hederas sacrasque lauros,</l>
+<l>Flores per uiolas, rosas crocosque</l>
+<l>Cantarem didicit Minerua uulgi</l>
+<l>Quod non multiforae pater cicutae.</l>
+<l>Cantarent Satyri simul bicornes</l>
+<l>Et cum uirginea Diana turba.</l>
+<l>Implerem pelagus solumque caelum</l>
+<l>Et montes, fluuios cauasque ualles</l>
+<l>Grato pectine, dulcibus loquellis.</l>
+<l>Laudes Dominici tonaret orbis.</l>
+<l>Sed tantum melioribus relinquo</l>
+<l>Non nostris humeris onus ferendum.</l>
+<l>Ne forsan tenebris serena densis</l>
+<l>Inuoluam uitio suis premendo,</l>
+<l>Quam si rancidulae chelis magister</l>
+<l>Nequaquam modulos fuisset orsus.</l>
+<l>Quid tandem? Meritis, benigne, fratrem</l>
+<l>Vincis, tot cumulans perambiensque,</l>
+<l>Quot in sidereo micant Olympo</l>
+<l>Stellarum globuli nitente caelo;</l>
+<l>Quot in fluctiuago natant meatu</l>
+<l>Pisces, quot querulae canunt uolucres;</l>
+<l>Verno tempore rosidas per auras</l>
+<l>Quot in florigera uidentur Hybla</l>
+<l>Depicti uario colore flores.</l>
+<l>Quare non tenuis uelim camena</l>
+<l>Persoluat tibi muneris leporem.</l>
+<l>Di dent Nestoreos, precamur, annos,</l>
+<l>Felices hiemes decente uere</l>
+<l>Et cum pacifica quiete Ditis</l>
+<l>Fortunae lepidos sinus beatae.</l>
+<l>Seu quidquid tibi gratius uenire</l>
+<l>Velles, pro meritis habenda tantis.</l>
+<l>Thraces perpetuo prius calore</l>
+<l>Sudabunt, Babylon niuosa fiet</l>
+<l>Et Memphis glacie rigebit hirta</l>
+<l>Phoebus nigriferas prius quadrigas</l>
+<l>Et Nox chrysocomas mouebit atra;</l>
+<l>Excellens Veneti prius leonis</l>
+<l>Voluent imperium solo ruinae:</l>
+<l>Quam nostro tenebrosa corde Lethe</l>
+<l>Expellat meriti tot acta grati,</l>
+<l>Quam non continuo fatebor ore</l>
+<l>Quae tu continuo benignus auges.</l>
+</div2>
+   <div2 xml:id="FBN020" type="poesis" met="hendecasyllabus">
+<head> 20. in laudem clarissimorum uirorum Marci Antonii Mullae nec non Bernardini
+Nauagerii, Dalmatiae censuram gerentium hendecasyllabon</head>
+<l>Censura exoriens Catoniana,</l>
+<l>Qualem non homines prioris aeui</l>
+<l>Senserunt, oculis nec ista uidit</l>
+<l>Nostrorum generatio parentum,</l>
+<l>Decreto Veneti uolat senatus</l>
+<l>Vrbes per medias sinumque totum,</l>
+<l>Saeuis Adria qua tumet procellis,</l>
+<l>Fluctus Illyrici maris retorquens;</l>
+<l>Lites ut dirimat, dolos refringat,</l>
+<l>Poenas dent meritas scelestiores,</l>
+<l>Mulctas, exilium, flagella, caedes,</l>
+<l>Perpendat trutina seueriore</l>
+<l>Quid sit conueniens, malum, quid aequum,</l>
+<l>Quid sit discutiat pium nefasque,</l>
+<l>Cunctis ius tribuat reosque damnet.</l>
+<l>Vt seruet ueneranda iussa patrum,</l>
+<l>Sceptro qui populos beatiore</l>
+<l>Semper sunt soliti fouere caros,</l>
+<l>Offensam minimo nec exhibentes.</l>
+<l>Felix o populus, superbiore</l>
+<l>Vultu qui tetrici cares tyranni.</l>
+<l>Clemens est dominus deusque noster,</l>
+<l>Excellens, humilis, pius, benignus.</l>
+<l>Aspectum cupiunt uidere cuius</l>
+<l>Gentes barbaricae plagaeque mundi</l>
+<l>Exustae, quibus est domus Syenes</l>
+<l>Et quorum Scythicae niues rigescunt,</l>
+<l>Ganges qua Nabataea regna transit,</l>
+<l>Qua stant Herculei laboris axes.</l>
+<l>Exornent, generose Gritte princeps,</l>
+<l>Di te perpetuo tuosque patres</l>
+<l>Collegis sophiae, uiris peritis,</l>
+<l>Qui nos auspicio bono prosectis</l>
+<l>Ornasti. Vigeat per omne tempus</l>
+<l>Regnum pennigeri leonis almum,</l>
+<l>Quod nostras placide tuetur oras</l>
+<l>Tantorum miseretur et laborum.</l>
+<l>Quo terris nihil est magis benignum.</l>
+<l>Illud nec spatio ruentis aeui,</l>
+<l>Nec possit grauibus perire bellis,</l>
+<l>Semper sed titulis nouis uirescat,</l>
+<l>Illius penetret polos cacumen.</l>
+<l>O sors auspicio secunda laeto,</l>
+<l>Consulto hoc superi bonum dederunt.</l>
+<l>O factum bene quod paterno amore</l>
+<l>Vrbes Dalmatiae fidelioris,</l>
+<l>Res tantas, populos remotiores</l>
+<l>Librata moderando lance tractet</l>
+<l>Mullae progenies et Nauageri.</l>
+</div2>
+
+   <div2 xml:id="FBN021" type="poesis" met="sapphicum">
+<head>	21. ad eosdem Sapphicum</head>
+<l>Longa multorum series malorum</l>
+<l>Hactenus crebris cumulata damnis</l>
+<l>Dalmatas laesit miseros amaro</l>
+<l>Non sine planctu.</l>
+<l>Hactenus nostrae regionis urbes</l>
+<l>Barbaras multum timuere turmas;</l>
+<l>Moenibus quarum cruor, arma, bellum</l>
+<l>Semper inhaesit.</l>
+<l>Fructibus tellus caruit creatis,</l>
+<l>Partior uictus Cereris negatae,</l>
+<l>Sordidus nullum Bromius liquorem</l>
+<l>Sub pede pressit.</l>
+<l>Litibus iunctae dubiis querellae,</l>
+<l>Hactenus rixae, dolus affuerunt,</l>
+<l>Luctus, infandum scelus ac rapinae</l>
+<l>Conuiciumque.</l>
+<l>At modo laetas nouat urna sortes,</l>
+<l>Candidum pullus subit in colorem,</l>
+<l>Fata fortunam uariando uersant</l>
+<l>In meliorem.</l>
+<l>En Nauagerus bonus, ecce Mulla</l>
+<l>Prouidus, iustus, sapiens, benignus,</l>
+<l>Nobilis, constans et uterque rarus</l>
+<l>Censor in orbem.</l>
+<l>Non metus adsunt, furor, ira questus;</l>
+<l>Litium cessit genus omne: pax est;</l>
+<l>Exulant fraudes, uitium recessit</l>
+<l>Seditioque.</l>
+<l>Clodius nusquam, Catilina nusquam,</l>
+<l>Sisyphus, Gracchus, Sinis et Procrustes,</l>
+<l>Exhibent poenas sceleris Cethegus</l>
+<l>Cum Dolabella.</l>
+<l>Adriae feruens mare nunc quiescit,</l>
+<l>Illyris diuo statuit leoni</l>
+<l>Templa, centenas agit ecce grates</l>
+<l>Dalmata felix.</l>
+<l>Ille per totum celebrandus orbem</l>
+<l>Praepotens ordo Veneti senatus</l>
+<l>Fungitur uotis iubilans et ambas</l>
+<l>Dormit in aures.</l>
+<l>Dum nidet tantos meruisse alumnos</l>
+<l>Clarus, aeternae monumenta famae,</l>
+<l>Qua uigent illi quibus alma monstrat</l>
+<l>Sidera uirtus.</l>
+</div2>
+
+   <div2 xml:id="FBN022" type="poesis" met="elegiacum">
+<head>	22. ad eosdem elegidium</head>
+<l>Principis altus honos conspexit lumine Gritti</l>
+<l>Subdita quo mundi cernere regna solet:</l>
+<l>Dalmatiam innumeris turbatam litibus, urbes</l>
+<l>Illyriae totas Adriacumque sinum.</l>
+<l>Dixit et: "O Veneti, sociis consulite, patres:</l>
+<l>Est opus addictis uelle iuuare pium".</l>
+<l>Protinus elegit patrum sententia concors</l>
+<l>Censores, quibus haec tam pia cura data est.</l>
+<l>Quare agite, o soboles generosi stemmatis alma,</l>
+<l>Exhibitas populis reddite quaeso uices.</l>
+<l>Rem date cuique suam, statuit sanctissima legum</l>
+<l>Sanctio; libratis lancibus aequa date.</l>
+<l>Iustitiae seruare modum pulcherrima res est,</l>
+<l>Iustus honoratae praemia laudis habet.</l>
+<l>Eia agite, o iuuenes, animis concordibus altum</l>
+<l>Scandite iter meritis accumulando noua.</l>
+<l>Marce, tibi, Antoni, decus immortale paratur;</l>
+<l>Bernardine, tuus non morietur honos.</l>
+</div2>
+
+   <div2 xml:id="FBN023" type="poesis" met="elegiacum">
+<head>	23. ad eosdem epigramma</head>
+<l>Fama per aetherios uolitans memorabilis axes</l>
+<l>Impleuit rutili solis utramque domum:</l>
+<l>Censuram grauitate nouam, compescere lites</l>
+<l>Lancibus aequatis et trutinare libram;</l>
+<l>Omnia metiri recta ratione modoque</l>
+<l>Consilio, affectu, religione, fide.</l>
+<l>Qualiter haec populos tractat dulcedine toruos</l>
+<l>Cogit et hos leui subdere colla iugo.</l>
+<l>Mulla, tuum decus hoc, decus hoc, Nauageria proles,</l>
+<l>Suggerit aligero grata trophaea Ioui.</l>
+<l>Felices quibus est concessum sidere fausto</l>
+<l>Munera tot patriae ferre beata suae.</l>
+
+</div2>
+   <div2 xml:id="FBN024" type="poesis" met="elegiacum">
+<head>	24. ad eosdem distichon</head>
+<l>Astra subire paras claro molimine, Mulla;</l>
+<l>Perpetuo uiuent quae, Nauagere, geris.</l>
+
+</div2>
+   <div2 xml:id="FBN025" type="poesis" met="elegiacum">
+   <head>	25. aliud</head>
+<l>Nauibus exercet Nauagerius inclita censor</l>
+<l>Gesta; rigent si quae, mollia Mulla facit.</l>
+
+</div2>
+   <div2 xml:id="FBN026" type="elegia" met="elegiacum">
+<head>26. ad illustrissimum principem Venetiarum
+	Augustinum Barbadicum pro Dominico Manlipetro,
+	classis eiusdem prouisore, elegia</head>
+<l>Littera, barbarico fundata palatia saxo,</l>
+<l>Ibis ad augusti tecta superba ducis,</l>
+<l>Qui tenet immensas largae ditionis habenas,</l>
+<l>Exsuperat cuius nomen utrumque polum;</l>
+<l>Cuius inextinctum crescit decus, undique nostris</l>
+<l>Aurea temporibus quo duce saecla uigent;</l>
+<l>Quo nihil in toto uiuit clementius orbe,</l>
+<l>Imperium profert iustitiamque colit.</l>
+<l>Plurima Synnadicis quoniam decorata columnis</l>
+<l>Inuenies, Phrygiis plura referta notis,</l>
+<l>Accipe pauca, sacros ne perdas forte penates,</l>
+<l>Te Latii fallant limina neue Iouis:</l>
+<l>Ingrederis dominam nitidae regionis, onustam</l>
+<l>Fascibus, imperiis, nobilitate uiris;</l>
+<l>Reginam intrabis terraque marique potentem,</l>
+<l>Classibus extensam militiaque grauem.</l>
+<l>Hinc loca praeteriens remorantia, mercibus orbem,</l>
+<l>Innumeris dices huc coiisse bonis.</l>
+<l>Tota Tyros dibaphas uestes huc nobilis affert,</l>
+<l>Sidon Agenorei uellera tincta gregis;</l>
+<l>Balsama diues Arabs Panchaica mittit, Eoas</l>
+<l>Huc plaga Mygdonii contulit orbis apes.</l>
+<l>Quidquid fundit Hiber, flauas Harimaspus harenas</l>
+<l>Huc uehit, Illyrici diues et ora soli.</l>
+<l>Quaere ubi conspicuos intraueris aduena campos,</l>
+<l>Vnde togatorum, principis unde domus.</l>
+<l>Tunc fora monstrabunt feruentia litibus, auctas</l>
+<l>In melius leges patriciumque decus.</l>
+<l>Tunc tibi sidereis certantia templa colossis</l>
+<l>Occurrent, Libycis nobiliora tholis.</l>
+<l>Vndique regifico lucescent atria luxu</l>
+<l>Splendida, cum domibus tunc tibi uitra suis.</l>
+<l>Haec tibi miranti dextraque in parte trahenti</l>
+<l>Lumina, tam nitidos laeta uidere locos,</l>
+<l>Aurea magnanimi succrescet imago leonis,</l>
+<l>Imperium princeps quo duce noster habet.</l>
+<l>Hic domus, aetherio penetralia digna Tonante,</l>
+<l>Haec erit optatae meta tenenda rotae.</l>
+<l>Arte gradus Libyco structos de marmore clara</l>
+<l>Ascendas, superos ut subitura polos.</l>
+<l>Neue reformida tanges cum limina, si te</l>
+<l>Obruat illustris fama corusca uiri:</l>
+<l>Non erit id fulmen, populos non fulmine terret</l>
+<l>Ille suos, placida sed pietate fouet.</l>
+<l>Haud grauat inuita renuentia colla catena,</l>
+<l>Libera sed socia compede regna tenet.</l>
+<l>Non erit id nitidus fulgor praediuitis aulae,</l>
+<l>Non tantum flaui lumina chrysolithi,</l>
+<l>Quam decus et dignum tam claro caesare lumen,</l>
+<l>Conspicui mores tergeminumque sophos;</l>
+<l>Quam facies, ueluti rutilanti Phosphorus igne</l>
+<l>Irradiat Latium qua Venetumque solum;</l>
+<l>Qua fert Hesperii confinia clarus Hiberi,</l>
+<l>Vltima Gangetici qua ferit arua poli;</l>
+<l>Parrhasiam glaciale solum qua conspicit Arcton,</l>
+<l>Seu Nasamoniacae rura perusta plagae.</l>
+<l>Te petet: "Vnde uenis? Quid portas, littera? Cui tu</l>
+<l>Talia, succiduo poplite? Quaeso, refer."</l>
+<l>	"Edite principibus princeps uenerande, salutem</l>
+<l>Domnicus Hesperio mittit ab orbe tibi.</l>
+<l>Quem mala ter denos menses uariosque labores</l>
+<l>Spes bona sollicito cogit amore pati.</l>
+<l>Ne mirere potens uersat si numine diua</l>
+<l>Quemque: coronatis undique regnat equis.</l>
+<l>Haec facit agricolas, exhaustos uomere duro</l>
+<l>Ilia, duritiem non meminisse grauem.</l>
+<l>Suggerit haec uires sulcantibus aequora nautis</l>
+<l>Persica, raucisonum dum ferit astra fretum.</l>
+<l>Hac duce Neritius tandem penetrauit Vlixes</l>
+<l>Fessus ad optatae limina casta domus.</l>
+<l>Hac duce Dardanius superatis fluctibus heros</l>
+<l>Obtigit Ausoniae uota petita suae.</l>
+<l>Mi quoque se comitem praestat Patientia, tantum</l>
+<l>Perpetuo faueat annumeranda bono.</l>
+<l>Vsque tamen finem, finem patientia cuius</l>
+<l>Attigerit, meritis praemia digna feret.</l>
+<l>Haec grauis et tetricis primum se nubibus offert,</l>
+<l>Aspera, terribilis, tristis, amara, ferox.</l>
+<l>Sed quoniam domitrix rerum, Patientia, uincis</l>
+<l>Omnia: dura licet, tu mihi laeta ueni.</l>
+<l>Te uolo, tu nostris amplexibus utere, uirgo</l>
+<l>Candida, terrificis dulce leuamen aquis.</l>
+<l>Finis habet palmam, finem patientia cuius</l>
+<l>Attigerit, meritis praemia digna feret.</l>
+<l>Molis inauditae, nulli tolerabile pondus,</l>
+<l>Vt potui, longo tempore nempe tuli.</l>
+<l>Spe iuuat accensum constanti pectore semper</l>
+<l>Indomitum sed enim sustinuisse iugum.</l>
+<l>Postquam scire datur pietatem, uiuere laetor,</l>
+<l>Laetor, inest pietas principe clara pio.</l>
+<l>Fine coronatur, finem patientia cuius</l>
+<l>Attigerit, meritis praemia digna feret.</l>
+<l>Si facit extremo patientia fine beatum</l>
+<l>Sola uirum, fateor, stat mihi cuncta pati.</l>
+<l>Virere dum dabitur, dum me mea conteget urna,</l>
+<l>Perficiet Lachesis dum mea pensa grauis:</l>
+<l>Hoc onus, hoc uario patiar discrimine pondus,</l>
+<l>Hac graue suscipiam conditione iugum.</l>
+<l>Fine triumphus adest, finem patientia cuius</l>
+<l>Attigerit, meritis praemia digna feret.</l>
+<l>Qui mala continuis tolerando laboribus explet,</l>
+<l>Ille laboriferum fortius ardet iter.</l>
+<l>Qui patietur, aget iucundae tempora lucis,</l>
+<l>Post modo composito tempore laetus erit.</l>
+<l>Euehat optatas tandem patientia sedes</l>
+<l>Me mea sidereo constituatque polo.</l>
+<l>Finis habet totum, finem patientia cuius</l>
+<l>Iam tetigit, meritis praemia digna feret.</l>
+<l>Iam ferat, o Veneti celeberrima cura leonis,</l>
+<l>O decus excelsi spesque salusque throni.</l>
+<l>Sic tua barbaricis reuirescant arua trophaeis,</l>
+<l>Saepius Ausoniam sic tua signa regant.</l>
+<l>Sic ueneranda patrum concordi pace tuorum</l>
+<l>Semper in immensas gloria crescat opes.</l>
+<l>Iam ferat, aetheriam superes sic tardior aulam</l>
+<l>Imperites populis longius atque tuis.</l>
+<l>Sic generosa tuum uolitent uexilla per orbem,</l>
+<l>Obtineant summum perpetuumque decus.</l>
+<l>Sic tibi quae uelles ueniant, generosa propago;</l>
+<l>Sic tua sidereis fama triumphet equis.</l>
+<l>Finis adest, finem spectato, fine precamur:</l>
+<l>Eueniat miseris saepe petita salus.</l>
+</div2>
+
+   <div2 xml:id="FBN027" type="poesis" met="sapphicum">
+<head>27. ad Dominicum Manlipetrum
+Venetae classis prouisorem celeberrimum
+sapphicum</head>
+<l>Herculis sudor, decus et perenne</l>
+<l>Nomen extensum uolitat per aeuum;</l>
+<l>Herculis curru uolitabit alto</l>
+<l>Fama superstes.</l>
+<l>Quod nouercali stimulatur oestro,</l>
+<l>Nubium pressit genus et furentes</l>
+<l>Cerberi crines quatientis auras</l>
+<l>Ore trifauci.</l>
+<l>Virgines aruis Scythicis morantes,</l>
+<l>Quod ferum uictor domuit leonem,</l>
+<l>Nescio quot nam rapuit quod olim</l>
+<l>Terga ferarum.</l>
+<l>Magnus extensum meruit triumphum,</l>
+<l>Nobilem palmam, titulos superbos,</l>
+<l>Reddidit nautis mare quod quietum</l>
+<l>Littore ab omni.</l>
+<l>Lucidum Liui celebrat uolumen,</l>
+<l>Axibus miscent superis poetae</l>
+<l>Mucios, Paulos, Decios, Camillos</l>
+<l>Corneliosque.</l>
+<l>Hi nisi dextras posuere flammis,</l>
+<l>Sortibus uitas, patriae leuamen,</l>
+<l>Quid nisi largis opibus bearunt</l>
+<l>Martia regna.</l>
+<l>Dignius nomen, grauior magister</l>
+<l>Nescio quid iam uenit ecce maius;</l>
+<l>Sit tua, felix, tamen hoc relatum</l>
+<l>Pace, uetustas.</l>
+<l>Verberat iam iam refluos marinae</l>
+<l>Tethyos fontes Syriosque campos;</l>
+<l>Hic ad Eoos penetrat recessus</l>
+<l>Auspice fama.</l>
+<l>Num taces, Clio ueneranda? Plectrum,</l>
+<l>Quo duces claros canis aut triumphos,</l>
+<l>Quo sonas hymnos sophos et deorum,</l>
+<l>Diua resume.</l>
+<l>Domnicum pulchris titulis nitentem,</l>
+<l>Prole sublatum, meritis perennem,</l>
+<l>Effer, erectas recines ad aures</l>
+<l>Dulcius Orpheo.</l>
+<l>Ille ter denos renouantis orbes</l>
+<l>Pertulit lunae, mala, tot labores,</l>
+<l>Tot graues soles dubiasque noctes</l>
+<l>Aequore toruo.</l>
+<l>Ille Scyllaeos totiens leones</l>
+<l>Et sues iunctis canibus minaces,</l>
+<l>Mille terrentes domuit figuras</l>
+<l>Ille ferarum.</l>
+<l>Ille piratas relegauit omnes,</l>
+<l>Mercibus feruet mare subleuatis,</l>
+<l>Somnium fessus leue nauta carpit</l>
+<l>Vndique tutus.</l>
+<l>Dum studet tantis patribus placere,</l>
+<l>Num bonus ductor renuit coruscis</l>
+<l>Et manus ambas caput et uerendum</l>
+<l>Subdere flammis?</l>
+<l>Hostium classi religatus uncis</l>
+<l>Dentibus, quamquam sua iam triremis</l>
+<l>Arserat, uoti nisi compos olim,</l>
+<l>Nescit abire.</l>
+<l>Adde quod patrum uenerandus ordo</l>
+<l>Credidit tantum tibi, fortis, heros,</l>
+<l>Vt parum curet fabricare classem,</l>
+<l>Te duce fidens.</l>
+<l>Ingruit quamquam grauius periclum,</l>
+<l>Solus infestis resides procellis,</l>
+<l>Tu famem Pisis releuas molestam,</l>
+<l>Hoste seratis.</l>
+<l>Quid facis tandem? Venetos reformas</l>
+<l>Latius fines, patriae trecentas</l>
+<l>Exigis uitas, tolerando uincis</l>
+<l>Mille triumphos.</l>
+</div2>
+
+   <div2 xml:id="FBN028" type="poesis" met="elegiacum">
+<head>	28. ad eundem</head>
+<l>Alma salus patriae, meritis habitura triumphos,</l>
+<l>Viue Manlipetrae lucida gemma domus!</l>
+<l>Fama per aetherios uolitat memorabilis axes</l>
+<l>Enumerans meriti, Domnice, facta tui.</l>
+<l>Qualiter Hesperii seruaueris aequoris oras</l>
+<l>Conspicua Venetae non sine laude togae.</l>
+<l>Qualiter imperium praecelsi nominis auges</l>
+<l>Non ope mille ratum tot numeroque uirum:</l>
+<l>Pectore belligero, sapienti corde, benignis</l>
+<l>Moribus, eximia sed grauitate, fide.</l>
+<l>Audiit haec Veneti postquam reuerenda senatus</l>
+<l>Curia, teque tuas uexit ad astra rates.</l>
+<l>Per freta longa simul celeri uectarier aluo</l>
+<l>Iussit et Eois te superesse locis.</l>
+<l>Quo tibi summa cadat tantarum praebita rerum</l>
+<l>Et domites meritis orbis utrumque polum.</l>
+<l>Quo melius generosa tui stent signa decoris</l>
+<l>Augeat et titulos quo tibi fama nouos.</l>
+<l>Suscipe, nam pulchrum est nitidis extendere factis</l>
+<l>Nomen ad Eoas Hesperiasque plagas.</l>
+</div2>
+
+   <div2 xml:id="FBN029" type="poesis" met="elegiacum">
+<head>	29. de eodem</head>
+<l>Classibus immodicis Veneti cur saepe senatus</l>
+<l>Iussa tot Eoos composuere locos;</l>
+<l>Cur iuuat Hesperios modo, tanta negotia, fines</l>
+<l>Exigua nimium sustinuisse trabe?</l>
+<l>Scire uelit forsan celebris memoranda leonis</l>
+<l>Fama peregrinas cunctaque regna plagas:</l>
+<l>Qua fluit Indus aquis, Ganges, qua Bosphorus alget</l>
+<l>Thracius, Herculeae qua tetigere rotae.</l>
+<l>Gloria quod Venetum felix non marmore constat</l>
+<l>Aerisono, grauidae non in honore manus:</l>
+<l>Sed grauitate uirum tantorum, Domnice, quantus</l>
+<l>Ipse nites, celso celsior Hannibale.</l>
+</div2>
+
+   <div2 xml:id="FBN030" type="poesis" met="elegiacum">
+<head>	30. de aegritudine eiusdem</head>
+<l>Mirabar quid maestus eras, Gradiue; rubentes</l>
+<l>Abstulerat cristas quae tibi causa, pater;</l>
+<l>Dextra Pelethroniam cur exarmauerit hastam,</l>
+<l>Quae tibi Lemniacas fregerat ira rotas.</l>
+<l>Sanguinea Bellona manu discussa Medusam,</l>
+<l>Cur tua luctifico fleuerat ore soror.</l>
+<l>Anxia Dalmatiae trepidarint corda fidelis,</l>
+<l>Vnde tot heu gelidi signa pauoris erant.</l>
+<l>Publica sollicitus peragebat uota senatus,</l>
+<l>Mirabar ueneta cur erat urbe metus.</l>
+<l>Vndique Marcicolas mirabar feruere Pisas</l>
+<l>Vrere et in sacris thurea dona focis:</l>
+<l>Aeger in occiduis medicamina Domnicus oris</l>
+<l>Quaerit, Apollineas sustinet ecce manus.</l>
+<l>Fortibus assuetus semper prouisor in armis -</l>
+<l>Proh scelus! - intensis febribus ecce iacet.</l>
+<l>Ecce iacet ueneranda tui, Mars, gloria belli,</l>
+<l>Vnica Palladii numinis aura silet.</l>
+<l>En fauor Illyriae mutat regionis honorus,</l>
+<l>Dalmata quo felix, quo duce tutus erat.</l>
+<l>Imminet en grauis Veneto iactura leoni,</l>
+<l>Infirma est Venetae uita salusque togae.</l>
+<l>Nobilis ille tui seruator, Pisa, fauoris</l>
+<l>In dubio uitae membra grauata fouet.</l>
+<l>Vnda maris quem non, non mille pericula terrae</l>
+<l>Prostrarint quondam: febris acerba domat.</l>
+<l>Saeuiat usque licet, nullo tamen eximet aeuo</l>
+<l>Praemia perpetuo nobilitata bono.</l>
+<l>Quis grauior fuerat morbus Tirynthius olim,</l>
+<l>Quo super Oetaeos arserat usque rogos:</l>
+<l>Obtinuere tamen diuae praeconia laudis</l>
+<l>Inclita stelligeri regna subire poli.</l>
+<l>Multiplici liceat cecidisset uulnere Caesar</l>
+<l>Et graue sacratum corpus haberet onus:</l>
+<l>Fama tamen uolitat, felicia Caesaris acta</l>
+<l>Dicentur donec maximus orbis erit.</l>
+<l>Domnice, pennigeri felix tutela leonis,</l>
+<l>Nil uereare mori: quid tibi febris aget?</l>
+<l>Maior eris rumpent postquam tibi stamina Parcae,</l>
+<l>Iniciet nigras cum Libitina manus.</l>
+<l>Fortibus atra uiris non est obnoxia Clotho,</l>
+<l>Nil longinqua dies inuidiaque minus.</l>
+<l>Si quid inexpertum committere, si quid inausum</l>
+<l>Vellet at in nostrum mors uiolenta decus:</l>
+<l>Improba non illi quicquam nocuisset amaris</l>
+<l>Morsibus, at patriae damna suisque feret.</l>
+<l>Damna feret nostro sed qualia quantaque fratri,</l>
+<l>Perpetuo seruus qui cupit esse suus,</l>
+<l>Munere cuius habet uitam placidumque leuamen</l>
+<l>Et quicquid larga de pietate fluit.</l>
+<l>Di, quibus est cordi pietas, quorum insidet aure</l>
+<l>Excelsum Veneti nominis imperium:</l>
+<l>Instituam Libycis solemnia templa columnis</l>
+<l>Et cadet ad uestros uictima grata focos:</l>
+<l>Hunc seruate, precor, patriasque remittite ad oras</l>
+<l>Incolumem, patribus excipiendus eat;</l>
+<l>Hunc seruate, precor: patriam seruabitis, orbis</l>
+<l>Applaudet, frater sic mihi saluus erit.</l>
+</div2>
+
+   <div2 xml:id="FBN031" type="elegia-laudes" met="elegiacum">
+<head>31. ad augustissimum dominii Veneti decemuiratum
+de laudibus Ioannis Antonii Danduli,
+Spalatinae urbis prouisoris dignissimi</head>
+<l>Curia sancta uirum bis quinque, tremenda potestas,</l>
+<l>Cuius in arbitrio stat dicionis apex,</l>
+<l>Illud et imperium Venetorum nobile patrum,</l>
+<l>Quo nihil in toto clarius orbe uiget,</l>
+<l>Quod super Hesperios fines protenditur et quod</l>
+<l>Iam super Eoos fert sua signa polos:</l>
+<l>Di tibi barbaricos, ut consueuere, triumphos</l>
+<l>Dent, precor, et celsum tollere in astra caput;</l>
+<l>Dent tibi uictrices uolitare per aequora puppes</l>
+<l>Terrarum et titulis subdere regna tuis;</l>
+<l>Di tibi Romuleas praestent superare secures</l>
+<l>Fascibus aetherios et penetrare polos.</l>
+<l>Longa tuis superi concedant saecula rebus,</l>
+<l>Sit tua perpetuo fama decore nitens.</l>
+<l>Quandoquidem nostris tanta est conatibus impar</l>
+<l>Gratia, mortali non referenda sono;</l>
+<l>Quandoquidem gerimus non sufficientia uento</l>
+<l>Carbasa, tam tumidis quando grauamur aquis:</l>
+<l>Auspice te tali, prouisor Dandulus urbem</l>
+<l>Missus in hanc nostram tot bene facta gerit.</l>
+<l>Auspice te felix ridet Fortuna benigne</l>
+<l>Aspalato, fuerat cuius acerba modo.</l>
+<l>Moenia semirutis pendebant turribus, ecce</l>
+<l>Quae modo consurgunt tempore structa breui.</l>
+<l>Credendum est Phoebum nec non Amphiona muros</l>
+<l>Argutae ad numeros aedificasse lyrae,</l>
+<l>Suspicimus si nos miro properamine molem,</l>
+<l>Surgere inauditae nobilitatis opus;</l>
+<l>Suspicimus si nos annorum mille laborem</l>
+<l>Sumptibus et modicis crescere forte breui.</l>
+<l>Quem non tempus edax, tormenta nec hostica laedent,</l>
+<l>Nec poterint falsi uertere ad ima doli.</l>
+<l>In somnis magico seu quis cantamine talem</l>
+<l>Cerneret, erectus cernitur iste labor.</l>
+<l>Nil mirum: ueteres quod constituere canoris</l>
+<l>Fidibus, ecce facit, Dandule, lingua tibi;</l>
+<l>Dulcedo et populus facit hoc tibi deditus iste,</l>
+<l>Hoc faciunt mores ingeniumque tibi.</l>
+<l>Quo loca tam tetricae regionis dura gubernas,</l>
+<l>Gentis inhumanae quo fera corda domas.</l>
+<l>Maxima continuae facit hoc uigilantia curae,</l>
+<l>Hoc labor, anxietas, sollicitudo facit.</l>
+<l>Qua struis haud aliter nostri fundamina muri</l>
+<l>Perpetuo quam si sint habitanda tibi.</l>
+<l>Quisque salute sua iam desperauerat: ecce</l>
+<l>Viuimus amoto tam procul urbe metu.</l>
+<l>Otia Danduleo blandissima munere pacis</l>
+<l>Arbore sub patula carpimus ecce bonae.</l>
+<l>Nusquam Turcus adest pictos nec cernimus hostes,</l>
+<l>Quis satis est proprias si tuerentur opes.</l>
+<l>Pignora diripimus quorum patriosque penates,</l>
+<l>Quosque timebamus, saepe timore pauent.</l>
+<l>Ecce perhorrescunt confinia nostra latrones,</l>
+<l>Sollicita capti sedulitate modo.</l>
+<l>Hac regione locus nocuis fuit: ecce tremiscit</l>
+<l>Mens mala, criminibus noxia poena datur.</l>
+<l>Vir probus et si quis fuerit uirtutis amator</l>
+<l>In pretio nusquam nobiliore manet.</l>
+<l>Laudibus aetheriis prudens uir ponitur astris,</l>
+<l>Quibus in propria conditione manet.</l>
+<l>Dandulus aequata sustentat pondera lance,</l>
+<l>Hic cui plus iusta, parte rependit onus.</l>
+<l>Omnia clementia, summa grauitate magistra,</l>
+<l>Qui ratione, fide consilioque facit.</l>
+<l>Lucida frons et quae possent hilarare tenebras</l>
+<l>Lumina nil nigrum nos meminisse sinunt.</l>
+<l>Omnia magnifico facit hic clarescere uultu,</l>
+<l>Omnibus arridens, omnia laeta facit.</l>
+<l>Fata uices uersant: non semper nubila caelum</l>
+<l>Obducunt, iugibus non ruit imber aquis;</l>
+<l>Horrida non semper furiantibus aequora uentis</l>
+<l>Spumescunt, uno non furit unda modo.</l>
+<l>Sic miseris non est fortunae numen acerbum</l>
+<l>Semper, at obruerat quo magis, ecce fauet.</l>
+<l>Post pluuias nitidi spectanda est gratia solis</l>
+<l>Et solet a maesto laeta uenire dies.</l>
+<l>Ecce fouet nostras fortuna benignior oras,</l>
+<l>Laeta Salonaeum possidet hora solum.</l>
+<l>Carior est quando res frumentarias nobis</l>
+<l>Dandulus accepit. Vix bene nauis adest,</l>
+<l>Exsultant sine fine senes puerique puellae,</l>
+<l>Congeminant faciles ad sua uota deos:</l>
+<q>
+   <l>	"Dii te felicem praestent, felicia nobis</l>
+<l>Saecula multiplici qui facis officio.</l>
+<l>Di faciant, patrias postquam remeabis ad oras</l>
+<l>Et perages quae tu gesseris ante ducem,</l>
+<l>Dandule, sublimis surgat tibi tota senatus</l>
+<l>Curia et excelsi principis altus honos.</l>
+<l>Collaudent generosa tuae gestamina famae,</l>
+<l>Hinc referant meritis praemia digna tuis."</l>
+</q>
+      <l>Quid bona tot tandem, felix o curia, narrem,</l>
+<l>Hunc populum uinxit Dandulus iste quibus.</l>
+<l>Disiecerat quanta sed cum pietate penates</l>
+<l>Et nonnullorum, lignea tecta, domos</l>
+<l>(Publica priuatis praeponens commoda damnis,</l>
+<l>Vt faciunt hi quos durius urget onus).</l>
+<l>Ordine dehinc alias recto construxerat aedes,</l>
+<l>Pro quibus ecce lares et noua tecta dedit.</l>
+<l>En tabulata nitent, miseris solacia rebus,</l>
+<l>Candidae perspicua stant regione casae.</l>
+      <!-- Poljica -->
+<l>Est locus Adriaca nulli penetrabilis ora,</l>
+<l>Arduus excelsis undique culminibus;</l>
+<l>Terribilis, longo porrectus in aera dorso,</l>
+<l>Horrifer aeterna stat niue cuius apex.</l>
+<l>Vnica Dalmatiae spes et tutela salutis,</l>
+<l>In primis nostrae pacis amoena quies.</l>
+<l>Separat hinc nostras montanis collibus oras,</l>
+<l>Inde tenet Turca cum regione solum.</l>
+<l>Est ubi continuis exercita corpora bellis</l>
+<l>Mos dare seu celeres exagitare feras.</l>
+<l>Stramineis habitare casis et uiuere rapto</l>
+<l>Alpe sub aeria gens truculenta solet.</l>
+<l>Gens assueta diu nulli parere, leonis</l>
+<l>Ante pedes tandem concidit illa boni.</l>
+<l>Politiam ueteres quondam dixere parentes,</l>
+<l>Haec fuit externum nescia ferre iugum.</l>
+<l>Venerat hos inter colles saeuissima quaedam</l>
+<l>Seditio, nobis heu nocitura tamen.</l>
+<l>Nam timor omnis erat, ne dum discordibus armis</l>
+<l>Bella gerunt, hos in barbara turba ruat.</l>
+<l>Sic nostra ex horum pendebat uita ruina</l>
+<l>Forsan et Illyrici littoris omne solum.</l>
+<l>Dandulus hanc dulci leniuit uoce, quietam</l>
+<l>Restituit Veneta sub dicione plagam.</l>
+<l>Eualuit populos e duro robore natos</l>
+<l>Dandulus alloquio conciliare suo.</l>
+<l>Horum discordes grauitate coercuit iras,</l>
+<l>Ardebat quae iam flamma, sepulta iacet.</l>
+<l>Res mira, o nullos aetas moritura per annos,</l>
+<l>Praemia posteritas fac precor ista legat.</l>
+<l>Saxea magnificus lapidosi culmina montis</l>
+<l>Dandulus ecce regit, corda ferina domans.</l>
+<l>Mittere deberes, celeberrima curia, tales</l>
+<l>Saepe duces nostris urbibus immo patres.</l>
+<l>Nam sumus in misera positi quam sorte, uidetis,</l>
+<l>Mergitur et quanto nostra carina salo.</l>
+<l>Firma satis fuerat quondam Pagaseia puppis:</l>
+<l>Fracta sub aequoreis haec tamen isset aquis,</l>
+<l>Ordine clauigeri si non prudentia Tiphis</l>
+<l>Vela daret, tumidis exsinuanda notis.</l>
+<l>Dic ubi Thessalici non exeat gloria currus,</l>
+<l>Gloria Dardania sanguinolenta nece:</l>
+<l>Automedonteis nisi concitaretur habenis,</l>
+<l>Illius forsan mentio nulla foret.</l>
+<l>Nos quoque qui liceat non sumus in ordine tales,</l>
+<l>Grandibus ut paruas aequiperemus opes:</l>
+<l>Quid sine conspicuo faceremus munere tanti</l>
+<l>Rectoris, tanto quid foret absque duce?</l>
+<l>Oppida, regna, plagae, cunctarum culmina rerum</l>
+<l>Scitis ut attendunt a sapiente regi.</l>
+<l>Hoc tibi longa dedit summi experientia regni,</l>
+<l>O decus, o Venetae firma columna togae.</l>
+<l>Quare age, consensu mundi, quo sceptra gubernas</l>
+<l>Et facis addictam Solis utramque domum,</l>
+<l>Quo socias sacrum diadema binominis Istri,</l>
+<l>Quo ducis ignoti Persica Bactra reges:</l>
+<l>Effice, supplicibus palmis, procumbimus, oro,</l>
+<l>Effice quam potis est, gens Spalatina rogat,</l>
+<l>Ne bonus a nostra discedat Dandulus urbe</l>
+<l>Tam cito, si populi quae tibi cura tui est.</l>
+<l>Sin autem nequeas, ipsum ad maiora reseruans,</l>
+<l>Di faciant patriae magna daturus eat.</l>
+<l>Felix, o nimium felix, cui sorte sub umbra</l>
+<l>Contigerit tanti uiuere posse uiri!</l>
+<l>Quem Spalatum, donec stabunt monumenta Salonae</l>
+<l>Clara Dioclitiae, tollet ad astra uetus.</l>
+<l>Donec honorati stabunt uestigia muri,</l>
+<l>Nulla dies, nullus quem reticescet honos.</l>
+</div2>
+
+   <div2 xml:id="FBN032" type="poesis" met="elegiacum">
+<head>	32. in laudem eiusdem</head>
+<l>Dandulus iste quis est? Veneti generosa senatus</l>
+<l>Curia quem iactat. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Clarum Choruatia cuius</l>
+<l>Nomen ad astra uehit. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Praestanter uiuida uirtus</l>
+<l>Quem superis miscet. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Splendet clementia cuius,</l>
+<l>Fulget ubique decus. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Sceleratis poena, bonorum</l>
+<l>Perpetuus fautor. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Speculas qui uertice montis</l>
+<l>Imposuit celsas. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Sanas componere rixas</l>
+<l>Qui didicit solus. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Quo protegente nec hostem</l>
+<l>Spalaetum uidit. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Bis senis mensibus amplum</l>
+<l>Struxit opus qui tam. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Pulchram qui subdidit alto</l>
+<l>Planitiem muro. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Miseris solamen, egenis</l>
+<l>Qui noua tecta dedit. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Numerosae dulcia genti</l>
+<l>Qui dare festa iubet. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Duro qui tempore nobis</l>
+<l>Iussit abire famem. Dandulus iste quis est?</l>
+<l>Dandulus iste quis est? Quo nos hic uiuimus omnes.</l>
+<l>Quisquis is est, uiuat Dandulus iste precor.</l>
+</div2>
+
+   <div2 xml:id="FBN033" type="poesis" met="elegiacum">
+<head>33. in laudem Aloysii Capelli,
+praetoris Spalatensium dignissimi</head>
+<l>Parcite caelestes, non solum curia diuos</l>
+<l>Vestra tenet: Veneta sunt et in urbe dei.</l>
+<l>Credimus ex diuis Venetum constare senatum,</l>
+<l>Credibile est Venetum numen habere decus.</l>
+<l>Iustitiam si quaeris, habet; pietate meretur</l>
+<l>A dominis mundi principibusque coli.</l>
+<l>Nobilis excedit dominae fastigia Romae,</l>
+<l>Adiciens titulis regna beata nouis.</l>
+<l>Iam Rhodanum uincit, Gangem superabit et Indum;</l>
+<l>Iam Scythicus Tanais sub sua iura fluet.</l>
+<l>Credere quis posset tam magni cura senatus</l>
+<l>Quod sumus, o nullo tempore notus amor.</l>
+<l>Cura sumus quarum subter molimina rerum,</l>
+<l>Nostra uident Veneti commoda cuncta patres.</l>
+<l>Gaudeat o felix Spalatum Spalatinaque turba:</l>
+<l>Caesaribus nostris maxima cura sumus.</l>
+<l>Plurima quid dicam praetorum nomina, quanta</l>
+<l>Felici auspicio missa fuere tibi!</l>
+<l>Venisti nobis, celeberrime Dandule, post te</l>
+<l>Bernardi fulsit gloria Hieronymi.</l>
+<l>O bene prouisum, dignus successor ut illis</l>
+<l>Missus adest, cuius transilit astra decus.</l>
+<l>Cuius ubique fauor nitida crebescere fama</l>
+<l>Cernitur, immensus conciliatur honos.</l>
+<l>Felix, o nimium felix Aloysius, ecce</l>
+<l>Iura tuis populis, urbs Spalatina, dabit.</l>
+<l>Iam secura potes dormire sub auspice tali:</l>
+<l>Nil tibi defuerit, reddito uota deis!</l>
+<l>Diues eris rerum cunctarum, bella recedent</l>
+<l>Impia, iucunda stat tibi pace frui.</l>
+<l>Iurgia nulla forum, nullas disrumpere leges</l>
+<l>Sentiet: aequa suum libra rependet onus.</l>
+<l>Libera quaeque domus, nullis obnoxia furtis</l>
+<l>Viuet. Adulter erit si quis, acerba luet.</l>
+<l>Nulla erit incerti lasciua licentia uulgi:</l>
+<l>Supprimet affectus poena tremenda malos.</l>
+<l>Praemia laudatae fuerint si maxima uitae</l>
+<l>In pretio, surgent nunc magis atque magis.</l>
+<l>Ferrea cessistis, uenerunt aurea nobis</l>
+<l>Saecula, multiplici laude canenda mihi.</l>
+<l>Dum modo patricium decus, o ueneranda Capellae</l>
+<l>Gloria, sufficit dicere Musa rudis.</l>
+<l>Hanc tibi perpetuo Natalis munere donat;</l>
+<l>Parua sit an grandis, seruiet usque tibi.</l>
+</div2>
+
+   <div2 xml:id="FBN034" type="poesis" met="elegiacum">
+<head>	34. de infantulo a porco occiso</head>
+<l>Paruulus in cunis - scelus o - dum luderet infans</l>
+<l>Ederet et blaesos lingua tenella sonos,</l>
+<l>Cum sue quem solo miseri clausere parentes,</l>
+<l>De feritate ferae nil metuendo mali,</l>
+<l>Corripuit rabidis puerilia dentibus ora,</l>
+<l>Ex sue mansueto tam cito factus aper.</l>
+<l>Hinc lacerum tenero diuulsit fronte cerebrum</l>
+<l>Et capite exeso sic male pastus abit.</l>
+<l>Hoc ubi persensit nostri pia cura Capelli,</l>
+<l>Non tulit indignae crimina saeua necis,</l>
+<l>Iussit et occisum rabido consumier igni,</l>
+<l>Vt, fera sit quamquam, facta nefanda luat.</l>
+<l>Conueniens quid sit tali sub praeside, ciues,</l>
+<l>Discite, qui nocuas non iubet esse feras.</l>
+</div2>
+
+   <div2 xml:id="FBN035" type="poesis" met="elegiacum">
+<head>	35. Francisco Raynerio amicae suae nomen declarat</head>
+<l>Quae, Francisce, tuos puella uultus</l>
+<l>Exarsit teneros, candide, scire cupis.</l>
+<l>Addam pollicitis fidem libenter,</l>
+<l>Ne rigidus uidear Caucaseusque nimis.</l>
+<l>Non mortalis amor decente forma,</l>
+<l>Virgo sed supero de Ioue nata fuit.</l>
+<l>Haec dum florigeros odore campos</l>
+<l>Perlustrat similis Persephonae et Triuiae,</l>
+<l>Vidit te uiolas rosis legentem</l>
+<l>Pulchrum, purpureo lilia mixta sinu.</l>
+<l>Miratur faciem comis nitentem</l>
+<l>Et teretes digitos marmoreasque manus.</l>
+<l>Quis tum praecipuos Adonis artus</l>
+<l>Praeferet, Idaliae sit procul ira deae!</l>
+<l>Illi uisus eras fauore tali,</l>
+<l>Endymion dignus quo tibi, Luna, tuus.</l>
+<l>Te spectans oculis perambit usque</l>
+<l>Virgineis, rabidas concipit illa faces.</l>
+<l>Nomen scire uelis tui furoris</l>
+<l>Et faciem, patria qua sit et ortus. Habe:</l>
+<l>Caelestis patria, beata forma,</l>
+<l>Euphrosyne nomen dicitur esse suum.</l>
+<l>Haec tibi mala parat manu feraci</l>
+<l>Aurea, conspicuo munera digna deo.</l>
+<l>Felix ne nimium superbulum et</l>
+<l>Tollas, Euphrosynae tam cito factus amor:</l>
+<l>Florum depereunt cito colores</l>
+<l>Et iuuenem subito curua senecta rapit.</l>
+
+</div2>
+   <div2 xml:id="FBN036" type="poesis" met="elegiacum">
+<head>	36. de eiusdem discessu</head>
+<l>Hei cita saecla uolant: iam tertia uertitur aestas,</l>
+<l>Iam teritur spatiis ultima meta suis:</l>
+<l>Tu patriam, generose, tuam, tu pectora fratrum</l>
+<l>Visere, tu socios iam comitesque paras.</l>
+<l>Ast ego quid faciam? Scribam cui carmina? Solus</l>
+<l>Destituor, sordent hei mea fila lyrae!</l>
+<l>Plectra iacent nobis foedata rubigine turpi,</l>
+<l>Liuet et ingenii lucida cura mei.</l>
+<l>Quid mihi cum studiis? Dulcissima cura legendi</l>
+<l>Me fugit et mentem detrahit illa meam.</l>
+<l>Amplius, ut fueram, scribam non carmina laetus,</l>
+<l>Castalius tinget nec mea labra liquor.</l>
+<l>Parcite montiuagae, Parnasia numina, nymphae:</l>
+<l>Non dabimus uestris thura, cremanda focis.</l>
+<l>Hi mihi, discedet quondam mea sola uoluptas,</l>
+<l>Solus amor nostri carminis atque decus.</l>
+<l>Discedent quondam turgentia carbasa uento,</l>
+<l>Carbasa luminibus uda futura meis.</l>
+<l>Me miserum! gelidi sentimus signa pauoris</l>
+<l>Concrepuit gracilis seu lenis unda noti;</l>
+<l>Fulserit aut nitidi tantum clementia caeli,</l>
+<l>Protinus est curis cura grauata meis.</l>
+<l>Seu nautam quisquis monstrauerit ... ille</l>
+<l>Tristia uulneribus fert alimenta meis.</l>
+<l>Seu mihi forte ratis fuerat conspecta, timemus,</l>
+<l>Ne mihi praesentes auferat illa deos.</l>
+<l>Ah, Neptune, tuo figam quae dona sacello;</l>
+<l>Tyndaridae, uobis, quae tibi, Leucothoe?</l>
+<l>Ni cito dulce meum Francisci nomen amici</l>
+<l>Littoribus soluat stupea uincla meis.</l>
+<l>Ni bona signa fugae celeri tam sidere fausto</l>
+<l>Annuerint, rapidum ni mare radat iter.</l>
+<l>Nunc mihi qui Triuiae studuit uim ferre Dianae,</l>
+<l>Pleiades faueant Oleniumque pecus.</l>
+<l>O utinam totis hiemarent astra diebus</l>
+<l>Tristia, pro geminum Parrhasidumque face!</l>
+<l>Ne mihi dilectus posset discedere Achates;</l>
+<l>Patroclus, Pylades Hyrtacidaeque comes.</l>
+<l>Tunc mihi fata darent felicia saecla beato,</l>
+<l>Tunc ego perpetuo laetus amore forem.</l>
+<l>Quid loquor infelix? Quid inania uerba, querellas</l>
+<l>Fundimus? Hei steriles non facit ille sonos.</l>
+<l>Per mare ueliuolas festinat tendere pennas</l>
+<l>Ferreus et nostrum curat amare nihil!</l>
+<l>Vade magis gratos forsan petiturus amicos,</l>
+<l>Non puto sic fidos. Dulcis amice, uale!</l>
+</div2>
+
+   <div2 xml:id="FBN037" type="elegia-laudatio" met="elegiacum">
+<head>37. Spalaeti discessum magnifici uiri
+Iacobi Raynerii, iusti praetoris sui,
+lugentis consolatio</head>
+<l>Fama Salonaei nunquam reticenda palati,</l>
+<l>Regia littorei deliciosa soli,</l>
+<l>Dalmaticas inter celeberrima gloria sedes,</l>
+<l>Spalaetum, priscae nobile gentis opus:</l>
+<l>Cur ita caelestes furibunda uoce fatigas,</l>
+<l>Sauciat heu superos cur tua lingua deos?</l>
+<l>Quae noua causa mali? Vesanis pectora pugnis</l>
+<l>Nuda quid incessas? Quid sine fine premis?</l>
+<l>Ah gemis et tantos dic cur profundis in imbres?</l>
+<l>Pallida quid facies, quid sibi maesta uelit?</l>
+<l>Me miserum, laceras sparsos sine lege capillos,</l>
+<l>Mollia sanguineis unguibus ora notas.</l>
+<l>Sera nimis longae latitant monumenta Salonae,</l>
+<l>Alta ruinosas contegit herba domos.</l>
+<l>Aequor in immensum curuus designat arator:</l>
+<l>Hic erat antiqui principis alta domus.</l>
+<l>Hac super inducto crepitabat lympha meatu,</l>
+<l>Conueniens oculis hic puto scena fuit.</l>
+<l>Amphitheatralis fuit hic pulcherrima circi</l>
+<l>Forma, cauernosis eruta fornicibus.</l>
+<l>Obliterata diu lacrimis te spargere regna</l>
+<l>Si iuuat et turpi flere subacta situ,</l>
+<l>Longior emineat maioris copia luctus,</l>
+<l>Protinus adueniat causa dolenda tibi.</l>
+<l>Moenia semiruto prodibunt Martia uultu</l>
+<l>Et Capitolini limina quassa Iouis.</l>
+<l>Tum ueteris fractae surgent Pandionis arces,</l>
+<l>Cecropis hospitium Palladiumque uetus.</l>
+<l>Inde draconigenae monstrabunt uulnera Thebae,</l>
+<l>Innumeras misera conditione fores.</l>
+<l>Laomedontis opus Phrygii, lacrimabile regnum,</l>
+<l>Exseret euersum Troia superba caput.</l>
+<l>Num cinerem precor esse putas Carthaginis altae;</l>
+<l>Nil habet ostendat quid superesse sui?</l>
+<l>Sunt aliae centum deleti nominis urbes,</l>
+<l>Quas erit insanus credito flere labor.</l>
+<l>Oppida mille iacent uariis tumulata ruinis:</l>
+<l>Omnia sunt aeuo comminuenda graui.</l>
+<l>Longa dies tanti prohibet reminiscier aestus;</l>
+<l>Imminuunt quod non saecula longa malum?</l>
+<l>Contrahe lora precor, lacrimarum pelle dolores,</l>
+<l>Omnia sint habitu candidiora tuo.</l>
+<l>Cernimus, ut maestum paterno in funere natum,</l>
+<l>Hic stetit Aspalatum, talia uerba gemens:</l>
+<q>
+<l>	"Non mihi sollicito priscas deflere Salonas</l>
+<l>Est animus tristis, non ego uana queror.</l>
+<l>Regna uetusta fluant: grauius sub corde fouemus</l>
+<l>Vulnus et est gemitus altera causa mei,</l>
+<l>Altera cura; dolor non hic mea pectora uersat;</l>
+<l>Parcimus excidiis funeribusque rogis.</l>
+<l>Saeua iubes nostri retegam monumenta doloris,</l>
+<l>Haec gemebunda mei signa doloris habe:</l>
+<l>Ramnerius Veneta praetor modo missus ab urbe,</l>
+<l>Sedibus e superis uenerat immo deus.</l>
+<l>Traxerat hic secum comites, moderamina clari</l>
+<l>Caesaris, Herculeum Romuleumque decus.</l>
+<l>Erigones habitus formosae, sancta Catonis</l>
+<l>Nomina, Cornelios, Paule, tuosque sales.</l>
+<l>Hic Lycias secum sortes, Dodona uolucres</l>
+<l>Quas alit, horrendae uexerat antra deae.</l>
+<l>Traxerat hic secum caeci pia facta Metelli,</l>
+<l>Pectora sacrifici religiosa Numae.</l>
+<l>Hic Nasamoniacis docuit quae corniger aruis</l>
+<l>Hammon Apollineo sanctus ab ore dabat.</l>
+<l>Hunc fuerat comitata biceps prudentia Iani,</l>
+<l>Regule, uelle tuum propositumque tenax.</l>
+<l>Hunc si uidisset tenebroso in carcere quondam,</l>
+<l>Credibile est uinctus Cimber in arma ferox</l>
+<l>Diceret: "Heu Marium nequicquam nostra ferire</l>
+<l>Dextra potens: uincor nobilitate uiri."</l>
+<l>Omnia iura, decem tabulas, callebat Athenas,</l>
+<l>Huic medio clausum pectore numen erat.</l>
+<l>Si Samium perhibent, prisco si tempore constat</l>
+<l>Egeriam sacro consuluisse Numae,</l>
+<l>Quis Lacedaemonium dubitat didicisse Lycurgum</l>
+<l>Te fora, te leges, diue Iacobe, tuas!</l>
+<l>Qua fera corda trucis populi grauitate regebat,</l>
+<l>Consilium uiduis qua pietate dabat!</l>
+<l>Vt fuit oppressi felix tutela clientis,</l>
+<l>Omnibus hic miseris quale leuamen erat.</l>
+<l>Fur erat innocuus duce quo, nemus omne silebat;</l>
+<l>Castior Hippolyto turpis adulter erat.</l>
+<l>Hoc duce miluus erat tenuis gallina, molossus</l>
+<l>Parua catella, ferox agna nouella lupus.</l>
+<l>Clodius hic grauior semper grauiorque Milonum</l>
+<l>Turba fuit, nocuis hac regione locus.</l>
+<l>Mansueuere quidem feritatis pectora, nullo</l>
+<l>Pressa metu, nulla lege uetante tamen.</l>
+<l>Aurea saecla puto fuerant quo tempore, talis</l>
+<l>Hic stetit; extabant horrea plena mihi.</l>
+<l>Vndique uitifero faciebant munera Baccho</l>
+<l>Agricolae, Cereri rustica liba dabant.</l>
+<l>Tot Campanus ager nec habet Methymna racemos,</l>
+<l>Prela tot Albanis non maduere iugis.</l>
+<l>Gargara tot segetes, Libycis non area campis</l>
+<l>Diues hiulca terit dum Canis ora rigent:</l>
+<l>Musta sub autumno calcabat turbida rubro,</l>
+<l>Quot meus agrestis farra tegebat humo.</l>
+<l>Forte famem, nullam norant sua tempora pestem:</l>
+<l>Ah peream si non hic puto numen erat!</l>
+<l>Nil nisi Laetitiae restabat condere sacrae</l>
+<l>Templa, Diocletio constituenda foro.</l>
+<l>Gaudia tot fuerant quo cum, felicia quo cum</l>
+<l>Vota, reor uotis fertiliora meis.</l>
+<l>Quam cito laeta fluunt, subitas mutantur in horas,</l>
+<l>Tempora praecipiti flant leuiora noto.</l>
+<l>Heu heu Ramneriae discessit gloria prolis</l>
+<l>Inclita, turbauit tot bona nostra modo.</l>
+<l>Aurea saecla, fidem, probitatem, gaudia nobis</l>
+<l>Abstulit exigua cimba cauata trabe.</l>
+<l>Num tibi iusta mei patuerunt signa doloris?</l>
+<l>Num queror in cassum? num leuis esse feror?</l>
+<l>Gaudia num fundes uideam cum flere puellas</l>
+<l>Cum puerisque senes, compita, saxa, solum?"</l>
+</q>
+      <l>Haec ait, alloquio subiunxi pauca benigno</l>
+<l>Tunc ego: "Confiteor, iusta querella tua est</l>
+<l>Confiteor, titulis fuit hic generosus auitis,</l>
+<l>Vir erat ingenua quis probitate neget?</l>
+<l>Viuit at et dulces uiuunt sua pignora, nati,</l>
+<l>Praesidio Venetae saepe futura togae.</l>
+<l>Viuit amor patriae, pietatis forma supernae,</l>
+<l>Viuit natorum maximus ille pater.</l>
+<l>Eximium laudis specimen, castissima coniunx,</l>
+<l>Magnificae uiuit gloria rara domus.</l>
+<l>Crescit honos passim, crescunt propaginis altae</l>
+<l>Stemmata, iam generos, iam uidet ille nurus.</l>
+<l>Iam tenet in gremio decus imperiale uerendum,</l>
+<l>Monstrat auum simili iam ore suus nepos.</l>
+<l>Inclita pennigeri uolitant uexilla leonis,</l>
+<l>Vndique iam Venetum transilit astra decus.</l>
+<l>Indica purpureus Titan qua regna colorat</l>
+<l>Et nitidum rutilo fundit ab ore iubar;</l>
+<l>Qua patris Oceani nympharum turba iugales</l>
+<l>Solis anhelantes excipiendo leuat,</l>
+<l>Torrida zona rubet Scythiae qua stagna niuosae</l>
+<l>Sarmaticis plaustris exagitata rigent.</l>
+<l>Cura sancta patrum felici brachia motu</l>
+<l>Explicat et latius imperitata patet.</l>
+<l>Hac cum Rhamnerium surgit decus, alta per aeuum</l>
+<l>Fama uolat, uolitet sed sine fine precor."</l>
+</div2>
+
+   <div2 xml:id="FBN038" type="poesis" met="elegiacum">
+<head>	38. Francisco Raynerio, patricio Venetiarum</head>
+<l>Fama decusque domus patriae uenerabile sidus,</l>
+<l>Vnica Pierii gloria, docte, chori:</l>
+<l>Quid, Francisce, facis, librosne amplecteris ulnis?</l>
+<l>An sedet in gremio mollis amica tuo?</l>
+<l>Nectit adoratas circum tua tempora laurus</l>
+<l>Delius, an Paphius myrtea serta puer?</l>
+<l>Pallados arma magis tibi sunt in pectore doctae,</l>
+<l>An celebras Guidiam corde tepente deam?</l>
+<l>Haec simul illa tuo contenta est munere forsan:</l>
+<l>Quid mirum? Vincis doctus utramque deam.</l>
+<l>Vna dat ingenium uelox uiresque secundas,</l>
+<l>Altera materiam suggerit ingenio.</l>
+<l>Currere longa tuis dicendi copia debet,</l>
+<l>Sic modulis longas condere Amazonidas.</l>
+<l>Quid mihi? Nulla Venus, Veneris non filius ad me</l>
+<l>Peruenit, iratae iurgia nulla deae.</l>
+<l>Non coma, turgiduli, non candida pectora, ocelli</l>
+<l>Aut rubor; expressus Xanthia nulla liquor.</l>
+<l>Num promissa fides, num sunt haec carmina mille,</l>
+<l>Carmina pollicitis facta minora tuis?</l>
+<l>Non ita Quintilios celauit Caluus amores,</l>
+<l>Dum memorat feruens, docte Catulle, tibi.</l>
+<l>Saepe tuas solitus retinere Propertius aures,</l>
+<l>Conticuit socius non tibi, Naso, tuus.</l>
+<l>At poteris nostris uafer obiectare querellis;</l>
+<l>Carmina non mittis: carmina nulla damus.</l>
+<l>Et tibi Musa fauet; promisti carmina, debes</l>
+<l>Pollicitis dubiam non adhibere fidem.</l>
+<l>Me tenet Adriaci maris interclusior ora,</l>
+<l>Vlla Venus quam non, rarus et hospes adit.</l>
+<l>Gens habitat truculenta, ferox Coruatia muros</l>
+<l>Inde premit, Scythicis horridiora locis.</l>
+<l>Quid tibi uis scribam? Nulla est mihi Xanthia, nullus</l>
+<l>Hic amor aut digno carmine causa patet.</l>
+<l>Si qua tamen placuit, non stilo, carmine, nardo</l>
+<l>Ad dominam rutilo, sed datum ire uia.</l>
+<l>Id faciant fortes, Mauortia pectora Achillis,</l>
+<l>Herculis, Antaei semiuirique bouis.</l>
+<l>Femina non tanti dabitur mihi. Femina <sic>quodam</sic></l>
+<l>Vertit Apollinea moenia structa lyra.</l>
+<l>Femina Martigenas mansuri nominis urbes</l>
+<l>Cumque Palatinis traxit ad ima iugis.</l>
+<l>Mollibus assuetus studiis tenuique Camena,</l>
+<l>Dissidet armifera noster ab arte furor.</l>
+<l>Ingenio tantum facili meo gaudeo si quod</l>
+<l>Esse potest miseris, dulcis amice, locis.</l>
+<l>Id quoque post abitus minuit mihi gratia tristes,</l>
+<l>Maius opus tibi quos accelerare dedit.</l>
+<l>Infueras mecum, domine carissime rerum,</l>
+<l>Ingenium stimulis claruit egregiis.</l>
+<l>Nunc iacet exesum ueluti rubigine ferrum,</l>
+<l>Vt iacet atra, domus contumulata situ.</l>
+<l>Tu tua celsus habes Capitolia celsa Tonantis:</l>
+<l>Quis neget aetherios regna subire polos?</l>
+<l>Qua Venetis praelustre nitet regionibus aurum,</l>
+<l>Qua micat albus onyx Synnadicusue lapis.</l>
+<l>Tu comitum, numero, felix ostroque superbus,</l>
+<l>Nunc has, nunc illas aspicis orbis opes.</l>
+<l>Quicquid ab auricomis eiectat Hiberia fossis,</l>
+<l>Dalmaticis quicquid conuehiturue locis.</l>
+<l>Quicquid Erythraeo fulget sub littore, quicquid</l>
+<l>Sidonio tincti fulget in aere gregis.</l>
+<l>Quicquid ab Assyricis diues Panchaia campis,</l>
+<l>Comparat, in Libycis quicquid aratur agris:</l>
+<l>Dat tibi terra potens, Venetae celeberrima gentis</l>
+<l>Gloria, dat grauidae sarcina structa ratis.</l>
+<l>Tu modo sidereos spectas, Francisce, ministros,</l>
+<l>Nunc oculos retinet uncta palaestra tuos.</l>
+<l>Hic tibi materiam nitidi formosa puella</l>
+<l>Carminis, eximium dat in amore decus.</l>
+<l>Hic Venus et Veneris facundas filius artes</l>
+<l>Perdocet, egregiae munera militiae.</l>
+<l>Cypriacas dilecta domos et moenia nati</l>
+<l>Deseruit, Venetum quod petat hospitium.</l>
+<l>Scribe age, materiam tibi dat longissima rerum</l>
+<l>Copia, Phoebeam docta Thalia lyram.</l>
+</div2>
+   <div2 xml:id="FBN039" type="poesis" met="elegiacum">
+<head>39. Tabellas alloquitur, ut eundem Franciscum secure adeant</head>
+<l>An quia magna times intrare palatia forsan</l>
+<l>Et domino mixtis oscula ferre iocis,</l>
+<l>Retrahis iccirco, fidissima littera, passus,</l>
+<l>Fida ministerii munera ferre mei?</l>
+<l>Num pudet? Ipsa rogo uanum depone timorem:</l>
+<l>Est leuitas quod non cuique timere nocet.</l>
+<l>Altiuolas igitur felicibus excute pennas</l>
+<l>Ominibus, uento curre secunda tuo.</l>
+<l>Ni mihi nota forent uirtutis praemia clarae</l>
+<l>Illius, ingenium, sors, probitasque fides,</l>
+<l>Non ego per dubios uario discrimine casus</l>
+<l>Te traherem, nocuis haud mihi missa fores.</l>
+<l>At quoniam facilis noster deus ille perennis,</l>
+<l>Phoebe, tuus cultor conspicuumque decus,</l>
+<l>Qui mea facundo carpsit praecordia uersu,</l>
+<l>Cuius in extremo funere seruus ero,</l>
+<l>Te manet, acceptam perstringet et aurea labris</l>
+<l>Adiciens roseis basia multa dabit.</l>
+<l>Tum leget et releget formoso saepius ore</l>
+<l>Te meus aeterno tempore factus amor.</l>
+<l>Tum niueis manibus nimium retinebere fausta,</l>
+<l>Tum domini blando suscipiere sinu.</l>
+<l>Quam fortuna tuum clarescet candida fatum!</l>
+<l>Tunc eris accepto munere laeta nimis.</l>
+<l>Sis precor at memori, placeat si, percipe mente,</l>
+<l>Quae referas domino, pauca sed apta dato:</l>
+<l>	"Non tibi pauca meis possunt, Francisce, libellis</l>
+<l>Reddere condignas carmina facta uices.</l>
+<l>Nam tua tanta seges cumulati muneris explet</l>
+<l>Ingenium nobis exiguumque latus.</l>
+<l>Littoribus conchas, coaceruas gramina campis;</l>
+<l>Obruimur meritis undique nempe tuis.</l>
+<l>Qui modo pro uersu quaerebam mittere uersus</l>
+<l>Proque sonis tenues, mollia uerba, sonos.</l>
+<l>Nunc in amore tibi non tantum uerba licebit</l>
+<l>Mittere, purpureis, ut fit, operta comis,</l>
+<l>Vera sed ex animo uerum testantia amorem</l>
+<l>Promere, dulciloquo mutua scripta sono.</l>
+<l>Tanta suo nunquam concepit pectore Bacchus</l>
+<l>Gaudia Gangeticis cum traheretur equis.</l>
+<l>Tanta nec, Hectoreae caderent cum moenia Troiae,</l>
+<l>Audiit Haemonium Graiugenumque decus.</l>
+<l>Tanta Giganteus Phlegraea ualle triumphus</l>
+<l>Nec meruit, superi parcite quaeso dei,</l>
+<l>Quanta meas nunc oh penetrarunt nata medullas</l>
+<l>Prospera, quod domino tantus amicus ero.</l>
+<l>Per uada, per Libyes mecum, per curua Maleae</l>
+<l>Littora, per Stygias est aditurus aquas.</l>
+<l>Sauromatas, glaciale solum qui uisere pro me,</l>
+<l>Nec timet extremis qua fluit Indus aquis.</l>
+<l>Cui ueterum cedunt arctissima uincla uirorum,</l>
+<l>Qui Phrygiam uincit Tyndareamque fidem.</l>
+<l>Haemonius cui sum fidus, cui Theseus ipse,</l>
+<l>Scipio, Patroclus Castoreusque comes.</l>
+<l>Ah tua magna nimis, dulcissime, littera nobis</l>
+<l>Pollicita est, meritis haud agitata meis.</l>
+<l>Ast ego quid merui? Qualis mihi munera confert</l>
+<l>Heu dominus? Quae sunt haec benefacta rogo?</l>
+<l>Militis en princeps, dominus tu munera serui</l>
+<l>Exigis at mores hoc meruere tui.</l>
+<l>Hoc genus e celsa demissum postulat aula,</l>
+<l>Hoc sibi perpetui nominis altus honos.</l>
+<l>Non mea, quae nulla est, uirtus, non praemia grati</l>
+<l>Muneris, accenso non in amore fides.</l>
+<l>Attamen utcumque est, sic habetur epistula, quam tu</l>
+<l>Misisti, extremo pectore fixa mihi.</l>
+<l>Vt nec Erythraei pretiosum gurgitis aequor,</l>
+<l>Fulua nec auriferi fluminis uada Tagi,</l>
+<l>Non opibus Persae, felicia munera Croesi</l>
+<l>Hanc mihi de nostris, eriperent manibus.</l>
+<l>Hanc ego pectoribus perstringam uiuus, eandem</l>
+<l>Mortuus obliquo substituam capite."</l>
+</div2>
+
+   <div2 xml:id="FBN040" type="poesis" met="hendecasyllabus">
+<head>	40. ad eundem Franciscum Raynerium</head>
+<l>Seruet chrysocomos suos paratus</l>
+<l>Croesus, purpureos Tyros amictus</l>
+<l>Extollat, uiolae, colore tincta.</l>
+<l>Reges Mygdonias eruant columnas</l>
+<l>Celsas dum statuunt domos nepotum:</l>
+<l>At nuper, gracilis poeta, uersus,</l>
+<l>Quos tu dulcisonos mihi dedisti,</l>
+<l>Non tantum proprio sinu tenebo,</l>
+<l>Francisce, Aonidum decus sororum,</l>
+<l>Discam sed, totiens benigne lectis,</l>
+<l>Et tangam citharae canora fila,</l>
+<l>Quo possim melius placere Phoebo,</l>
+<l>Quem tu perpetuo fauore curas.</l>
+</div2>
+
+   <div2 xml:id="FBN041" type="poesis" met="elegiacum">
+<head>	41. ad eundem</head>
+<l>Dulcis amice, fauet nouenarum turba sororum,</l>
+<l>Suggerit ingenium pulcher Apollo tibi.</l>
+<l>Ipse manum facilem, digitos ad pectinis usus</l>
+<l>Doctus habes, doctae consona fila lyrae.</l>
+<l>Percute meque tuis, dulcissime, dulcibus exple</l>
+<l>Carminibus, fieret copia nulla licet.</l>
+</div2>
+
+   <div2 xml:id="FBN042" type="poesis" met="elegiacum">
+<head>42. ad eundem, quod eius carmina
+cogant ipsum de amoribus scribere</head>
+<l>Esse quid hoc narrem? Quid tam tua carmina nobis</l>
+<l>Blanda cothurnatos eripiunt animos?</l>
+<l>Xanthia cara tuos rapuit quae nuper ocellos,</l>
+<l>Quid uenit ad nostras terque quaterque manus?</l>
+<l>Quid tua nocturno recitantur murmure nobis</l>
+<l>Scripta? Puellares quid cano luce modos?</l>
+<l>An amor et ueneris placidissima cura morantes</l>
+<l>Acrius exustis corripiunt facibus?</l>
+<l>Sic erit asper equus: contunderit ora lupatis,</l>
+<l>Non detrectantem frena minus cruciant.</l>
+<l>Vomeris urget onus tenerorum colla iuuencum</l>
+<l>Durius: haud sentit qui patienter arat.</l>
+<l>Charolus Astraea deducens Alpe cohortes,</l>
+<l>Mole canant alii qua uenit Ausoniam.</l>
+<l>Agminibus quantis occureret Itala uirtus</l>
+<l>Protinus, hi dictent qui sibi saeua uelint.</l>
+<l>Turcus ut armigero bellum terraque marique</l>
+<l>Suscitat in miseros milite christicolas,</l>
+<l>Enumerent alii, Venetorum mille carinas,</l>
+<l>Venit ab occiduis quantaque classis aquis.</l>
+<l>Belliger, aduersus Turcas Vngaria quantis</l>
+<l>Viribus exsurgit, Calliopea, refer:</l>
+<l>Nos Venus et Veneris gratissima cura Cupido</l>
+<l>Seuocat a duro carmine: blanda canam.</l>
+<l>Quare ego sacra sequar sacrae uexilla Diones,</l>
+<l>Deponam tumido bella cruenta sono.</l>
+<l>Phoebe pater, ualeas, ualeant Heliconia diuum</l>
+<l>Numina, Mars, ualeas uosque ualete, duces.</l>
+<l>Iam mihi mens rigidae surgit recitare puellae</l>
+<l>Lumina, luminibus insidiosa meis;</l>
+<l>Proelia ficta, iocos, commixto melle uenena,</l>
+<l>Oscula, liuidulas, lactea colla, notas.</l>
+<l>Iam mihi nocturnae ueniunt ad carmina rixae,</l>
+<l>Murmur et in tunicis poma reclusa suis.</l>
+<l>Iam mihi Phaedra uenit, formosa Semiramis et quae</l>
+<l>In rigidos fertur mollius isse uiros.</l>
+<l>Quid mihi cum uestro, Cocytia turba, cerastae?</l>
+<l>Ite procul tristes: dulcis Amor, uenias.</l>
+</div2>
+   <div2 xml:id="FBN043" type="poesis" met="elegiacum">
+<head>	43. Britio Albinouano</head>
+<l>Cur mea Musa silet, iuuenum doctissime Briti,</l>
+<l>Versibus excultis, Albinouane, petis.</l>
+<l>Ipse licet taceam, poteris cognoscere quare</l>
+<l>Elinguis facta est Musa repente mihi.</l>
+<l>Accipe pauca tamen, tua me ne gratia forsan</l>
+<l>Obliti culpet carminis esse reum.</l>
+<l>Otia carmen amat. Fuerant haec otia nobis,</l>
+<l>Currebam quando liberiore rota.</l>
+<l>Solus eram, soli fuerant satis omnia quaeque;</l>
+<l>Nil nisi uas simplex panis et unda foret.</l>
+<l>Nunc alia est ratio, Briti carissime: plures</l>
+<l>Circumeunt curae distrahimurque magis.</l>
+<l>Hinc ancilla petit, famulus uult inde, subintrant</l>
+<l>Nuctricum expensae continuusque labor.</l>
+<l>Vxor, ab Eois quicquid rate transuehit oris</l>
+<l>Mercator, uellet ponere in articulis.</l>
+<l>Viderit haec uestem, si qua est hyacinthina, dicit:</l>
+<l>	     "Dos emat hanc saltem, non inhonesta mihi!"</l>
+<l>Stat inaratus ager tenuis uindemia supra est,</l>
+<l>Hoc opus est, poscit iam sibi uterque puer.</l>
+<l>Maeonidem si quis perfecerit hisque Maronem,</l>
+<l>Vergilius mutus, mutus Homerus erit.</l>
+</div2>
+<div2 xml:id="FBN044" type="laus-poesis-pro-modestia-modestia" met="hendecasyllabus">
+<!-- izdanje Marković s. 87 -->
+<head>44. ad Nicolaum Albertum 
+pro Christophoro Papale, sororio suo, 
+<sic>ENDECASYLABON</sic><corr resp="MirMark">hendecasyllabon</corr></head>
+<lg ana="povod">
+<l>Tu quae <name key="ChristPapal">Christophorum</name> uocas peritum</l>
+<l>Iuris, dulcisonis <name key="mit-Musae">Camena</name> plectris,</l>
+<l><name key="poeata-Ovid">Paeligno</name> modulantior poeta,</l>
+<l>Illi multiplices ferens <sic>corolas</sic><corr resp="MirMark">corollas</corr>:</l>
+</lg>
+<lg ana="modestia">
+  	<l>Non quae sunt recinis sed in fauorem</l>
+	<l>Fortassis loqueris cliens patroni.</l>
+<l>Non est <name key="poeta-Vergilius">Vergilius</name>, <sic>Catulianis</sic><corr resp="MirMark"><name key="poeta-Catullus">Catullianis</name></corr></l>
+<l>Non dignus numeris, <name key="mit-Apollo">Apollo</name> non est.</l>
+<pb n="60r" />
+<l><name key="hist-Cicero">Arpinas</name> minus et licet stuporem</l>
+  	<l>Astanti soleat monere turbae.</l>
+</lg>
+<lg ana="prolaznost">
+	<l>Haec quid sunt? Minima mutantur hora.</l>
+	<l>Laudantur: subito minora fiunt.</l>
+	<l>Stant nunquam ueluti forent <sic>loquta</sic><corr resp="MirMark">locuta</corr>.</l>
+</lg>
+<lg ana="laus-poesis">
+	<l>At tu nobilium iuuenculorum</l>
+ 	<l>Felix gloria, sidus o serenum,</l>
+	<l>Quicquid carmine dixeris manebit</l>
+	<l>Semper, perpetuo uigebit aeuo,</l>
+<l>Nec umquam poterit subire <name key="mit-Lethe">Lethem</name>.</l>
+</lg>
+</div2>
+   <div2 xml:id="FBN045" type="poesis" met="sapphicum">
+<head>45. in laudem Marci Antonii Canalis, urbis Spalatinae praetoris
+dignissimi</head>
+<l>Splenduit cuius celebris per orbem</l>
+<l>Fama, seu diuus fuit ille seu uir;</l>
+<l>Nobilem prisci posuere uates</l>
+<l>Hunc super astra.</l>
+<l>Quisquis humano generi fauorem</l>
+<l>Praestitit quondam, meruit triumphum;</l>
+<l>Viuus augustos meruisse honores</l>
+<l>Dicitur immo.</l>
+<l>Lucidum nomen, decus atque uirtus</l>
+<l>Si quibus clari patribus senatus</l>
+<l>Fulxerit, nunquam tacitura Lethe</l>
+<l>Hunc superabit.</l>
+<l>Sed faces tamquam rutilantis astri</l>
+<l>Nubila expellent pluuiosa, quorum</l>
+<l>Nomen aeternum memorans per aeuum</l>
+<l>Fama loquetur.</l>
+<l>Nos tibi ciues Spalatensis urbis</l>
+<l>Mente deuota modulantis oestri</l>
+<l>Dicimus laudes merito decentes,</l>
+<l>Marce Canalis.</l>
+<l>Iste Turcarum prohibet tumultus,</l>
+<l>Exhibent cuncti sua lege sancta;</l>
+<l>Iste dat nobis fluat ut benigno</l>
+<l>Copia cornu.</l>
+<l>Nobilis, fortis, comis iste, clemens,</l>
+<l>Prouidus, constans, pius et seuerus;</l>
+<l>Hercules, Ianus, Fabius, Camillus,</l>
+<l>Iulius iste.</l>
+<l>Fulget Illustri iubar ut refundens</l>
+<l>Axe ridenti radios decorum;</l>
+<l>Gemma concluso rutilans in auro</l>
+<l>Sic nitet alba.</l>
+<l>Antoni princeps uerecunde, dormi.</l>
+<l>Dormias tutus, bone nos Canalis;</l>
+<l>En regit, pascit, fouet atque seruat</l>
+<l>Te duce Marcus.</l>
+</div2>
+
+   <div2 xml:id="FBN046" type="elegia-epistola" met="elegiacum">
+<head>46. ad Franciscum Raynerium de laudibus Aloysii Capelli,
+praetoris Spalatensis dignissimi</head>
+<l>Hanc tibi Franciscus mittit, Francisce, salutem,</l>
+<l>Vernula Dalmaticis, si petis unde, locis.</l>
+<l>Quisquis is est nescis, audito nomine forsan.</l>
+<l>Tam breuis est pietas, tam breuis omnis amor?</l>
+<l n="05">Excidit ex animo tibi num quod uiximus una?</l>
+<l>Affueram puero quod tibi nempe puer?</l>
+<l>Tam cito, care, tui iamne es oblitus amici,</l>
+<l>Qui uenerabatur teque tuamque domum?</l>
+<l>Immemor es totiens num quae dictauerit olim</l>
+<l n="10">Seu tua Musa mihi, seu mea Musa tibi?</l>
+<l>Ille ego sum quocum studium conferre solebas,</l>
+<l>Pieriis quocum fontibus ora dabas.</l>
+<l>Quo sine non libri, non gratae cura puellae,</l>
+<l>Dicebas quicquid posse placere tibi.</l>
+<l n="15">Ille ego sum, laudum nostrarum maximus auctor:</l>
+<l>Grandibus in rebus si uoluisse, sat est.</l>
+<l>Nonne fui tecum totis, generose, diebus,</l>
+<l>Mansit in hac mea dum tuus urbe pater?</l>
+<l>Illyricis populis amplissima frena gubernans</l>
+<l n="20">Iustitia, meruit qua super astra locum.</l>
+<l>Cuius erunt donec uiuet praeconia mundus,</l>
+<l>Imperium Venetae dum dicionis erit.</l>
+<l>Tertia messis adest forsan uel quarta quod ad te</l>
+<l>Scripsit inornatis nil mea Musa iocis.</l>
+<l n="25">Quid miser heu feci? Debebat carmina mille,</l>
+<l>Mille tibi uersus mittere noster amor?</l>
+<l>Non erat absurdum fideique uolumina nostrae</l>
+<l>Non inconueniens grandia posse legi.</l>
+<l>Dicere ne posses quod te tua cura fefellit,</l>
+<l n="30">Credideras in quo non habuisse fidem.</l>
+<l>Heu scelus! hoc dubiae posset tibi surgere menti;</l>
+<l>Quid tua Lethaeis pectora dantur aquis!</l>
+<l>Oblitus non sum rerum, Francisce, tuarum,</l>
+<l>Oblitus non est quem pius urit amor.</l>
+<l n="35">Desinet insiliens aurata palatia circum</l>
+<l>Vnda prius Venetae nobilitatis agi.</l>
+<l>Saxea montanos ponet Dalmatia colles</l>
+<l>Illyris in Latium uertet et ora solum.</l>
+<l>Cuncta prius coeptos reuocabunt flumina cursus</l>
+<l n="40">In caput, alba prius nox erit atra dies:</l>
+<l>Quam tua de nostris exibit imago medullis,</l>
+<l>Quam tuus e nostro dissoluetur amor.</l>
+<l>Tempora sed quia sunt nimium distantia primis,</l>
+<l>Continuo uariis obruor ecce malis.</l>
+<l n="45">Auferor assiduis nunc huc, nunc flatibus illuc,</l>
+<l>Vt rapitur tumido cimbula parua noto.</l>
+<l>Non potui iccirco tibi carmina mittere nostra:</l>
+<l>Carmina, uis dicam? mens nisi laeta facit.</l>
+<l>Pulchra serenatae componunt otia mentis</l>
+<l n="50">Carmina, carminibus debet abesse malum.</l>
+<l>Flamina discerpunt animum contraria nostrum:</l>
+<l>Anxietas, dubium, sollicitudo, labor.</l>
+<l>Vndique perturbor, series me longa malorum</l>
+<l>Iactat et ex duro durius urget onus.</l>
+<l n="55">Hinc premit angustae praegrandis inopia uitae,</l>
+<l>Hinc inhiat falsis caeca cupido bonis.</l>
+<l>Mille procellosos in me consurgere motus</l>
+<l>Sentio, proh Lachesis fila seuera meae.</l>
+<l>Gramina quot flores, quot habet tua curia patres,</l>
+<l n="60">Cum subeant triplici sollicitati gradu;</l>
+<l>Quot leuibus uolucres pertentant aera pennis,</l>
+<l>Aequora quot pisces, sidera Olympus habet:</l>
+<l>Tot mala commotis in me calcaribus extant,</l>
+<l>In mea certatim pectora tela ferunt.</l>
+<l n="65">Publica priuatos praecedunt damna labores,</l>
+<l>Attamen iratos sensimus esse deos.</l>
+<l>Credibile est superos his aduersarier oris,</l>
+<l>Tam misero quae sunt extenuatae modo.</l>
+<l>Quicquid ab exhaustis Turcarum forte procellis</l>
+<l n="70">Restitit, id nobis Martia turba rapit.</l>
+<l>Haec solet in siluis, inter truculenta ferarum</l>
+<l>Saxa, latebrosas gens habitare casas.</l>
+<l>Inde soporiferae quamprimum tempore noctis</l>
+<l>Opprimit instanter quos tenet alta quies.</l>
+<l n="75">Alligat ignotos trahit et per deuia montis:</l>
+<l>Libera uenduntur corpora, capta dolo.</l>
+<l>Hoc leuius sed enim, quamquam grauis imminet horror:</l>
+<l>In laribus propriis non ualuisse mori.</l>
+<l>Ad mala tot nostris accessit partibus ingens</l>
+<l n="80">Terribilisque fames, durius ense malum.</l>
+<l>Monticolae ex altis coierunt rupibus, hi quos</l>
+<l>Quam procul edendi saeuus adegit amor.</l>
+<l>Vix pedibus sistunt, turgentia membra uideres,</l>
+<l>Spiritus his tantum dura sub ossa uiget.</l>
+<l n="85">Limina circumeunt, per limina cuncta frequentes</l>
+<l>Ore petunt querulo nocte dieque cibum.</l>
+<l>Corpora quin etiam prostrata, iacentia passim,</l>
+<l>Exonerant animas exonerata graues.</l>
+<l>Numina surripiunt humanae pabula uitae:</l>
+<l n="90">Proh dolor! heu laesos turba piate deos.</l>
+<l>Deucalioneis genus est mortale sub undis,</l>
+<l>Exitiale nefas persoluisse satis.</l>
+<l>Nunc aliud surgit damnum, grauiora timemus</l>
+<l>Supplicia iratum constituisse Iouem.</l>
+<l n="95">Iam Phaethonteas meruerunt nostra fauillas</l>
+<l>Crimina, tormentis perdimur ecce nouis:</l>
+<l>Semen abit iactum; tellus deludit arantes</l>
+<l>Sicca; latent Hyades Oleniumque pecus.</l>
+<l>Imbribus aspergi noluere salubribus agri</l>
+<l n="100">Iam totiens et stat sole perusta seges.</l>
+<l>Herba uiret nusquam, solet ut, non gramina rident;</l>
+<l>Et tamen aestati uer dedit ecce locum.</l>
+<l>Quid tibi commemorem tantos, Francisce, dolores.</l>
+<l>Nostra quibus crescens multiplicatur humus?</l>
+<l n="105">Quid mala tot numerem, gemebundi maxima luctus</l>
+<l>Signa, quibus possent indoluisse ferae?</l>
+<l>Sunt alia et liceat multo grauiora fuissent:</l>
+<l>Praetor adest nobis qui tamen ista leuat.</l>
+<l>Hic requies, nostro sola est medicina dolori,</l>
+<l n="110">Solus adest fessis rebus amica salus.</l>
+<l>Cuius honoratae propter gestamina famae</l>
+<l>Haec placuit nobis scribere, amice, tibi.</l>
+<l>Quo celebris Veneta magis exornetur in urbe,</l>
+<l>Quo suus in Spalatum clarior extet amor.</l>
+<l n="115">Nam quoties praetor, digno se gessit honore</l>
+<l>Fecit et in populos munia iusta suos,</l>
+<l>Est mihi mos patrius, quis possum laudibus, illum</l>
+<l>Ferre, nefas tamquam sit reticere decus.</l>
+<l>Vrbe licet Veneta probitas cognoscitur omnis,</l>
+<l n="120">Accipe, nam dubitas forsitan iste quis est:</l>
+<l>Fulgida lux patriae, regit hanc Aloysius urbem,</l>
+<l>Ille Capelleae gloria summa domus.</l>
+<l>Quem puto miserunt caelestia numina nobis,</l>
+<l>Ne tot ab aduersis obrueremur aquis.</l>
+<l n="125">Missus ab augusto non est, mihi crede, senatu:</l>
+<l>Decidit e supero sanctus at iste polo.</l>
+<l>Iustitiam si quaeris, habet; pietate triumphus</l>
+<l>Huic dabitur, meruit religione coli.</l>
+<l>Magnanimus, grauis est, constanti pectore, prudens;</l>
+<l n="130">Peruius et pronae dexteritatis amans.</l>
+<l>Omnia clementer, summa ratione, benigno</l>
+<l>Sustinet aspectu consilioque domat.</l>
+<l>Tristia quaeque quo facit hic clarescere uultu,</l>
+<l>Damna lauat nostros discutiendo metus.</l>
+<l n="135">Haud aliter Titan, radiis ubi splenduit albis,</l>
+<l>Nebula purpureo lumine nigra fugat.</l>
+<l>Sic solet aduersis Thaumantia nubibus Iris</l>
+<l>Exhilarare tuas, dure colone, genas.</l>
+<l>Puppis ab aequorea rapitur si forte procella,</l>
+<l n="140">Sidere Amyclaeo laeta sic esse solet.</l>
+<l>Nunc bona promittit, nunc mollia tempora dicit</l>
+<l>Affore, constanter tot mala ferre iubet.</l>
+<l>Iura petit si quis, geminas sibi porrigit aures,</l>
+<l>Ceu quodam numen postmodo uerba refert.</l>
+<l n="145">Litibus auditis nunc hos, nunc increpat illos,</l>
+<l>Disona concordi pectora pace ligat.</l>
+<l>Illius o quotiens actor fuit ante tribunal,</l>
+<l>Sponte sua tandem fertur abiisse reus.</l>
+<l>Non fora clamosis feruentia litibus augent</l>
+<l n="150">Probra, furibundas comprimit ira minas.</l>
+<l>Quisquis adit, reuerenter adit; non opprimit Irum</l>
+<l>Croesus, auaritiae stat procul inde sitis.</l>
+<l>Munera nil prosunt, aequas turbantia leges;</l>
+<l>Non prece, non pretio iudicis ardet amor.</l>
+<l n="155">Lancibus aequatis examine ponderat ille,</l>
+<l>Libra suum nulla parte rependit onus.</l>
+<l>O quotiens res est ciuilibus optima rebus</l>
+<l>Quando cliens causam non dubitanter agit!</l>
+<l>Iudicis arbitrium quod non corrumpitur auro</l>
+<l>Nescio quid mixtum cum deitate tenet.</l>
+<l>Adde quod hic nobis confinia libera fecit,</l>
+<l>A male tranquillis non habitanda uiris.</l>
+<l>Semper ab innumeris infesta latronibus ora</l>
+<l>Haec fuit, hac nocuis est regione locus.</l>
+<l>Cur nisi terribiles quia subsunt ordine colles,</l>
+<l>Sunt nemora et frondes, sunt puto causa rubi.</l>
+<l>Haec ubi sollerti persensit mente Capellus,</l>
+<l>Non potuit tantae crimina ferre necis.</l>
+<l>Explorata prius quo sunt factura ruinam,</l>
+<l>Nomina, praedonum non inhonora capit.</l>
+<l>Sustinuere malae spectacula turpia uitae</l>
+<l>Haec etenim meritis praemia digna suis.</l>
+<l>Haud minus hic meruit laudis abolendo malignos</l>
+<l>Impia quam sceleris gens onerando bonos.</l>
+<l>Quid dicam quanti fuit hic solamen egenis?</l>
+<l>Hi referant quantis praestita uita fuit.</l>
+<l>Tot bona miramur, quae diuidit iste misellis,</l>
+<l>Vnde habeat, pietas sed sibi donat opes.</l>
+<l>Gratius est superis nihil hac pietate putamus,</l>
+<l>Numina nil tantum quam pie facta uident.</l>
+<l>Nauita, terrifico ueluti cum sidere nimbus</l>
+<l>Ingruit, aspiciens, uela minora parat.</l>
+<l>Consilio tetricum tempus praeuiderat olim</l>
+<l>Haud aliter nostri maxima cura ducis.</l>
+<l>Vndique conflauit uictum prudenter et inde</l>
+<l>Instituit ne quo possit ab urbe uehi.</l>
+<l>Quod nisi fecisset, puto sic moreremur ad imum,</l>
+<l>Aut fierent saeuae saeua pericla necis.</l>
+<l>Viuere quis nostrum tam duro tempore posset</l>
+<l>Ni uigil hic, qui nos praemonuisset, erat.</l>
+<l>Ergo salus nostra est, columen, tutela Capellus,</l>
+<l>Vita, fides, animus, dux, medicina, quies.</l>
+<l>Huic Spalatum meritos semper debebit honores</l>
+<l>Porriget et uictas ad sua dona manus.</l>
+<l>Hoc duce Politiae non desperauit iniqua</l>
+<l>Conditio, Clysium sub iuga nostra fugit.</l>
+<l>Effera Choruatiae populorum nomina toruae</l>
+<l>Hoc duce iam Venetos in sua regna uocat.</l>
+<l>Et uocitet sine fine precor, quia digna triumphis</l>
+<l>Efficit hic, populos qui pietate fouet.</l>
+<l>In manibus mors nostra suis fuit, ergo salusque;</l>
+<l>Omne bonum dedit hic, reppulit omne malum.</l>
+<l>Di sibi concedant quod nos non possumus ipsi,</l>
+<l>Quicquid e laurigero principe dignus erit.</l>
+<l>Di faciant uobis, quis consultantibus iste</l>
+<l>Venerit, externas conciliare plagas.</l>
+<l>Libera purpurei supponant colla tyranni</l>
+<l>Mundus et, o uestros procidat ante pedes;</l>
+<l>Subdita qui meritis loca, qui tractatis amore,</l>
+<l>Perpetuus uobis est dicionis honos.</l>
+<l>Ista coronatis sunt nobiliora triumphis</l>
+<l>Facta, metu quae, ui quaeque cruore carent.</l>
+<l>Qua fluit Indus aquis, Ganges, qua Bosphorus alget</l>
+<l>Thracius, extremi qua Garamantes arant;</l>
+<l>Qua perhibent roseis pronum Titana quadrigis</l>
+<l>In mare purpureas abdere nocte rotas;</l>
+<l>Proferat imperium Veneti reuerenda senatus</l>
+<l>Curia, Romuleis fascibus egregior.</l>
+<l>O, utinam uideam Veneti uolitare leonis</l>
+<l>Signa, fouent populos nam pietate suos.</l>
+</div2>
+
+   <div2 xml:id="FBN047" type="poesis" met="sapphicum">
+<head>47. in laudem Augustini Mullae,
+censuram seu legationem gerentis, sapphicum</head>
+<l>Praemia ob clarae celebrata uitae</l>
+<l>Quod magos Persae posuere caelo,</l>
+<l>Semper augustos monumenta tradunt,</l>
+<l>Indite censor.</l>
+<l>Glorians famae, celebrata currum</l>
+<l>Solis occasus iubar et ad ortus,</l>
+<l>Iactat excelsos sapiens alumnos</l>
+<l>Graecia septem.</l>
+<l>Cecropis doctae memorant Athenae</l>
+<l>Theseos, Codros simul Aristippos;</l>
+<l>Quos quidem cunctos eleuasse uirtus</l>
+<l>Dicitur alma.</l>
+<l>Regulos, Brutos, Fabios, Camillos,</l>
+<l>Nulla Marcellos reticescet aetas,</l>
+<l>Subdidit mundum sibi quod triumphans</l>
+<l>Martia Roma.</l>
+<l>Et tibi surgit Veneto leoni</l>
+<l>Gloria, ad seros remeans nepotes,</l>
+<l>Quas queas partes alias tuis iam</l>
+<l>Subdere regnis.</l>
+<l>Mulla commissum facit ecce munus</l>
+<l>Iam probe, iuste, comiter, benigne.</l>
+<l>Illyris gaudet patiens ut ora,</l>
+<l>Nec mala sentit.</l>
+<l>Iam magos Persas, sophiae magistros,</l>
+<l>Iudice uincit tuus ecce Mulla.</l>
+<l>Graeciae septem sapientiores</l>
+<l>Mulla subaequat.</l>
+<l>Cecropem, Codrum, Phociona uincit.</l>
+<l>Iliae claros superat nepotes,</l>
+<l>Regulos, Drusos, Decios, Camillos</l>
+<l>Corneliosque.</l>
+<l>Semper extento catus orbe uiuet;</l>
+<l>Donec aeterni rutilent Olympi</l>
+<l>Sidera et fiet mare procellosum,</l>
+<l>Mulla uigebit.</l>
+</div2>
+<div2 xml:id="FBN048" type="laus-resp" met="elegiacum">
+	<head>48. ad Gregorium Caballinum Sibenicensem poetam
+	eximium</head>
+<lg ana="nomen">
+	<l>Felices docto cognomina docta parentes</l>
+	     <l>Crediderim casu quod tribuere tibi,</l>
+</lg>
+<lg ana="poesis">
+	<l>Nunc maiora fide tua cum dictamina cerno,</l>
+	     <l>Qualia uix prisco tempore saecla dabant,</l>
+  	<l n="05">Qualia credibile est non sacros ante poetas,</l>
+	     <l>Collibus Aoniis nec cecinisse deas,</l>
+	<l>Nil dubito, constat Parnasia numina facto</l>
+	     <l>Concilio nomen constituisse tuum.</l>
+</lg>
+<lg ana="laus">
+	<l>Inde corymbiferam capiti imposuisse coronam,</l>
+  	     <l n="10">Munera non ulla deperitura die.</l>
+	<l>Ergo Caballino donatus nomine uates</l>
+	     <l>Laurigeros inter tu quoque notus eris.</l>
+	<l>Inter honoratos non ultima gloria uates,</l>
+	     <l>Ergo Camenarum tu quoque lumen, aue!</l>
+</lg>
+</div2>
+<div2 xml:id="GC049" type="resp" met="elegiacum">
+	<head>49. responsio eiusdem</head>
+   <byline>(Gregorius Caballinus)</byline>
+<lg>
+	<l>Candida fama prius mihi te, Francisce, poetis</l>
+	     <l>Cantabat nostri temporis esse parem.</l>
+</lg>
+<lg>
+	<l>Carmen ubi ardiua formatum incude recepi,</l>
+	     <l>Quale Meleteus fecerat ante senex,</l>
+ 	<l>Fama, tace, dixi, non est hic temporis huius</l>
+	     <l>Vates: umbra sub hoc corpore prisca latet.</l>
+	<l>Si sunt uera satis Samii documenta magistri,</l>
+	     <l>Ad noua fata iterum Maeonis umbra redit.</l>
+	<l>Iamque iterum qui cantat, erit grauiore cothurno</l>
+ 	     <l>Committetque truces ad fera bella uiros.</l>
+	<l>Smyrnaeusque Meles quantum Calaberue Galaesus,</l>
+	     <l>Dalmaticus tantum notus Iader erit.</l>
+</lg>
+<lg>
+	<l>Nunc tamen ad nostrum ludis quae carmina nomen,</l>
+	     <l>Siue patres illud seu posuere dei,</l>
+  	<l>Stesichori Philomela tuo cantauit in ore</l>
+	     <l>Et congesserunt mella Platonis apes.</l>
+</lg>
+</div2>
+   <div2 xml:id="FBN050" type="poesis" met="elegiacum">
+<head>	50. de fide Modonei populi erga dominium Venetum</head>
+<l>Non tot in Actiaco numerauit rostra tumultu</l>
+<l>Nereus, ex imis sollicitatus aquis:</l>
+<l>Non Agamemnoniae tot conflauere Mycenae</l>
+<l>Vela, Phrygas pateret cum grauis ira nurus;</l>
+<l>Itala non tellus, non Persia protulit horrens</l>
+<l>Belligeratorum tot fera corda uirum.</l>
+<l>Quis tot in Haemoniis uidit tentoria campis</l>
+<l>Cum tremefacta suas Roma timeret opes,</l>
+<l>Quot centum uenere rates, quot in agmina Turcae</l>
+<l>Conuenere feri praecipitata manu.</l>
+<l>Quo melius tibi, sancta Fides, pia thura darentur</l>
+<l>Esset et hospitibus dignior ara tuis.</l>
+<l>Gens Modonea tuum melius quo numen adoret</l>
+<l>Et ferat ante tuos munera grata focos.</l>
+<l>Haee circumsessos armato milite muros</l>
+<l>Vt uidet intrepida mente, uirilis agit.</l>
+<l>	"Nunc opus est dextra, socii; nunc pectoris ardor,</l>
+<l>Emineat uestri nobilitandus honos.</l>
+<l>Arma parate: graues circumstant undique turmae;</l>
+<l>Classis en ab alto gurgite saeua uenit.</l>
+<l>Barbarus haud aliter truculentus obambulat hinc nos,</l>
+<l>Inde petit muros, quaeritat inde gradum.</l>
+<l>Martius occluso lupus instat ut omnis ouili</l>
+<l>Rostra cruentauit si stimulante fame.</l>
+<l>Et licet horrificus Caesar terraque marique</l>
+<l>Sit prope: terrificas spernite quaeso minas.</l>
+<l>Robora magnanimae spernant insignia laudis</l>
+<l>Cuncta, dat aeternum mors generosa decus.</l>
+<l>Tempus adest fidei monstrandae clara per aeuum</l>
+<l>Praemia, pro dominis quos decet esse suis.</l>
+<l>Tempus adest fidam quo te non sola Saguntos</l>
+<l>Iactabis: meritum tale duabus erit.</l>
+<l>Stat dare pro Venetis diuo duce et auspice Marco</l>
+<l>Vxores, uitam, pignora, tecta, solum."</l>
+<l>Dixit et exustis cara cum coniuge natis</l>
+<l>Omnia fert rapidis conicienda rogis.</l>
+<l>Res mira et nullos umquam moritura per annos,</l>
+<l>Indiga Maeonio carmine tanta fides.</l>
+<l>Opposuere uiri pugnantia pectora Turcis,</l>
+<l>Sit quasi pro dominis mors inacerba suis.</l>
+<l>Tunc Mahumetanae ceciderunt corpora gentis</l>
+<l>Obuia pectoribus quot coiere suis.</l>
+<l>Hic gemitus, graue murmur erat, suspiria, luctus;</l>
+<l>Hic dolor, hic tetricae tristis imago necis.</l>
+<l>Quocumque aspiceres, duro sub Marte cadebant;</l>
+<l>Omnia liuentis plena cruoris erant.</l>
+<l>Tanta fuit strages, quod nec manus unde ferire,</l>
+<l>Nec ubi possit habet sistere planta pedem.</l>
+<l>Rubra coloratas uoluebat riuus in undas</l>
+<l>Sanguineus mixtis busta cadaueribus.</l>
+<l>Hostibus at postquam cessit uictoria, Caesar</l>
+<l>Dixit: "Honoratae gens erat ista necis.</l>
+<l>Inclita gens erat haec, meritis cumulanda beatis,</l>
+<l>Perpetuas si non praeposuisset opes.</l>
+<l>Felix, o nimium felix Modoneia pubes,</l>
+<l>Vela feret donec Graecia, semper eris.</l>
+<l>Dicet, ad Aegaeas si quis rate tenderit undas:</l>
+<l>Haec nimium Venetis terra fidelis erat."</l>
+</div2>
+   <div2 xml:id="FBN051" type="poesis" met="hexametrum"> 
+<head>51. de aduentu Petri Cyppici, patricii Spalatensis, hecatonstichon</head>
+<l>Buxea multiforas nunc nunc age, tibia, uoces</l>
+<l>Concine; Threiciis concordent aurea neruis</l>
+<l>Plectra; coronato prodeas, cantator Apollo,</l>
+<l>Vertice, non humeris desit genialis amictus</l>
+<l>Purpureis, Phrygiae sed habens contegmina pallae.</l>
+<l>Talis ades, celsi qualis ueneranda Tonantis</l>
+<l>Exhilaras sacro nitidus conuiuia cantu.</l>
+<l>Eia age Castalio coeant e fonte sorores</l>
+<l>Sicelides, nimio quatiant age uerbere terram.</l>
+<l>Applaudantque simul iuuenes puerique puellae</l>
+<l>Et matrona, graues uultus sed ponat opertae</l>
+<l>Frontis ac obductas hilarent pia carmina rugas.</l>
+<l>Permutentque genas tantum dum munera diuis</l>
+<l>Rite celebrati reddantur debita uoti.</l>
+<l>Dum niuei centum maculentur caede iuuenci,</l>
+<l>Dum tibi turicremis cumulentur cinnama flammis,</l>
+<l>Iupiter, astrigeri residens qui uertice Olympi</l>
+<l>Cuncta regis, decimum prospectans lumine mundum;</l>
+<l>Qui mare ueliuolum, terras qui lege gubernas</l>
+<l>Perpetua et liquidus quicquid complectitur aether.</l>
+<l>Quod Petro dilecta suum remeasse penatum</l>
+<l>Limina, quod reduci licuit tetigisse carina</l>
+<l>Optatos patriae portus, dulcissima natos</l>
+<l>Pignora facundi constringere pectora fratris</l>
+<l>Moribus et nulli cessurae coniugis almam</l>
+<l>Conspicuamque fidem, superat quae nobilis omnes</l>
+<l>Hesperias Graiasque nurus probitate decori</l>
+<l>Corporis. Hanc niueam contendat quisque Lacaenam</l>
+<l>Esse, peregrinis tamen at remorarier oris</l>
+<l>Nil timuit placidi constans reuerentia Petti.</l>
+<l>Nec timuisse procos decuit telasque retextas</l>
+<l>Coniugis absentis. Felix cui casta pudicum</l>
+<l>Praeseruat fortuna torum taedasque iugales,</l>
+<l>Seu licet ad Gangem, gelidas seu tendat ad arctos,</l>
+<l>Vel super Hesperiae loca disiunctissima Thules,</l>
+<l>Amne Canopaeo uel qua fluit aequore Nilus.</l>
+<l>Nulla timoris erit spiritus in pectore fixa</l>
+<l>Composito, nullis libeat mihi ponere lustris</l>
+<l>Temporibusue modum semper tibi fida manebit</l>
+<l>Vxor, amica tuae seruabit munera uitae.</l>
+<l>Nec properare domum fama cogeris iniqua:</l>
+<l>Eximium patriae decus et generosa nepotum</l>
+<l>Gloria, Petre, tuum, properauit publica gressus</l>
+<l>Cura tuos, propriae postponens munera causae.</l>
+<l>Dum miseris conferre putas, dum quaeris amicis</l>
+<l>Obsequium patriam firmo munimine fulcis</l>
+<l>Dumque tuam, dignis patriae te quisque parentem</l>
+<l>Laudibus ad summi perducit sidera caeli.</l>
+<l>Perducantque precor uicturi semper in aeui</l>
+<l>Saecla. Nec immerito: quis enim grauitate Catonis,</l>
+<l>Religione Numae, Bruti pietate perennis</l>
+<l>Moribus aut Laeli meruit maiora diserti.</l>
+<l>Num Ciceronis honos, diui num Caesaris almum</l>
+<l>Nomen, an excelsi praestantia clara Metelli</l>
+<l>Tot meruere, sacrae quot habet praeconia laudis</l>
+<l>Noster Amyntorides, nostri prudentia Iani,</l>
+<l>Qui ratione moues geminas in uertice frontes,</l>
+<l>Praeteriti retinens quicquid praecesserit aeui</l>
+<l>Quicquid et est subita uenturum clade repellis.</l>
+<l>Ingenio uoluens quid sit tolerare, negandum</l>
+<l>Quidue, per aduersos truculenti numinis aestus</l>
+<l>Magnanimus calcas, sapienti corde refrenas</l>
+<l>Fumiferos animi motus tenebrosaque mentis</l>
+<l>Damna, sub Hectoreo possunt si talia cerni</l>
+<l>Pectore. Tot oculi tibi sunt, quot, maxime, summis</l>
+<l>Rebus agis, cauda, quot habet Iunonius ales;</l>
+<l>Clara serenato fulgent quot sidera caelo,</l>
+<l>Littore Mygdonio numerantur quotue lapilli.</l>
+<l>Non amor aut odium certant, non muneris in te</l>
+<l>Praemia, uaniloquae non fallax gloria pompae,</l>
+<l>Non dolus aut dubiam lacerantia fulmina mentem;</l>
+<l>Ast honor et pietas, cordato pectore uirtus</l>
+<l>Nobilis, egregium decus et ueneranda deorum</l>
+<l>Religio placidi simul et mens conscia recti.</l>
+<l>Qua soleas, iusta perpendens omnia lance,</l>
+<l>Soluere quid deceat, turpi quid distet honestum,</l>
+<l>Quid sumus et quantos humana negotia motus</l>
+<l>Exagitant, - scelus oh! - uariat quam caeca rebelles</l>
+<l>Alternans fortuna uices, quo turbine fertur</l>
+<l>Vita hominum, breuibus nimium conclusa diebus.</l>
+<l>Quis modo diuini memoret reuerenda Platonis</l>
+<l>Dogmata? Num Samii docuerunt talia uatis</l>
+<l>Scripta? Stagireo num sunt haec digna magistro,</l>
+<l>Quae tibi longa dedit rerum experientia, longus</l>
+<l>Vsus et ex summis prudentia condita libris?</l>
+<l>O quantum et quotiens felix, o mente benigna,</l>
+<l>Qui procul amota causas caligine rerum</l>
+<l>Perspicis, heroas contemnens, sceptra, tyrannos,</l>
+<l>Diuitias Fului uel crimina sacra Metelli.</l>
+<l>Hoc melius quam si Gadibus remeare subactis,</l>
+<l>Litus ad Eoum properes, Rhodopeia Martis</l>
+<l>Regna, simul Babylon, uel quae spolianda trophaeis</l>
+<l>Ausoniis inuicta manet; si sub iuga mittas</l>
+<l>Tot populos, quot Roma suis submisit alumnis</l>
+<l>Martia. Praecipui sunt haec monumenta triumphi</l>
+<l>De propria uirtute suos quod quisque parentes</l>
+<l>Subleuat ac titulos statuat non caede rubentes,</l>
+<l>Vrbibus euersis non ui neque fortibus armis,</l>
+<l>Laude sed aeterna, facis ut, meritisque togaque,</l>
+<l>Nestoreos Phrygiosque precor uicturus in annos.</l>
+</div2>
+   <div2 xml:id="FBN052" type="poesis" met="elegiacum"> 
+<head>	52. ad eundem, pictas urbes ementem</head>
+<l>Pro quibus immensus bellum ciet urbibus orbis</l>
+<l>Dantur et alternae uulnera mille neces;</l>
+<l>Pro quibus argentum, fuluum uacuatur et aurum:</l>
+<l>Ecce nouem nummis octoue Petrus habet.</l>
+<l>Proh scelus! humanae quanta est stultitia uitae:</l>
+<l>Quo pereunt reges unicus assis emit!</l>
+</div2>
+<div2 xml:id="FBN053" type="epistula" met="elegiacum"> 
+	<head>53. <name key="MarkMarul">Marco Marulo</name> in ualle
+Surda commoranti</head>
+<lg>
+	<l>Cultor et antistes Surdae, celeberrime, uallis,</l>
+	     <l><name key="MarkMarul">Marule</name>, perpetui regis amator, aue!</l>
+	<l>Cuius in auxilium fidei dictamina nostrae</l>
+	     <l>Plura uigent, scriptis annumeranda sacris.</l>
+	<l>Cuius honoratae uolitant insignia famae</l>
+	     <l>Praemia, Pieriis digna referri modis.</l>
+</lg>
+<lg>
+	<l>Scire uelis fortasse tui quid <name key="MarkMarul">Marce</name>, sodales,</l>
+	     <l>Quid faciant fratres, quid pia mater ait?</l>
+	<l>Ipsa tuos patria infelix qua mente recessus</l>
+	     <l>Pertulerit? Num quid fleuit amica cohors?</l>
+</lg>
+<lg>
+	<l><name key="Barbar">Barbarus</name> haud aequo dictus cognomine quaestor</l>
+	     <l>Te loquitur, de te somnia fera refert.</l>
+	<l>Si quis ait scriptum quod te misisse, "Salutat -</l>
+	     <l>Interrogat - num me <name key="MarkMarul">Marulus</name> anne meus?"</l>
+	<l>Huic, ubi pro certo missam uidet esse salutem,</l>
+	     <l>Labuntur lacrimae maesta per ora piae.</l>
+	<l>Moribus excultis <name key="Alvis">Aloysius</name> atque <name key="Marin">Marinus</name></l>
+	     <l>Heu ueluti amissum te sibi uterque dolent.</l>
+	<l>Hi prece sollicita sacratum numen adorant,</l>
+	     <l>Vt possint tecum uiuere siue mori.</l>
+	<l><name key="NikPetrak">Nicoleon</name> sine te Petrarcha nec incubat aris,</l>
+	     <l>Vt prius: oranti tu sibi in ore sonas.</l>
+	<l>Te meminit superos tacita si uoce fatigat,</l>
+	     <l>Te licet absentem nocte dieque refert.</l>
+	<l>Carmen ubi accepit factum de Virgine Sancta,</l>
+	     <l><name key="HierPapal">Hieronymus</name> de te, Marule, mira canit.</l>
+	<l>Hoc sonat ad citharam; laudat per compita, stringit</l>
+	     <l>Pectoribus; grates hoc tibi semper agit.</l>
+	<l>Incolumes tibi sunt fratres, carissima mater</l>
+	     <l>Viuit adhuc, sine te si tibi uita foret.</l>
+</lg>
+<lg>
+	<l>Heu patria altisonas subicit gemebunda querellas,</l>
+	     <l>Vulsa comam, lacerum pectus et ora notat.</l>
+	<l>Nam modo qui fueras Spalatensi solus in urbe</l>
+	     <l>Omnibus exemplar consiliumque decus,</l>
+	<l>Tam cito raptus abis, abiit tecum omnis honestas</l>
+	     <l>Et probitas uitae religioque fides.</l>
+	<l>Nos sine te laeti nequaquam uiuimus; auget</l>
+	     <l>Tot mala nostra tuae facta ruina fugae.</l>
+	<l>Viuimus et si uis nostram cognoscere uitam,</l>
+	     <l>Accipe, pars animae maxima, <name key="MarkMarul">Marce</name>, meae:</l>
+	<l>Egredere e muris nihil est nisi Turcicus horror,</l>
+	     <l>Praeda cruenta, neces, flamma, querella, fuga.</l>
+	<l>Villicus accurrens albo et sine sanguine uultu,</l>
+	     <l>Dat captiuorum nomina, bella refert.</l>
+	<l>E speculis custos trepidi dat signa tumultus:</l>
+	     <l>"Heu fuge, - conclamat - praecipitato fugam!"</l>
+	<l>Quisquis ad arma uocans se praeparat, arma resultant;</l>
+	     <l>Arma gerit iuuenis, currit ad arma senex.</l>
+	<l>"Pax intra muros tamen est laudanda, sed, inquis,</l>
+	     <l>Haec solet externum saepe leuare malum."</l>
+	<l>O utinam pax ista foret! Maiora sed intus</l>
+	     <l>Bella tument, odiis heu maledicta nouis.</l>
+	<l>Qualia Romulei nunquam uidere nepotes;</l>
+	     <l>Aetas non uidit qualia nulla prior.</l>
+	<l>Natus it in patrem, saeuissima filia matri est;</l>
+	     <l>In socerum dirus suscitat arma gener.</l>
+	<l>Frater in auxilium fratris non sperat, amico</l>
+	     <l>Nullus amicus adest; nunc nepos odit auum.</l>
+	<l>Cognatum, cognate, caue! Stat quaeque sorori,</l>
+	     <l>Tamquam priuigno saeua nouerca, soror.</l>
+	<l>Iurgia, si rixas, si quis conspexeris iras;</l>
+	     <l>Saeuitiam, lites, conuiciumque dolum.</l>
+	<l>Protinus accurrit populi non parua corona;</l>
+	     <l>Interroga, quid sit? - Ista propinquus agit.</l>
+	<l>Nullus amor; quae sunt miseris solacia rebus?</l>
+	     <l>Prospicis arma foris, prospicis arma domi.</l>
+</lg>
+<lg>
+	<l>Interea felix tu laeta mente reponis</l>
+	     <l>Otia, candidulis candidiora rosis.</l>
+	<l>Integer expectans aeternae praemia uitae,</l>
+	     <l>Irrides nostri temporis exitium.</l>
+	<l>Inconcussa fides suffert tentamina mundi,</l>
+	     <l>Concilias Christum dum tibi, <name key="MarkMarul">Marce</name>, tuum.</l>
+</lg>
+<lg>
+	<l>Quem pro <name key="FranNatal">Francisco</name> uelis exornare misello,</l>
+	     <l>Perpetuo sic te donet, amice, bono.</l>
+</lg>
+</div2>
+   <div2 xml:id="FBN054" type="poesis" met="elegiacum">
+<head>54. Marci Maruli responsio</head>
+<l>Grata salutatrix a te mihi littera uenit,</l>
+<l>O Francisce, meae cultor amicitiae!</l>
+<l>Haec docuit quanto est absentia nostra dolori</l>
+<l>His, quibus extiteram semper in urbe comes.</l>
+<l>Tum quod tristitiae cumulus superadditur isti</l>
+<l>Dum pecus in praedam ferri hominesque uident.</l>
+<l>Ferre utrumque malum mentique mederier aegrae</l>
+<l>Dicere conabor qua ratione decet.</l>
+<l>Insula me retinet quae scis, non amplius ista</l>
+<l>Quam stadiis decies distat ab urbe decem.</l>
+<l>Quod si forte uelint mecum simul esse sodales</l>
+<l>Et nostra cupiunt rusticitate frui,</l>
+<l>Acta ratis remo septenis ocius horis</l>
+<l>Sistet in hoc illos quo moror ipse loco.</l>
+<l>Excipiam laetus uenientes; brachia collo</l>
+<l>Aduoluam, labris labra genisque genas.</l>
+<l>Inde recumbentes oleae uiridantis in umbra,</l>
+<l>Placati iuxta murmura blanda freti,</l>
+<l>Alterno dulces miscebimus ore profatus,</l>
+<l>Dum pueri mensas prandiolumque parant.</l>
+<l>Mox inuitati pergemus sumere non quas</l>
+<l>Dicitur Antoni mensa uorasse dapes;</l>
+<l>Nec patinas, Luculle, tuas pinguesue capones,</l>
+<l>Siue papillatae sumina grata suis,</l>
+<l>Sed cenam cui dimisso Serranus aratro</l>
+<l>Vellet honoratas applicuisse manus,</l>
+<l>Et qua contentus Samnitum sperneret aurum</l>
+<l>Vir praestans animo Curius atque fide.</l>
+<l>Pulmento satiare famem potuque leuare</l>
+<l>Simpliciore sitim creditur esse satis</l>
+<l>Laudeque tam dignum: quam prorsus turpe putatur</l>
+<l>Esse suae seruum mancipiumque gulae.</l>
+<l>Cena tamen uobis dabitur magis ampla, sodales:</l>
+<l>Nostri ruris opes, brassica, beta, cicer;</l>
+<l>Et de uicino capti modo gurgite pisces:</l>
+<l>Sargus, maena, canis, sepia, salpa, lupus.</l>
+<l>Pocula non deerunt, baccho saturata rubello,</l>
+<l>Quaeque solet rigidum lympha domare merum.</l>
+<l>Denique quae mensae donat Pomona secundae:</l>
+<l>Vel pira uel ficos uel melimela dabo.</l>
+<l>Ergo si qua meos nunc cura fatigat amicos</l>
+<l>Visendique mei si qua cupido tenet,</l>
+<l>Dic ueniant - iter est modici, Francisce, laboris -</l>
+<l>Cumque illis, si me diligis, ipse ueni.</l>
+<l>Non sic aduentu quondam laetatus Vlyxis</l>
+<l>Hortorum cultor dicitur Alcinous;</l>
+<l>Nec tanto exceptum pastoris amore Molorchi</l>
+<l>Amphitryoniadem fama fuisse refert.</l>
+<l>Ipse ego quam uobis hilari ferar obuius ore</l>
+<l>Et toto cedam protinus hospitio.</l>
+<l>Cunctorum, quaecumque deus mihi donat, amicos</l>
+<l>Consortes fieri participesque uolo.</l>
+<l>Solari interea Martis, Francisce, maligni</l>
+<l>Casibus afflictos hac ratione potes:</l>
+<l>Nec frangi aduersis nec laetis fidere rebus</l>
+<l>Egregium quiddam magnificumque putent.</l>
+<l>Terrarum nihil orbis habet firmumue ratumue:</l>
+<l>Omnia non stabili fertque refertque rota.</l>
+<l>Irus ut in Croesum, sic Croesus transit in Irum:</l>
+<l>De misero locuplex, de locuplete miser.</l>
+<l>Seruitio premitur dudum qui sceptra tenebat,</l>
+<l>Sceptra tenens regnat qui modo seruus erat.</l>
+<l>Denique cunctarum sunt magna uolumina rerum</l>
+<l>Atque agitat uarias sors animosa uices.</l>
+<l>Illo igitur nostrae mentes et uota ferantur,</l>
+<l>Est ubi perpetui mansio certa boni.</l>
+<l>Christicolas immensa beant ubi gaudia fidos,</l>
+<l>Gaudia non ulla deperitura die.</l>
+<l>Nil hostile timent nec quicquam triste uerentur</l>
+<l>Conspectum summi qui meruere Dei.</l>
+<l>Ipse quidem nobis caelesti in lumine sedem</l>
+<l>Esse iubet, non quam nunc habitamus humum.</l>
+<l>Propterea quicumque gemit dispendia terrae,</l>
+<l>Fallitur haec patriae si putat esse suae.</l>
+<l>Hic lugenda tamen prauae sunt crimina mentis,</l>
+<l>Vt dolor iratum mitiget iste Iouem.</l>
+<l>Hic culpas deflere docet, scandamus ut illo,</l>
+<l>Illo ubi tristities non habet ulla locum;</l>
+<l>Illo ubi laeta salus, pax candida, uita perennis,</l>
+<l>Et sine lite quies, et sine nocte dies.</l>
+<l>Hactenus haec. Ipsos nunc nostra Thalia salutet</l>
+<l>Intima quos nobis iungit amicitia:</l>
+<l>Hieronymum cithara clarum, grauitate Marinum,</l>
+<l>Ruris et agrorum cultibus Aluisium;</l>
+<l>Nicoleon risu facilem, sed, ut ipse iubemus,</l>
+<l>Ante salutetur Barbarus usque meus;</l>
+<l>Ille licet musis et sanguine praestet auorum,</l>
+<l>Non tamen inuitus carmina nostra legit.</l>
+</div2>
+<div2 xml:id="FBN055" type="laus" met="elegiacum"> <!-- Marković 103 -->
+	<head>55. ad statuarium, Marci Maruli effigiem formare
+	procurantem</head>
+<lg ana="frustra"><!-- početak = kraj grupe; uirtus uiuida -->
+<l>Vana cupis: gypso longum protendere in aeuum</l>
+<l>Effigiem tanti nominis atque uiri,</l>
+<l>Nobilis o fictor! Fabrili fictier arte</l>
+<l>Non potis est uirtus uiuida: uana cupis!</l>
+</lg>
+<lg ana="poredba">
+<l>Marmora <name>Praxitelis</name> frangentur et aera <name>Myronis</name>;</l>
+<l>Durat <name>Apelleis</name> nec color in tabulis.</l>
+<pb n="f. 81v" />
+<l>Certius est signum, quo se <sic>deffendit</sic><corr resp="MirMark">defendit</corr> ab aeuo</l>
+<l><name key="MarkMarul">Marulus</name>, aeternis clarus ad astra notis.</l>
+<l>Quis <name>Maro</name>, quis meruit diuinum nomen <name>Homerus</name></l>
+<l>Et plures quorum fulget imago recens.</l><!-- quis = quibus? -->
+</lg>
+<lg>
+<l>Quare age, uane, precor, uanum <sic>depone</sic><corr resp="autor">sepone</corr> laborem:</l><!-- dodao zarez iza precor -->
+<l>Quod manus ipsa facit, debilitatur opus.</l>
+</lg>
+<lg>
+<l>Ingenio decreuit opes cum uatibus almas</l>
+<l>Quaerere <name>Pieriis</name> <name>Marulus</name> iste meus;</l>
+<l>Inter honoratos sublimia scripta cothurnos</l>
+<l>Huius ubique tenet quisquis in orbe legit.</l>
+</lg>
+</div2>
+<div2 xml:id="FBN056" type="epicedion">
+<head>56. ad Marcum Marulum de obitu Valerii fratris</head>
+<lg>
+<l><name key="MarkMarul">Marule</name>, Socraticae non dispar gloria uitae,</l>
+<l>Praeualido fultum robore pectus habens,</l>
+<l>Exemplar uirtutis, honos, lux, <name key="MarkMarul">Marule</name>, nostri</l>
+<l>Temporis, o patriae uita salusque tuae!</l>
+<l>Tramite qui recto diuinae sedis ad urbem</l>
+<l>Tendis et inuitans dirigis hinc alios</l>
+<l>Quid mandata Dei iubeant; qui solus ad unguem</l>
+<l>Obseruas plures, deinde docere cupis;</l>
+<l>Sub pedibus Fortuna tuis regina triumphans</l>
+<l>Terribiles uinclis ferre coacta manus;</l>
+<l>Mors et fata deum, quid sint caelestia nosti</l>
+<l>Iura, quid humana conditione subest;</l>
+<l>Quam miserum est mortale genus fluitansque caducum,</l>
+<l>Vt rosa florigero languet adempta iugo;</l>
+<l>Nosti quam subito mutantur gaudia luctu,</l>
+<l>Alitis acta modo quam breuis hora fugit.</l>
+</lg>
+<lg>
+<l>Confiteor graue sit damnum, grauior quoque poena</l>
+<l>Nonnullum ex caris occubuisse tuis.</l>
+<l>Frater erat, dices: carissima pectora fratris</l>
+<l>Heu miser ipse gemo perpetuoque gemam!</l>
+</lg>
+<lg>
+<l>Huius nomen erat quanta probitate fideque</l>
+<l>Te docet et quali laude ferendus honos!</l>
+<l>Quis dubitat clarae quod erat uirtutis amator,</l>
+<l>Nobilis in bello nobiliorque toga?</l>
+<l>Huic inerat gratae quaedam praestantia formae;</l>
+<l>Ingenium, probitas consiliumque decus.</l>
+<l>Non sibi sed patriae carisque uigebat amicis;</l>
+<l>Iuuerat ignotos auxilioque suos.</l>
+<l>Doctus, honoratae meruit praeconia uitae,</l>
+<l>Mellifluum fundens semper ab ore fauum.</l>
+<l>Adde quod ille quies studiorum, <name key="MarkMarul">Marce</name>, tuorum,</l>
+<l>Ille tuis curis dulce leuamen erat.</l>
+<l>Dum fuit hic, dulces Musarum expromere fetus,</l>
+<l>Aonidum poteras sollicitare nemus.</l>
+</lg>
+<lg>
+<l>Sed quid ego haec referens uulnus in uulnera condo,</l>
+<l>Et lacrimas lacrimis associare parem?</l>
+<l>Oceano fluctus, frondes cur frondibus addo;</l>
+<l>Aequoribus pisces, sidera curue<!-- sic Mark. --> polo?</l>
+<l>Viuit adhuc neque enim mortales exuit artus</l>
+<l>Ipse tuus uita frater amabilior.</l>
+</lg>
+<lg>
+<l>Improba mors cuius corpus dum dente maligno</l>
+<l>Stringeret, horrisonas incutiendo minas,</l>
+<l>Sic ait: "Obsequium uideor, non uulnera ferre</l>
+<l>Huic ego. Cur? Morsus non timet iste meos.</l>
+<l>Sollicitat quem non duri uiolentia fati,</l>
+<l>Diruet imperium forsitan iste meum."</l>
+<l>Cui <name key="ValerMarul">Valerus</name> placida compostus mente, quieto,</l>
+<l>Imperturbato reddidit ore sonos:</l>
+<l>"Omnibus esse soles rabida truculentior ursa</l>
+<l>Quis placuit uitam labe notare suam.</l>
+<l>Ferrea qui subeunt prauae retinacula mentis,</l>
+<l>Ferentur semper turbidiore metu.</l>
+<l>Ast quibus aetherei feruens in uertice caeli</l>
+<l>Astrigero mens est, cura perennis, amor;</l>
+<l>Ast quibus immensum decus immortale per aeuum</l>
+<l>Fulget et aeternum praemia clara uigent;</l>
+<l>Pace tua nunc sit, mors o saeuissima, dictum:</l>
+<l>Hi tibi nil debent, non meruere mori.</l>
+<l>Mortem nemo timet nisi qui cum crimine uixit:</l>
+<l>Qui bene uiuit habet sub ditione necem."</l>
+<l>Dixit et in uerbo medium sibi protulit unguem</l>
+<l>Intrepidus caecae probra futura deae.</l>
+</lg>
+<lg>
+<l>Ergo, age continuo non indulgere dolori,</l>
+<l>Marce, uelis! Lacrimis, Marule, parce piis!</l>
+<l>Ex quo nil timuit leti discrimina frater,</l>
+<l>Certa haec fraternae signa salutis habe.</l>
+</lg>
+</div2>
+   <div2 xml:id="MM057" type="epitaphium" met="elegiacum">
+<head>57. Marci Maruli responsio</head>
+<l>Angebant, Francisce, mei me funera fratris;</l>
+<l>Nulla quies lacrimis nec modus ullus erat.</l>
+<l>Omnibus ex illis fuit hic carissimus unus,</l>
+<l>Quae quandoque animo grata fuere meo.</l>
+<l>Non sic ipse suum dilexit Castora Pollux;</l>
+<l>Euryalus Niso non ita gratus erat.</l>
+<l>Illius affatu iucundo saepe fruebar;</l>
+<l>Nullo me facto laeserat ille suo.</l>
+<l>Promptus et urbanis fuerat disponere rebus;</l>
+<l>Et regere inde suos sedulus usque lares.</l>
+<l>Illius cultu largo magis ubere glaebae</l>
+<l>Frugibus implebant horrea nostra suis.</l>
+<l>Aprici colles et consita uitibus arua</l>
+<l>Vina cadis nostris uix capienda dabant.</l>
+<l>Interea mihi multa quies et tempora laeta</l>
+<l>Mens tamen in musis ingeniumque fuit.</l>
+<l>Nunc illo amisso successit cura quieti;</l>
+<l>Dispulit adueniens otia longa labor.</l>
+<l>Quaeque aderant nobis, procul effugere Camenae</l>
+<l>Deseruitque meam Pegasis unda sitim.</l>
+<l>Denique pressus ego tantorum mille laborum,</l>
+<l>Optabam uitae fila suprema meae.</l>
+<l>Ast ubi missa mihi tua nuper carmina legi,</l>
+<l>Solamen casus grande fuere mei.</l>
+<l>Abstersi lacrimas luctumque recedere iussi,</l>
+<l>Compulsus monitis consiliisque tuis.</l>
+<l>Di tibi pro tali persoluant munere grates</l>
+<l>Fataque dent fatis candidiora meis.</l>
+</div2>
+<div2 xml:id="FBN058" type="epicedion">
+<head>58. Nenia ad <name key="PetrPetrak">Petrum Petrarcham</name>, in extremis laborantem</head>
+<l>Imbribus uda piis spargebam lumina tristis</l>
+<l>Nuper ad aegrotum corpus, amice, tuum.</l>
+<l>Tu modo certa tuae stringebas limina uitae,</l>
+<l>Heu tibi fatiferae quae statuere deae.</l>
+<l>Et modo maesta mei tandem suspiria cordis</l>
+<l>Excipis, inuito lumine quemque notans.</l>
+<l>Dulcis amor tibi erat nostros cognoscere fletus,</l>
+<l>Sed tamen incassum, membra grauante malo.</l>
+<l>Mors aderat Stygio cum remige saeua, profundus</l>
+<l>Et sopor, exesa cum face dira soror.</l>
+<l>Astiterat comitum fidissima turba, sorores,</l>
+<l>Mater et heu fratris pectora cara tui.</l>
+<l>Astiteramque tibi pro caro pignore matris</l>
+<l>Ipse ego, qui socius, qui tibi frater eram.</l>
+<l>Hi lacrimis, gemitu, summissa uoce profusis</l>
+<l>Questibus obruerant teque tuumque torum.</l>
+<l>Ast ego uoce magis complebam tecta, remissis</l>
+<l>Ordinibus, mens ut rapta dolore solet:</l>
+<l>	"Quo fugis? - exclamans; - patrias ne desere sedes;</l>
+<l>Moenia neu studiis consolidata tuis!</l>
+<l>Quis remanet iusti custos, seruator honesti?</l>
+<l>Quis pius aut constans, ore disertus erit?</l>
+<l>Te sine, Petre, decus mutum, facundia nusquam;</l>
+<l>Gloria nodosi te sine nulla fori.</l>
+<l>Orba iacent sine te Musarum numina; Phoebo</l>
+<l>Sordet inauratam sollicitare chelym.</l>
+<l>Vrbis adaucta tuae seruasti moenia prudens:</l>
+<l>Quassa cadunt humeris exonerata tuis.</l>
+<l>Heu domus alta ruit, domus inclinata recumbit;</l>
+<l>Quo fuerat maior, hoc erit illa minor.</l>
+<l>Quid faciam sine te? Facient quid cetera: matres,</l>
+<l>Maesta parens, comites innumerusque cliens?</l>
+<l>Omnia te meritis lacrimarum fontibus urgent,</l>
+<l>Et crepitant flammis ultima dona tuis.</l>
+<l>Martia non tantum defleuit Roma Camillos;</l>
+<l>Pompeios, Brutos Aemiliumque Numam.</l>
+<l>Hectoreum corpus tantum cum fregit Achilles,</l>
+<l>Laomedonteae non doluere nurus,</l>
+<l>Turba tuas quantum lugebit moesta fauillas,</l>
+<l>Concipiet quantam mentis amaritiem."</l>
+<l>Haec ego. Tum tacitis respondet uocibus ille:</l>
+<l>	     "Quid quereris? Fletus comprime lora tui!</l>
+<l>Credideras forsan per saecula uiuere cunctos</l>
+<l>Semper et in terris terrea membra fore?</l>
+<l>Nil facis! Euge meam tandem uexare quietem</l>
+<l>Desine; cuncta trahunt quae sibi fata, sequor.</l>
+<l>Falleris. Atra suis mors omnia uersat habenis:</l>
+<l>Illa rapit iuuenes et rapit illa senes.</l>
+<l>Diuitis unda Tagi non illam frangit, Orontis</l>
+<l>Balsama, non flauo lumine chrysolithos.</l>
+<l>Illa nec ostrinas uestes nec curat honores,</l>
+<l>Sed ruit in quemquam dentibus atra feris.</l>
+<l>Hanc timet innocuus, nocuus pauperque beatus;</l>
+<l>Stemmate conspicuo, sit licet ortus humo.</l>
+<l>Omnia sub caelo quae sunt, obnoxia fatis</l>
+<l>Nempe iacent: nulli parcit amara dies.</l>
+<l>Lege reguntur aues, pecudes; lex orbe gubernat</l>
+<l>Cuncta: deum leges me uoluere mori.</l>
+<l>Mortuus uel Libyae Mauors, qui castra subegit</l>
+<l>Martia, qui totiens contudit Ausonios;</l>
+<l>Croesus ad auriferas et qui se contulit oras:</l>
+<l>Vincere diuitiis non ualuere necem.</l>
+<l>Herculis altus honos periit, cum Caesare Magnus:</l>
+<l>Vrnula parua capit nomina tanta ducum."</l>
+<l>Dixit et obliquans oculos cum uoce premebat.</l>
+<l>Pallidus ora tamen paucula uerba dedi:</l>
+<l>	"Vade per Elysios duce sacra Virgine campos;</l>
+<l>Numina fausta tua sint precor officio!</l>
+<l>Ver tibi perpetuum, uernantia semper inundent</l>
+<l>Prata nec irriguis sit procul humor aquis;</l>
+<l>Turba tuos uado nympharum flore capillos</l>
+<l>Componant uiolis purpureisque rosis.</l>
+<l>Vrna crocos graciles fundat tibi semper, amomum,</l>
+<l>Cinnama nardino cumque liquore fluat.</l>
+<l>Dent tibi fata manu facili conuellere ramum,</l>
+<l>Quoi nimium splendent flaua metalla, precor.</l>
+<l>Vt melius, sedes sacer intrature beatas,</l>
+<l>Accipias uitae praemia casta tuae.</l>
+<l>Vade nec horrendas tenebrosi gurgitis undas,</l>
+<l>Nec Phlegethonteas sis aditurus aquas.</l>
+<l>Quandoquidem nostro te subtrahit inuida collo</l>
+<l>Sors, inimica meum cum rapit hora decus:</l>
+<l>Vade, sed immemorem cari ne gratia fratris</l>
+<l>Arguat e superis te rediise mei.</l>
+<l>Accipe parua mei testantia munera amoris,</l>
+<l>Frater ut a fratris nomine missa legat."</l>
+</div2>
+   <div2 xml:id="FBN059" type="poesis" met="elegiacum">
+<head> 59. ad beatam Virginem pro remotione pestis panegyricus</head>
+<l>Tabida pestifero lanientur corpora morbo.</l>
+<l>Esto: uenenosi feriant mala sidera cancri.</l>
+<l>Vndique finitimis tot inundent gentibus arma</l>
+<l>Tristia. Defecti Bromii Cererisque negatae</l>
+<l>Nullus honos. Modicae stent oblectamina pacis.</l>
+<l>Non ego laurigeri supplex celeberrima Phoebi</l>
+<l>Numina, fatidicae uexem non sacra Sibyllae</l>
+<l>Lintea. Philyrio procul absint docta magistro</l>
+<l>Antra. Salutiferi ualeant delubra draconis,</l>
+<l>Quaeque colit ueterum demens insania uatum:</l>
+<l>Tu mihi, Christe, faue; faueas, dulcissima Christi</l>
+<l>Mater. Honora meo concedas tympana plausu,</l>
+<l>Plectra Meleteas praestes resonantia cordas.</l>
+<l>O mundi regina, mihi tua fama cothurno</l>
+<l>Clara Maroneo uix est contenta. Precamur,</l>
+<l>Quo tua pro tantis exorem numina damnis.</l>
+<l>Si merui quo uota tuas reuolutus ad aras</l>
+<l>Annua concipiam, tenui quo uoce fatigem</l>
+<l>Teque pias licet pro nostris ciuibus aures</l>
+<l>Indignis: miserere tamen, pia Virgo, reatus</l>
+<l>Neue notes mortale genus quod semper iniquos</l>
+<l>Congeminat. Terrena lues quod spurca nefandis</l>
+<l>Criminibus caeleste decus, placidissima laedit</l>
+<l>Fata deum, merito pateremur tot mala, celsi,</l>
+<l>Et patimur, lucina poli. Meruisset in undas</l>
+<l>Surgere, Pyrrha, tuas hoc detestabile uulgus.</l>
+<l>Haec Phaethonteas meruissent saecla fauillas</l>
+<l>Phlegraeasque faces. Tua sit clementia nati,</l>
+<l>Mollior ira tui. Non nos neque crimina cernas</l>
+<l>Nostra, sed, oh miseri proprio qui sanguine mundi</l>
+<l>Abluit omne scelus. Cernas quod nostra creauit</l>
+<l>Corpora more sui, qui nos in sede locauit</l>
+<l>Elysia, ualidi confringens claustra barathri.</l>
+<l>Semina tolle precor laedentia, lurida pestis</l>
+<l>Contrahe tela trucis, generosum lucida caeli</l>
+<l>Virgo decus. Rabidi fugiant mala toxica morbi;</l>
+<l>Sarmaticis Geticisque procul regionibus instent.</l>
+<l>Nos tibi turicremis faciemus munera uotis</l>
+<l>Plena; peregrinis statuet tibi templa columnis</l>
+<l>Aspalatum; uario resonabit carmine laudes</l>
+<l>Turba senum iuuenumque, graui seiuncta flagello.</l>
+<l>Sola potes potuit quod non Podalirius olim</l>
+<l>Ad Danaos, medica potuit non arte Machaon.</l>
+<l>Non Perimedeae fallacis gloria, Circes</l>
+<l>Gramina uirilegae, Colchi non licia rhombi</l>
+<l>Thessala, Persephones carmen, Temesaea nec aera.</l>
+<l>Alma nites nituit quod non Priameia uirgo;</l>
+<l>Fama Therapnaeae nituit non clara palaestrae;</l>
+<l>Thermodonteae celeberrima turba catenae.</l>
+<l>Nulla Diana simul. Superat tua forma beatum</l>
+<l>Et mortale decus, superantur sidera luce</l>
+<l>Clara tua. Roseis rutilans Aurora quadrigis</l>
+<l>Vt, superinductae remouet cum pallia noctis</l>
+<l>Nigra, rubet niuei uerax praenuntia Phoebi:</l>
+<l>Intemerata micas. Pauitantibus aequore nautis</l>
+<l>Ipsa faues, dulcis condonas praemia portus.</l>
+<l>Grata procellosos hilarant tua splendida nimbos</l>
+<l>Lumina et Iliacae depellunt astra sororis.</l>
+<l>Fida Palaemonio subigis pro munere cunctis.</l>
+<l>O bona Leucothoe; miseris mortalibus una</l>
+<l>Tiphys ades; tumidis uigilans Palinurus in undis.</l>
+<l>Tuque laboriferis Semeleia cura colonis</l>
+<l>Es Ceres; exulibus requies, bona Iuno; tremendis</l>
+<l>Belliger agminibus Mauors; Tirynthius heros</l>
+<l>Militibusque pates; rutilo tua fulminat ense</l>
+<l>Dextera, pro nobis quoties depugnat in hostes.</l>
+<l>Anguigeris Bellona comis perplexa lacertos,</l>
+<l>Tempora Romuleae uictricia subdita lauro.</l>
+<l>Tu patris aetherei coniunx placidissima, mater</l>
+<l>Vnica, fatiferi dulcissima filia regis;</l>
+<l>Gloria caelicolum, fidissima parma reorum.</l>
+<l>Quae dea quisue deus tibi erit par, gemma dearum?</l>
+<l>Quemue tibi conferre queam? Tua numina uincunt;</l>
+<l>Vincit honos, geminus quicquid complectitur orbis;</l>
+<l>Quicquid humus uariat, refluus circumsonat humor.</l>
+<l>Saecla triumphatae deducis candida uitae.</l>
+<l>Perpetuo Cumaea tholo uiridante iuuenta</l>
+<l>Virgo sedes. Manibus retines uexilla tonantis</l>
+<l>Summa dei, pauitant cuius miracula, caeli</l>
+<l>Sidera flammigeri; ueniam mortalibus auges.</l>
+<l>Angelici regina chori, miserere precamur.</l>
+<l>Sancta, precor miserere. Precor, dulcissima, nostri</l>
+<l>Sis memor: hos rabidae pestis contundito morsus.</l>
+</div2>
+
+<div2 xml:id="FBN060" type="poesis" met="elegiacum">
+<head>60. ad Marcum Natalem, fratrem suum</head>
+<l>De numero fratrum remanens, carissime frater;</l>
+<l>O mihi pars animae maxima, Marce, meae.</l>
+<l>Cultior a teneris annis qui crine dicato,</l>
+<l>Christe, tibi et Petro domnica templa regis.</l>
+<l>Gratia miraris quonam fugit illa iuuentae,</l>
+<l>Qua uelut hesterno tempore notus eram.</l>
+<l>Pallida cur macies graciles abduxerit artus;</l>
+<l>Cur faciem nobis ruga senilis arat.</l>
+<l>Nostra quod albescunt imitantia tempora cycnum;</l>
+<l>Ostendit Scythicas cur mea barba niues.</l>
+<l>Quae quoque causa meam uitiauerit aemula formam;</l>
+<l>Aetatis quare est facta ruina meae.</l>
+<l>Anne uides quod cuncta rota properante senescunt,</l>
+<l>Quodque uices primis posteriora ferunt.</l>
+<l>Omnia diuino uoluuntur ab ordine, mundus</l>
+<l>Et cum mundanis forma caduca bonis.</l>
+<l>Anne uides quod nos nostri genuere parentes,</l>
+<l>Nos sumus inde patres, filius inde nepos.</l>
+<l>Publicus hostis ad haec nulla oblectamina uitae</l>
+<l>Suggerit, horrisonas incutiendo minas.</l>
+<l>Nocte dieque dolor, circum discrimina mille,</l>
+<l>Mille sonant; hinc nos angit et inde metus.</l>
+<l>Tempora temporibus subeunt grauiora; moramur</l>
+<l>Vix intra muros, nec licet urbe mori.</l>
+<l>Adde quod et natis non ultima cura leuandis</l>
+<l>Est mihi, res tenuis forsan et apta minus,</l>
+<l>Qua numerosa domus possit tractarier et qua</l>
+<l>Omnimoda possit commoditate frui.</l>
+<l>Scis bene quod nostrae placuerunt otia menti</l>
+<l>Semper et in studiis molliter esse meis.</l>
+<l>Insueto noua colla iugo corrumpere taurus</l>
+<l>Dicitur, inuitum dum toleratur onus.</l>
+<l>Fortius indomitas durissima frena lupati</l>
+<l>Excruciant fauces quadrupedantis equi.</l>
+<l>Sic me, quem docuit patientia nulla laborem</l>
+<l>Posse pati, patior sic mage, crede mihi.</l>
+<l>Num tibi causa leuis? Num sunt haec taedia parui?</l>
+<l>Visa satis Lachesim sollicitasse meam.</l>
+<l>Heu Lachesim tetricam, quae me iubet esse senili</l>
+<l>Confectum forma, nec tamen esse senem.</l>
+<l>Hanc mihi si demas, Pylio sim Nestore maior;</l>
+<l>Mygdonio liceat sim seniore prior:</l>
+<l>Illicet extentis rugis uulsisque capillis,</l>
+<l>Canities per quos, signa futura, damus,</l>
+<l>Exsurget mea forma recens, reuirescere primum</l>
+<l>Incipiet iuuenis; sic tibi frater ero.</l>
+</div2>
+	<!-- 61. ad Franciscum Martiniachum = Marulić 88, ad FBN -->
+
+<div2 xml:id="FBN062" type="poesis" met="elegiacum">
+<head>62. in laudem Bernardini Rippae, praetoris Spalaeti dignissimi</head>
+<l>Innuerit si quis Rippam secedere iusto</l>
+<l>Exuere et ueri iudicis officium:</l>
+<l>Artibus humanis tentet discindere caelum;</l>
+<l>Oceanum paruo stringere in amne paret;</l>
+<l>Hesperio Phoebum consurgere credat ab axe,</l>
+<l>Quaque refert nitidum, condere et inde iubar;</l>
+<l>Eridano Tanaim commisceat, Inda Timauo</l>
+<l>Arua; Paraetonium flumen inundet Arar;</l>
+<l>Floriger autumnus, uer sit glaciale necesse est;</l>
+<l>Aeternus mundi corruat ante globus.</l>
+</div2>
+   <div2 xml:id="FBN063" type="poesis" met="elegiacum"><!-- izdanje; Marković s. 111, MS f. 93r -->
+<head>63. in laudem Dauidiados Marulianae</head>
+<l><name>Aeneis</name> in toto memorabitur orbe perennis</l>
+<l>Tolleturque tuum nomen in astra, <name>Maro</name>.</l>
+<l>Tetrica <name>Maeonio</name> uiuet dictamine semper</l>
+<l><sic>tebais</sic><corr resp="MirMark">Thebais</corr>: aeternum <name>Statius</name> inde uiget.</l>
+<l>Nec minus hac inter <name>Dauidias</name> alma nitebit;</l>
+<l><sic>quod</sic><corr resp="MirMark">Quod</corr> si non primus, <name>Marce</name>, secundus eris.</l>
+</div2>
+   <div2 xml:id="FBN064" type="poesis" met="elegiacum">
+<head>64. in laudem Symonides Basantii</head><!-- isto pjesnički -->
+<l>Iupiter horrendo celebratur fulmine, Mauors</l>
+<l>Cuspide, dulcisona pulcher Apollo lyra;</l>
+<l>Frugibus alma Ceres; uiridi stat Pallas oliua</l>
+<l>Nobilis; eximio nectare, Bacche, nites;</l>
+<l>Alcinous pomis, cantatur floribus Hybla:</l>
+<l>Perpetuo uiuet carmine Symonides.</l>
+</div2>
+<div2 xml:id="FBN065" type="poesis" met="elegiacum">
+<!-- FBN65 = FBN52 -->
+<head>65. ad Petrum Cypicum, pictas urbes ementem</head>
+<l>Pro quibus in toto concurritur urbibus orbe</l>
+<l>Dantur et ad uotum uulnera, mille neces.</l>
+<l>Pro quibus argentum, fuluum uacuatur et aurum:</l>
+<l>Ecce nouem nummis octoue Petrus habet.</l>
+<l>Proh scelus! humanae quanta est stultitia uitae:</l>
+<l>Quo pereunt reges unicus assis emit!</l>
+</div2>
+   <div2 xml:id="FBN066" type="poesis" met="elegiacum">
+<head>66. ad Franciscum Bolanum, comitem Brachiae</head>
+<l>Inter auos nitidae prolis memoranda, Bolane,</l>
+<l>Gloria; magnanimi summe leonis honos!</l>
+<l>Sic, Francisce, tuum uiuat decus, optima coniunx;</l>
+<l>Sic tibi sint nati, saluus uterque parens;</l>
+<l>Sic domus et patriae crescant uexilla superbae;</l>
+<l>Sic tua quadriiugis fama uehatur equis;</l>
+<l>Sic generosa patrum praestent subsellia fasces;</l>
+<l>Sic tibi purpureos constituant titulos:</l>
+<l>Adde modum nostris; nodosas stringito leges:</l>
+<l>Litibus ingenium molle Thalia uocet.</l>
+<l>Quid mihi cum uerbis? Verbosas odimus artes:</l>
+<l>Otia sunt animo continuanda meo.</l>
+</div2>
+<div2 xml:id="FBN067" type="poesis" met="elegiacum">
+<pb n="94v" />
+<head>67. ad <name key="HannLuc">Annibalem Lutium</name></head>
+<!-- izdanje; Marković s. 112 -->
+<lg ana="exempla">
+<l>Astra, racemifera redimitus tempora lauro,</l>
+<l>Transiget <name>Hectorea</name> <name key="hist-Caesar">Caesar</name> in arte potens;</l>
+<l><name>Inachus</name> <name>Argolico</name> tumefactus sanguine uiuet</l>
+<l>Semper et a proauis tot numerabit auos.</l>
+<l>Dum dabit orbis opes, felicia munera tellus,</l>
+<l>Aether aues, conchas aequora: <name key="hist-Croesus">Croesus</name> erit,</l>
+</lg>
+<lg ana="fama-spatium">
+<l><name>Gadibus</name> ad <name>Tanaim</name>, qua currit <name>Nilus</name> ad <name>Istrum</name>:</l>
+<l><name key="HannLuc">Annibalem</name> pulchro carmine fama canet.</l>
+</lg>
+<lg ana="figura-paralelizam">
+<l>Principibus laurus, quod praestitit aula beatis,</l>
+<l>Stemmata nobilibus: carmina dant <name key="HannLuc">Lutio</name>.</l>
+</lg>
+</div2>
+   <div2 xml:id="FBN068" type="epitaphium" met="elegiacum">
+   <head>68. epitaphium Hieronymi Srichiae</head><!-- cf Marulić Hier Luchar. -->
+<l><name>Hieronymus</name> iacet hic, fausto cognomine diues;</l>
+<l>Re tamen innumeris ditior atque bonis.</l>
+<l>Pulcher erat, pulchra gaudebat coniuge, felix;</l>
+<l>Vestibus, argento, nobilitate potens.</l>
+<l>Candida lanificae uersant sibi lustra puellae,</l>
+<l>Bis quatuor uitae cum statuere modum.</l>
+<l>Proh scelus! inuidit <name>Lachesis</name> felicibus annis</l>
+<l>Quae subito laetas turbat acerba uices!</l>
+<l>Prospera quisquis habes igitur confidere noli:</l>
+<l>Tempora saepe solent deteriora sequi.</l>
+</div2>
+   <div2 xml:id="FBN069" type="epitaphium" met="hendecasyllabus">
+<head>69. epitaphium eiusdem</head>
+      <l>Fortunae titulum <choice><sic>beatioris</sic><corr resp="auctor">beati oris</corr></choice>,</l>
+      <l><choice><sic>Scupltum</sic><corr resp="NJ">Sculptum</corr></choice> sarcophago superbiore,</l>
+<l>Suspirans lege, nobilis uiator:</l>
+<l><name>Srichiae</name> <name>Hieronymus</name> columna gentis,</l>
+<l>Spes, flos, delitiae, decusque fulgor;</l>
+<l>Dilectus domina potentiore,</l>
+<l>Hoc sum conditus quo uides sepulchro.</l>
+<l>Omnes ad numeros benignioris</l>
+<l>Vitae defuit nil mihi, fatebor,</l>
+<l>Praeterquam tetrici libido fati</l>
+<l>Diuulsum thalamo pudiciore</l>
+<l>Seiunxit, scelus oh! nimis maligna.</l>
+<l>Non morte opprimerer tenebricosa,</l>
+<l>Si mecum, <name>Lodouica</name>, nunc iaceres:</l>
+<l>Fida coniuge nil magis beatum est.</l>
+</div2>
+   <div2 xml:id="FBN070" type="poesis" met="elegiacum">
+<head>70. epitaphium Marci Maruli</head>
+<l>Irrita res fatum est: non sunt obnoxia fato</l>
+<l>Corpora, si semper uiuere posse datur.</l>
+<l>Marulus aeternum diffusus nomen in aeuum,</l>
+<l>Viuere post cineres incipit ecce magis.</l>
+<l>Viue igitur quicumque sapis uirtute magistra,</l>
+<l>Funereo cupias si superesse rogo.</l>
+</div2>
+   <div2 xml:id="FBN071" type="poesis" met="elegiacum">
+<head>71. epitaphium eiusdem</head>
+<l>Quis iacet hic? Marcus. Quis Marcus? Marulus ille,</l>
+<l>Cuius honos terras, spiritus astra tenet.</l>
+<l>Tanta quibus meruit tantus uir dotibus? Orbem</l>
+<l>Vindicat eloquio, religione polum.</l>
+<l>Vix, puto, credibile est dominis placuisse duobus;</l>
+<l>Hic placuit: tanto uir fuit ingenio.</l>
+<l>Macte, uiator ades quisquis, uirtutibus esto,</l>
+<l>Si cupis et mundo gratus et esse deo.</l>
+</div2>
+   <div2 xml:id="FBN072" type="poesis" met="elegiacum">
+<head>72. de catello a molossis dilacerato</head>
+<l>Dum sequitur dominum gratissima cura catellus</l>
+<l>Luderet et morsu liberiore miser,</l>
+<l>Incidit in rabidos - heu dispar pugna! - molossos,</l>
+<l>A quibus instanter dilaniatus obit.</l>
+<l>Dentibus his pereunt apri taurique leones,</l>
+<l>Inter quos uiuet mors tua, blande canis.</l>
+<l>Credere quis posset catulos quoque quaerere famam</l>
+<l>Post obitum: studuit sic potuisse mori.</l>
+</div2>
+<div2 xml:id="FBN073" type="epitaphium" met="elegiacum"><!-- izdanje; Marković s. 114 -->
+<head>73. epitaphium <name key="FranMart">Francisci Martiniaci</name></head>
+<lg ana="exempla">
+<l><name key="hist-Curt">Curtius</name>, ut rupto patriam seruaret hiatu,</l>
+     <l>Armatus fouea praecipitanter obit;</l>
+<l><name key="hist-Codr">Codrus</name>, <name key="Athenae">Athenarum</name> foret ut solacio quondam,</l>
+	     <l>Dicitur ante alios oppetiisse libens:</l>
+</lg>
+<pb n="97r" />
+<lg ana="mors">
+<l>Tabida pestiferi cernens contagia morbi</l>
+<l><name key="FranMart">Franciscus</name> patriam corripuisse suam,</l>
+<l>Constituit certo caput obiectare periclo,</l>
+<l>Quo foret huic propria morte redempta salus.</l>
+</lg>
+<lg ana="poanta">
+<l>Si qua fides uero est, non est mors ista, sed inter</l>
+<l><name key="hist-Romani">Romuleos</name> uiuet <name key="hist-Athenienses">Cecropiosque</name> patres.</l>
+</lg>
+</div2>
+   <div2 xml:id="FBN074" type="epitaphium" met="hendecasyllabus">
+<head>74. epitaphium Marini Capitanei eremitae</head>
+<l>Mundi gloria uana, cui uoluptas</l>
+<l>Neglecta est ueneris libidinosae;</l>
+<l>Viuens qui uitium cauebat omne</l>
+<l>Et quicquid dominus deus uetauit:</l>
+<l>Antistes eremi remotioris,</l>
+<l>Marinus iacet hac sepultus urna.</l>
+</div2>
+<div2 xml:id="FBN075" type="epitaphium" met="elegiacum"> 
+	<head>75. epitaphium Catherinae Papalis</head>
+	<l>Tyndaris, Andromache, Niobe, Lucretia, Pallas</l>
+	     <l>Hic Catherineo corpore sunt positae.</l>
+	<l>Haec nouies matrona decem compleuerat annos.</l>
+	     <l>Nec mirum: semper uiuere digna fuit.</l>
+</div2>
+   <div2  xml:id="FBN076" type="poesis" met="elegiacum">
+<head>76. de optima spe Ascanii, filii Leonardi Bicharini, Apuli</head>
+<l>Ascanius, Leonarde, tuus consurgat, Iulus</l>
+<l>Quantus erat Phrygia nobilitate puer;</l>
+<l>Instauret patriae renascentia moenia lapsae,</l>
+<l>Qualiter in Latio fecerat ille solo.</l>
+<l>Collocet imperium felix tibi Daunia tellus,</l>
+<l>Romuleos fasces transferat inque tuos.</l>
+<l>Nomen ab exculto deductum nomine claros</l>
+<l>Sortiri effectus, credito, saepe solet.</l>
+<l>Dent. modo fata tibi natum informare colendis</l>
+<l>Artibus, in caelum qua uia monstrat iter.</l>
+<l>Di tibi dentque sibi longaeuae saecula uitae,</l>
+<l>Saecula multiplici non caritura bono.</l>
+</div2>
+   <div2 xml:id="FBN077" type="poesis" met="elegiacum">
+<head>77. ad Apollonium de Grandis eucharisticon</head>
+<l>Grandis Apolloni, priscorum regula morum,</l>
+<l>Temporis o nostri fama decusque recens.</l>
+<l>Qui perplexarum enodas aenigmata legum,</l>
+<l>Rectius examen cui trutinare datur.</l>
+<l>Pectore qui niueo nil ficti nilque dolosi,</l>
+<l>Nil retines quod non cum probitate foret.</l>
+<l>Veridico tibi ab ore fluunt pietasque fidesque;</l>
+<l>Os tibi corde sedet, pectus in ore geris.</l>
+<l>Vir bonus astutam non fert sub pectore uulpem;</l>
+<l>Vir bonus est docta simplicitate fruens.</l>
+<l>Munus ob acceptum Natalis deditus ille,</l>
+<l>Ille tibi grates milia mille refert.</l>
+<l>Et referet donec procellosis fluctibus aequor</l>
+<l>Saeuiet, astrigeri stabit imago poli.</l>
+<l>Dum uolucres liquidum tentabunt aethera pennis</l>
+<l>Praepetibus, fuero dum memor ipse mei.</l>
+</div2>
+   <div2 xml:id="FBN078" type="poesis" met="elegiacum">
+<head>78. epitaphium Lucietae, filiae magnifici Ioannis Diedi, prouisoris Dalmatiae
+dignissimi</head>
+<l>Hic Lucieta iacet, natalibus edita claris,</l>
+<l>Vt rosa, quae uerno tempore lapsa fluit.</l>
+<l>Vix puto ter denos compleuerat paruula menses,</l>
+<l>Et uetulos tenero dabat ab ore sonos;</l>
+<l>Talia uerba dabat, tales dabat ore profatus,</l>
+<l>Vt merito quisquis dicere posset anum.</l>
+<l>Si uixisse diu potuisset, moribus istis</l>
+<l>- Proh dolor! - huic similis femina nulla foret.</l>
+<l>Inuidit tantis fortuna parentibus; hinc est</l>
+<l>Dictum de fatis quod meliora legunt.</l>
+</div2>
+<milestone unit="page" n="99r"/>
+   <div2 xml:id="FBN079" type="elegia" met="elegiacum">
+<head>79. Ad sanctissimum dominum d. Paulum tertium, totius Christianae rei publicae
+diuino nutu pontificem maximum, quod oppidum Chlissae conseruando plurimae
+sacrosanctae fidei nationes saluabuntur elegia</head>
+<l>Paule, triumphalis non ultima gloria Romae;</l>
+<l>O Capitolinae nobilitatis honos!</l>
+<l>Alme pater, toto nihil est quo sanctius orbe;</l>
+<l>Pontifices inter lux ueneranda sacros.</l>
+<l>Clauiger aeternae deitatis maxime, salue;</l>
+      <note place="margin-left">Pontificae dignitatis laus:</note>
+<l>Cui Deus in terris ius dedit omne suum.</l>
+<l>Omnimodas tribuere uices cui numina sancta,</l>
+<l>Flaminis ut summi nobilitetur apex.</l>
+<l>Quem penes est nostrae felix tutella salutis,</l>
+<l>Ad superos per quem leue patescit iter.</l>
+      <note place="margin-left">Optimi pastoris erga commissum gregem vigilantia:</note>
+<l>Cymba procellosis Petri non fluctuat undis</l>
+<l>Quo duce, praecipites nec timet illa notos.</l>
+<l>Quo pastore lupus clauso non instat ouili,</l>
+<l>Grex satur at circum pascua laeta salit.</l>
+<l>Suppliciter tristis caelestia numina uexas</l>
+<l>Fundis et ad superos uota precesque tuos.</l>
+<l>Pro populi feritate tui, pro crimine, ut Abram,</l>
+<l>Niteris offensum conciliare Deum.</l>
+      <milestone unit="page" n="99v"/>
+<l>Sordidiora lauas tu nostra piacula, Moses</l>
+<l>Vt sacer humanum lauerat ante nefas.</l>
+<l>Ergo salutiferi decus immortale magistri,</l>
+<l>Illyricis populis auxiliare, precor.</l>
+<l>Adria deserta est, subiecta potentibus armis;</l>
+<l>Turcarum insidiis Adria paene perit.</l>
+<l>Dalmatia infelix uacua est opibusque uirisque;</l>
+<l>Vrbibus euersis nocte dieque gemit.</l>
+<l>Sensimus aduersam diuini numinis iram;</l>
+<l>- Proh dolor! - iratos sensimus esse deos.</l>
+      <note place="margin-left">Christicolarum ob eorum delicta afflictio:</note>
+<l>Barbaries truculenta, ferox, immanis, acerba</l>
+<l>Continuam nobis praebet amaritiem:</l>
+<l>Virginibus raptis trucidantur paruula matrum</l>
+<l>Pignora, pectoribus dissociata piis.</l>
+<l>Insolita feritate senes trepidaeque puellae</l>
+<l>Hoste lupis tamquam dilacerantur oues.</l>
+<l>Ducimur heu miseri captarum more ferarum</l>
+<l>Per iuga, per salebras insuetasque uias.</l>
+<l>Prouehimur nudi, uinctis post terga lacertis,</l>
+<l>Quam procul a patrii nos regione soli.</l>
+      <milestone unit="page" n="100r"/>
+<l>Omnia plena madent lacrimarum fontibus, urgent</l>
+<l>Nos mala tot, luctus perpetuusque dolor.</l>
+      <note place="margin-left">Turcarum erga cultum veri Dei irreverentia:</note>
+<l>Turba ferox urunt rapidis quaeque obuia flammis:</l>
+<l>Frugiferos cultus et cereale satum.</l>
+<l>Vndique sanctorum fumant delubra deorum;</l>
+<l>In laribus propriis undique flamma micat.</l>
+<l>Prostibula in templis, sordes altaria circum</l>
+<l>	     - Proh scelus! - alipedes et stabulantur equi.</l>
+      <note place="margin-left">Carmen intercalare:</note>
+<l>Christe, nefanda tuis committit turba sacellis:</l>
+<l>Affer opem, Christi qui geris alme uices!</l>
+<l>Viuimus et uitae desunt alimenta misellae:</l>
+<l>Quicquid abest gladio, subtrahit aucta fames.</l>
+<l>Adde quod accedunt saeuae contagia pestis</l>
+<l>Saepius his damnis temporibusque locis.</l>
+      <note place="margin-left">Comparationes:</note>
+<l>Haud secus expertum iam saepe pauescimus hostem,</l>
+<l>Quam pauet iratum quassa carina fretum.</l>
+<l>Turcarum obscenis nostrates ultibus horrent,</l>
+<l>Horret ut inspectis agna tenella lupis.</l>
+<l>Non minus incursant hostes truculentibus armis,</l>
+<l>Terrificas nobis incutiendo minas,</l>
+<l>Pinifero aduersis Pindo quam flatibus instat</l>
+<l>Eurus et hinc boreas, hinc zephyrusque notus.</l>
+      <milestone unit="page" n="100v"/>
+<l>Christicolas uendunt miseros per compita Turcae:</l>
+<l>Affer opem, Christi qui geris alme uices.</l>
+<l>Distrahimur, premimur trans aequora mittimur, heu heu</l>
+<l>Libera uenduntur corpora capta dolo.</l>
+      <note place="margin-left">Fidei Christianae indignitas:</note>
+<l>Proh dolor! - ut pecudes agimur ratione carentes,</l>
+<l>Pro quibus est caeli gloria passa crucem.</l>
+<l>Crux ueneranda quibus summum patefecit Olympum,</l>
+<l>Pollicita est nullos posse timere metus.</l>
+      <note place="margin-left">Confessio delictorum:</note>
+<l>Crimine sed quoniam diuina potentia laesa est,</l>
+<l>Tam foedum fas se crimine crimen alit.</l>
+<l>Iam Phaethonteas meruissent nostra fauillas</l>
+<l>Crimina, criminibus accumulata nouis;</l>
+<l>Deucalionis aquae non possent tergere nostrum,</l>
+<l>Nec maris Oceani tolleret unda nefas.</l>
+<l>Christicolas quoniam delicti paenitet, oro:</l>
+<l>Affer opem, Christi qui geris alme uices!</l>
+<l>Ignoscunt quodcumque scelus pia numina prauis,</l>
+<l>Si, quid agant, prauos paenituisse patet.</l>
+<l>Criminibus parcit cunctis clementia diuum,</l>
+<l>Crimine peccantes si doluere suo.</l>
+      <milestone unit="page" n="101r"/>
+<l>Parcere commissis non dedignabere nostris,</l>
+<l>Omnipotens, fateor, nos meruisse necem.</l>
+      <note place="margin-left">Veniae exoratio:</note>
+<l>Da potius letum quam tot dispendia uitae:</l>
+<l>Non licet ulterius tanta pericla pati,</l>
+<l>Qualiter anne uides in nos tua uiuit imago;</l>
+<l>En tua sub nostra stigmata fronte nitent.</l>
+<l>Nos tua forma sumus, diuino semine nati;</l>
+<l>Ipse suum nomen, Christe, tuere precor.</l>
+      <note place="margin-left">Auxilii per detestatonem mysteriorum postulatio:</note>
+<l>Christe, precor, miserere, precor, uiden' ecce perimus:</l>
+<l>Affer opem, Christi qui geris alme uices!</l>
+<l>Affer opem, sic te crucifixi gloria Regis</l>
+<l>Sistat ad excelsi regna beata poli.</l>
+      <note place="margin-left">Corona spinea:</note>
+<l>Affer opem, tibi sic spinis redimita corona</l>
+<l>Ornet honoratum terque quaterque caput.</l>
+      <note place="margin-left">Concreti sanguine crines:</note>
+<l>Affer opem, sic te concreti sanguine crines</l>
+<l>Illaesum praestent caede, cruore, nece.</l>
+      <note place="margin-left">Extensio manuum:</note>
+<l>Affer opem, sic te passis amplexibus orbis</l>
+<l>Accipiat contra barbara signa ducem.</l>
+      <note place="margin-left">Fixura pedum et manuum:</note>
+<l>Affer opem, fixura pedum fixura manumque</l>
+<l>Figat in hostiles sic tua uota manus.</l>
+      <milestone unit="page" n="101v"/>
+      <note place="margin-left">Lancea:</note>
+<l>Affer opem, sic te sanctissima lancea semper</l>
+<l>Protegat a cunctis liberet atque malis.</l>
+<l>Affer opem, sic te durissima uincula stringant</l>
+<l>Ad commune bonum propositumque tenax.</l>
+      <note place="margin-left">Spongia:</note>
+<l>Affer opem, tenui sub arundine spongia sic te,</l>
+<l>Ad superos tumidum nobilis ardor agat.</l>
+      <note place="margin-left">Poculum fellis:</note>
+<l>Affer opem, tibi sic tristissima pocula fellis</l>
+<l>Admoneant animum tristia posse pati.</l>
+      <note place="margin-left">Columna:</note>
+<l>Affer opem, tua sic capitolia sancta columna</l>
+<l>Fulciat, exitii non subitura luem.</l>
+      <note place="margin-left">Vexillum crucis:</note>
+<l>Affer opem, uexilla crucis ueneranda beatae</l>
+<l>Signiferum statuant te super astra suum.</l>
+<l>Omnia sic demum passi mysteria Christi</l>
+<l>Auxilio tibi sint: auxiliare tuis.</l>
+<l>Anne uides quantis miseri submergimur undis,</l>
+<l>Quam tetrica positi conditione sumus?</l>
+<l>Anne uides quantis premimur nos casibus ecce,</l>
+<l>Damnorum extremus quam prope limes adest?</l>
+<l>Quod petimus dabitur; uotorum summa piorum</l>
+<l>Cedet et afflictis affluet omne bonum.</l>
+      <milestone unit="page" n="102r"/>
+<l>Castrum fore tuo defensum numine Chlissae,</l>
+<l>Ni cadat hostiles deueniatque manus.</l>
+<l>Quod quia nescitur, paucis, aduerte, docebo;</l>
+<l>Admoneam mentem quo, pater alme, tuam.</l>
+      <note place="margin-left">Chlissae descriptio:</note>
+<l>Montibus Illyricis locus est in uertice celso</l>
+<l>Arduus; ipse suo prouocat astra iugo.</l>
+<l>Praecipuam posuit stabili munimine sedem</l>
+<l>Cui natura loco, daedala, larga, potens.</l>
+<l>Viribus haec hominum non est superabilis ulli,</l>
+<l>Arx auibus uix est, uix adeunda feris.</l>
+      <note place="margin-left">Chlissae etymologia:</note>
+<l>Hanc ueteres Graio dixerunt nomine Chlissam,</l>
+<l>Quod bene finitimos clauderet illa locos.</l>
+<l>Clauis enim tamquam remorantia limina claudit,</l>
+<l>Chlissa uiam reserat, Chlissa uiamque serat.</l>
+      <note place="margin-left">Laus virtusque comitis Petri Crusich:</note>
+<l>Audierant hostes aberat quod praetor ab arce,</l>
+<l>Crusicius clara nobilitate potens.</l>
+<l>Vir probus et prudens totiensque expertus in armis;</l>
+<l>Dextera magnificum quem facit atque fides.</l>
+<l>Hic quia defendens contruserat omnia castrum,</l>
+<l>Forte peregrinam circumiebat opem.</l>
+      <milestone unit="page" n="102v"/>
+<l>Restitit hoc castrum spoliatum munere uitae;</l>
+<l>Cui nec erat potus, nec cibus ullus erat.</l>
+<l>Protinus aduersum conflatis uiribus agmen</l>
+<l>Venit et hanc circum castra superba locat.</l>
+      <note place="margin-left">Commissarii strategema et laus:</note>
+<l>Praetulerat quoniam sollers uigilantia castro</l>
+<l>Praesidium, tribuit quod tua sancta fides;</l>
+<l>Numina magna deum, pater o sanctissime, pectus</l>
+<l>Admonuere tuum, quod cito misit opem.</l>
+<l>Qua nisi iuuisset te committente Iacobus</l>
+<l>Hermoleos, certe perdita Chlissa foret.</l>
+<l>Hic quia consilio praeuiderat omnia miro,</l>
+<l>Praesidium castro nocte dieque tulit.</l>
+<l>Hoc ubi cognouit uana spe lusus at hostis,</l>
+<l>Fortiter accensus, castra leuare iubet.</l>
+      <note place="margin-left">Gratiarum relatio:</note>
+<l>Talia Chlissa uidens animis plaudentibus tolli,</l>
+<l>Exhilarant curas, thurea dona cremant.</l>
+<l>Te celebrant uotis laetum paeana canentes;</l>
+<l>Te seruatorem constituere suum.</l>
+<l>Nos quoque uitales Chlissa qui ducimus auras</l>
+<l>Pendet et a cuius nostra salute salus,</l>
+<l>Offerimus dignas tanto pro munere laudes,</l>
+<l>Mille tibi grates turba recepta refert.</l>
+      <milestone unit="page" n="103r"/>
+<l>Dona dedere tuae pietatis maxima nobis,</l>
+<l>Quod liceat uita prosperiore frui.</l>
+<l>Vna dies Chlissam seruauit sola, salutem</l>
+<l>Omnibus et nobis praestitit una dies.</l>
+<l>Viuimus hic quod nos, tribuit tua mansuetudo;</l>
+<l>Quod procul hostis abest, haec tua cura fuit.</l>
+<l>Quod sperare tuus suasit meliora Iacobus,</l>
+<l>Illius et praestans sollicitudo tuum est.</l>
+<l>Hic parat, aduersis extinguat ut hostibus alas</l>
+<l>Addat et ut nostris spemque animumque fidem.</l>
+      <note place="margin-left">Portus Salonitani descriptio qui est prope Chlissam:</note>
+<l>Firmius hic castrum ualido munimine firmat,</l>
+<l>Obstruit obstructum calce uirisque locum.</l>
+<l>Subiacet huic portus castro tutissimus; omnes</l>
+<l>Acciperet classes, quas reor orbis habet.</l>
+<l>Stant in eo latices fracti maris, insula circum</l>
+<l>Claudit et oppositum temperat illa fretum.</l>
+<l>Funibus hic tortis non est opus, ancora fessas</l>
+<l>Non retinet curuis dentibus ulla rates.</l>
+      <note place="margin-left">Quod spatio XX horarum Salonis Anchonam hostes transfretari possent:</note>
+<l>Ostia per medium gratissima fluminis extant,</l>
+<l>Ex quibus haud subitis exit Iader aquis.</l>
+<l>Haec loca si raperent Turcae (procul omen abesto!),</l>
+      <milestone unit="page" n="103v"/>
+<l>In gremio Latii barbarus hostis erit.</l>
+<l>Litus in Hesperium, qua Dorica cernitur Anchon</l>
+<l>Hora uehet Turcas hinc duodena rates.</l>
+<l>Tota Liburna cadet sedes, si Chlissa peribit;</l>
+<l>Illyris, Istrenses Adriacusque sinus.</l>
+<l>Dalmatia imprimis Segniensis et ora, tot urbes,</l>
+<l>Tot Choruatorum regna beata ducum.</l>
+<l>Additur Italiae regio regionibus istis</l>
+<l>Armisona, innumeros haec habet orbis equos.</l>
+<l>Haec est ora Tagum uincit quae uincit et Hermum;</l>
+<l>Diues opum, celebri classe uirisque potens.</l>
+<l>Sola ducum genitrix, regnorum sola potestas;</l>
+<l>Sola triumphatrix, sola perenne caput.</l>
+      <note place="margin-left">Turcarum potentia:</note>
+<l>Barbarus hostis habet Scythicas orientis et oras</l>
+<l>Quaque tepet Mediae zona perusta plagae.</l>
+      <note place="margin-left">Conclusio cum adhortatione in Turchas:</note>
+<l>Restat ad occiduam sibi nunc protendere Thulem</l>
+<l>Nomen, et hic princeps totius orbis erit.</l>
+<l>Quare age barbariem Latio depelle superbam;</l>
+<l>Finibus Ausoniis Turcica bella moue.</l>
+<l>Sanguinolenta feri procul hinc, procul arma tyranni,</l>
+<l>Pellito magnanima signa profana manu.</l>
+      <milestone unit="page" n="104r"/>
+<l>Porriget alma fides animosae praemia dextrae</l>
+<l>Grandia, subsidium Virgo beata dabit.</l>
+      <note place="margin-left">Commendatio Chlissae, a qua salus nostra pendet omnis:</note>
+<l>Omnipotens clipeum, traddet tibi Filius ensem;</l>
+<l>Aegide concludet pectora Pneuma sacrum.</l>
+<l>Clauiger o caeli, clauem defendito terrae,</l>
+<l>Quae uarios populos et tua regna serat.</l>
+<l>Donec erit castrum Chlissae sub nomine Pauli,</l>
+<l>IIlyris, Ausoniae nec ruet imperium.</l>
+      <closer>(Finis laus Deo)</closer>
+   </div2>
+   <gap reason="irrelevant" resp="editor"/>
+   <milestone unit="page" n="107v"/>
+   <div2 xml:id="FBN080" type="poesis" met="elegiacum">
+<head>80. epitaphium Marci Maruli per Franciscum Natalem</head>
+<l>Irrita res mors est: non sunt obnoxia morti</l>
+<l>Corpora, si semper uiuere posse datur.</l>
+<l>Marulus aeternum diffusus nomen in aeuum,</l>
+<l>Viuere post cineres incipit ecce magis.</l>
+<l>Viue igitur quicumque sapis uirtute magistra,</l>
+<l>Funereo cupias si superesse rogo.</l>
+</div2>
+   <div2 xml:id="FBN081" type="poesis" met="elegiacum">
+<head>81. aliud epitaphium per eundem</head>
+<l>Quis iacet hic? Marcus. Quis Marcus? Marulus ille,</l>
+<l>Cuius honos terras, spiritus astra tenet.</l>
+<l>Tanta quibus meruit tantus uir dotibus? Orbem</l>
+<l>Vindicat eloquio, religione polum.</l>
+<l>Vix, puto, credibile est dominis placuisse duobus;</l>
+<l>Hic placuit: tanto uir fuit ingenio.</l>
+<l>Macte, uiator ades quisquis, uirtutibus esto,</l>
+<l>Qui cupis et mundo gratus et esse deo.</l>
+</div2>
+   <gap reason="irrelevant" resp="editor"/>
+   <!--	82. Francisci Martiniaci Spalatensis VD? čini se da fali -->
+   
+   <!--	84. Nicolai Alberti, Spalatensis VD -->
+   
+   <milestone unit="page" n="108v"/>
+   <!--	85. Antonii Alberti, Spalatensis VD -->
+   
+   
+   <!--	86. Hieronymi Papalis iunioris(E) -->
+   <closer>FINIS</closer>
+</div1>
+</body>
+   <back>
+      <div1>
+         <head>Carmina aliena addita</head>
+
+         <div2  xml:id="FBN087" type="poesis" met="elegiacum">
+            <head>87. Pauli Antonii Cipici epitaphium</head>
+            <l>Cipicus hic iaceo felix Antonius o quam,</l>
+            <l>Si mihi delicius non placuisset Hymen.</l>
+            <l>Fugerat hinc tamquam deductus ab mine laeuo,</l>
+            <l>Restitui tamen hunc in mea damna miser.</l>
+            <l>Cedere qui nescit fatis, mirabile non est</l>
+            <l>Fine cruentato si sua busta rubent.</l>
+         </div2>
+         <div2 xml:id="FBN088" type="poesis" met="elegiacum">
+            <head>88. epitaphium in mortem domini Petri Natalis</head>
+            <l>Quis iacet hic tumulo? Petrus, qui praemia legum</l>
+            <l>Cepit et aureolam clarus in urbe tulit.</l>
+            <l>Spiritus astra petens Natalis ponderat artes;</l>
+            <l>Proueniunt genio gaudia quanta suo.</l>
+            <l>At modo lugent Nereides et caesia Pallas,</l>
+            <l>Naiades et Musae, turba sacrata, uirum.</l>
+            <l>Terra tegit carnem; nunc lilia pone, uiator;</l>
+            <l>Nomen et aeternum personet usque polos.</l>
+         </div2>
+         <div2 xml:id="FBN089" type="poesis" met="hexametrum">
+            <head>89. Aelii Tolimerii Sibenicensis ad senatum populumque Spalatensis
+               encomium</head>
+            <l>Iam pridem mihi mens ardenti exaestuat igne</l>
+            <l>In laudes, urbs, alma, tuas, Spalatensis, in omnes</l>
+            <l>Gentes et populos, passim pleno ore canendas.</l>
+            <l>Nam tua me pietas et amor cultusque deorum,</l>
+            <l>Prona fides animusque augendo semper honori</l>
+            <l>Principis hospitibus mens et frons laeta receptis</l>
+            <l>Addixere tibi et clauo fixere tenaci.</l>
+            <l>Sed Proculeiani quis nam praeconia uerbis</l>
+            <l>Aut aequare sciat, propius ut accedere possit.</l>
+            <l>Quae summis in te studiis, conamine summo</l>
+            <l>Conscripsit Spalatique tulit super aethera nomen.</l>
+            <l>Vrbis et illius quam princeps ille locauit,</l>
+            <l>Qui sibi deposito requiem diademate fecit.</l>
+            <l>Impius at Totilas immo exsecrabile monstrum</l>
+            <l>Subruit euertitque urbis decora alma uetustae.</l>
+            <l>At Proculeiani uirtus collapsa reponit</l>
+            <l>Et rediuiua simul iam subruta moenia, fecit</l>
+            <l>Ingenio et scriptis uobis per saecula famam.</l>
+            <l>Exstruxit muros hic instaurauit et urbem,</l>
+            <l>Hic tibi, gens felix, seruauit et auxit honores.</l>
+            <l>Donaque, quae reges, quae princeps unus et alter</l>
+            <l>Contulerant, faciens breuibus illustria chartis.</l>
+            <l><gap />	... pinxit uelut alter Apelles</l>
+            <l><gap />	... auis patrum monumenta tuorum</l>
+            <l><gap />	... longinquas gentes hic hic, littora et urbes</l>
+            <l>Impleuit uoce, ac famae Spalatensis honore,</l>
+            <l>Atque adeo ut gentes miro inflammentur amore,</l>
+            <l>Vt uideant, ut te noscant possintque tueri.</l>
+            <l>Ergo felicem quis te non dicere possit,</l>
+            <l>Vrbs Spalati, et solis passim candore micantem?</l>
+            <l>Tot Proculeiani scriptis decorata, tot, inquam,</l>
+            <l>Laudibus, ut nullo sis interitura sub aeuo.</l>
+            <l>Qui magis in uita nihil expetit, aut prius optat,</l>
+            <l>Nil studet, o ciues Spalatenses, quam pius in uos,</l>
+            <l>Quam memor et gratus uobis cunctisque uideri</l>
+            <l>Et decus et laudes uestras per cuncta patere.</l>
+         </div2>
+         <div2  xml:id="FBN090" type="poesis" met="elegiacum">
+            <head>90. de Marulo poeta</head>
+            <l>Alta ego cantans Maruli nunc carmina <gap />,</l>
+            <l>Carmina sublimi calamo celebranda Maroni,</l>
+            <l>Qui Troiae pinxit fatum, dignissima Homero,</l>
+            <l>Per Lati populos, Graias spargenda per urbes,</l>
+            <l>Ore auido legi, mens nec satiata recessit.</l>
+            <l>Aurea uerba sonant numeris aptissima, sensus</l>
+            <l>Et modis et formae. Quid dicam? Ridet Apollo.</l>
+            <l>Rident et Musae, Parnasi numina montis;</l>
+            <l>Et celebrem celebrant uatem, pendentia nectunt</l>
+            <l>Serta suo capiti, uariis contexta corollis.</l>
+            <l>Felix ingenio, felix et carmine, felix</l>
+            <l>Laude sua, felix, felix, super omnia felix.</l>
+            <l>Nam dextra e tenebris ad lucem extraxit amica.</l>
+            <l>Illyricae gentes belli uirtutis superbae</l>
+            <l>Vati suo gaudent, orbis te uite coronat;</l>
+            <l>Ne pugnas uati laedat cariosa uetustas.</l>
+            <l>Grates laetus ago tibi, semper ad omnia praesto.</l>
+            <l>Mille tuis manibus uirtutum basia plenis</l>
+            <l>Do, simul amplexu pectora dulci <gap/></l>
+         </div2>
+         <div2 xml:id="FBN091" type="poesis" met="elegiacum">
+            <head>91. ad detractorem</head>
+            <l>Proelia alta uidens saepe multaque lacessus,</l>
+            <l>Contuli fulmineo turra donanda deo;</l>
+            <l>Vt me a canis tueatur morbido morsu,</l>
+            <l>Heu qui pestifero detrahit ore uerris.</l>
+            <l>Syllaba usque deo cunctarum prima ponatur:</l>
+            <l>Hic est qui poenas semper in igne luet.</l>
+         </div2>
+         <div2 xml:id="FBN092" type="poesis" met="elegiacum">
+            <head>92. in poetam maledicum</head>
+            <l>Carpe collo uires, quae inani cursu locutas;</l>
+            <l>Fulgura dum mittis subiis nota tuis.</l>
+            <l>Hoc lac cum tu bibis, turpibus <sic>sucsis</sic> ab annis;</l>
+            <l>Hoc semen paternum promptorique equis tuum.</l>
+            <l>Nil nocuisse ualet animo maledicta referre,</l>
+            <l>Cum mala tibi pilis turpibus floret cunis.</l>
+            <l>Praemiis quot tua geminantur desuper cernes,</l>
+            <l>Arbori carminum ni flat rubigo tuum.</l>
+         </div2>
+         <div2 xml:id="FBN093" type="poesis" met="elegiacum">
+            <head>93. ad Michaelem Lipeum, Traguriensem</head>
+            <l>Accidisset si te facientem uerba, Lipee,</l>
+            <l>Exciperet plausu Tullius illa suo.</l>
+            <l>Si noscet quanto scruteris acumine uerum,</l>
+            <l>Diceret: "hic callet dogmata nostra" Plato.</l>
+            <l>Si quoque uidisset qua praestas arte medendi,</l>
+            <l>Te sobolem Phoebus crederet esse suam.</l>
+            <l>Ipse tuos etiam si possit cernere mores,</l>
+            <l>Vt puto, non alios uellet habere Cato.</l>
+            <l>Felix quem praesens et postera conferet aetas</l>
+            <l>Ingenio claris et pietate uiris.</l>
+         </div2>
+         
+      </div1>
+   </back>
+</text>
+</TEI>

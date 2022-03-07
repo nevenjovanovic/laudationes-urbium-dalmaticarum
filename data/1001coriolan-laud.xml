@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Urbium Dalmaticarum descriptiones: fragmenta e Petri Mocenici imperatoris
+        gestorum libris tribus (1477), versio electronica</title>
+    <author>
+        <name>Koriolan Cipiko (Coriolanus Cepio)</name>, <placeName>Trogir</placeName>, <date from="1425" to="1493">1425–1493</date></author>
+        <respStmt>
+        <resp>Editionem electronicam curavit</resp>
+        <name>Neven Jovanović</name>
+        
+    </respStmt>
+    
+</titleStmt>
+<editionStmt>
+<edition>
+<date when="1477">1477</date>
+</edition>
+</editionStmt>
+    <publicationStmt>
+        <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+            Hrvatska.  <date>lipnja 2009</date></p>
+    </publicationStmt>
+<sourceDesc>
+    <p>Descriptiones urbium Dalmaticarum. Fragmenta e libro typis edito: 
+        <bibl>Cippico, Coriolano. Petri Mocenici imperatoris gesta. Venice: Bernhard Maler, Erhard Ratdolt, and Peter Löslein, 1477.</bibl>
+        Facsimile in: <bibl>Cippico, Coriolano, i Vedran Gligo. O azijskom ratu. Split: Čakavski sabor, 1977.</bibl>
+    </p>
+    
+</sourceDesc>
+</fileDesc>
+    <profileDesc>
+        <creation>
+            <date when="1477">1477</date>
+        </creation>
+    </profileDesc>
+<revisionDesc>
+<change>
+<name>Neven Jovanović</name>
+<date>2008-08-28T00:16:08</date>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+    <front>
+        <docAuthor>CORIOLANI CEPIONIS DALMATAE</docAuthor>
+        <docTitle><titlePart>PETRI MOCENICI IMPERATORIS
+        GESTORUM LIBRI TRES</titlePart>
+        <titlePart><add>Descriptiones urbium Dalmaticarum</add></titlePart>
+        </docTitle>
+    <docDate>1477.</docDate>
+        
+        
+    </front>
+<body>
+       
+
+        <gap reason="omissum ab editore"/>
+        
+
+    
+                        <div type="liber" n="3">
+                            <head>Coriolani Cepionis Petri Mocenici imperatoris gestorum liber tertius</head>
+                            <gap reason="omissum ab editore"/>
+                                <milestone unit="page" n="219" facs="cipiko-m/219.png"/>
+                            <gap reason="omissum ab editore"/>
+                 
+                                <!-- Scodrae laus -->
+                                <p>Ipse relicto legato cum reliqua classe <name>Cypro</name> soluit. Dura nauigatione, usus remis, aduerso uento etesiis flantibus (quoniam aestas erat) primum <name>Rhodum</name>, deinde <name>Cretam</name>, post <name>Methonam</name> uenit. Hic accepit hostem <name>Scodram</name>, oppidum multis annis <name>Venetorum</name> dicioni subditum, ingenti apparatu obsidere. </p>
+                                
+                                <p><name>Scodra</name> sita est in monte excelso, undique prono ac decliuo, aliquibus etiam in locis 
+                                <milestone unit="page" n="220" facs="cipiko-m/220.png"/>
+                                praecipiti, in ea parte <name>Illyrici</name>, quae, ab <name>Epirotis</name> occupata, nunc <name>Albania</name> appellatur, regio fertilis, omnibus ad uictum mortalium necessariis abundans. Ex parte occidentis oppidi est lacus octuaginta milia passuum in circuitu patens; nomen ab oppido sumit, et <name>lacus Scodrae</name> appellatur, ex quo fluuius exit, qui, praeterfluens, radices montis in quo oppidum situm est alluit. Hunc fluuium incolae <name>Bolianam</name> uocant. <name>Scodram</name> priscis temporibus, <name>Plinio</name> teste, <name>Drino</name> quoque amnis a parte orientis praeterfluebat, qui, mutato alueo, nunc iuxta <name>Lissum</name> decurrit; ab ostio <name>Bolianae</name> decem milia passuum orientem uersus bino ostio mare intrat. Cuius fluuii ad <name>Scodram</name> et alueus siccus et pontis uestigia extant. Miror cur nec <name>Plinius</name> nec <name>Strabo</name>, diligentissimus geographus, de lacu tam insigni nec de eius fluuio ullam mentionem fecerint. Hi ambo fluuii nauigabiles, etiam onerariarum nauium ad multa milia passuum capaces sunt.</p> 
+                                
+                               <p> Planities inter eos ac circumadiacentes campi ita fertiles sunt, ut semina temere iacta et absque diligentiori cultura mirabilem fructum ferant. Hic ab incolis pecora quoque pascuis repelli dicuntur, ne nimia satietate interimantur. In circuitu regionis montes 
+                                <milestone unit="page" n="221" facs="cipiko-m/221.png"/>
+                        sunt praealti atque asperi; humiliora colles aprici tenent, uinetis oliuetisque optime consiti. </p>
+                        
+                        <p>Maritima huius regionis propter paludes siluae caeduae occupant, quae ad naues fabricandas multam materiam praebent. Quamobrem <name>Othomanus</name>, qui spe orbis imperium amplecti uidetur, hanc regionem et ad alendos exercitus et ad fabricandas naues conseruandamque classem propter duo flumina opportunam existimans, <name>Scodram</name>, caput atque arcem totius regionis, expugnare statuit; quam si cepisset, non dubitabat totam regionem in suam dicionem esse cessuram. Sperabat enim, redacta in potestate <name>Albania</name>, exemplo <name>Alexandri</name> et <name>Pyrrhi</name>, <name>Epirotarum</name> regum, cum classe <name>Adriaticum sinum</name> traicere, et, quod illi non potuerant propter exiguas uires, se ualidissimo apparatu ingentibusque copiis <name>Italiam</name> occupaturum.</p> 
+                                <!-- finis laudis -->
+                            <gap reason="omissum ab editore"/>
+                                
+                                
+                                <milestone unit="page" n="223" facs="cipiko-m/223.png"/>
+                            <gap reason="omissum ab editore"/>
+                                
+                                <!-- de Cataro -->
+                                <p>Miserat <name>Senatus</name> <name>Leonardum Buldum</name> legatum, uirum multarum rerum usu sapientem, et qui in <name>Albania</name> multo tempore uersatus fuerat, ut terrestribus copiis in hac expeditione praeesset. Hunc imperatores cum quattuor triremibus <name>Catarum</name> miserunt. <name>Catarus</name> urbs est <name>Dalmatiae</name>, in <name>sinu Risonum</name> sita, ciuibus frequens, agrum quoque amplum et bene habitatum habet. Hanc <name>Risonii</name> diu bello uexati, propriam sedem relinquentes, in tutiori loco aedificarunt. </p>
+                                <!-- finis Catari -->
+                            <gap reason="omissum ab editore"/>
+                                
+                                <milestone unit="page" n="224" facs="cipiko-m/224.png"/>
+                               
+                            <gap reason="omissum ab editore"/>
+                                <!-- de Dyrrachio et al. -->
+                               <p> <name>Dyrrachium</name> quoque quattuor triremibus et equitum <name>Epirotarum</name> praesidio firmant. Haec ciuitas maxime tempore bellorum ciuilium celebrata fuit: nam <name>Pompeius</name> omnes apparatus belli contra <name>Caesarem</name> in eam contulerat. Nunc propter aeris malignitatem deserta ac paene inhabitata est; multa tamen monumenta egregiae urbis in ea adhuc manent, inter quae statua equestris aenea, ad portam quae continentem spectat, posita est. Hanc, quoniam sine inscriptione est, alii <name>Theodosii</name> imperatoris, alii <name>Constantini</name> esse asserunt. Hanc urbem Veneti, propter commoditatem portus, imposito praesidio custodiunt.</p>
+                                
+                                <p><name>Butuano</name> etiam atque <name>Antibaro</name> et <sic><name>Olchino</name></sic> militum ac nauium praesidia mittunt. 
+                                <milestone unit="page" n="225" facs="cipiko-m/225.png"/>
+                                <sic><name>Olchinum</name></sic> prius <name>Colchinium</name> dictum est, a <name>Colchis</name> conditum, cuius ciues etiam nunc, nescio quid feritatis conditorum suorum retinentes, hospitibus duri atque infesti sunt.</p> 
+                                <!-- finis descriptionum -->
+                                
+                            <gap reason="omissum ab editore"/>
+                                <milestone unit="page" n="235" facs="cipiko-m/235.png"/>
+                            <gap reason="omissum ab editore"/>
+                            
+                                <!-- laus Rhagusii -->
+                                
+                                <p><name>Rhagusium</name> est ciuitas <name>Dalmatiae</name>, quam <name>Epidaurenses</name>, <name>Epidauro</name> a <name>Gotis</name> euerso, auspicatiore loco condiderunt. Urbs est libera, legibus atque moribus optime instructa; habet senatum atque magistratus, ordinem quoque patriciorum et plebis distinctum. Patricii soli rem publicam administrant, plebs 
+                                <milestone unit="page" n="236" facs="cipiko-m/236.png"/>
+                                tantum suis rebus studet: de publicis minime curiosa est. Haec ciuitas prae caeteris <name>Dalmatiae</name> urbibus, publicis et priuatis operibus, magnifice extructa est. Habet et naualia ac portum catena clausum. Ciues etiam in diuersis prouinciis mercaturam exercentes caeteros <name>Dalmatas</name> opibus superant.</p> 
+                                
+                                <p>Hic imperator, aduocatis medicis, potionibus ac medicamentis sanitatem procurat. Ciues etiam ipsi, tanquam in aliquem praesentem deum ac uindicem christianae rei publicae certantes, in imperatorem officiosi sunt. Nam fama rerum gestarum imperatoris <name>Mocenici</name> omnia impleuerat.</p> 
+                                <!-- finis laudis -->
+                  
+                            <gap reason="omissum ab editore"/>
+                            
+                        </div>
+    
+                            
+</body>
+    <back>
+        <div type="colophon">
+            
+            <p>Impressum est hoc opusculum <name>Venetiis</name> per <name>Bernardum pictorem</name> et <name>Erhardum Ratdolt de Augusta</name> una cum <name>Petro Ioslein de Langencen</name> correctore ac socio.
+            Laus <name>Deo</name>. 
+            <date when="1477">M. CCCC. LXXVII.</date></p>
+        </div>
+        
+    </back>
+</text>
+</TEI>

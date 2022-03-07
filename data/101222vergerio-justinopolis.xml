@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+           <title>De Urbe Justinopoli (<date>c. 1400?</date>), editio electronica</title>
+           <author><name>Petrus Paulus Vergerius (Pier Paolo Vergerio)</name>,
+             Kopar, <date>1349 — 1445?</date></author>
+           <editor><name>Lodovico Muratori</name></editor>
+<respStmt>
+  <resp>editionem criticam praeparavit et electronice edidit</resp>
+<name>Neven Jovanović</name>
+</respStmt>
+
+         </titleStmt>
+         <publicationStmt>
+	   <p>elektronska verzija: Neolatina Croatica, znanstveni
+	   projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+	   Hrvatska.  <date>Prosinac 2010.</date></p>
+	 </publicationStmt>
+         <sourceDesc>
+           <bibl>
+             <ref target="http://books.google.com/books?id=bU1AAAAAYAAJ&amp;pg=RA1-PA240">Facsimilia digitalia</ref> libri:
+             Muratori, L.: Rerum Italicarum scriptores. Tomus XVI Milan: ex typographia societatis Palatinae (1730), p. 240--241-.
+           </bibl>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+  
+  <classDecl>
+    <taxonomy xml:id="genus">
+      <!-- kontrolirani katalog za žanrove, za novolatinski? -->
+      <category>
+        <catDesc>genera litteraria</catDesc>
+      </category>
+    </taxonomy>
+    
+    <taxonomy xml:id="aetas">
+      <!-- gdje je kontrolirani katalog za periodizaciju? -->
+      <category>
+        <catDesc>aetates</catDesc>
+      </category>
+      <category xml:id="locus">
+        <catDesc>locus</catDesc>
+      </category>
+    </taxonomy>
+  </classDecl>
+</encodingDesc>
+     <profileDesc>
+       <creation>
+         <date>1400</date>
+         <address>
+           <addrLine>Iustinopoli</addrLine>
+         </address>
+       </creation>
+       
+       <textClass>
+         
+         <keywords scheme="#aetas">
+           <list>
+             <item>litterae renatae</item>
+             <item>latinitas recentior</item>
+             <item>saec. XIV</item>
+             <item>saec. XV</item>
+            
+             <item>1390-1430</item>
+           </list>
+         </keywords>
+         <keywords scheme="#genus">
+           <list>
+             <item>prorsa</item>
+             <item>prorsa oratio</item>
+             <item>chorographia</item>
+             
+             
+           </list>
+         </keywords>
+         <keywords scheme="#locus">
+           <list>
+             <!-- kontrolirani katalog za mjesta -->
+             <item>Iustinopolis</item>
+             <item>Histria</item>
+             <item>Slovenia</item>
+           </list>
+         </keywords>
+       </textClass>
+     </profileDesc>
+     <revisionDesc>
+       <change><name>Neven Jovanović</name>
+         <date>Mense Decembri, anno 2010</date>. Mendum: corulita > condita. Iustinopolis in Slovenia est.</change>
+       <change><name>Neven Jovanović</name>
+         <date>Mense Decembri, anno 2010</date>. TEI caput. Versio initialis.</change>
+       
+     </revisionDesc>
+   </teiHeader>
+<text>
+<body>
+  <milestone unit="page" n="240"/>
+  <gap reason="irrelevant"/>
+      <div type="chorographia">
+        <head>PETRI PAULI VERGERII JUSTINOPOLITANI De Urbe Justinopoli.</head>
+        
+        
+        
+        
+        <p>Urbs quae latine Justinopolis dicitur, ad interiora Adriatici maris sita, olim per Cholcos condita est. Qui ab Euxino Ponto profecti, (quod nunc majus Mare appellatur) ubi gentis sedes erat multis mirabilibus, ac praecipue aureo ariete insignis, in eam regionem devenerunt. Quum enim Jasonem persequerentur, qui abducta Medea Regis eorum filia ac per eius opem aureo rapto vellere fugiebat, recta mare secantes, Danubii ostia invecti sunt, de via procul errantes. Nam ille salva praeda, et integro comitatu in Graeciam, unde classem advexerat, declinavit. Hi vero coeptum iter tenentes, spemque sequuti, guam primo conceperant, adverso flumine navigando, multum terrae multo cum labore sunt emensi. Nam et praeter ea quae in se Danubius continet, difficilia cuncta sperantes, Sabbum insuper fluvium, qui in Danubiani fluit, longo spacio penetrarunt. Jubebantur enim Deorum suorum oraculis occidentem spectare. Tandem spe frustrati ac labore fessi, insequendi curam amiserunt , quum nullum extaret eorum quod quaerebant fugae vestigium. Sed sive taedio longae navigationis, sive dolore, ac pudore amissae Reginae, nec receptae predae repulsi, ne domum repeterent, spontaneum exilium elegerunt. Itaque naves, quibus aducti fuerant, humeris imponentes in Adriaticum sinum, atque in eam maxime partem maris, quae proximior erat, eas exposuerunt. Loca deinde contemplati, commoditatesque locorum, non Histriam modo, verum etiam procul urbes, atque oppida, quae incolerent, in illis litoribus condidere. Histriae autem nomen ab Histro flumine, unde venerant, natum est, nam Danubius Hister quoque vocatur, ad eam maxime plagam, et in ea ripa, qua Sabbi fluminis unda danubiaum incurrit. Justinopolis vero primum appellata est Aegida, hoc est pellis caprae, sive forma loci quod ad eam figuram declinat, sive ex pelle caprina Aegidis nomine vpcata, quam secundum gentilium fabulas Palias Dea sapintiae, quae ibi colebatur, gerebat in bellis, quemadmodum et Hercules leonina usus asseritur. Atque ex hoc ipso dicta fortasse est Insula Caprarum (Insula enim est) sive quod extent in ea, atque ex terra promineant, a meridiana praesertim plaga, saxa quaedam albentia, quae procul spectantibus speciem videntur habere caprarum. Undecumque tandem sit hoc nomen natum, incertum est. Illud autem est certum, quod et apud Alamannos vicinos et apud inhabitantes plurimos, a caprae nomine incolarum appellatio derivata est.</p> 
+          
+          <p>Gothi vero, qui nunc sclavi dicuntur, vicinioresque circumstant, ex propinquitate latini nominis caprae Coprum appellant graeco vocabulo, quod stercus vel fimum significat, sive quod mari aperto ac nitido, eminens ubi cernitur terra, nec aedificiis airea tecta est tanquam ex sordibus collecta in unum congeries apparet, sive quod ubi vicinior est continenti, et inde 
+          <pb n="241"/>
+            est unus augustus in urbem per terram transitus, foetidae sunt paludes limo terae aquae salsae commixto, quae ex continuo itinerantium motu tetrum odorem exhalant, tametsi strata lapidibus est via sed non satis diligenter, aut artificiose communita. Vulgari autem vocabulo incolarum totius provinciae caput Histriae nominatur eo quod ab amne Resano urbi proximo qui olim Formio dicebatur initium sit Histriae, quae usque ad Arsiam fluvium non grandi spatio in longum protenditur. Resanus vero non multo procul a Timavo (qui nunc Lycuntius dicitur) saxo erupens cavernoso, atque inter montes per XIV millia passuum defluens in mare se ingerit, salinis in utraqne ripa ex limo fluminis opere hominum in exitu fabricatis, alveo tamen priore quasi semper detorto. Nam Sermino monticulo qui imminet amni egredienti per terraemotum olim discusso, pars undis impacta a primo solitoque itinere parumper divertit. Est autem Histria in eam partem extrema Italiae portio, in nomen ac jus Italicum postremo a Romanis redacta; nam prius quidem teste Plinio, Tergeste urbs clara ac vetusta finis erat Italiae in qua exstant complura vetustatis monumenta. Justinopolis vero nomen, quod recentius est, unde ortum habuerit, non satis constat, sive a Justino imperatore (ut vulgo dicitur) cujus tamen rei nullum extat indicium, neque per scripturas, neque ex ullo opere fabricato; sive quod ego magis opinor a Justino historiografo, qui Cholcorum in eam oram accessum diligentius adnotavit, aut aliquo forsitan docto viro ex civibus surgente, aut pro humili ac foeda vulgarique appellatione nomen hoc elegans ab alterutro praemissorum longe diversum adscriverunt sibi.</p> 
+          
+                <p>Histrorum gentem fama est originem a Cholchis ducere, missis ab Oëta Rege ad Argonautas raptores filiae persequendos, qui ut à Ponto intraverunt Histrum Sabbo flumine penetrato, vestigia Argonautarum insequentes, naves suas per juga montium usque ad litus Adriatici maris transtulerunt. Cognito, quod Argonautae non idem iter, quod naves priores fecissent, juxta Aquilejam consedere. Histri ex vocabulo amnis, quo ex mari concesserant, appellati. Dachi quoque soboles Gothorum sunt.</p>
+                
+
+      </div>
+<gap reason="irrelevant"/>
+</body>
+
+
+</text>
+</TEI>

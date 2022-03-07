@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Spalati descriptio e Vita Marci Maruli Spalatensis per Franciscum Natalem, conciuem suum, composita (post 1524), versio electronica</title>
+    <author><name>Frano Božićević (Franciscus Natalis)</name>, Split, <date from="1469" to="1562">1469--1562</date></author>
+    <respStmt>
+        <resp>textum edidit</resp>
+        <name>Bratislav Lučin</name>
+    </respStmt>
+    <respStmt>
+        <resp>editionem electronicam praeparavit</resp>
+        <name>Neven Jovanović</name>
+    </respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+    <name>Bratislav Lučin</name> editionem textus curavit <date when="2007">a. 2007</date>.
+</edition>
+</editionStmt>
+<publicationStmt>
+    <p>elektronska verzija: <name>Digitalizacija hrvatskih latinista</name>, znanstveni
+        projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+        Hrvatska.  <date>kolovoz 2008</date></p>
+</publicationStmt>
+<sourceDesc>
+    <p>Typis editum in: <bibl>Frano Božićević, Život Marka Marulića Splićanina, priredio i preveo Bratislav Lučin, Split: Književni krug — Marulianum, 2007.</bibl></p>
+</sourceDesc>
+</fileDesc>
+    <profileDesc>
+        <creation>
+            <date notBefore="1524">post 1524.</date>
+        </creation>
+    </profileDesc>
+<revisionDesc>
+<change>
+<name>Neven Jovanović</name>
+<date>2008-08-22T00:03:49</date>
+    Validacija u Oxygenu.
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+    <body>
+        <div xml:id="fbn-mmv3" type="vita">
+            <head>Vita Marci Maruli Spalatensis per Franciscum Natalem, conciuem suum, composita
+            </head>
+            <gap reason="irrelevant" resp="NJ"/>
+            <p xml:id="fbn-mmv3.4"> Ibi in monasterio quoddam diui Petri Vallis surdę sic appelatę per bienium moratus, deinde ob pyratarum formidinem ad prius habitaculum in patriam reuersus est. </p>
+<p xml:id="fbn-mmv3.5"> Quę quidem Spalatum nuncupatur, Dalmatarum urbium ciuitas antiquissima, a Salonarum ruderibus per tria millia passuum semmota. Palatium olym Dyocliciani imperatoris summę deliciae, Dalmaticarum gentium, insularum ac urbium (ut Plinio placuit) emporium celeberrimum, quod ex altissimis<note place="foot" n="2">
+<emph>Ipse ex </emph>antiquissimis <emph>correxit.</emph>
+</note> moenibus, antiquissimis templis, innumeris uariis praeciosissimisque columnis, subterraneis testudinibus, <note type="vide" place="margin">==&gt;</note> concameratis criptis, pontibus in uallium concauitate ad caelum errectis, xistis, theatris et plumbeis sipunculis sub terram diductis, usque in hanc diem dilucide perspicere licet. Quibus quidem sipunculis <milestone unit="folium" n="106v" /> et subterraneis meatibus Iader, Salonarum fluuius amoenissimus, a quo Iadera et Iadrenses (ut <sic>non ullis</sic> placet) cognominati, non sine et miro artificio et immensis sumptibus deuectus Spaletum incurrebat, <note type="vide" place="margin">==&gt;</note> quo palatium tanto imperatore non indignum, in littore maris Adriatici per aetatem et secessum praeclarius, magis pateret, splendesceret, celebraretur.</p>
+            <gap reason="irrelevant" resp="NJ"/>
+            </div>
+    </body>
+</text>
+</TEI>

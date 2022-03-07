@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- nedovršeno -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vauzalis sive Occhialinus Algerii Prorex, Corcyram Melaenam terra marique oppugnat nec expugnat (1571), versio electronica</title>
+                <author><name>Anton Rozanović (Antonius Rosaneus)</name>, Korčula (<date from="1524">n. 1524</date>)</author>
+                
+                <respStmt>
+                <resp>Editionem electronicam curavit</resp>
+                <name>Neven Jovanović</name>
+                
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Prima versio electronica <date when-iso="2009-06">2009-10</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                    projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+                    Hrvatska.  <date>listopada 2009</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    Rukopis 37. Državnog arhiva u Zadru.
+                </bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="genus">
+                    <!-- kontrolirani katalog za žanrove, za novolatinski? -->
+                    <category>
+                        <catDesc>genera litteraria</catDesc>
+                    </category>
+                </taxonomy>
+                
+                <taxonomy xml:id="aetas">
+                    <!-- gdje je kontrolirani katalog za periodizaciju? -->
+                    <category>
+                        <catDesc>aetates</catDesc>
+                    </category>
+                    <category xml:id="locus">
+                        <catDesc>locus</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1571">1571</date>
+                <address>
+                    <addrLine>Spalati</addrLine>
+                </address>
+            </creation>
+            
+            <textClass>
+                
+                <keywords scheme="#aetas">
+                    <list>
+                        <item>litterae renatae</item>
+                        <item>latinitas recentior</item>
+                        <item>saec. XVI</item>
+                        <item>1500-1550</item>
+                    </list>
+                </keywords>
+                <keywords scheme="#genus">
+                    <list>
+                        <item>prorsa</item>
+                        <item>historia</item>
+                        <item>bellum Turcicum</item>
+                        
+                    </list>
+                </keywords>
+                <keywords scheme="#locus">
+                    <list>
+                        <!-- kontrolirani katalog za mjesta -->
+                        <item>Corcyra Melaena</item>
+                        <item>Dalmatia</item>
+                        <item>Croatia</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2010-01-28</date>
+                Podaci o autoru. div / type.
+            </change>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2009-10-05</date>
+                TEI zaglavlje i formatiranje, nedovršeno.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="prorsaOratio-historia">
+        <front>
+            
+                <milestone unit="page" n="1" facs="antonrosaneo/korc/zkzd37/rosan-zd37-001.jpg"/>
+                <milestone unit="page" n="2" facs="antonrosaneo/korc/zkzd37/rosan-zd37-002.jpg"/>
+                <milestone unit="page" n="3" facs="antonrosaneo/korc/zkzd37/rosan-zd37-003.jpg"/>
+                <milestone unit="page" n="4" facs="antonrosaneo/korc/zkzd37/rosan-zd37-004.jpg"/>
+            <titlePage>
+                <docAuthor>Rosaneo Antonio. -</docAuthor>
+                <titlePart>Vauzalis, sive Occhialinus, Algerii Prorex, Corcyram Melaenam, terra, marique oppugnat nec expugnat</titlePart>
+                <titlePart>Relatio historica Antonii Rosenei, Patricii ex illustrioribus, et antiquioribus familiis ejusdem Urbis, Archidiaconi, et Iuris utriusque Doctoris, qui praesens omnibus interfuit.</titlePart>
+                <docDate>Anno 1571.</docDate>
+            </titlePage>
+            <div type="prorsaOratio-epistula-dedicatoria">
+                <milestone unit="page" n="5" facs="antonrosaneo/korc/zkzd37/rosan-zd37-005.jpg"/>
+                <milestone unit="page" n="6" facs="antonrosaneo/korc/zkzd37/rosan-zd37-006.jpg"/>
+                <milestone unit="page" n="7" facs="antonrosaneo/korc/zkzd37/rosan-zd37-007.jpg"/>                
+                <opener>Ser-mo D. D. Duci Nicolao de Ponte Antonius Rosaneus Corcyr.</opener>
+                <p>
+                Ne iam insigne Dei benefitium ingratus celando supressisse videar quodam animi ardore incensus memorabilem Civitatis Curzulensis deffensionem jampridem a me conscriptam sub nomine proprii Auctoris (quando aliter per sacras leges non licet) in lucem edere, gloriae Dei, et consolationi fidelium arbitratus sum nonnihil expedire.    
+                </p>
+            </div>
+            <div>
+                
+                
+            </div>
+        </front>
+        
+        <body>
+            <div type="prorsaOratio-historia">
+                <milestone unit="page" n="8" facs="antonrosaneo/korc/zkzd37/rosan-zd37-008.jpg"/>
+                <head>Antonii Rosanei Corcyrae Melenae Opus.</head>
+<p>
+    Assiduis percontationibus eorum, qui conservationem opiduli Corcyrae Melenae Patriae meae miram quidem, et divino adscribendam Numini admirantes, seriem tam praeclari facinoris toties a me repetunt, hoc brevi compendiolo satisfacere decrevi. In tantum Diva Virgo Mater, cujus opem firma fide credimus nobis eo in praelio certissimam adfuisse, sicuti servulum non es dedignata in iis omnibus dirrigere, ita quoque manum, et calamum per veritatis semitas in tua praeconia, et gratiarum actiones precor deducito.
+</p>
+                <p>
+                    Selimus perfidus Turcarum Tyrannus Othomanicae fraudis, non ut Solimanus pater dissimulator, sed ex professo haeres, et alumnus faedifrago bello Venetis Cyprum pene totam <gap/> Famagustam jam anno ante ademerat, rebusque secundis elatus classem innumerabilem ex Helesponto, et aliis tam Aphricae, et Asiae, quam Europae natalibus ad Euboeam Calendis Maii convenire jussit.
+                </p>
+
+
+<milestone unit="page" n="9" facs="antonrosaneo/korc/zkzd37/rosan-zd37-009.jpg"/>
+<milestone unit="page" n="10" facs="antonrosaneo/korc/zkzd37/rosan-zd37-010.jpg"/>
+<milestone unit="page" n="11" facs="antonrosaneo/korc/zkzd37/rosan-zd37-011.jpg"/>
+<milestone unit="page" n="12" facs="antonrosaneo/korc/zkzd37/rosan-zd37-012.jpg"/>
+<milestone unit="page" n="13" facs="antonrosaneo/korc/zkzd37/rosan-zd37-013.jpg"/>
+<milestone unit="page" n="14" facs="antonrosaneo/korc/zkzd37/rosan-zd37-014.jpg"/>
+<milestone unit="page" n="15" facs="antonrosaneo/korc/zkzd37/rosan-zd37-015.jpg"/>
+<milestone unit="page" n="16" facs="antonrosaneo/korc/zkzd37/rosan-zd37-016.jpg"/>
+<milestone unit="page" n="17" facs="antonrosaneo/korc/zkzd37/rosan-zd37-017.jpg"/>
+<milestone unit="page" n="18" facs="antonrosaneo/korc/zkzd37/rosan-zd37-018.jpg"/>
+<milestone unit="page" n="19" facs="antonrosaneo/korc/zkzd37/rosan-zd37-019.jpg"/>
+<milestone unit="page" n="20" facs="antonrosaneo/korc/zkzd37/rosan-zd37-020.jpg"/>
+<milestone unit="page" n="21" facs="antonrosaneo/korc/zkzd37/rosan-zd37-021.jpg"/>
+<milestone unit="page" n="22" facs="antonrosaneo/korc/zkzd37/rosan-zd37-022.jpg"/>
+<milestone unit="page" n="23" facs="antonrosaneo/korc/zkzd37/rosan-zd37-023.jpg"/>
+<milestone unit="page" n="24" facs="antonrosaneo/korc/zkzd37/rosan-zd37-024.jpg"/>
+<milestone unit="page" n="25" facs="antonrosaneo/korc/zkzd37/rosan-zd37-025.jpg"/>
+<milestone unit="page" n="26" facs="antonrosaneo/korc/zkzd37/rosan-zd37-026.jpg"/>
+                <p>
+                    Hoc loco non erit ab re insulae, et oppidi nomen situm, et munitionem describere, quo facilius, quae paulo post dicentur, percipi possint.
+                </p>
+                <p>
+                    Ab antiquis comperio hanc insulam Corcyram Melenam, sive nigram appellatam (ut puto) <app><rdg wit="AD">ob similitudinem situs Pheacię</rdg> <rdg wit="Zd">a <gap/></rdg></app> cum utrumque oppidum septentrionem spectet, commune nomen sortitam, et discrepans a densitate nemorum. In quem sensum videtur declinare carmen de ea <app><rdg wit="AD">compactum</rdg> <rdg wit="Zd"><sic>computu</sic></rdg></app>
+                    <quote>
+                        <l>Corzula nunc dicor fueram Corcyra Melena</l>
+                        <l>Dicta prius, merito nomen utrumque gero</l>
+                        <l>Nam maris Adriaci, Garganea litora contra</l>
+                        <l>Densior est <app><rdg wit="AD">piceis<note place="margin-left"><sic>spisis</sic></note></rdg><rdg wit="Zd">piceis</rdg></app> insula nulla iugis</l>
+                        <l>Inde Melena vocor, sed ut altera vertor ad arcton</l>
+                        <l>Hinc me <app><rdg wit="AD">Corcyrae<note place="margin-left">Pheacia</note></rdg><rdg wit="Zd">Corcyrae</rdg></app> nomen habere puto.</l>
+<milestone unit="page" n="27" facs="antonrosaneo/korc/zkzd37/rosan-zd37-027.jpg"/>
+                        <l>At nova <app><rdg wit="AD">uox uenit</rdg><rdg wit="Zd">venit</rdg></app>, quia cingit circulus urbem</l>
+                        <l>et parvi cordis moenia nomen habent</l>
+                        <l>Quin refero magni speciem pulcherrima cordis</l>
+                        <l>Nam Divus centrum Marcus in urbe tenet.</l>
+                    </quote>
+                </p>
+                <p>
+                    In <app><rdg wit="AD">eam pos</rdg><rdg wit="Zd">ea post</rdg></app> bellum Trojanum Antenor se recepit, ut est auctor <app><rdg wit="AD">Dytes</rdg><rdg wit="Zd">Dyctis</rdg></app> Cretensis illorum temporum miles, et scriptor, <app><rdg wit="AD"><milestone unit="page" n="20"/>et oppidum condidit, quamuis Plinius Gnidiorum oppidum fuisse testatur</rdg></app> quod possibile est Antenorem translatum in pinguiorem glebam ad Euganeos <app><rdg wit="AD">insulam hanc</rdg></app> sociis suis Gnidijs reliquisse. <app><rdg wit="AD">Vrbem istam uero ab Antenore eiusue sociis fundatam fuisse tum uetustissima traditio testatur, tum quę extant memorię: super portam australem ueterum modo muro clausam in lapidem tale incisum legebatur carmen quod defectum siue temporis edacitate siue hominum iniuria adhuc uestigia retinet antiquitatis:
+                    <quote>
+                        <l>Hic Antenoridę Corcyrę prima Melenę</l>
+                        <l>Fundamenta locant nobile gentis opus</l>
+                    </quote>
+                        <note place="foot">Anno autem domini 1594 restauratis urbis męniis, turribus, ędificiis munita ciuitas fuit, Antonio Leonę prętore, cuius stemma gentilium Leonis <unclear>auem fransuicti</unclear> pluribus in locis męniorum in lapide incisum expositum fuit. Quod stemma <unclear/> ornatius a latere sinistro Porte marinę, adintus subscripta habet in lapide hęc carmina.
+                            <milestone unit="page" n="20v"/>
+                            <l>Post <unclear>Ili</unclear> cineres, hęc męnia condidit olim</l>
+                            <l>Antenor; uerum ne ueterata ruant</l>
+                            <l>Antonii cura sunt integrata leonis</l>
+                            <l>Reddita et antiquo forma decusque loco.</l></note>
+                    
+                    
+                    </rdg></app>A recentioribus Curzulae nomen recepit, tam urbs, quam insula, et rationem hujus nominis non potui hucusque indagare, nisi <app><rdg wit="AD">quia</rdg><rdg wit="Zd">quod</rdg></app> octogesimo a Reate stadio euntibus via <app><rdg wit="AD">Iuria iuxta</rdg><rdg wit="Zd">salaria praeter</rdg></app> montem <app><rdg wit="AD">Coretum</rdg><rdg wit="Zd">Coritum</rdg></app> fuit quaedam civitas diruta Curzula, ut scribit Dionisius <app><rdg wit="AD">Halicarnasseus libro primo</rdg><rdg wit="Zd">Alicarnaseus lib. s.</rdg></app> pag. 9 et fortasse haec ab illa denominationem suscepit. Longitudo <app><rdg wit="AD">insulę</rdg><rdg wit="Zd">eius</rdg></app> ab oriente in occidentem est circiter stadiorum trecentorum; latitudo non est ubique aequalis, ubi tamen major, non superat nonaginta stadia, ubi minor quadraginta; ambitus septingenta. Tota <app><rdg wit="AD">montuosa</rdg><rdg wit="Zd">montosa</rdg></app> est, sterilis, et arida, vitibus apta, et pascuis non inutilis et lignandi comoditate praecipua. In medio altiores sunt montes, et quasi dorsum totius insulae, medietas excrescit extremitates hinc et inde subsidunt, litora tortuosa multas valles, malefidasque stationes, et portus <app><rdg wit="AD">etiam <milestone unit="page" n="21"/></rdg><rdg wit="Zd">et</rdg></app> tutos et magnos intus <app><rdg wit="AD">exteriusque</rdg><rdg wit="Zd">et exterius</rdg></app> efficiunt. Caput eius ad Eurum <mentioned>veru</mentioned><app><rdg wit="AD"><note place="margin-right">Speo = Rascnich</note></rdg></app> dicitur, quoniam protenditur <app><rdg wit="AD">artum</rdg><rdg wit="Zd">acutum</rdg></app> spatio ulteriori <app><rdg wit="AD">mille passus</rdg><rdg wit="Zd">per mille passuum,</rdg></app> postea dilatatur. Sed ad Zephirum est bifidum, et vallem maximam Sancti Ioannis de gradina quinquaginta stadiorum complectitur. Aquarum dulcium inopiam pluvialibus solatur; fons tamen procul ab eadem valle maxima distat triginta stadiis in campo magno pagi Blattae, qui multoties tantis <app><rdg wit="AD">scaturire solet</rdg><rdg wit="Zd">solet scaturire</rdg></app> aquis, ut stagnum ex campo fiat, quod et pago nomen indidit. Blatto enim <app><rdg wit="AD">Illyria lingua Stagnum significat; et multoties <sic>bicennio</sic>, et triennio, immo et septennio solent illę</rdg></app> aquae non decrescere. Cum autem exsiccatae sunt, planities mille et quingentos passus longa, et sex stadia lata remanet
+                    <milestone unit="page" n="28" facs="antonrosaneo/korc/zkzd37/rosan-zd37-028.jpg"/>
+                    huberima, ut pote cujus labra proscissa, et seminata, dum aqua decrescit centesimum reddidere fructum. <app><rdg wit="AD">Campus in iure est certi numeri familiarum, et quolibet septennio diuiditur, more Hungarico, in capita familiarum; fęminę etiam si maneant innuptę suam habent portionem. Si tamen nubant, et transeant in familias <milestone unit="page" n="21v"/> quę in agro non <sic>habent</sic>, ipsę quoque ius amittunt; tale ius nec ratione dotis nec hęreditatis nec ulla alia uia aquiri uel alienari potest, sed semper manet in eisdem familiis. Duę fiunt in singula capita portiones, quas Illyrica lingua <foreign xml:lang="hr">stupi</foreign> uoccant, una in parte pinguiori, altera in steriliori
+                    <!-- dovde -->
+                    </rdg></app> Nascitur eo in campo uliginosa herba, qua si nimium vescantur armenta adeo pinguescunt ut morbo correpta crepent, neque carnes, neque pelles ullo sunt usui propter morbi <sic>stagionem</sic> non admodum ab epidemiae peste dissimilem. Si universus ille ager coleretur est opinio quod procul dubio aleret nedum colonos, et incolas sed etiam vicinos. Veruntamen periti profundiorem eum superficie maris testantur, nec posse aquam per canalia in mare deduci perfractis quoque montibus interpositis astruunt. Incolarum vero ignavia nullo pacto excusari potest, quamvis enim raro ager ille inundet, nunquam tamen aratur vel colitur praeterquam pars minima ab orientali latere, ex qua maximos proventus colligere solent. Insula ferax vini <sic>thedae</sic> et picis duas artes potissimum exercet scilicet carpentariorum ad fabricandas naves, et latomorum. Sita est in Illyrico e regione Gargani lato centum millibus passuum interiacente pelago, in quo a noto Melita ab austro Augustae cum aliquibus scopulis per stadia circiter sexaginta ab occidente equinoctiali Issa aestivali vero Pharus, per triginta millia passuum procul ab ejus litore proximos excipiunt fluctus. A septentrione autem esset tractus Narentanus, sed interjacet Promontorium Sabioncelli nomine Oeni apud Ptholomaeum notatum, quod continenti juxta Narentani fluminis hostia junctum, et aliquantum ad Epidaurinas insulas in dexteram porrectum mox in sinistram Pharum versus longe ampliori spatio deflectens efficit Isthmum quatuor stadiorum, in quo est civitas stagni inter duo mario, quorum orientale prospicit Ragusium occidentale vergit in Pharum, et Brachiam. Duo quoque exteriora canalia constituit primum ab oriente cum melita per totam insulae extensionem porrectum sexaginta stadiis latum, alterum parte Melenae 
+                    <milestone unit="page" n="29" facs="antonrosaneo/korc/zkzd37/rosan-zd37-029.jpg"/>
+                    latitudinis sexdecim stadiorum, quorum etiam dispar est longitudo. Illud enim duo de viginti milia passuum excedit, hoc duodecim superat, quoniam Corcyra cum per id spatium excurrerit postea deflectit in pelagus tota reliqua sui longitudine, et relinquit Oeni brachium super Pharum se extendentem humili planitie, et melitense sine scopulis est Curzulense autem tam in introitu, quam in exitu scopulis, et saxis abundat, et propterea periculosum est imperitis praesertim intrantibus. Urbs ab utrisque faucibus circiter quinquaginta stadiis distans, et maximam sumitatem Oeni seu Sabioncelli in septentrione prospiciens in excurrenti colle quam moenibus, ambitu ovalis formae complectitur situata pene tota mari circumdatur, nisi quod ab austro cum reliqua insula ponte, et fossa, ac navali conjungitur. Aedificia urbana ex vivo saxo albo ibidem exciso structa cum templo, et turri campanaria in umbilico caeteris superiori propter soli inaequalitatem. In medio oppidi platea ex polito saxo ante templum, et campanariam turrim strata omnes totius urbis vias aequali spatio dimensas ad se ducit, unde disticon hoc ei optime convenit:
+                    <quote>
+                        <l>Viculus in medio, <sic>denusque</sic> hinc inde viarum</l>
+                        <l>Ordo cingatur corzula picta manet.</l>
+                    </quote>
+                        Et quidem eo tempore locus satis munitus reperiebatur praesertim tormentis. Nam paucis diebus ante bellum motum Raphael Gabrielius a Petro Bragadeno loci rectore optimo missus in legationem Venetiis repertaberat numerum non parvum sclopetorum lancearum arcuum, sagittarum, et sex <sic>colombrinas</sic> aeneas emittentes pilas ferreas librarum duodecim.  Deinde post bellum jam motum Philippus Roseneus, et ipse orator missus attulerat quattuor <sic>petrerias</sic>, et duas colombrinas et triginta <sic>archibusonarum</sic> et pulveris boni <sic>Sardici</sic> copiam, et multa alia tela. Erant et in urbe priora tormenta ferrea, et aenea, praesertim unum, quod papale nominant, quod ponderantem triginta libras ferri pilam jaculatur, et in armamento etiam erant multa alia arma bellica. Maenia tamen
+                    <milestone unit="page" n="30" facs="antonrosaneo/korc/zkzd37/rosan-zd37-030.jpg"/>                    vetera, et ruinosa instauratione indigenbant, Pugnatorum quoque paucitas dubiam tuitionem reddebat. Sed satis divagati ad institutum redeamus.
+                </p>
+
+
+
+
+<milestone unit="page" n="31" facs="antonrosaneo/korc/zkzd37/rosan-zd37-031.jpg"/>
+<milestone unit="page" n="32" facs="antonrosaneo/korc/zkzd37/rosan-zd37-032.jpg"/>
+<milestone unit="page" n="33" facs="antonrosaneo/korc/zkzd37/rosan-zd37-033.jpg"/>
+<milestone unit="page" n="34" facs="antonrosaneo/korc/zkzd37/rosan-zd37-034.jpg"/>
+<milestone unit="page" n="35" facs="antonrosaneo/korc/zkzd37/rosan-zd37-035.jpg"/>
+<milestone unit="page" n="36" facs="antonrosaneo/korc/zkzd37/rosan-zd37-036.jpg"/>
+<milestone unit="page" n="37" facs="antonrosaneo/korc/zkzd37/rosan-zd37-037.jpg"/>
+<milestone unit="page" n="38" facs="antonrosaneo/korc/zkzd37/rosan-zd37-038.jpg"/>
+<milestone unit="page" n="39" facs="antonrosaneo/korc/zkzd37/rosan-zd37-039.jpg"/>
+<milestone unit="page" n="40" facs="antonrosaneo/korc/zkzd37/rosan-zd37-040.jpg"/>
+<milestone unit="page" n="41" facs="antonrosaneo/korc/zkzd37/rosan-zd37-041.jpg"/>
+<milestone unit="page" n="42" facs="antonrosaneo/korc/zkzd37/rosan-zd37-042.jpg"/>
+<milestone unit="page" n="43" facs="antonrosaneo/korc/zkzd37/rosan-zd37-043.jpg"/>
+<milestone unit="page" n="44" facs="antonrosaneo/korc/zkzd37/rosan-zd37-044.jpg"/>
+                <p>
+                    O Virgo beatissima, quam de hac tenebrosa caligine translatam nostri causa ante perspicuum summi Dei thronum astare credimus, ut quemadmodum in terris humano generi <sic>virtutem</sic> exemplar inadmirabili humilitate praestitisti, ita et super coelos coelorum proxima Dei potestate praedita ad nostram utilitatem regnes: agnoscentis hoc singulare a te munus populi adauge precamur fiduciam, et quos toties ex tot internitionum casibus misericorditer eripuisti, cumulatis benefitiis in perpetuam clientelam cum Beatis Bartholomaeo apostolo, et Marco euangelista cęterisque Divis perpetuo servandos intra sinum benignitatis tuae suscipe, ut in fide filii tui radicati, nec unquam ad alienos cultus ulla labefactatione detracti, et in hac et in coelesti patria protectionis tuae fructum assequamur. indulgente votis hujusmodi piissima eiusdem servatoris nostri filii domini Jesu Xti clementia, cui simul cum Patre et spiritu sancto sit semper honor perpetuus, et aeterna gloria. Amen.
+                    </p>
+
+</div>
+        </body>
+    <back>
+        <div type="poesis-elegia" met="elegiacum">
+            <milestone unit="page" n="45" facs="antonrosaneo/korc/zkzd37/rosan-zd37-045.jpg"/>
+            <head>In Turcas oratio</head>
+            <l>O Pater omnipotens, qui verbo cuncta creasti</l>
+            <l>et solo nutu quaeque creata regis,</l>
+            <l>Aspicis, ut dire latret fera bellua victu</l>
+            <l>Ausa sibi titulos fingere ut umbra Dei,</l>
+            <milestone unit="page" n="46" facs="antonrosaneo/korc/zkzd37/rosan-zd37-046.jpg"/>
+            <milestone unit="page" n="47" facs="antonrosaneo/korc/zkzd37/rosan-zd37-047.jpg"/>
+            <l>Ipse ego concesso nobis, ut spero triumpho</l>
+            <l>Grates perpetuas annua sacra feram,</l>
+            <l>et memoria votum testabor carmine factum</l>
+            <l>Noster erit fructus, gloria tota tua.</l>
+        </div>
+        <div type="poesis-ode" met="sapphicum">
+            <milestone unit="page" n="48" facs="antonrosaneo/korc/zkzd37/rosan-zd37-048.jpg"/>
+            <head>In Magna Navali victoria.</head>
+            <l>Gaudeat Caelum, exhilaretur orbis,</l>
+            <l>quisquis et Christum colit, ora solvat</l>
+            <l>Laetus in laudes, resonetque sacris</l>
+            <l>vocibus aether.</l>
+            <milestone unit="page" n="49" facs="antonrosaneo/korc/zkzd37/rosan-zd37-049.jpg"/>
+            <milestone unit="page" n="50" facs="antonrosaneo/korc/zkzd37/rosan-zd37-050.jpg"/>
+            <milestone unit="page" n="51" facs="antonrosaneo/korc/zkzd37/rosan-zd37-051.jpg"/>
+            <l>Gloriam Christo Domino canamus</l>
+            <l>qui Deus semper caro factus aevo</l>
+            <l>cum Patre aeternum, pariterque sancto</l>
+            <l>Flamine regnat.</l>
+        </div>
+        
+        
+        
+        <milestone unit="page" n="52" facs="antonrosaneo/korc/zkzd37/rosan-zd37-052.jpg"/>
+        <milestone unit="page" n="53" facs="antonrosaneo/korc/zkzd37/rosan-zd37-053.jpg"/>
+        <milestone unit="page" n="54" facs="antonrosaneo/korc/zkzd37/rosan-zd37-054.jpg"/>
+        <milestone unit="page" n="55" facs="antonrosaneo/korc/zkzd37/rosan-zd37-055.jpg"/>
+        <div xml:lang="it" type="translatio-Italica">
+        <milestone unit="page" n="56" facs="antonrosaneo/korc/zkzd37/rosan-zd37-056.jpg"/>
+        <milestone unit="page" n="57" facs="antonrosaneo/korc/zkzd37/rosan-zd37-057.jpg"/>
+        <milestone unit="page" n="58" facs="antonrosaneo/korc/zkzd37/rosan-zd37-058.jpg"/>
+        <milestone unit="page" n="59" facs="antonrosaneo/korc/zkzd37/rosan-zd37-059.jpg"/>
+        <milestone unit="page" n="60" facs="antonrosaneo/korc/zkzd37/rosan-zd37-060.jpg"/>
+        <milestone unit="page" n="61" facs="antonrosaneo/korc/zkzd37/rosan-zd37-061.jpg"/>
+        <milestone unit="page" n="62" facs="antonrosaneo/korc/zkzd37/rosan-zd37-062.jpg"/>
+        <milestone unit="page" n="63" facs="antonrosaneo/korc/zkzd37/rosan-zd37-063.jpg"/>
+        <milestone unit="page" n="64" facs="antonrosaneo/korc/zkzd37/rosan-zd37-064.jpg"/>
+        <milestone unit="page" n="65" facs="antonrosaneo/korc/zkzd37/rosan-zd37-065.jpg"/>
+        <milestone unit="page" n="66" facs="antonrosaneo/korc/zkzd37/rosan-zd37-066.jpg"/>
+        <milestone unit="page" n="67" facs="antonrosaneo/korc/zkzd37/rosan-zd37-067.jpg"/>
+        <milestone unit="page" n="68" facs="antonrosaneo/korc/zkzd37/rosan-zd37-068.jpg"/>
+        <milestone unit="page" n="69" facs="antonrosaneo/korc/zkzd37/rosan-zd37-069.jpg"/>
+        <milestone unit="page" n="70" facs="antonrosaneo/korc/zkzd37/rosan-zd37-070.jpg"/>
+        <milestone unit="page" n="71" facs="antonrosaneo/korc/zkzd37/rosan-zd37-071.jpg"/>
+        <milestone unit="page" n="72" facs="antonrosaneo/korc/zkzd37/rosan-zd37-072.jpg"/>
+        <milestone unit="page" n="73" facs="antonrosaneo/korc/zkzd37/rosan-zd37-073.jpg"/>
+        <milestone unit="page" n="74" facs="antonrosaneo/korc/zkzd37/rosan-zd37-074.jpg"/>
+        <milestone unit="page" n="75" facs="antonrosaneo/korc/zkzd37/rosan-zd37-075.jpg"/>
+        <milestone unit="page" n="76" facs="antonrosaneo/korc/zkzd37/rosan-zd37-076.jpg"/>
+        <milestone unit="page" n="77" facs="antonrosaneo/korc/zkzd37/rosan-zd37-077.jpg"/>
+        <milestone unit="page" n="78" facs="antonrosaneo/korc/zkzd37/rosan-zd37-078.jpg"/>
+        <milestone unit="page" n="79" facs="antonrosaneo/korc/zkzd37/rosan-zd37-079.jpg"/>
+        <milestone unit="page" n="80" facs="antonrosaneo/korc/zkzd37/rosan-zd37-080.jpg"/>
+        <milestone unit="page" n="81" facs="antonrosaneo/korc/zkzd37/rosan-zd37-081.jpg"/>
+        <milestone unit="page" n="82" facs="antonrosaneo/korc/zkzd37/rosan-zd37-082.jpg"/>
+        <milestone unit="page" n="83" facs="antonrosaneo/korc/zkzd37/rosan-zd37-083.jpg"/>
+        <milestone unit="page" n="84" facs="antonrosaneo/korc/zkzd37/rosan-zd37-084.jpg"/>
+        <milestone unit="page" n="85" facs="antonrosaneo/korc/zkzd37/rosan-zd37-085.jpg"/>
+        <milestone unit="page" n="86" facs="antonrosaneo/korc/zkzd37/rosan-zd37-086.jpg"/>
+        <milestone unit="page" n="87" facs="antonrosaneo/korc/zkzd37/rosan-zd37-087.jpg"/>
+        <milestone unit="page" n="88" facs="antonrosaneo/korc/zkzd37/rosan-zd37-088.jpg"/>
+        <milestone unit="page" n="89" facs="antonrosaneo/korc/zkzd37/rosan-zd37-089.jpg"/>
+        <milestone unit="page" n="90" facs="antonrosaneo/korc/zkzd37/rosan-zd37-090.jpg"/>
+        <milestone unit="page" n="91" facs="antonrosaneo/korc/zkzd37/rosan-zd37-091.jpg"/>
+        <milestone unit="page" n="92" facs="antonrosaneo/korc/zkzd37/rosan-zd37-092.jpg"/>
+        <milestone unit="page" n="93" facs="antonrosaneo/korc/zkzd37/rosan-zd37-093.jpg"/>
+        <milestone unit="page" n="94" facs="antonrosaneo/korc/zkzd37/rosan-zd37-094.jpg"/>
+        <milestone unit="page" n="95" facs="antonrosaneo/korc/zkzd37/rosan-zd37-095.jpg"/>
+        <milestone unit="page" n="96" facs="antonrosaneo/korc/zkzd37/rosan-zd37-096.jpg"/>
+        <milestone unit="page" n="97" facs="antonrosaneo/korc/zkzd37/rosan-zd37-097.jpg"/>
+        <milestone unit="page" n="98" facs="antonrosaneo/korc/zkzd37/rosan-zd37-098.jpg"/>
+        <milestone unit="page" n="99" facs="antonrosaneo/korc/zkzd37/rosan-zd37-099.jpg"/>
+        <milestone unit="page" n="100" facs="antonrosaneo/korc/zkzd37/rosan-zd37-100.jpg"/>
+        <milestone unit="page" n="101" facs="antonrosaneo/korc/zkzd37/rosan-zd37-101.jpg"/>
+        <milestone unit="page" n="102" facs="antonrosaneo/korc/zkzd37/rosan-zd37-102.jpg"/>
+        <milestone unit="page" n="103" facs="antonrosaneo/korc/zkzd37/rosan-zd37-103.jpg"/>
+        <milestone unit="page" n="104" facs="antonrosaneo/korc/zkzd37/rosan-zd37-104.jpg"/>
+        <milestone unit="page" n="105" facs="antonrosaneo/korc/zkzd37/rosan-zd37-105.jpg"/>
+        <milestone unit="page" n="106" facs="antonrosaneo/korc/zkzd37/rosan-zd37-106.jpg"/>
+        <milestone unit="page" n="107" facs="antonrosaneo/korc/zkzd37/rosan-zd37-107.jpg"/>
+        <milestone unit="page" n="108" facs="antonrosaneo/korc/zkzd37/rosan-zd37-108.jpg"/>
+        <milestone unit="page" n="109" facs="antonrosaneo/korc/zkzd37/rosan-zd37-109.jpg"/>
+        <milestone unit="page" n="110" facs="antonrosaneo/korc/zkzd37/rosan-zd37-110.jpg"/>
+        <milestone unit="page" n="111" facs="antonrosaneo/korc/zkzd37/rosan-zd37-111.jpg"/>
+            </div>
+    </back>    
+    </text>
+</TEI>

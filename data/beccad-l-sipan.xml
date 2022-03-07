@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc xml:id="beccad-l-sipan">
+    <titleStmt>
+     <title>Inscriptio et elegia, versio electronica</title>
+     <author>
+      <name xml:lang="it">Lodovico Beccadelli</name>
+      <date>1658-1721</date>
+     </author>
+     <editor>G. B. Morandi</editor>
+     <editor>G. Tommasino</editor>
+     <respStmt>
+      <resp>Hanc editionem electronicam curavit</resp>
+      <name>Neven Jovanović</name>
+     </respStmt>
+    </titleStmt>
+    <extent>12 versus, verborum 133</extent>
+     <publicationStmt>
+      <p>Izdanje priređeno u okviru znanstvenog projekta Profil hrvatskog latinizma,
+       (Filozofski fakultet Sveučilišta u Zagrebu, Hrvatska). <date>Lipanj
+        2012</date></p>
+     </publicationStmt>
+      <sourceDesc>
+       <bibl>Beccadelli, Lodovico ; Morandi, G. B. (ed.): Monumenti di varia letteratura, tratti dai manoscritti di L. Beccadelli. 2 tom. [in 3 pt.]. Bologna, 1799</bibl>
+       <bibl>Tommasino, G.: I carmi latini inediti di mons. Ludovico Beccadelli nel cd. Palatino parmense 972. S. Maria Capua Vetere, 1923, 38-39.</bibl>
+      </sourceDesc>
+    </fileDesc>
+   <profileDesc>
+    <creation>
+     <date when="1557">1557, 1560</date>
+    </creation>
+    <textClass>
+     <keywords scheme="biblio/croala-catalogus-aetatum.xml#typ01">
+      <term>poesis</term>
+     </keywords>
+     <keywords scheme="biblio/croala-catalogus-aetatum.xml#aet01">
+      <term>Litterae renatae (1400-1600)</term>
+      <term>Saeculum 16 (1501-1600)</term>
+      <term>1551-1600</term>
+     </keywords>
+     <keywords scheme="biblio/croala-catalogus-aetatum.xml#gen01">
+      <term>prosa - inscriptio</term>
+      <term>poesis - elegiacum</term>
+      <term>poesis - epigramma</term>
+     </keywords>
+    </textClass>
+   </profileDesc>
+  <revisionDesc>
+
+   <change>
+    <name>Neven Jovanović</name>
+    <date>2012-06-03</date> Početna verzija.</change>
+  </revisionDesc>
+  </teiHeader>
+  <text>
+   
+    <body>
+     <div type="prosa-inscriptio">
+      <pb n="114"/>
+      <note>XXVI. Memoria , che leggesi tutt' ora all' ingresso della Villa Giuppana edificata da Monsignor Lodovico Beccadelli.</note>
+      
+      <p>LUDOVICUS . BECCATELLUS . BONONIENSIS <lb/>
+       ARCHIEPISCOPUS . RAGUSINUS <lb/>
+       TAURIDIS . INSULAE . SALUBRITATE . ALLECTUS <lb/>
+       ECCLESIAE . FUNDUM . SITU . FERME . OBDUCTUM <lb/>
+       VITE . MULTIPLICI . CONSITA . EXHILARAVIT <lb/>
+       SUOQUE . COMMODO . ET . SUCCESSORUM . CONSULENS <lb/>
+       PRISCIS . AEDIBUS . RESTAURATIS . NOVAS <lb/>
+       ADDIDIT . CUM . HQRTO . ET . DUPLICI . CISTERNA <lb/>
+       <date when="1557">M. D. L. VII</date>. <lb/>
+      ANNO AB EJUS IN ILLYRICUM ADVENTU . II.</p>
+     </div>
+   <div type="poesis-epigramma" met="elegiacum">
+    <l>Quae mihi cum tenera primum lanugine malas</l>
+    <l>Vestirem, Musae, saepe tulistis opem,</l>
+    <l> Et cum praeruptos tentarem scandere montes</l>
+    <l n="5"> Pronam signastis qua decet ire viam,</l>
+    <l> Nunc mare sollicitum fugiens <corr>fugientibus</corr> annis</l>
+    <l> En iterum supplex limina vestra peto,</l>
+    <l> Ut ripa in viridi liceat subducere limbum</l>
+    <l n="10"> Mecum qui fluctus pertulit Illyricos.</l>
+    <l> Namque ego, quod spatii Parcae vitalia nentes</l>
+    <l> Stamina decrerunt mox superesse mihi,</l>
+    <l> Devoveo id vobis, iuxta haec vernantia prata</l>
+    <l> Quorum me posthac sedula cura premet.</l>
+   </div>
+    </body>
+  </text>
+</TEI>

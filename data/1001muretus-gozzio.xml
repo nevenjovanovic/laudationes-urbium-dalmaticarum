@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>M. Antonii Mureti epistula dedicatoria ad Georgium Gozzium Ragusinum (1577), versio electronica</title>
+    <author>
+        <name>Marcus Antonius Muretus (Marc Antoine Muret)</name>, <date from="1526-04-12" notAfter="1585-06-04">12. Aprilis 1526 – 4. Junii 1585</date></author>
+        <respStmt>
+        <resp>Editionem electronicam curavit</resp>
+        <name>Neven Jovanović</name>
+        
+    </respStmt>
+    
+</titleStmt>
+<editionStmt>
+<edition>
+<date when="2010-01">mense Januario 2010</date>
+</edition>
+</editionStmt>
+    <publicationStmt>
+        <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+            Hrvatska.  <date when="2010-01">siječnja 2010</date></p>
+    </publicationStmt>
+<sourceDesc>
+    <p>Ad fidem editionis: <bibl>Aristoteles; Muret, Marc-Antoine et Cicero, Marcus Tullius: Commentarius in primum et secundum librum rhetoricorum Aristotelis, et ejusdem interpretatio ex Graeco. In primam Quaestionem Tusculanam M. Tullij Ciceronis, liber singularis. Notae in tres libros de officiis, et in quinque de finibus. In orationem Ciceronis pro Deiotaro <pubPlace>Ingolstadii</pubPlace>: <publisher>ex typographia Adami Sartorii</publisher> (1602). Etiam in <ref target="http://books.google.be/books?id=TQkVAAAAQAAJ">Google Book Search</ref></bibl>.
+        
+        Editio princeps autem erat:
+        <bibl>Editio princeps: Aristotle, and Marc-Antoine Muret. Aristotelis Rhetoricorum. Libri duo. Romae: Apud B. Grassum, 1585.</bibl>
+        
+    </p>
+    
+</sourceDesc>
+</fileDesc>
+    <profileDesc>
+        <creation>
+            <placeName>Romae.</placeName> 
+            <date when="1577-02-13">1577, 13. 2.</date>
+        </creation>
+    </profileDesc>
+<revisionDesc>
+    <change>
+        <name>Neven Jovanović</name>
+        <date>2010-01-30</date>
+        Div type.
+    </change>
+<change>
+<name>Neven Jovanović</name>
+<date>2010-01-20</date>
+</change>
+</revisionDesc>
+</teiHeader>
+<text type="prorsaOratio">
+    <body>
+        <milestone unit="page" n="175"/>
+        <div type="prorsaOratio-epistula-dedicatoria">
+            <opener>M. Antonius Muretus Georgio Gozzio patricio Ragusino S. D.</opener>
+        <p>
+            
+            
+            Etsi prudentia e libris hauriri non potest, Georgi, dubium tamen non est, quin tractatio ac pervolutatio certi cujusdam generis librorum plurimum momenti habeat ad prudentiam comparandam. Tales autem sunt cum alii tum ii praecipue, quibus aut historia, perite et intelligenter explicata, aut praecepta ad informandam vitam utilia continentur. Jam utroque in genere apud Graecos quidem duo mihi videntur excelluisse, Xenophon et Plutarchus; e Latinis autem (nimium fortasse mihi sumo, qui tanta de re judicare audeam; sed ut reprehendendus essem, si quasi judex aut arbiter statuerem: ita licere arbitror, tanquam uni e multis, 
+            <milestone unit="page" n="176"/>
+            
+            quid sentiam, dicere) ex omni igitur Latinorum scriptorum copia longe mihi hac laude supra ceteros Cornelius Tacitus excellere videtur. Quare iis, qui litteras ita tractare cupiunt, non ut a vitae muneribus feriati abditarum rerum et vulgi captum superantium meditatione animum pascant, sed ut in hominum consuetudine et in reipublicae administratione versantes et privatim et publice ceteris prosint; vobisque praesertim, qui ea in republica nati estis, quae tota vestro, id est, nobilium consilio atque auctoritate regitur, ejusmodi scriptores, praeter pauca quaedam Plutarchi, quae ad mathematicas disciplinas aut ad physiologiam pertinent, totos diligentissime cognoscendos et in manibus habendos puto. Platonis autem et Aristotelis non omnia, sed utriusque ea modo, quae ad conformandos mores et in institutionem reipublicae et ad eloquentiam pertinent. Hoc meo consilio et alii olim nobiles adolescentes usi sunt, quorum etiam nonnulli hodie magni ac clari in civitatibus suis uiri uberes se ex eo fructus percipere 
+            <milestone unit="page" n="177"/>
+            
+            fatentur, et tu cum maxime uteris, qui horas tibi quotidie aliquot sumis, quas mecum in accurata talium scriptorum lectione consumas. Hoc igitur studio tuo adductus simulque impulsus amicitia ac familiaritate nostra, quae multis abhinc annis instituta ita jam crevit, vix ut quisquam sibi ipse carior sit, quam uterque nostrum est alteri, do dicoque tibi commentarium in libros Aristotelis de arte dicendi, nuper a me, ut commodis auditorum meorum consulerem, Latino sermone, ut potui, expressos. Cur eum laborem post tot alios susceperim, neque tibi ignotum est, et alii suo loco ac tempore sine ulla in quenquam contumelia intelligent. Liber quidem secundus ejusmodi est, ut, si singuli libri cum singulis conferantur, vix ullum reperiri posse opiner, qui plus ad prudentiam conferat. Tibi autem certo scio munusculum hoc gratissimum fore, tum suapte vi, tum quod ab homine tui amantissimo proficiscitur. Ac praeter ceteras voluptates, quas eo relegendo capies, illa, ut spero, non minima futura est, quod, quoties eam partem 
+            
+            <milestone unit="page" n="178"/>
+            
+            inspicies, in qua summus philosophus, quae opulentos ac nobiles vitia comitari soleant, tradit, te, qui utraque re non multos, ne quid gravius dicam, in civitate tua superiores habes, omnium tamen judicio ab eis omnibus vitiis longissime abesse cognosces. Mirificam enim etiam erga infimos comitatem ac facilitatem perpetuo retinens, ita te geris, ut nobilitatem quidem pro incitamento, opes autem pro instrumento exercendae virtutis a rerum omnium prepotenti Deo accepisse videaris. 
+        </p>
+        <closer>
+            <salute>Vale.</salute>
+            <dateline> <placeName>Romae</placeName>. <date when="1577-02-13">Id. Febr. MDLXXVII.</date> </dateline>
+        </closer></div>
+    </body>
+</text>
+</TEI>

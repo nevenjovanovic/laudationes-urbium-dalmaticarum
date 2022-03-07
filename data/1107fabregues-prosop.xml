@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antonius Fabregues, prilog za prosopografiju, elektronska verzija</title>
+                <author>Neven Jovanović</author>
+                <respStmt>
+                    <resp>Editionem electronicam curavit</resp>
+                    <name>Neven Jovanović</name>
+
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>Mense Iulio, 2011.</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Rad nastao u okviru znanstvenog projekta Digitalizacija hrvatskih latinista,
+                    (Filozofski fakultet Sveučilišta u Zagrebu, Hrvatska). <date>kolovoz
+                2008</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Građa crpljena iz: <bibl>Leksikon hrvatskih autora</bibl>
+                </p>
+                <p>Identifikacija autora uključuje poveznicu prema Personennamendatei iz Gemeinsame Normdatei (GND) der Deutschen Nationalbibliothek</p>
+            </sourceDesc>
+
+        </fileDesc>
+        <encodingDesc>
+            
+            <classDecl>
+                <taxonomy xml:id="genera">
+                    <category xml:id="a">
+                        <catDesc>Glavni žanr ili žanrovi kojima se pisac bavio.</catDesc>
+                    </category>
+                    <category xml:id="b">
+                        <catDesc>Ostali žanrovi kojima se pisac bavio.</catDesc>
+                    </category>
+                    <category xml:id="tax.prosa">
+                        <catDesc>proza: Prosa oratio</catDesc>
+                        <category xml:id="tax.prosa.1">
+                            <catDesc>govori: orationes</catDesc>
+                            <category xml:id="tax.prosa.1a">
+                                <catDesc>prigodni govori</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.1b">
+                                <catDesc>teološki govori</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.1c">
+                                <catDesc>pogrebni (posmrtni) govori</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.1d">
+                                <catDesc>žalbeni govori (nadgrobnice?)</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.1e">
+                                <catDesc>propovijed (= teološki govor?)</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.1f">
+                                <catDesc>predavanja (iz filozofije)</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.1g">
+                                <catDesc>panegirik u prozi: panegyricus prosaicus</catDesc>
+                            </category>
+                        </category>
+
+                        <category xml:id="tax.prosa.2">
+                            <catDesc>dialogus</catDesc>
+                            <category xml:id="tax.prosa.2a">
+                                <catDesc>narativno-dijaloška proza</catDesc>
+                                <!-- koja kategorija?? -->
+                            </category>
+                            <category xml:id="tax.prosa.2b">
+                                <catDesc>filozofski dijalozi</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.prosa.3">
+                            <catDesc>pisma (epistolografija, korespondencija): epistulae</catDesc>
+                            <category xml:id="tax.prosa.3a">
+                                <catDesc>epistula dedicatoria: posvetno pismo</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.3b">
+                                <catDesc>privatna korespondencija</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.3c">
+                                <catDesc>službena korespondencija</catDesc>
+                            </category>
+                        </category>
+
+
+                        <category xml:id="tax.prosa.4">
+                            <catDesc>biografija: vita</catDesc>
+                            <category xml:id="tax.prosa.4a">
+                                <catDesc>autobiografija</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.4b">
+                                <catDesc>memoari</catDesc>
+                            </category>
+                        </category>
+
+                        <category xml:id="tax.prosa.5">
+                            <catDesc>komentar: commentarius (stručno?)</catDesc>
+                        </category>
+
+                        <category xml:id="tax.prosa.6">
+                            <catDesc>vjerski tekstovi (teološki traktati)</catDesc>
+                            <category xml:id="tax.prosa.6a">
+                                <catDesc>ispovjedna proza</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.6b">
+                                <catDesc>vjersko-poučna proza</catDesc>
+                            </category>
+                        </category>
+
+                        <category xml:id="tax.prosa.7">
+                            <catDesc>povjesničarski tekstovi (historiografija)</catDesc>
+                            <category xml:id="tax.prosa.7a">
+                                <catDesc>ljetopis (kronika): annale</catDesc>
+                                <category xml:id="tax.prosa.7a1">
+                                    <catDesc>banologija</catDesc>
+                                </category>
+                                <category xml:id="tax.prosa.7a2">
+                                    <catDesc>kronika biskupa</catDesc>
+                                </category>
+                                <category xml:id="tax.prosa.7a3">
+                                    <catDesc>kronologija (?)</catDesc>
+                                </category>
+                                <category xml:id="tax.prosa.7a4">
+                                    <catDesc>genealogija (vrsta popisa? biografije?
+                                    opisa?)</catDesc>
+                                </category>
+                            </category>
+                            <category xml:id="tax.prosa.7b">
+                                <catDesc>povijest: historia</catDesc>
+<!-- i povijesne rasprave -->
+                                <category xml:id="tax.prosa.7b1">
+                                    <catDesc>crkvena povijest: historia ecclesiastica</catDesc>
+                                </category>
+                                <category xml:id="tax.prosa.7b2">
+                                    <catDesc>politička povijest</catDesc>
+                                </category>
+                            </category>
+                            <category xml:id="tax.prosa.7c">
+                                <catDesc>statistika</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.7d">
+                                <catDesc>povijesno-geografska rasprava</catDesc>
+                            </category>
+                        </category>
+
+                        <category xml:id="tax.prosa.8">
+                            <catDesc>katalog (popis)</catDesc>
+                        </category>
+
+                        <category xml:id="tax.prosa.9">
+                            <catDesc>polemika</catDesc>
+                            <category xml:id="tax.prosa.9a">
+                                <catDesc>polemička rasprava</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.9b">
+                                <catDesc>obrana: apologia</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.prosa.10">
+                            <catDesc>monografija (= znanstveni rad; rasprava; zn. proza; traktat;
+                                ogled)</catDesc>
+                            <category xml:id="tax.prosa.10a">
+                                <catDesc>matematika</catDesc>
+                                <category xml:id="tax.prosa.10a1">
+                                    <catDesc>algebra</catDesc>
+                                </category>
+                            </category>
+                            <category xml:id="tax.prosa.10b">
+                                <catDesc>astronomska</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10c">
+                                <catDesc>teološka (teologija; filozofsko-teološka; religija)</catDesc>
+                                <category xml:id="tax.prosa.10c1">
+                                    <catDesc>pastoralna teologija</catDesc>
+                                    <!-- religiozno-poučna? -->
+                                </category>
+                                <category xml:id="tax.prosa.10c2">
+                                    <catDesc>teološko-pravna</catDesc>
+                                </category>
+                                <category xml:id="tax.prosa.10c3">
+                                    <catDesc>religiozno-poučna</catDesc>
+                                </category>
+                                <category xml:id="tax.prosa.10c4">
+                                    <catDesc>moralistička</catDesc>
+                                    <!-- ako nije filozofska -->
+                                </category>
+                            </category>
+                            <category xml:id="tax.prosa.10d">
+                                <catDesc>filozofska</catDesc>
+                                <category xml:id="tax.prosa.10d1">
+                                    <catDesc>etička</catDesc>
+                                </category>
+                                <category xml:id="tax.prosa.10d2">
+                                    <catDesc>logička</catDesc>
+                                </category>
+
+                            </category>
+                            <category xml:id="tax.prosa.10e">
+                                <catDesc>brošura (!)</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10f">
+                                <catDesc>jezikoslovlje (filologija)</catDesc>
+                                <category xml:id="tax.prosa.10f1">
+                                    <catDesc>rasprava o kvantiteti slogova</catDesc>
+                                </category>
+                            </category>
+                            <category xml:id="tax.prosa.10g">
+                                <catDesc>prirodoznanstvena</catDesc>
+                                <!-- = prirodoslovlje -->
+                            </category>
+                            <category xml:id="tax.prosa.10h">
+                                <catDesc>medicinska</catDesc>
+                                <!-- sve su ovo prirodne znanosti -->
+                            </category>
+                            <category xml:id="tax.prosa.10i">
+                                <catDesc>fizika</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10j">
+                                <catDesc>navigacija</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10k">
+                                <catDesc>optika</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10l">
+                                <catDesc>meteorologija</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10m">
+                                <catDesc>hidrotehnika</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10n">
+                                <catDesc>zemljopisni (tekstovi; geografija)</catDesc>
+                                <category xml:id="tax.prosa.10n1">
+                                    <catDesc>povijesno-zemljopisni</catDesc>
+                                    <!-- usp. gore pod povijest -->
+                                </category>
+                            </category>
+                            <category xml:id="tax.prosa.10o">
+                                <catDesc>epigrafija</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10p">
+                                <catDesc>poetika</catDesc>
+                                <category xml:id="tax.prosa.10p1">
+                                    <catDesc>traduktologija</catDesc>
+                                </category>
+                                <category xml:id="tax.prosa.10p2">
+                                    <catDesc>književna teorija</catDesc>
+                                </category>
+                            </category>
+                            <category xml:id="tax.prosa.10q">
+                                <catDesc>poljoprivreda</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10r">
+                                <catDesc>arhitektura</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10s">
+                                <catDesc>botanika</catDesc>
+                                <!-- Kotruljević o cvijeću -->
+                            </category>
+                            <category xml:id="tax.prosa.10t">
+                                <catDesc>sociologija (o ženidbi)</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10u">
+                                <catDesc>pravo</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10v">
+                                <catDesc>ekonomija</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10z">
+                                <catDesc>retorika</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10x">
+                                <catDesc>popularno-znanstvena</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10y">
+                                <catDesc>politički spis</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10aa">
+                                <catDesc>kriptografija</catDesc>
+                            </category>
+                            <category xml:id="tax.prosa.10bb">
+                                <catDesc>pedagogija</catDesc>
+                            </category>
+
+                        </category>
+
+                        <category xml:id="tax.prosa.11">
+                            <catDesc>statut: statuta</catDesc>
+                        </category>
+
+                        <category xml:id="tax.prosa.12">
+                            <catDesc>nekrolog (~ posmrtni govor)</catDesc>
+                        </category>
+                        <category xml:id="tax.prosa.13">
+                            <catDesc>putopis</catDesc>
+                        </category>
+                        <category xml:id="tax.prosa.14">
+                            <catDesc>opis</catDesc>
+                        </category>
+                        <category xml:id="tax.prosa.15">
+                            <catDesc>natpis</catDesc>
+                        </category>
+                        <category xml:id="tax.prosa.16">
+                            <catDesc>novela</catDesc>
+                        </category>
+                        <category xml:id="tax.prosa.17">
+                            <catDesc>predgovor</catDesc>
+                        </category>
+                        <category xml:id="tax.prosa.18">
+                            <catDesc>dnevnik</catDesc>
+                        </category>
+                        <category xml:id="tax.prosa.19">
+                            <catDesc>proročanstva</catDesc>
+                        </category>
+                    </category>
+
+                    <category xml:id="tax.poesis">
+                        <catDesc>poezija: poesis</catDesc>
+                        <category xml:id="tax.poesis.1">
+                            <catDesc>prigodnice (prigodna poezija): carmina occasionalia</catDesc>
+                            <!-- i prigodna lirika -->
+                            <category xml:id="tax.poesis.1a">
+                                <catDesc>epitaf (nadgroblje, nadgrobnica): epitaphium</catDesc>
+                            </category>
+                            <category xml:id="tax.poesis.1b">
+                                <catDesc>epitalamij: epithalamium</catDesc>
+                                <category xml:id="tax.poesis.1b1">
+                                    <catDesc>grčki epitalamij</catDesc>
+                                </category>
+                            </category>
+                            <category xml:id="tax.poesis.1c">
+                                <catDesc>epicedij: epicedium</catDesc>
+                            </category>
+                            <category xml:id="tax.poesis.1d">
+                                <catDesc>pozdravnica</catDesc>
+                            </category>
+                            <category xml:id="tax.poesis.1e">
+                                <catDesc>godovnica</catDesc>
+                            </category>
+                            <category xml:id="tax.poesis.1f">
+                                <catDesc>enkomij</catDesc>
+                                <!-- tj. pohvalni epigram -->
+                            </category>
+                            <category xml:id="tax.poesis.1g">
+                                <catDesc>epinikij</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.poesis.2">
+                            <catDesc>ekloga: ecloga</catDesc>
+                            <category xml:id="tax.poesis.2a">
+                                <catDesc>idyllia: idile (pastorala?)</catDesc>
+                            </category>
+                        </category>
+
+                        <category xml:id="tax.poesis.3">
+                            <catDesc>epigram: epigramma</catDesc>
+                            <category xml:id="tax.poesis.3a">
+                                <catDesc>prigodni epigrami</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.poesis.4">
+                            <catDesc>elegija: elegia</catDesc>
+                            <category xml:id="tax.poesis.4a">
+                                <catDesc>prigodna elegija</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.poesis.5">
+                            <catDesc>ep</catDesc>
+                            <category xml:id="tax.poesis.5a">
+                                <catDesc>didaktični ep</catDesc>
+                                <category xml:id="tax.poesis.5a1">
+                                    <catDesc>enciklopedijska pjesma (?)</catDesc>
+                                </category>
+                            </category>
+                            <category xml:id="tax.poesis.5b">
+                                <catDesc>epyllion: kraći ep</catDesc>
+                            </category>
+                            <category xml:id="tax.poesis.5c">
+                                <catDesc>alegorijski autobiografski spjev</catDesc>
+                            </category>
+                            <category xml:id="tax.poesis.5d">
+                                <catDesc>stihovana biografija</catDesc>
+                            </category>
+                            <category xml:id="tax.poesis.5e">
+                                <catDesc>herojska poema</catDesc>
+                                <!-- nije ep? -->
+                            </category>
+                        </category>
+                        <category xml:id="tax.poesis.6">
+                            <catDesc>poslanice: epistulae metricae</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.7">
+                            <catDesc>sonet: sonetto</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.8">
+                            <catDesc>oda: ode (često pohvalna prigodnica)</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.9">
+                            <catDesc>panegirik u stihu (panegirička poezija): carmen
+                            panegyricum</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.10">
+                            <catDesc>nabožna poezija (religiozne pjesme)</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.11">
+                            <catDesc>satira</catDesc>
+                            <category xml:id="tax.poesis.11a">
+                                <catDesc>satiričke pjesme</catDesc>
+                            </category>
+                            <category xml:id="tax.poesis.11b">
+                                <catDesc>politička satira (u stihu?)</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.poesis.12">
+                            <catDesc>stihovani kalendar</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.13">
+                            <catDesc>ljubavna poezija</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.14">
+                            <catDesc>didaktička poezija</catDesc>
+                            <!-- enciklopedijska pjesma? -->
+                        </category>
+                        <category xml:id="tax.poesis.15">
+                            <catDesc>polemička poezija</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.16">
+                            <catDesc>himan</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.17">
+                            <catDesc>lirika (valjda ode, himne itd?)</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.18">
+                            <catDesc>povijest u stihovima</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.19">
+                            <catDesc>heksametri</catDesc>
+                            <category xml:id="tax.poesis.19a">
+                                <catDesc>silvae (i pohvalna?)</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.poesis.20">
+                            <catDesc>makaronska poezija</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.21">
+                            <catDesc>anagramska poezija</catDesc>
+                        </category>
+                        <category xml:id="tax.poesis.22">
+                            <catDesc>prepjev</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="tax.mixtum">
+                        <catDesc>Mixtum: mješovito (i "stručno")</catDesc>
+                        <category xml:id="tax.mixtum.1">
+                            <catDesc>molitvenik</catDesc>
+                        </category>
+                        <category xml:id="tax.mixtum.2">
+                            <catDesc>udžbenik (priručnik)</catDesc>
+                            <category xml:id="tax.mixtum.2a">
+                                <catDesc>katehetsko-gramatički udžbenik</catDesc>
+                            </category>
+                            <category xml:id="tax.mixtum.2b">
+                                <catDesc>udžbenik logike</catDesc>
+                            </category>
+                            <category xml:id="tax.mixtum.2c">
+                                <catDesc>gramatika</catDesc>
+                                <category xml:id="tax.mixtum.2c1">
+                                    <catDesc>latinska gramatika</catDesc>
+                                </category>
+                            </category>
+                            <category xml:id="tax.mixtum.2d">
+                                <catDesc>epistolografski priručnik</catDesc>
+                            </category>
+                            <category xml:id="tax.mixtum.2e">
+                                <catDesc>stilski priručnik</catDesc>
+                            </category>
+                            <category xml:id="tax.mixtum.2f">
+                                <catDesc>retorički priručnik</catDesc>
+                            </category>
+                            <category xml:id="tax.mixtum.2g">
+                                <catDesc>metrički priručnik</catDesc>
+                                <!-- rasprava o kvantiteti slogova -->
+                            </category>
+                            <category xml:id="tax.mixtum.2h">
+                                <catDesc>pravopis</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.mixtum.3">
+                            <catDesc>rječnik</catDesc>
+                        </category>
+
+                        <category xml:id="tax.mixtum.4">
+                            <catDesc>vjersko-poučna proza i poezija</catDesc>
+                            <category xml:id="tax.mixtum.4a">
+                                <catDesc>molitva</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.mixtum.5">
+                            <catDesc>prijevod</catDesc>
+                            <category xml:id="tax.mixtum.5a">
+                                <catDesc>s engleskog</catDesc>
+                            </category>
+                            <category xml:id="tax.mixtum.5b">
+                                <catDesc>s grčkog</catDesc>
+                                <category xml:id="tax.mixtum.5b1">
+                                    <catDesc>prozni prijevod s grčkog</catDesc>
+                                </category>
+                                <category xml:id="tax.mixtum.5b2">
+                                    <catDesc>filozofski prijevod s grčkog (hermetički
+                                    spisi)</catDesc>
+                                    <!-- hermetički spisi, proročanstva -->
+                                </category>
+                                <category xml:id="tax.mixtum.5b3">
+                                    <catDesc>medicinski prijevod s grčkog</catDesc>
+                                </category>
+                            </category>
+                            <category xml:id="tax.mixtum.5c">
+                                <catDesc>s talijanskog</catDesc>
+                            </category>
+                            <category xml:id="tax.mixtum.5d">
+                                <catDesc>s hrvatskog (poslovice)</catDesc>
+                            </category>
+                        </category>
+                        <category xml:id="tax.mixtum.6">
+                            <catDesc>vjersko-crkveni spisi</catDesc>
+                            <category xml:id="tax.mixtum.6a">
+                                <catDesc>crkvene odredbe (crkveni službeni dokumenti)</catDesc>
+                            </category>
+                            <category xml:id="tax.mixtum.6b">
+                                <catDesc>zbirka oprosta i povlastica</catDesc>
+                            </category>
+                        </category>
+
+                        <category xml:id="tax.mixtum.7">
+                            <catDesc>administrativno</catDesc>
+                            <category xml:id="tax.mixtum.7a">
+                                <catDesc>elaborati</catDesc>
+                            </category>
+                            <category xml:id="tax.mixtum.7b">
+                                <catDesc>izvješća</catDesc>
+                            </category>
+
+                        </category>
+                    </category>
+                    <category xml:id="tax.drama">
+                        <catDesc>drama</catDesc>
+                        <category xml:id="tax.drama.1">
+                            <catDesc>drama u stihovima</catDesc>
+                        </category>
+                    </category>
+                    <category xml:id="tax.status">
+                        <catDesc>nedovršeno</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2011-07-09</date>
+                Početna verzija
+            </change>
+            
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <front>
+            <docAuthor>Neven Jovanović</docAuthor>
+            <docTitle>
+                <titlePart>Antonius Fabregues, prilog za prosopografiju</titlePart>
+            </docTitle>
+            <docDate>Srpanj 2011.</docDate>
+        </front>
+        <body>
+            <div type="prosopographia">
+
+                <listPerson>
+                    
+                    
+                    <person xml:id="cipik02">
+                        <persName xml:lang="la">Fabregues, Antonius</persName>
+
+                        <persName xml:lang="la">Antonius Fabregnes</persName>
+                        <persName xml:lang="it">Antonio Fabregues</persName>
+                        <persName xml:lang="hr">Antonije Fabregues</persName>
+                        <residence when="1493-09">
+                            <placeName>Senj</placeName>
+                        </residence>
+                        <residence when="1494-03-06">
+                            <placeName>Rim</placeName>
+                        </residence>
+                        <residence when="1494-12-25">
+                            <placeName>Beč</placeName>
+                        </residence>
+                        <occupation>cubicularius Alexandri PP. VI</occupation>
+                        <occupation>nuntius Alexandri PP. VI</occupation>
+                        <education>doctor</education>
+                        <event when="1493-09-08">
+                            <label>Epistola ad Alexandrum PP. VI, Segniae</label>
+                            <desc><bibl>142.
+                                Senj, 8. sept. 1493.
+                                Papinski izaslanik Antonije Fabregues javlja u Rim o provali
+                                Turaka u Hrvatsku.
+                                
+                                Drž. arhiv u Milanu, savremeni prijepis; Poten. est. Hungaria.</bibl>
+                                
+                                Sanctissime pater post pedum oscula beatorum.
+                                
+                                Hac hora per banum nunciatum est michi, Turchos fecisse
+                                magna incendia et damna per Corvaciam et Alemaniam, comburrendo
+                                villas, ecclesias et multa monasteria fecisseque ingentem predam
+                                animarum. Prefatus banus cum omni quo potuit congregare
+                                conatu decrevit eos in certis passibus expectare ac cum eis pugnare,
+                                conarique predam christianorum ab eorum manibus recuperare.
+                                Omnipotens det sibi victoriam, amen; quoniam si aliter erit, quod
+                                deus avertat, actum est de hoc regno. Ego singulis diebus per clerum
+                                in hac patria fieri facio supplicationes; expecto omni hora eventum
+                                belli, de quo illico Beatitudinem Vestram certiorem reddam.
+                                Ceterum comes Angelus, salubribus monitis Sanctitatis Vestre
+                                reductus, ibit in auxilium bani cum ducentis equitibus et iunget se
+                                cum prefato bano, aut suos contra Turchos mittet et secure ire
+                                poterit; ita ego disposui. Prefatus comes scribit Sanctitati Vestre
+                                alligatas litteras; omnis eius spes in Sanctitate Vestra posita est,
+                                cuius interventu et auctoritate omnia eius negocia cum serenissimo
+                                rege bonum exitum esse habitura confidit. De hiis que succedent,
+                                faciam passim Beatitudinem Vestram certiorem, cuius sanctissimis
+                                pedibus me humiliter commendo. 
+                                Segnie VIIIa septembris M°CCCCLXXXXIII-o.
+                                Eiusdem Vestre Sanctitatis fidelis servus
+                                Antonius Fabregues.</desc>
+                        </event>
+                        <event when="1493-09-08">
+                            <label>Epistola ad Alexandrum PP. VI, Segniae</label>
+                            <desc>
+                                <bibl>144. Senj, 13. sept. 1493. Papinski izaslanik Antonije
+                                    Fabregues javlja u Rim o porazu Hrvata na Krbavskom polju. Drž.
+                                    arhiv u Milanu, savremeni prijepis; Poten. est., Hungheria.</bibl>
+                                <!-- CLM Eruptio Turcorum cum deuastacione In Croatinos et Segniam. -->
+                                Sanctissime pater post pedum oscula beatorum.
+                                <!-- CLM Post pedum oscula beatorum Sanctissime pater. --> Proh
+                                dolor planctus et ululatus maximus factus est super hanc miserimam
+                                <!-- CLM miserrimam --> et desolatam Corvaciam <!-- clm Croatiam -->
+                                et omnes eius provincie flexis genibus veniunt ad me auxilium
+                                implorantes. Rustici omnes qui remanserunt, vivunt in silvis. Sciat
+                                Sanctitas Vestra, quod nona <!-- [die] CLM om. --> presentis mensis
+                                septembris, volentibus <!-- CLM valentibus --> Turchis cum ingenti
+                                preda christianorum captivorum de partibus Alemanie
+                                <!-- CLM almanie --> ad propria redire, et facientibus iter cum ipsa
+                                preda per partes Corvacie <!-- CLM Cornatie -->, banus
+                                <!-- clm Bamis danus --> et eius filii omnesque domini tocius
+                                Corvacie <!-- clm Cornatie --> se opposuerunt, ut dictam predam ab
+                                eorum manibus recuperarent. Unde inita est inter eos
+                                acer<!-- clm -->rima pugna, in qua Turchi prefatum banum caperunt
+                                (!) <!-- clm rapuerunt -->, qui erat cum duobus milibus equitum. et
+                                sex milibus peditum, adeo, quod vix tricenti christiani evaserunt:
+                                omnes fuerunt mortui et capti. Turchi <!-- clm Turci -->, ut
+                                dicitur, erunt <!-- clm erant --> ad novem milia equitum, inter quos
+                                erant duo millia ex Porta Magni Turchi <!-- clm Turci -->. Erant
+                                etiam cum eis duo generi [Magni]<!-- clm om --> Turchi
+                                <!-- clm turci --> et duo bassani (!) Banus, ut fertur, certe captus
+                                est, filius eius mortuus. Banus de Hiareza (!)2 captus et tota
+                                nobilitas Corvatie <!-- clm Cornatie --> capta est et mortua. Comes
+                                de Cetin et comes Nicolaus de Frangepanibus<!-- clm Fragepanibus -->
+                                mortui. Duo domini de Sregna (!)3<!-- clm Strigna --> et duo alii de
+                                Blagay<!-- clm blagan --> etiam mortui. Remansit solus comes
+                                Bernardinus<!-- clm berardinnus --> de
+                                Frangepanibus<!-- clm fragepanibus -->, qui cum tribus ex suis
+                                aufugit ex trecentis, quos secum conduxerat. Milites comitis Angeli,
+                                quos ipse ad campum miserat, omnes mortui sunt. In effectu,
+                                Beatissime Pater, nullus in tota Corvacia<!-- clm Cornatia -->
+                                remansit, qui posset<!-- clm possit --> resistere. Actum est de
+                                patria ista. Turchi<!-- clm Turci --> sunt in campo et expugnarunt
+                                castrum de Cossaza (!);4 <!-- clm Cossara --> distant ab ista
+                                civitate Segnie per dietim<!-- clm dietam --> cum dimidia. Habeat
+                                pro certo Sanctitas Vestra, quod tota ista patria
+                                <!-- clm patria ista --> peribit, quia in oppidis non sunt victualia
+                                ad octo dies et Serenissimus dominus rex Hungarie, qui in diversis
+                                locis a Turchis<!-- clm Turcis --> premitur ac etiam quoniam non
+                                multum abundat<!-- clm habundat --> pecuniis, non potest providere.
+                                Civitas ista5 stat<!-- clm est --> cum maximo timore, quia eius
+                                banus adduxerat<!-- clm abduxerat --> secum omnes stipendiarios
+                                milites et municiones. Si Sanctitas Vestra cum aliis potentatibus
+                                Italie oportune non provideat, omnia peribunt aut cogentur facere
+                                aliquam convencionem cum Turcho. Ego nolui hinc discedere propter
+                                istud crudele novum. Inter alias provisiones necesse est, ut
+                                provideatur de pecuniis ad conducendos milites prout opus erit et
+                                eciam pro municionibus. Supplico Sanctitati Vestre, mandet, quid
+                                facturus sim, quia metu Turcorum cogor nocte dormire <!-- clm// -->
+                                in portu in navi aliqua. Tota civitas plorat acclamans opportunum
+                                subsidium. Ego illico scripsi regi Hungarie de isto tam acerrimo
+                                conflictu. Multi fratres et religiosi, qui ad campum christianorum
+                                venerant ad eos confortandos et animandos, fuerunt a
+                                Turchis<!-- clm Turcis --> minutatim interfecti. Nec alia. Pedibus
+                                Sanctitatis Vestre humiliter me commendo. 
+                                Segnie XIII septembris
+                                <!-- clm Anno --> M°CCCCLXXXXIIII.
+                                <!-- clm S. V Anthonius Fabregnes. --> Eiusdem Sanctitatis Vestre
+                                servus fidelis Antonius Fabregues. </desc>
+                            <desc xml:lang="fr">
+                                CHAPITRE CCLXVIII.
+                                
+                                La journée de Croacie, envoyée à nostre sainct père le Pape, par Anthoine Fabregues.
+                                
+                                Très sainct père, après la diosculation de voz benoitz piedz, je vous annonce, dont ce poise moy, les grosses plaintes et wulemens, lesquels ont esté faicts en ceste miserable Croacie ; car certainement tous les paisans de ces provinces , lesquels sont demourez vivans ès forestz, viennent vers moy, les genoulx flécis, requérans ayde. Saira vostre sainctitude, que le neuviesme jour de ce présent mois de septembre, les Turcqs ayant chergé une très grande proye de prisonniers chresptiens, retournez des parties d'Allemaigne en leurs propres marches , en prenant leur chemin par le pais de Croacie, le ban, ses enfans, ensemble tous les seigneurs dudit Croacie, s'opposèrent contre eulx, affin de recouvrer et de retirer ladite proye hors de leurs mains; par quoy se commencha entre eulx une très aspre et cruelle bataille, en laquelle les Turcqs desfirent et rompirent ledit ban, accompaignée de deux mille hommes à cheval et six mille piétons, tellement que à très grande paine en eschappèrent trois cents chresptiens; car tous les autres sont mors ou prins ; et lesdits Turcqs estoient, comme l'on dict, en nombre de neuf mille chevaulx, entre lesquels estoient deux mille pietons de par le grant Turcq, et deux de ses beaulx-fils, et deux de ses bassans. L'on dict que nostre ban y a été prins, et ung sien enfant mort; si est pareillement prins le ban de Hasetre, ensemble toute la noblesse de Croacie, prinse ou morte; le conte Jehan de Zetus, et Nicolas des Francqs-Pains y sont demourez; deux seigneurs de Strigues avecq deux autres de Blage y ont fini leurs vies, et n'y est eschappé que le conte Bernardus de Fragiapaine, lequel donna la fuyte avec deux des siens; car trois cens autres qu'il avoit amené avec lui, y rendirent leur esprit; pareillement sont mors tous les chevaliers qu'il avoit mené sur le camp. En effect, père sainct, il n'est demoré en toute la Croacie, personne qui puist désormais résister à leurs courses et emprinses; il est faict de ce pais, les Turcqs tiennent les champs et ont assiégé le chastel Esarte, séant à journée et demye près de cette cité de Segnie. Vostre saincteté voeil scavoir, pour chose certaine, que tout ce pais périra; car il n'y a vivres que pour huict jours ès plats villaiges; et d'aultre part, le très noble roy de Hongrie, lequel en divers lieux est oppressé des Turcqs, et n'est pour l'heure fort pécunieux, ne poelt pourveoir à » ceste besogne. Ceste cité est en grant dangier d'estre perdue, car le ban, son capitaine, avait mené, contre les ennemys toutes les garnisons et les chevaliers stipendiez; donc, si vostre sanctitude, avec les puissans seigneurs d'Italie, n'y donne provision, tout se périra, où ils seront contraincts de faire aucunes consentions et appoinctemens avec lesdits Turcqs. Je n'ai volu partir d'icy pour ce très cruel inconvénient nouvellement advenu; sur tout remède il sera nécessaire de pourvoir et faire amas de pécunes pour conduire et mener chevaliers sur les frontières, en pourvoiant aux garnisons. Je supplie à vostre sanctitude, moy mander qu'il est de faire; car je suis constrainct, pour le douste des Turcqs, dormir de nuict au port de la mer, et sur une navire; car toute la cité pleure, crie, appelle et désire avoir secours et bonne ayde. J'ai tout maintenant escript et mandé au roy de Hongrie la nouvelle de ce cruel conflict. Plusieurs frères et religieux, arrivez au camp des chresptiens, pour les consoler et enhorter de bien faire, ont esté occis par lesdits Turcqs. Ne scay autre chose pour l'heure, fors que je me recommande humblement à vostre sanctitude. Escript à Segnie, le treiziesme de septembre, l'an mil quatre cens quatre-vingt treize. <foreign xml:lang="la">Est servus fidelis</foreign>, Anthonius Fabregues. 
+                            </desc>
+                            <bibl>Regest 2764 (Österreich, Reich und Europa) Fundstelle / Zitat : RI
+                            XIV n. 2764 (URI) 1493 September 13 Senj</bibl>
+                            <note>ED: Eingefügt in <bibl>J. Molinets Chroniques (M 1, II, 385 ff.)</bibl>. ‒ NB:
+                                Der Brief wurde offenbar zu Propagandazwecken in verschiedenen
+                                Sprachen in der ganzen Christenheit verschickt. ‒ Vgl. dazu den
+                                Brief Papst Alexanders VI. von 1493 Oktober 2 Rom (Nr. 2777).</note>
+                            <bibl><author>Mlinar, Janez</author>: <title>Tipologija prekograničnih
+                                    odnosa u kasnom srednjem vijeku. Primjer knezova
+                                Frankapana</title>, Historijski zbornik , Vol. 62, Nr. 1, Siječanj
+                                (2011), S. 29-45.
+                                
+                                "O borbama Frankapana protiv Turaka znalo se po cijeloj Europi. U rujnu 1493.
+                                papin komornik Antonio Fabregues izvijestio je papu Aleksandra VI. o katastrofalnom porazu na Krbavskom polju i opisao mu novonastalu situaciju u Hrvatskoj.
+                                Fabregues je opsežno opisao okolnosti bitke i među ostalim poručio papi da je u bici
+                                pao Nikola Frankapan (!?), dok je knez Bernardin s dva svoja čovjeka jedva pobjegao.
+                                U Hrvatskoj – tako kaže – nema više nikoga tko bi mogao sastaviti obranu protiv
+                                Turaka.(60 RI Maximilian, 2. Bd., 1. Tl., 2764.) To je pismo kasnije iz propagandnih namjena bilo prevedeno na više europskih jezika i razaslano po kršćanskom svijetu. U listopadu 1493. papa Aleksan-
+                                dar VI. je na osnovu Fabreguesova pisma pisao Giangaleazzu i Ludoviku Sforzi, milanskom i barijskom vojvodi, da Turci nastoje iskoristiti sporove između Frankapana
+                                te ih obećanjima pridobiti na svoju stranu. Da bi to onemogućio, papa poručuje
+                                vojvodama da je pozvao ugarskog kralja Vladislava neka izmiri Frankapane.(61 RI Maximilian, 2. Bd., 1. Tl., 2777.)
+                                
+                            </bibl>
+                            <bibl>Pust, s. 45-46
+                               Osmanska invazija v širše zaledje beneškega zgornjejadranskega ozemlja, ki
+                                je neposredno vplivala tudi na razmere na samih beneških posestih, se je pričela
+                                stopnjevati že konec 15. stoletja. Osmani so po izteku premirja z ogrsko-hrvaškim
+                                kraljem Matijo Korvinom, ki je bilo sklenjeno leta 1483, leta 1490 obnovili svoje
+                                napade na Hrvaško. 9. septembra leta 1490 so bili poraženi v bitki pri Udbini, a so že
+                                leta 1493 v bitki na Krbavskem polju hrvaški vojski prizadejali težak poraz.
+                                Najstarejše ohranjeno poročilo o tej bitki je 13. septembra leta 1493 sestavil
+                                odposlanec papeža Aleksandra VI. v Senju Antonio Fabregues, ki piše o »ubogi in
+                                povsem zapuščeni Hrvaški«(7), saj je tedaj padel cvet hrvaškega plemstva, tako da se
+                                po Fabreguesu »nihče ni več sposoben upreti nezadržnim osmanskim napadom«
+                                (Šišić, 1936, 35–36).
+                                
+                            </bibl>
+                            </event>
+                        <event when="1493-10-02">
+                            <label>Alexandri PP. VI Io. Galeaz. ac Ludouico Sfortiae Vicecomitibus
+                                Mediolani ac Bari ducibus, etc.</label>
+                            <desc>Quare Fabregues Segniae missus sit exponitur</desc>
+                            <bibl><title>Briefe und Actenstücke zur Geschichte der Herzoge von Mailand von
+                                1452 bis 1513. Aus den Originalen copirt und herausgegeben von
+                                Joseph Chmel.</title> Archiv für Kunde österreichischer Geschichts-Quellen:
+                                Notizenblatt, Vol. 6, p. 421, nr. 63.</bibl>
+                            <note>63. 1493, 2. October. 
+                                Dilectis filiis Nobilibus viris Io. Galeaz,
+                                ac Ludouico Sfortiae Vicecomitibus Mediolani, ac Bari Ducibus etc.
+                                Alexander PP. VI. 
+                                Dilecti filii salutem, et Apostolicam
+                                benedictionem. 
+                                Tertius nunc agitur mensis, ex quo intelleximus nouos
+                                in Coruatia Turcorum motus, eorumque dominum ad ciuitatem Segnie
+                                opprimendam inhiare, capta occasione, ex discidiis dilectorum
+                                filiorum Nobilium de Fregepanibus, quos sibi variis
+                                pollicitationibus conciliare, et ad stipendia sua conducere studuit.
+                                Quare dicte ciuitatis saluti inuigilantes, que magno in periculo
+                                tunc etiam versabatur, premonito ea de re Carissimo in Christo filio
+                                nostro Wladislao Hungariae, Bohemieque Regi Illustri per certum
+                                nuntium ad Majestatem suam destinatum, ad reconciliandos ipsos
+                                Nobiles de Fregepanibus, et eorum res componendas, ас Segnienses
+                                corroborandos, et in fide firmandos statim cum aliquibus subsidiis
+                                dilectum filium Antonium Fabregues cubicularium, et nuntium nostrum
+                                transmisimus, cuius diligentia, cum res adiuuante domino, pro voto
+                                successisset, nuper ex Segnia per eius litteras atrox et miserabilis
+                                nuntius nobis allatus est: Nam cum nouem millia Turcorum Charintiam,
+                                et illi finitimos Germanie agros ingressi, ac depopulati
+                                deuastassent, magnamque inde predam abducerent, Banus Segniae cum
+                                filio, ас plerique Duces Regii, aliique Nobiliores Coruatiae, cum
+                                duobus equitum millibus, sex uero peditum, sicut conuenerant
+                                Turcorum exercitum cum ipsa preda onustum redeuntem, sub spe eius
+                                recuperande inuaserunt: sed peccatis ita exigentibus, pugna
+                                infeliciter commissa, nostri sucubuerunt, et profligati sunt,
+                                perpaucis exceptis, omnes aut capti, aut trucidati sunt: victores
+                                itaque Turci totam Coruatiam nullo resistente, incursant, sicut
+                                Nobilitas V. intelligere poterit ex ipsarum litterarum exemplo, quod
+                                presentibus inclusum mittimus. Cum multa ex huiusmodi clade nos
+                                commoueant, supra modum tamen proximum Italiae periculum angit: Nam
+                                ciuitas Segnie in foribus Italie constituta, omni nunc non solum
+                                presidio, ас defensoribus destituta, sed etiam Rectore orbata: si in
+                                hostium potestatem deuenerit, sicut pertimescendum est, nisi dominus
+                                illam custodire dignetur: Quis nesciat ex illius portu commodissimo,
+                                et oportunissimo, et ex tam facili, ac paruo traiectu, totam
+                                Italiam, cui ipsi inhiant, morsibus eorum patere, ac tantam pestem
+                                effugere non posse! Proinde in tanto Italiae et Christiane
+                                religionis periculo, illico, v. Nobilitatis, et aliorum
+                                christianorum Principum, conuocatis oratoribus apud nos agentibus,
+                                quecunque nobis allata sunt, per eos uobis nuntianda significauimus.
+                                Itaque Nobilitatem V. quanto possumus studio hortamur in domino,
+                                requirimus, et enixe rogamus, ut in communi et proximo periculo,
+                                consiliis et auxiliis suis, nobis uelit adesse, et rescribere, quod
+                                in hac re consilium sit capiundum; et que subsidia Nobilitas V.
+                                missura est: Nam quantum ad nos attinet, nihil pretermisuri sumus.
+                                Quoniam uero negocium hoc nullam patitur dilationem, sed celerem
+                                prouisionem, ac praesentanea remedia requirit, oramus denuo
+                                Nobilitatem. V. ad nos, uel oratorem suum, ea celeritate cum effectu
+                                rescribat, ut saltem infra quintadecimam diem presentis mensis
+                                certioremur, quid in hac re consilii et auxilii nobis a Nobilitate
+                                V. afferatur, ut secum non solum laboranti Christiane ciuitati
+                                maximi momenti subuenire, sed Italiam ipsam a tam imminenti
+                                periculo liberare possimus. Datum Romae apud Sanctum Petrum sub
+                                annulo Piscatoris, die secunda octobris, M° CCCCLxxxxiii-o.
+                                Pontificatus nostri anno Secundo. 
+                                L. Podocatharus. 
+                                <bibl>Orig. Perg. Von
+                                Aussen aufgedrucktes Siegel von rothem Wachs (abgefallen). Mail.
+                                Gubern. Archiv. Nr. 91, С. XIV.</bibl> 
+                                <bibl>Regest 2777 (Österreich, Reich und Europa) Fundstelle / Zitat:
+                                    RI XIV n. 2777 (URI)</bibl>
+                            </note>
+                        </event>
+                        <event when="1494-03-06">
+                            <label>Regest 2946 (Österreich, Reich und Europa) Fundstelle / Zitat :
+                                RI XIV n. 2946 (URI)</label>
+                            <desc><date>1494 März 6</date> Rom Papst Alexander VI. übersendet KM
+                                durch seinen Kämmerer Dr. Antonius Fabregues das kunstvoll
+                                gefertigte geweihte Schwert und den geweihten Hut als Zeichen der
+                                kgl. Gewalt und zum Schutz gegen alle Feinde der Christenheit.
+                                    <date>Rome apud St. Petrum 1493 (!), pridie Nonas Martii, pont.
+                                    2.</date>
+                            </desc>
+                            <bibl>ORG: Wien HHSA. FamA, ukd. ‒ ED: Z 1, Nr 193 (aus ORG).</bibl>
+                            <note>NB: Das Jahresdatum ist offenbar verschrieben; das zweite
+                                Pontifikatsjahr und der Zusammenhang weisen eindeutig auf
+                            1494.</note>
+                        </event>
+                        <event when="1494-12-25">
+                            <label>Regest 3211 (Österreich, Reich und Europa) Fundstelle / Zitat :
+                                RI XIV n. 3211 (URI) 1494 Dezember 25 Wien Antonius Fabregues,
+                                cubicularius et nuntius des Papstes (Alexanders VI.) an KM</label>
+                            <desc>der Papst schickt dem Friedrich, Bruder der Kge von Ungarn und
+                                Polen durch Fabregues den roten Kardinalshut. Der Papst glaubt, daß
+                                Fabregues auf dem Wege nach Polen KM treffen und ihm den
+                                beigeschlossenen Brief übergeben werde; er aber möchte eine
+                                Verzögerung vermeiden und übergibt diesen Brief in Wien dem dem
+                                österreichischen Kanzler Johannes Walter (richtig: Waldner), damit
+                                er KM schneller erreiche. <date>Ex Vienna die Nativitatis Domini
+                                    1494.</date>
+                            </desc>
+                            <bibl>RE: Wien HHSA, rrb KK, 29g.</bibl>
+                        </event>
+                        
+                    </person>
+                    
+                    
+                                    </listPerson>
+            </div>
+        </body>
+    </text>
+</TEI>

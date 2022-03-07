@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Descriptio Salonarum et Spalati (1503--1510), versio electronica</title>
+        <author><name>Marko Marulić (Marcus Marulus)</name>, Split <date from="1450" to="1524">1450--1524</date>.</author>
+        <respStmt>
+          <resp>Editionem textus curavit</resp>
+          <name>Bratislav Lučin</name>
+        </respStmt>
+        <respStmt>
+          <resp>Editionem electronicam curavit</resp>
+          <name>Neven Jovanović</name>
+        </respStmt>
+
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          
+            <date when="2010-01">mense Ianuario 2010</date>
+          
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+          projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+          Hrvatska.  <date when="2010-01">siječnja 2010</date></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Editio critica (quae nondum in lucem prodiit) e manuscripto: <bibl>M. Maruli ad Dominicum Papalem
+          In epigrammata priscorum commentarius,
+          Bibliotheca Bodleiana, Oxford, Ms. Add. A. 25, ff. Lv-LII
+          (autograf)
+        </bibl> Cf. textum in <bibl>Bratislav Lučin (ur.), Marulićev opis Splita, Split: Književni krug, 2005.</bibl></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1503" notAfter="1510">1503--1510</date>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date when="2010-01-16">2010-01-16</date>
+        <name>Neven Jovanovic</name> prima manus.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart>M. Maruli ad Dominicum Papalem
+        In epigrammata priscorum commentarius</titlePart>
+        <titlePart>Descriptio Salonarum et Spalati</titlePart>
+      </docTitle>
+    </front>
+    <body>
+      <gap reason="irellevant" resp="NJ"/>
+      <div n="4">
+        <milestone unit="page" n="50v"/>					 
+        <head>&lt;IV&gt; SALONIS</head>
+      
+      <p n="4.1">&lt;IV.1&gt; HACTENVS externa tibi interpretatus sum, Dominice Papalis charissime, nunc maiorum nostrorum aperiemus monumenta, quę sępe tecum per Salonarum rudera parietinasque uagatus passim iacentia spectaui et interdum, patrii soli nostri quanta quondam gloria fuit mecum animo reuoluens, Vergilianum illud ingemiscendo repetebam: <q>Fuimus Troes, fuit Illium et ingens gloria Teucrorum,</q>
+        
+          <note place="foot" n="264">
+            <bibl>Verg. Aen. 2,325-6.</bibl>
+          </note>
+         nunc nulla. </p>
+      <p n="4.2">&lt;IV.2&gt; Qualis enim quantaue urbs ista extiterit, quę a Gothis solo ęquata esse desiit, non modo reliquię eius testantur, uerum etiam ueteris historię scriptorum indicat autoritas. <note place="margin">(Strabo)</note> Nam et Strabo in suo <bibl>Geographię</bibl> libro Delmatarum emporium Salonas esse asserit ac de ipsis Delmatis <q>Ea gens, </q>inquit, <q>annos compluris aduersus Romanos bella gessit.</q>
+        
+          <note place="foot" n="265">
+            <bibl>Strab. Geogr. 7,5,5.</bibl>
+          </note>
+        
+        <note place="margin">(Plinius)</note> Plinius quoque Secundus ait: <q>Salona colonia ab Iadera CCXXII milia passuum. Petunt in ea iura uiribus       
+          <note place="foot" n="266">Correxi ex <emph>iuribus.</emph>
+          </note>
+         descriptis in decurias CCCLXII Delmatę,</q>
+          <note place="foot" n="267">
+            <bibl>Plin. Hist. nat. 3,141-142</bibl>, ubi Iader CXII pro Iadera CCXXII milia passuum; discriptis pro descriptis; CCCXLII pro CCCLXVII <ref>(cf. &lt;61.2&gt;)</ref>.</note>
+        
+        quos ibi nominatim recenset. Inter eos autem Ardeatum
+          <note place="foot" n="268">
+            Pro Vardaeum.</note>
+         meminit et Italię quondam populatores appellat. <note place="margin">(Cęsar)</note> Pręter hęc in Cęsaris <bibl>Commentariis</bibl> relatum legimus quod M. Octauius cum nauibus Salonas peruenerit, ubi concitatis Delmatis reliquisque <milestone unit="page" n="51"/> barbaris Clissam a Cęsaris amicicia auertit, conuentumque Salonensem quum neque pollicitationibus neque denunciatione periculi permouere posset, oppugnare instituit. <q>Est autem oppidum,</q> inquit, <q>et loci natura et colle munitum.</q>
+        
+          <note place="foot" n="269">
+            <bibl>Caes. Bell. civ. 3,9,2.</bibl>
+          </note>
+        
+        Octauius quinis castris oppidum pręmere coepit, illi se defendere. Tandem dispositis per muros pueris ac mulieribus portis egressi Octauii castra inuadunt expugnantque, deinde et reliqua, cędeque non parua facta eos qui superfuerant ad naues fugere compellunt. Atque talis fidei talisque in bello uirtutis tunc fuere Salonenses nostri!</p>
+      <p n="4.3">&lt;IV.3&gt; <note place="margin">(Diocletianus)</note> Huc accedit quod Diocletianus imperator, Salonis natus, uirtute rebusque gestis ad Romanorum imperium meruit promoueri. Deposito deinde imperio priuatam uitam peregit in patria. Et quum Romam ad pristinam dignitatem reuocaretur, maluit hic consenescere priuatus quam Romę imperare: usque adeo coeperat eum et amoenitas loci et tranquillus in secessu ocium. </p>
+        <p n="4.4">&lt;IV.4&gt; Extat ędificium eius Salonis proximum, quod maiores nostri post urbis euersionem incolere coepere: <note place="margin">(Spalatum)</note> nunc nostrum natale solum est, quod Spalatum appellant, sed et ipsum semirutum quidem atque in parte deintegratum, murorum tamen ac turrium pulchritudine portarumque affabre structarum decore <milestone unit="page" n="51v"/> ostendens qualia etiam illa fuerint quę uel uetustate uel inimicorum iniuria defecere. <note place="margin">(Templum S. Domnii, archiepiscopi Salonensis) </note>Stat adhuc templum Ioui quondam sacrum, nunc Domnio martyri dedicatum, magnę turris instar, rotunda specie angulatum, cuius murus (ut uides) quadrato lapide rethiculataque structura constat. Octo columnis ingentibus intus fulcitur, quibus alię insident minores, quorum quattuor e marmore porphyrite cum aliis ad testudinem usque tecti eriguntur. Exterius circa se magnarum duarum et uiginti columnarum peristylium habet, et id quidem Sinadico marmore nobile. Porro ante templi limina uestibulum ipsum atriumque patet spaciosum, columnis grandibus, et ipsis e marmore Phrygio dolatis, circumseptum, quibus arcus impositi fulciuntur, ita ut nusquam Romę tot, tantas talesque columnas uno in loco compositas reperies. E regione templi sacellum est, eodem tempore parique structurę genere elaboratum. Pręter ista erant et alia tria templa, reliquo ędificio (ut apparet) uetustiora atque ideo magis dirruta. In his tesselarum pictura, qua exornata fuerant, alicubi adhuc uisitur. Extant et chryptoporticus plurimę, ita ut non minus miremur subterranea ędificia quam quę in aperto spectantur. </p>
+        <milestone unit="page" n="52"/>
+      <p n="4.5">
+         &lt;IV.5&gt; Sed ne plura intempestiue replicem, tibi pręsertim, qui cuncta quidem et sępe uidisti, et adhuc inspicere (in tantum te delectat antiquitas) non satiaris, uide tandem quanta rerum humanarum mutatio sit, quanta uolumina, uel ludibria potius, nunquam simpliciter indulgentis fortunę. Nihil usquam firmum habetur in terra, nihil stabile, nihil in eodem statu permanens, non urbes, non imperia. Extra terram igitur, extra anni Solisque uias quęrenda hominum felicitas est. Quam pie iusteque uiuentibus omnium potens Deus super cęlum perennem perpetuamque largitur.</p>
+      </div>
+      <gap reason="irellevant" resp="NJ"/>
+    </body>
+      </text>
+</TEI>

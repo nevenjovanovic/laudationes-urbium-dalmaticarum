@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>ISTRIA</title>
+<author>Filologija</author>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2000-06-22T15:20:00</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority/>
+</publicationStmt>
+<sourceDesc>
+<p>Written by OpenOffice</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change>
+<name>Neven Jovanović</name>
+<date>2010-01-17T14:59:56</date>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+    <front>
+        <docTitle>
+            <titlePart>ISTRIA / ANDREAE RAPICII TERGESTINI IURISCONSULTI / AD ILLUSTREM VIRUM <expan>D(OMINUM)</expan> SIGISMUNDUM, LIBERUM BARONEM IN HERBERSTEIN ETC. FISCI AUSTRIACI PRAEFECTUM</titlePart>
+        </docTitle>
+        <div>
+            <opener>Amplissimo atque integerrimo viro Sigismundo Herberstanio regii fisci <expan>praef(ecto)</expan> etc. Andreas Rapicius iuris consultus S.P.D. </opener>
+            <p>Vellem ecquidem, Sigismunde, extaret opus aliquod studiorum meorum, quod esset testis et index constans meae erga te voluntatis. Id quod pro dignitate praestare non possum, discrucior interdum et fortunam meam incuso, quod me iis omnibus ornamentis destituerit, quibus instructus poteram fortasse ad laudes tuas propius accedere et excellentes animi tui dotes quandoque posteris commemorare. Sed tamen in hac rerum mearum difficultate, magna mihi vicissim oblata spes est, fore ut dii mihi aliquando eam obiciant occasionem, qua testari omnibus possim apertius, quantum ego tibi debeam. Interim conscius minimae ipsius tenuitatis, quoniam maiora non possum, mitto ad te qualecumque hoc Istriae munus, perpetuae meae in te benevolentiae certissimum obsidem. Id adeo cum sponte mea libens facio (nemo enim est omnium mortalium, cuius officiis aeque me obstrictum fatear ac tuis) tum eo libentius etiam, quod, cum eam provinciam non solum videris, sed propius etiam cognoris, hanc ob rem puto libellum ipsum tibi gratiorem futurum. In quo quidem, cum unum illud sit praecipuum ornamentum, quod nomini tuo consecratus sit, aliud praeterea non video, nisi id etiam forte acesserit ad me beandum, ut intelligam aliquando illum fuisse tibi non iniucundum, et ab hominum iniuria defendi patrocinio tuo. Haec vero, Sigismunde, a nobis eo animo accipito, ut existimes tamen plura a me quandoque in te proficisci oportere. </p>
+            <closer>
+                <salute>Vale, vir clariss(ime), et propediem libros tres adversus receptam iuris sententiam a nobis expecta. </salute>
+                <dateline>Viennae, <date when="1556-08-01">Kalend. Augusti 1556</date></dateline>
+            </closer>
+            <note>
+                <emph>Haec praefatio tantum in </emph>
+                <hi>Istria I</hi>
+                <emph> extat.</emph>
+            </note>
+            </div>
+    </front>
+<body>
+
+
+<l>Vitiferi colles Adriae, qua pulchra Timavi</l>
+<l>cornua septeno properant ad litora cursu, </l>
+<l>seu vos mellifluo perfundit rore Lyaeus</l>
+<l>sive alius vestros montano vertice fructus</l>
+<l n="5">excolit, o patrii colles, salvete, nec umquam</l>
+<l>Iuppiter innocuas infestet grandine vites.</l>
+<l>Non me despecti fallacia munera vulgi</l>
+<l>irrita vel tumidae rapuerunt somnia famae,</l>
+<l>ut vos cantarem, quorum pia munera norunt </l>
+<l n="10">et Thule et Meroe postrema limina terrae. </l>
+<l>Est aliud nobis studium: quis talia demens</l>
+<l>audeat, humanum longe excedentia captum?</l>
+<l>Suasit amor patriae et fecundae praemia terrae,</l>
+<l>vester honos, cuius caelo se gloria tollit.</l>
+<l n="15">Huc ades, o Lenaee pater, cui cura colendae</l>
+<l>vitis et apricis servare in collibus uvas,</l>
+<l>te duce sit fas tanta mihi vulgare per orbem</l>
+<l>munera, vosque mihi sacros recludite fontes,</l>
+<l>Pierides, nostroque etiam aspirate labori.</l>
+<l n="20">Tuque adeo, decus Aonidum, Sismunde, Sororum,</l>
+<l>ardua cui rerum series est credita, si te </l>
+<l>nunc sinit in tanta curarum mole quiere</l>
+<l>Caesar et ad faciles paulum secedere Musas, </l>
+<l>ne nostros contemne orsus, ne despice vatem</l>
+<l n="25">Ausonium, tibi qui studiis sese omnibus offert.</l>
+<note>2 hostia septenis properant se iungere lymphis<hi> Istria I</hi> ║ 9 quorum pia munera norunt: tenui sermone, vel ullis / monstrarem populis, quorum pia munera norunt <hi>Istria I</hi> ║ <emph>post 12</emph> <hi>Istria I</hi>: quod si ego iam vestras affectem carmine laudes, / rideat incultos nimium Democritus hortos, / subsannetque rudi deducta poemata versu ║16 apricis: illaesas <hi>Istria I</hi> ║ 23 Caesar … paulum: rex pius, et paulum ad dulces <hi>Istria I</hi>
+</note>
+<l>Scilicet ipse tuo perfusus numine dicam</l>
+<l>et patriae terrae laudes et pinguia culta,</l>
+<l>Istrorumque urbes, divini et munera ruris.</l>
+<l>Non mihi se Euganei iactent campique Falerni</l>
+<l n="30">nec sua Cretaei mirentur vina coloni,</l>
+<l>sed neque Cyrnaeos colles nec Setia rura</l>
+<l>praetulerim nec agros aut iugera Veicentina.</l>
+<l>Desine Massillos mirare, villice, fructus</l>
+<l>Massicaque excultis nascentia pocula terris:</l>
+<l n="35">arboribus pendet melior vindemia nostris</l>
+<l>quam reliquis, cui non totidem certaverit ulla</l>
+<l>ferre cados, cui non similes ferre ulla racemos,</l>
+<l>non Rhodos aut Thasiae, firmissima vina, lagoenae,</l>
+<l>non aliae, quarum species vix nomina servant.</l>
+<l n="40">Te colimus, Pucine pater, cui Livia quondam</l>
+<l>rettulit acceptos annos et tempora vitae.</l>
+<l>Muneris id, Pucine, tui: qui tum ardua montis</l>
+<l>saxa colis rupesque altas et Iapidis oras, </l>
+<l>longe alios fructus virtute et laudibus anteis.</l>
+<l n="45">Tu mihi, seu canibus lepores seu fallere visco</l>
+<l>argutas cupiam volucres seu litore curvo</l>
+<l>allicere incautos praetensa in retia pisces,</l>
+<l>omne genus studii secura per otia vitae</l>
+<l>suggeris atque animum praedulci pascis amore.</l>
+<note>32 praetulerim: laudarim <hi>Istria I</hi> ║ 43 Iapidis <hi>Istria II </hi>
+<emph>et</emph> <hi>III</hi>: Iapigis <hi>Istria I</hi> ║ <emph>post 49 </emph>
+<hi>Istria I</hi>: huc quondam Aonias memini deducere divas, / flumineos inter latices, et amoena vireta. / Sylvicolae quotiens Fauni, Dryadesque canentem / audistis, quoties blandos in margine somnos / ducentem, qua se rauco fert unda susurro? / Et modo graminea recubans securus in umbra / cantabam nostros ignes, et Phyllidis iras: / et modo laetabar vitreis immersus in undis / et varios mecum solus meditabar amores. / Hae lauri mirthique leves, haec conscia nostri / flumina et hic placidus crepitanti rivulus unda. / Felices nimium colles, felicia rura, / quae mihi non unum, dum pasco oculosque, animumque / surripuere diem </note>
+<l n="50">Sunt in conspectu positae refluentibus undis</l>
+<l>mille urbes, totidem ferax tenet oppida tellus.</l>
+<l>Haud procul hinc Phrygii visuntur stagna Timavi,</l>
+<l>unde fluunt gelidae septeno gurgite lymphae.</l>
+    <l>Hic dum rimoso condit se fomite et undas</l>
+<l n="55">secretis auget venis caecisque latebris,</l>
+<l>stillatim manat, vires cursumque secundans.</l>
+<l>Vulgus iners densa noctis caligine saeptus</l>
+<l>credidit hos fontes aliis scatuisse lacunis</l>
+<l>atque Antenoreis fluxisse in vallibus, unde</l>
+<l n="60">Meduacus, plenis hodie lapsurus in aequor</l>
+<l>cornibus, assurgens Venetas excurrit in undas. </l>
+<l>Sed vanum quodcumque ferunt, hic ille Timavus, </l>
+<l>quem sacri celebrant vates, hic Cyllarus hausit</l>
+<l>septenos latices fontano e gurgite et illos</l>
+<l n="65">inter saxa sedens Pucinis miscuit uvis.</l>
+<l>	Hinc, ubi Iapidium laevum latus obtinet atque</l>
+<l>iratum pelagus sinuoso murmurat ore,</l>
+<l>Tergestae urbs procul apparet, qua gaudeo luci</l>
+<l>emicuisse puer superasque in luminis oras,</l>
+<l n="70">antiquam repetens sobolem, cui nomina quondam</l>
+<l>nota diu numerosa dedit Rapicia proles, </l>
+<l>quae Latium maerens olim patriamque laremque, </l>
+<l>ob tristes belli casus variosque tumultus, </l>
+<l>servitia et praedas, quibus Itala regna premebat</l>
+<l n="75">barbarus hostili subvertens omnia clade,</l>
+<note>
+<emph>post 53</emph> <hi>Istria I</hi>: Vidi ego, dum cupidus naturae iura parentis / mirarer, fluvium hunc falsa crescente lacuna / crescere, cum caecos ortus oppleret aquae vis ║ 54 hic: qui <hi>Istria I</hi> ║ 61 cornibus, Adriacas placidus discurrit in undas <hi>Istria I</hi> ║ 62 o caecae nimium mentes, hic ille Timavus <hi>Istria I</hi> ║ 68 Tergestum procul apparet, quo gaudeo luci <hi>Istria I</hi> ║ 69 emicuisse: emersisse <hi>Istria I</hi> ║ 70 Ausoniae prisco prodiens de sanguine gentis <hi>Istria I</hi> ║ 71 quae Latium maerens olim patriosque penates <hi>Istria I</hi> ║ 72 <emph>deest in</emph> <hi>Istria I</hi> ║ 73 ob varios belli motus tristesque tumultus <hi>Istria I</hi> </note>
+<l>deseruit, tenuit isto sub cardine sedes.</l>
+<l>Hic ad Iapydiae montes, ubi Servulus alto </l>
+<l>vertice prospectat, patriae tutela Deusque,</l>
+    <l>Adriacum finit pelagus surgentiaque arva </l>
+<l n="80">Istrorum late incipiunt excurrere ut isthmos.</l>
+    <l>Sunt nitidi fontes, sunt hic Peneia Tempe, </l>
+<l>sunt etiam uberibus laetissima pascua glebis,</l>
+<l>expediunt umbras pecori vernantia circum </l>
+<l>et nemora et silvae crinitaque frondibus arbos.</l>
+<l n="85">	Salve, terra parens, patrii salvete Penates,</l>
+    <l>Caesare sub magno, quo principe (credite) nullus </l>
+<l>dignior augustam cinxit diademate frontem.</l>
+<l>	Dii, Fernande, tibi imperium triplicesque tiaras</l>
+<l>fortunent, cui sese moenia Romanorum</l>
+<l n="90">aureaque auspiciis laetis Capitolia servant.</l>
+<l>Intrabis Scythicas felici numine terras</l>
+<l>Euxinosque sinus, merita dein morte tyrannum</l>
+<l>afficies, saevo referens ex hoste triumphum. </l>
+<l>Austria victrices aquilas augustaque signa</l>
+<l n="95">eriget et toto felix dominabitur orbe. </l>
+<l>Iamque illi passim laeto Victoria vultu </l>
+<l>obvia fit, magni submittunt colla tyranni, </l>
+<l>vera cano, faveant nostris pia numina votis. </l>
+<note>
+<emph>post </emph>76 <hi>Istria I</hi>: hic nitidi fontes, hic sunt Peneia Tempe, / nec non uberibus laetissima pascua glebis. / Sunt qui, sed levibus ducti rationibus, urbem ║ 77 crediderint montem coluisse, ubi Servulus alto <hi>Istria I</hi> ║ <emph>post</emph> 78 <hi>Istria I</hi>: multi etiam falso hanc urbem regionibus Histris / disiungunt, statuuntque alio sub litore: verum / quid vetat hanc iisdem populis adiungere gentem? / Ceterum etenim, nec vana fides, hic gurgite lasso ║ 79 finiri Adriacum pelagus surgentiaque arva <hi>Istria I</hi> ║ 80 Histrorum incipere et paulatim excurrere ut Isthmos <hi>Istria I</hi> ║ <emph>post</emph> 80 <hi>Istria I</hi>: ut libet: egregiam olim urbem claramque fuisse / credibile est, late imperio, populoque potentem ║ 81-84 <emph>desunt in</emph> <hi>Istria I</hi> ║ 85 salve, terra parens, titulis insignis et armis <hi>Istria I</hi> ║ 86 urbs vetus invicti regis, quo principe nullus <hi>Istria I</hi> ║ 88 tibi … tiaras: tuos annos, tuaque optima fata <hi>Istria I</hi> ║ 93 triumphum: triumphos <hi>Istria I</hi> ║ 95 sentiet, o faveant nostris pia numina votis <hi>Istria I</hi> ║ 96-98 <emph>desunt in</emph> <hi>Istria I</hi>
+</note>
+<l>Pannoniae tandem submotis hostibus orae</l>
+<l n="100">florebunt melius te Caesare, te duce regnum</l>
+<l>Ausonium, parta populis iam pace, quiescet.</l>
+<l>Diffugient tristes olim te vindice Dirae</l>
+<l>ac scelerum bellique metus, et amica reduces</l>
+<l>otia: non frustra vates cecinere priores </l>
+<l n="105">venturum innocuum regem, qui temperet orbem,</l>
+<l>cuius ab auspiciis redeant Saturnia regna</l>
+<l>et fortunati saeclis melioribus anni: </l>
+    <l>tu pacem afflictae Italiae populisque Latinis </l>
+<l>restitues, miserae Italiae, quae dira sub hoste </l>
+<l n="110">damna tulit, tu pacis honos, tu gloria belli.</l>
+<l>Depressae vitio leges turbataque iura 			 </l>
+<l>nunc vitam accipient et grati luminis auram </l>
+<l>aspicient, animos tandem sortita priores. </l>
+<l>Quin patrii fines et litora Tergestaea, </l>
+<l n="115">quae bellatrices aquilas venerantur, adorant,</l>
+<l>per te exoptatos capient tutissima portus, </l>
+<l>pristinaque attriti revocabunt gaudia cives. </l>
+<l>Interea diis sacra ferunt ac limina templi </l>
+<l>et patrias cumulant votis ardentibus aras. </l>
+<l n="120">Eveniet: dat signa Deus mihi certa, nec umquam</l>
+<l>praescia veridicos fallunt oracula vates. </l>
+<l>Tempestate illa celebres mea Musa triumphos </l>
+<l>et caesos toties hostes devictaque regna </l>
+<l>orsa loqui incipiet: tum demum, maxime Caesar, </l>
+<l n="125">perpetuis de te subtexam carmina chartis,</l>
+<note>103 ac scelerum: diffugient <hi>Istria I</hi> ║ 104 non frustra … priores: non vani augurium docuere parentes <hi>Istria I</hi> ║ 105-113 <emph>desunt in</emph> <hi>Istria I</hi> ║ 114 quin etiam patrii fines et litora per te <hi>Istria I</hi> ║ 116 optatos capient tandem tutissima portus <hi>Istria I</hi> ║ 117 <emph>deest</emph> <emph>in</emph> <hi>Istria I</hi> ║ 120-125 <emph>desunt in</emph> <hi>Istria I</hi> </note>
+<l>quae non ulla hominum ventura aboleverit aetas. </l>
+<l>Forsitan et tenuem non aspernabere vatem, </l>
+<l>cui si non hederae aut victricis praemia lauri, </l>
+<l>at saltem ex humili sertum continget hibisco. </l>
+<l n="130">Sed mihi vesano turbantur corda dolore,</l>
+<l>dum video nostram gladiis civilibus urbem</l>
+<l>subverti atque suis iamdudum viribus haustam.</l>
+<l>Quando igitur, patrii cives, male sarta coibit</l>
+<l>gratia vosque iterum fraterno iunget amore</l>
+<l n="135">concordes, odiis longe civilibus actis?</l>
+<l>Has iras alio potius convertite et istas</l>
+<l>sanguineas acies Divini in nominis hostem: </l>
+<l>et faciles rursus coeant in pristina mores</l>
+<l>foedera et, o tandem, fessi desistite, cives.</l>
+<l n="140">Roma vetus, dum te rexit malesana iuventus,</l>
+<l>illa tui quondam maiestas nominis in se</l>
+<l>concidit, imperiumque potens nomenque decusque</l>
+<l>disperiit, nulla ut vestigia prisca supersint.</l>
+<l>Scilicet infestis volitans Discordia pennis,</l>
+<l n="145">eruere una potest dominas a stirpibus urbes.</l>
+<l>Te vero ante alios omnes, fortissimus heros,</l>
+<l>Celtiberae gentis sidus, Iane inclite ab Hoyos, </l>
+<l>afflictis patriae deceat succurrere rebus</l>
+<l>et per te sileant tot iurgia; non tibi parvum</l>
+<l n="150">ingenium Natura dedit, seu milite cinctus</l>
+<l>bella geras sive auspiciis melioribus urbem</l>
+<l>Tergestas populumque regas: haec pectora et istos</l>
+<note>126-129 <emph>desunt in</emph> <hi>Istria I</hi> ║ 132 subverti: bacchari <hi>Istria I</hi> ║136 istas: istos <hi>Istria I</hi> ║137 sanguineas acies: effrenos animos <hi>Istria I</hi> ║139 et o: iam <hi>Istria I</hi> ║ <emph>post</emph> 142 <hi>Istria I</hi>: defunctis patribus paulatim cessit et inde ║ 146 fortissimus: <hi>Istria I</hi>, <hi>Istria II </hi>et <hi>Istria III</hi>: <emph>fortasse</emph> fortissime <emph>legendum</emph> ║ 147 Celtiberae: Hispanae <hi>Istria I</hi>; Hoyos: Hoys <hi>Istria I </hi>║ 152 Tergestas: Tergeste <hi>Istria I</hi>
+</note>
+<l>heroas voluit Romana potentia, si fors</l>
+<l>divisas traherent partes, populusque paterque.</l>
+<l n="155">Macte animi virtute, cui nova gloria surgit,</l>
+<l>postera iam veniet, quae te mirabitur aetas</l>
+<l>attolletque tuum felix super aethera nomen.</l>
+<l>Verum aliud vocor ad munus, coeptumque canendo </l>
+<l>absolvendum opus et suscepti summa laboris. </l>
+<l n="160">Est in progressu fecundo Sylvula colle,</l>
+<l>arboribus frequens, patriis subiecta colonis:</l>
+<l>ah quotiens udam ducentem sub Iove noctem</l>
+<l>hic me oriens vidit Phoebus, dum murmura vulgi</l>
+<l>despicerem, dum libertas mihi carior auro.</l>
+<l n="165">Saepe ego graminea recubans securus in umbra,</l>
+<l>solabar lacrimantem Hyadem maestamque Lycorim: </l>
+<l>saepe etiam vitreis penitus demersus in undis </l>
+<l>cantabam nostros ignes et Phyllidis iras </l>
+<l>et varios mecum solus meditabar amores. </l>
+<l n="170">Hae lauri myrthique leves, haec conscia nostri</l>
+<l>flumina et hic placidus crepitanti rivulus unda.</l>
+<l>Felices nimium colles, felicia rura, </l>
+<l>quae mihi non unum dum pasco oculosque animumque </l>
+<l>surripuere diem.</l>
+<l n="175">Est prope virgineis Mugilia clara puellis,</l>
+<l>clara viris, quales evexit ad aethera virtus. </l>
+<l>Nam cur praetereant nostrae te, Robba, Camenae,</l>
+<l>Antoni, qui Paeoniis nunc artibus ipsum</l>
+<l>Hippocratem reddis patriae, qui gentibus aegris</l>
+<l n="180">infestas cohibes humano in corpore febres?</l>
+<note>165-174 <emph>desunt in</emph> <hi>Istria I</hi> ║ 175 clara: rara <hi>Istria I </hi>║ 176 clara: rara <hi>Istria I </hi>║ 177 nam: sed <hi>Istria I</hi>
+</note>
+<l>Quid memorem Iulianum equitem, quem magnus Apollo -</l>
+    <l>sed mihi te nuper crudelia numina, Parcae, </l>
+<l>florentem ingenio, iuvenem et virtutis honore, </l>
+<l>in medio vitae studiorumque improba cursu </l>
+<l n="185">invidere, iaces memori tumulatus arena,</l>
+<l>hic ubi felices longum colit Aegida campos. </l>
+<l>Extinctum patrii colles et litora flerunt, </l>
+<l>auditae per noctem umbrae manesque Petrarcae</l>
+<l>et Thusci vates clara te voce vocare, </l>
+<l n="190">Formio et curvis responsans vallibus Echo.</l>
+<l>Teque etiam, mi Iane, canam, cui tempora lauro</l>
+<l>docta virent, quem Castaliae, pia numina, matres</l>
+<l>certatim variis cumularunt laudibus, unde</l>
+<l>gens praeclara suo te iactat Apostola alumno.</l>
+<l n="195">Tu modo Naturae primas evolvere causas,</l>
+<l>et, qua coepisti primum ratione, latentes</l>
+<l>perge vias, instans operi, laudique futurae.</l>
+<l>Haud longe hinc sequitur muscoso e pumice labens</l>
+<l>Formio, qui obliquo gaudens per pascua ductu</l>
+<l n="200">tranquillas educit aquas et servat ubique</l>
+<l>perspicuus vitreas lucenti gurgite lymphas.</l>
+    <l>Vix credas labi, tam lenis mulcet opacos </l>
+<l>riparum flexus et frondiferas convalles. </l>
+<l>Italiae quondam fines hic prisca vetustas</l>
+<l n="205">constituit, sed paulatim labentibus annis</l>
+<l>Istriacas tandem terras hoc limite clusit.</l>
+<l>Dein surgunt mediis Iustini moenia in undis,</l>
+<l>Aegida dixerunt patrio cognomine Grai,</l>
+<note>
+<emph>post</emph> 182 Hetrusco voluit depromere carmina cantu <hi>Istria I</hi> ║ 182-190 <emph>desunt in</emph> <hi>Istria I</hi> ║ 196 latentes <hi>Istria I</hi>: latenteis <hi>Istria II </hi>
+<emph>et</emph> <hi>Istria III</hi> ║199 gaudens: gaudet <hi>Istria I</hi> ║ 200 educit: hic ducit <hi>Istria I</hi> ║ 202 lenis: lene <hi>Istria I</hi>; opacos: opacas <hi>Istria I</hi> ║ 203 ripas atque leves invitat carpere somnos <hi>Istria I</hi> ║ 208 patrio … Grai: Graio sermone Pelasgi <hi>Istria I</hi>
+</note>
+<l>hic ubi Pierias sedes et culmina Musae</l>
+<l n="210">monstrarunt puero quondam, cum e fontibus almis</l>
+<l>hausi parvus opes, Latiae et primordia linguae.</l>
+<l>Indolui vexatam urbem, non Marte superbo,</l>
+<l>sed quod saeva lues tetroque infecta veneno</l>
+<l>infecit puras diris afflatibus auras, </l>
+<l n="215">corrupto caeli tractu, dum luctifer annus</l>
+<l>ingruit et plures mortali vulnerat ictu.</l>
+<l>Infelicem urbem, qua non praestantior ulla,</l>
+<l>seu faciem caeli spectes seu roscida circum</l>
+<l>prata, vel Adriacas, quibus undique cingitur, undas.</l>
+<l n="220">Non requies est ulla mali, prostrata trahuntur</l>
+<l>corpora, sunt passim proiecta cadavera, postque</l>
+<l>incubuit terris inimici sideris aestus</l>
+<l>atque avidi late serpunt contagia morbi.</l>
+<l>Hei mihi, caelicolum sanctum et venerabile numen </l>
+<l n="225">placandum est puris precibus flectendaque summi</l>
+<l>ira Dei, poscunt alios haec tempora mores.</l>
+<l>Te, venerande senex, saevae rapuere Sorores</l>
+<l>ante diem, poterat vivax tua ferre senectus</l>
+<l>longius humanos venturi temporis usus.</l>
+<l n="230">Non mihi te, postquam patriis sum redditus oris,</l>
+<l>affari licuit, saltem mea gaudia sospes</l>
+<l>vidisses partosve etiam mihi nuper honores.</l>
+<l>Te duce Castalios licuit mihi visere fontes, </l>
+<l>tu mihi Parrasii latices, tu culmina Pindi</l>
+<l n="235">monstrasti, per te facilis, licet ardua dudum</l>
+<l>virtus optatae tribuit mihi nomina laudis.</l>
+<note>211 primordia: exordia <hi>Istria I</hi> ║ 212 non … superbo: non hoste nec ullis <hi>Istria I</hi> ║ <emph>post </emph>212 <hi>Istria I</hi>: quod fuerit passa insidiis aut Marte superbo║ 214 infecit puras: reddidit ingratas <hi>Istria I</hi> ║ 219 undique … undas: est circumdata lymphas <hi>Istria I</hi> ║ 224 sanctum … numen: grave et implacabile numen <hi>Istria I</hi> ║ 233 <emph>deest in</emph> <hi>Istria I</hi> ║ 235 monstrasti, per te solitas mea Cynthia voces <hi>Istria I</hi> ║ <emph>post</emph> 235 <hi>Istria I</hi>: prosequitur, per te faciles, licet ardua dudum</note>
+<l>Ah tantum sors ausa malum: te moenia lugent,</l>
+<l>Ambrosi, te tota tuis aucta Istria donis.</l>
+<l>Fortunatam animam, dubiis quae exempta procellis</l>
+<l n="240">divinam spectat faciem, sedesque beatas</l>
+<l>incolit et caelo fruitur tranquilla sereno!</l>
+    <l>Teque etiam miseram Eurydicem florentibus annis</l>
+<l>crudeles rapuere deae, nec vota nec ullas</l>
+<l>audivere preces, surda stat Iuppiter aure.</l>
+<l n="245">Ah miseram Eurydicem, tecum spes, gaudia, risus,</l>
+<l>tecum abiere meae felicia tempora vitae.</l>
+<l>Sed mihi non prosunt lacrimae, quando omnibus unum</l>
+<l>est iter et nullis flectuntur numina donis.</l>
+<l>Ergo ubi Iustinis fueris digressus ab oris,</l>
+<l n="250">aequoreos propter tellus iacet Insula fluctus,</l>
+<l>cui rigui fontes campos et roscida prata</l>
+<l>fecundant liquidisque irrorant ductibus agros.</l>
+<l>Pallentes oleas longo fert ordine opacum</l>
+<l>litus et apricis veniunt in collibus uvae, </l>
+<l n="255">prae quibus ambrosiam vilem nihilique putarim.</l>
+<l>Hinc aliae atque aliae curvis sinuantur in oris,</l>
+<l>attolitque caput celebris Pyrranea tellus, </l>
+<l>quae tutum servat nautis, grata hospita, portum,</l>
+<l>si quando tumidos excit vagus Adria fluctus</l>
+<l n="260">infestatque rates saevis truculentior Euris.</l>
+<l>Saepe ego, cum infans fremerent abrupta procellis</l>
+<l>aequora, turbatis sociis et remige tuto</l>
+<l>huc veni, hospitio veteris susceptus amici.</l>
+<l>Ecquid agis, Flori? Deducta poemata condis</l>
+    <note>post 241 <hi>Istria I</hi>: si rediens Patavo constructum forte sepulcrum / aspiciam, intactos tibi, debita munera, flores / contexam, grati monumentum et pignus alumni ║ 254 apricis … in: in parvis nascuntur <hi>Istria I</hi> ║ 257 attolitque … celebris: praecipue qua porrigitur <hi>Istria I</hi>
+</note>
+<l n="265">aut quid tale aliud? Nam te iam tertia messis</l>
+<l>invitum tenet Istriaca regione morantem,</l>
+<l>dum magna cum laude capit praecepta iuventus.</l>
+    <note>Ne vivam, si te quisquam mihi carior alter </note>
+<l>extitit aut etiam tali mihi foedere iunctus.</l>
+<l n="270">Scilicet id praestat virtus tua maxima, quae te</l>
+<l>insinuat caelo et divinis sedibus insert.</l>
+<l>Sunt prope vitiferi porrecto in litore Humagi</l>
+<l>iugera, ubi dulci spumantia pocula Baccho,</l>
+<l>dum Phoebus calida passim fervesceret hora </l>
+<l n="275">aestivusque canis sitientes ureret agros,</l>
+<l>hausimus atque vagos spatiosa per aequora pisces</l>
+<l>vimineis nassis et curvo cepimus hamo.</l>
+<l>Vicinos istis campos et rura beata </l>
+<l>prisca tenet lapsis residens Aemonia muris, </l>
+<l n="280">barbaricas maerens adverso Marte ruinas.</l>
+<l>Quis cladem acceptam memoret? Quis dura sub hoste</l>
+<l>servitia? Ah nimium infelix Aemonia, quando</l>
+<l>vix aliud praeter nomen, tuaque impia fata</l>
+<l>agnoscas, adeo externus te exercuit hostis.</l>
+<l n="285">Hic flavae rident segetes et florida prata</l>
+<l>atque ferax laeta pubescit vinea fronde. </l>
+<l>Nec procul hinc celebris Nauportus panditur inque </l>
+<l>Adriacum properat pelagus, celeresque carinas </l>
+<l>admittit plenis venientes cursibus ad se. </l>
+<l n="290">Huc (si vera fides) Argivae robora pubis</l>
+<l>vectam humeris navim per celsa cacumina montis </l>
+<l>extulerant, Istri subiens quae fluminis undas </l>
+<note>268 ne vivam: dispeream <hi>Istria I</hi> ║ 274-275 <emph>desunt in</emph> <hi>Istria I</hi> ║ 278 <emph>deest in</emph> <hi>Istria I</hi> ║ 279 tollitur hinc prisco residens Aemonia muro <hi>Istria I</hi> ║ 287-292 <emph>desunt in</emph> <hi>Istria I</hi>
+</note>
+<l>dum medios audet penetrans inter iuga cursus </l>
+<l>rumpere, fessa olim patriis consedit arenis, </l>
+<l n="295">unde ipsa antiquum felix tenet Istria nomen.</l>
+<l>Apparent celsi mox diruta tecta Parenti,</l>
+<l>urbs vetus atque iisdem belli iactata periclis,</l>
+<l>quae defessa diu quondam tulit Istrica tellus.</l>
+<l>Sunt et Arupinae cautes praeruptaque saxa, </l>
+<l n="300">hic ubi tercentum scopuli se in litore tollunt,</l>
+<l>quos caecis habitant antris animalia, quae hosti </l>
+<l>monstrarunt tacitos occulto tramite calles.</l>
+<l>Hos inter densos scopulos, qua frangitur unda,</l>
+<l>qua dulces spirant aurae, prope litoris oram,</l>
+<l n="305">dum comitum manus Istrorum lectissima quondam</l>
+<l>tranquillis veheremur aquis, descendimus una,</l>
+<l>vicinum ingredimurque nemus, tum gaudia mille,</l>
+<l>mille voluptates bibula meditamur arena.</l>
+<l>Hic concas legit et muscoso in margine quaerit</l>
+<l n="310">haerentes mitulos, cancros, gobiosque fugaces;</l>
+<l>ille autem fugientem undam sequiturque fugitque</l>
+<l>dum sequitur, fugit illa procul pernicibus alis:</l>
+<l>dum fugit, haec rursus sequitur, mox fluctibus illum</l>
+<l>obruit et totum perfundit rore madenti.</l>
+<l n="315">Ast alii furtim subeunt, quo densior horret</l>
+<l>umbra loco dapibusque alacres epulantur opimis.</l>
+<l>Dum licuit laetas ibidem transegimus horas,</l>
+<l>dulcia tranquillae complexi gaudia vitae.</l>
+<note>293-295 <emph>desunt in</emph> <hi>Istria I</hi> ║ 296 diruta tecta: culmina pulchra <hi>Istria I</hi> ║ 299 praeruptaque saxa: saluberrima rura <hi>Istria I</hi> ║ 300 tercentum hic scopuli tollunt se in litore et illos <hi>Istria I</hi> ║ 301 quos caecis: effossis <hi>Istria I</hi> ║ 306 descendimus: conscendimus <hi>Istria I</hi> ║ 307 vicinum … nemus: et portum fessi ingredimur <hi>Istria I </hi>║ 309 margine: litore <hi>Istria I </hi>║315 quo: qua<hi> Istria I</hi>
+</note>
+    <l>Nec te transierim cultor, Gradonice, Sororum</l>
+<l n="320">Musarum decus egregium, quem tertius annus</l>
+<l>hic vidit cana iuvenem gravitate simulque </l>
+<l>iustitiae pronum studiis et iura tuentem. </l>
+<l>Tecum animi curas vario sermone levabam </l>
+<l>et tardos nimium soles, si quando vocaret </l>
+<l n="325">nos caelum aut etiam cupidi pars laetior anni.</l>
+<l>Quid memorem abrutas moles aequataque caelo</l>
+<l>culmina, ubi antiquae pendent miracula Polae?</l>
+<l>Desine septenos nobis ostendere colles,</l>
+<l>Roma, tuos, regumque arces et stagna Neronis:</l>
+<l n="330">hic etiam Pariis radiant erecta columnis</l>
+<l>templa deum, longe priscos superantia honores;</l>
+<l>tum vero praeclarum, ingens, memorabile Iuli </l>
+<l>fulget opus, veterumque etiam monumenta parentum: </l>
+<l>Iane, utinam tecum patrias devectus ad oras</l>
+<l n="335">aspiciam celsi propius miracula Zari.</l>
+<l>Hic sat pingue solum, quamvis sit pessima caeli</l>
+<l>conditio, quae hominem exagitat, pallentiaque ora</l>
+<l>reddit et assiduis infestat corpora morbis.</l>
+<l>Inde autem, emensis Istrorum finibus, ultra </l>
+<l n="340">Arsiades divique etiam sacraria Viti,</l>
+<l>Senia conspicua est in verticibus praeruptis, </l>
+<l>Etruscas Senas et Senogallica contra </l>
+<l>litora, dehinc gemini apparent furialibus undis </l>
+<l>vesani tumidique sinus, phanaticus error </l>
+<l n="345">quos olim genuit, turbatae aut Thetios ira:</l>
+<l>inclusi variis feriunt mugitibus auras,</l>
+<l>pugna intus, quatiturque solum vallesque resultant;</l>
+<note>319-325 <emph>desunt in</emph> <hi>Istria I</hi> ║ 327 pendent: lucent<hi> Istria I </hi>║328 septenos: Roma tuos <hi>Istria I</hi> ║329 Roma tuos: convexos regumque <hi>Istria I</hi> ║ 330 radiant: fulgent <hi>Istria I</hi> ║ 332 Iuli: Arenae <hi>Istria I</hi> ║ 333 fulget … etiam: Iuli opus et veterum passim <hi>Istria I</hi> ║ 337 condicio: temperies <hi>Istria I</hi>; hominem exagitat: homines agitat <hi>Istria I</hi> ║ 339-347 <emph>desunt in</emph> <hi>Istria I</hi>
+</note>
+<l>non tutae Adriacae classes, non carbasa, ventus </l>
+<l>ut furit et portum nequicquam navita clamant. </l>
+<l n="350">Quid loquar aut latices aut molliter assurgentes</l>
+<l>perpetuos colles, tellus quibus Istrica gaudet? </l>
+    <l>Praesertim qua se frondoso vertice tollunt </l>
+<l>et Buleae et Monton, gravibus loca feta racemis,</l>
+<l>Pisineaeque arces et late cognita rura,</l>
+<l n="355">unde procul celeri mercator navita puppi,</l>
+<l>dum secat Ionios fluctus, stridentibus Euris</l>
+<l>cernitur expansis affectans litora velis.</l>
+<l>Barbe, refer, mi Barbe, refer, quae tempora nobis</l>
+<l>transierint, cum nos regio haec iucunda teneret </l>
+<l>et quibus in studiis iuveniles sumpsimus annos,			360<emph> </emph>
+</l>
+    <l>victores ambo, victricia uterque secutus </l>
+<l>praemia et ingentes meriti virtutis honores! </l>
+<l>Tu tamen es patriis iampridem redditus oris </l>
+<l>optatamque dedit tandem fortuna quietem.</l>
+<l n="365">Me vero curis longe maioribus actum,</l>
+<l>et patriae praedulcis amor iussusque paterni</l>
+<l>et posita ante oculos vitae gravioris imago</l>
+<l>finibus his nuper suaserunt cedere et istos</l>
+<l>linquere agros, quibus est toto nil pulchrius orbe,</l>
+<l n="370">et mores hominum et diversas quaerere terras</l>
+<note>348-349 <emph>desunt in</emph> <hi>Istria I</hi> ║ 351 perpetuos: vicinos <hi>Istria I</hi> ║ 352 frondoso: montano <hi>Istria I</hi> ║353 gravibus: gravidis <hi>Istria I</hi> ║ <emph>post</emph> 353 <hi>Istria I</hi>: te Gradonice cano, Veneti quem cura Senatus / his voluit praeesse locis, ubi tertius annus / te vidit rara iuvenem gravitate, nec ullis / corruptum donis, sed debita iura tuentem. / Tecum animi curas vario sermone levabam, / et tardos nimium menses, si quando vocaret / nos caelum, aut etiam cupidi pars laetior anni. / Hic quondam multos memini consumere soles / cum Phoebus calida passim fervesceret hora, / aestivusque Canis sitientes ureret agros ║ 359 transierint, nostros studiis dum sumpsimus annos <hi>Istria I</hi> ║354-357 <emph>desunt in</emph>
+<hi> Istria I</hi> ║359 cum … teneret: nostros studiis dum sumpsimus annos ║360 <emph>deest in</emph> <hi>Istria I</hi> ║ 361 excoluitque animum sacri prudentia iuris <hi>Istria I</hi> ║ 362 <emph>deest in</emph> <hi>Istria I</hi> ║ 363 tu tamen Histriacis iampridem es redditus oris <hi>Istria I</hi> ║ 365 actum: ortum <hi>Istria I</hi> ║ 370 atque alias terras, extremaque limina adire <hi>Istria I</hi>
+</note>
+<l>semotum procul a patria aspectuque meorum:</l>
+<l>heu vitam somno similem, quis cogitet umquam</l>
+<l>tam subito hos fluxisse dies, haec tempora et illos </l>
+<l>quos tecum, mi Barbe, simul transegimus annos</l>
+<l n="375">suaviter et nullos soliti sentire tumultus?</l>
+<l>Iuvit propositam iaculis contingere metam</l>
+<l>et fessum viridi versare in gramine corpus,</l>
+<l>plena ubi desecto surgunt fenilia campo. </l>
+<l>Spectamus duros ardenti sole colonos, </l>
+<l n="380">dum feriunt crebro fragrantia adorea pulsu</l>
+<l>et laeti saturae componunt horrea messis.</l>
+<l>Mox, ubi paulatim serae lux alma diei</l>
+<l>diffugiens nondum caecas induxerat umbras, </l>
+<l>villica, cui fruges, cui sunt cerealia curae</l>
+<l n="385">munera, turgidulas ovium pecorumque papillas</l>
+<l>emulget, struitur nullo tunc ordine mensa</l>
+<l>sub violis, quas irriguus vegetaverat humor.</l>
+    <l>Argutos repetens cantus maestissimus ales </l>
+<l>Daulias, antiquas iterabat voce querelas. </l>
+<l n="390">An subeunt animo leges et civica iura,</l>
+<l>quaeque per aestivas aenigmata solvimus horas?</l>
+<l>Ipse equidem memini, cum Galli formula nostros</l>
+<l>implicuit torsitque animos, ubi postuma proles</l>
+<l>non sua, quam prisci vana ratione Quirites </l>
+<l n="395">arcebant laribus maiorum, sospite nato,</l>
+<l>defunctis succedit avis potiturque beatis </l>
+<l>divitiis, clari divino munere Aquili. </l>
+<l>Ecquid adhuc memor es, patrii cum iugera campi</l>
+<note>373 tam subito hos fluxisse: tam dulces abiisse <hi>Istria I</hi> ║ 378 <emph>deest in</emph> <hi>Istria I</hi> ║ 379 spectamus: spectantes <hi>Istria I</hi> ║ 381 <emph>deest in</emph> <hi>Istria I</hi> ║ 383 diffugiens nondum: cesserat et noctis <hi>Istria I</hi> ║ 388 argutos … cantus: promebat dulces cantus <hi>Istria I</hi> ║ 389 antiquas: et priscas <hi>Istria I</hi> ║390 an: num <hi>Istria I</hi> ║ 394 testanti haud poterat succedere iure Quiritum <hi>Istria I</hi> ║ 395-397 <emph>desunt in </emph>
+<hi>Istria I</hi>
+</note>
+<l>monstrares? Cultae hic segetes, hic pascua, at illic</l>
+<l n="400">arborei fetus veniunt, hic Portula nostris</l>
+<l>subiecta est oculis, alibi Picquentia rura.</l>
+<l>Quid vallem umbrosam et salientes fontibus undas,</l>
+<l>quid referam celsi turrita cacumina montis?</l>
+<l>Quod si non querulae rumpant nemora alta cicadae,</l>
+<l n="405">vix equidem aestatem norim, tam lenior aura</l>
+<l>spirat in his crepitatque locis, dum ferus opacis</l>
+<l>arboribus gaudet cuculus producere carmen.</l>
+<l>Sed quo te tandem plectro, quo carmine dicam,</l>
+<l>quae sacrum celebras vatem, Stridonia tellus?</l>
+<l n="410">Egregium vatem, quo non praestantior alter</l>
+<l>mellito sermone pios expromere sensus:</l>
+<l>te, te inquam, cui tam dubiis agitata procellis</l>
+<l>religio, meritos defert, Hieronyme, honores. </l>
+<l>Ferte sacro cineri flores, date lilia plenis,</l>
+<l n="415">ruricolae, calathis, tantoque assurgite vati.</l>
+<l>Felix ingenio haec regio, si quae altera tota</l>
+<l>Ausonia est, sed enim paupertas invida et ipsa</l>
+<l>res angusta domi cupidis conatibus obstat</l>
+<l>et facit, ut iuvenes studiorum culmina numquam</l>
+<l n="420">aspiciant, medio revocati ad limina cursu.</l>
+<l>Ast alii, quibus arrisit fortuna modusque,</l>
+<l>tantum animi specimen, culti ingeniique dedere, </l>
+<l>ut tales mirere isto sub sidere nasci.</l>
+<note>404 querulae rumpant: rumpant querulae <hi>Istria I</hi> ║ <emph>post</emph> 407 <hi>Istria I</hi>: hinc mare navigerum et celeri fretum nauta carina, / Ioniumque secans pelagus stridentibus Euris / cernitur, affectans expansis litora velis. / Cetera quid memorem reliquis incognita terris? / Non lepus hirsutus, non vulpes callida defit, / non etiam aucupii quodvis genus, omnia dives / praestat ager, cultos et amoena vireta per hortos ║412 cui … procellis: dubiis cui debet fracta periclis <hi>Istria I</hi> ║ 413 religio, meritos: religio et meritos <hi>Istria I</hi> ║ 420 pertingant mediis revocati e cursibus illi <hi>Istria I</hi> ║ 421 ast alii: quamquam aliqui <hi>Istria I</hi> ║ 422 sulcarunt Paphias adeo feliciter undas <hi>Istria I</hi>
+</note>
+<l>Haec loca non umquam Libyci invertere leones,</l>
+<l n="425">non rabidae tigres aut saevis dentibus hydri,</l>
+<l>nullaque taurorum vis ignea, totus arando</l>
+<l>hic mansuescit ager pubesque assueta labori</l>
+<l>exercet pingues curvato vomere campos,</l>
+<l>quos aut flava Ceres aut laeto palmite Bacchus </l>
+<l n="430">implerunt aut Palladia nemus obsitum oliva.</l>
+<l>Hirsuti hic lepores et vulpes callida, tum vero </l>
+<l>aucupii quodcumque genus, tandem omnia dives </l>
+<l>praestat ager, cultos et amoena vireta per hortos. </l>
+<l>O fortunati colles nimiumque beati!</l>
+<l n="435">Sic mihi dent superi felicia tempora vitae,</l>
+<l>ut non ipse aliis quam vestris vallibus usque</l>
+<l>vivere amem, non delicias si deferat ipsa</l>
+<l>Roma suas Tyriosve mihi concedat honores: </l>
+<l>quid si te memorandae urbes atque oppida, quid si </l>
+<l n="440">te teneant alto vicinia palatia caelo</l>
+<l>et possis fulvo loculos implere metallo, </l>
+<l>quid si te media circumdet luce satelles</l>
+<l>et liceat passim priscos ostendere vultus </l>
+<l>maiorum aut etiam nitidis accumbere mensis</l>
+<l n="445">inter mille deum pateras fulgentiaque auro</l>
+<l>pocula et extremo vectos Oriente tapetes, </l>
+<l>si tua me miserum toto vita arguit aevo?</l>
+<l>Non Siculae cenae dulcem potuere saporem</l>
+<l>reddere, non hominem variis subducere curis:</l>
+<note>429-433 <emph>desunt in</emph> <hi>Istria I</hi> ║ 435 dent superi: contingant <hi>Istria I </hi>║ 438 Tyriosve … honores: cunctosve mihi promittat honores <hi>Istria I</hi> ║ 439 quid iuvat egregias urbes et maxima regna <hi>Istria I</hi> ║ 440 incolere atque alto vicinia palatia caelo? <hi>Istria I</hi> ║ 441 <emph>habet post </emph>442 <hi>Istria I</hi> ║ 443 et … priscos: scilicet hoc nihil est, medios <hi>Istria I</hi> ║ 445-446 <emph>desunt in</emph> <hi>Istria I</hi>
+</note>
+<l n="450">verum animus liber, mens recti conscia et intus</l>
+<l>nil strepere est hominis divina ac summa voluptas: </l>
+<l>ite igitur, curae, procul hinc, fastidia mentis,</l>
+<l>mi liceat post hac molli requiescere in umbra</l>
+<l>et mare sublimi e speculo spectare profundum. </l>
+<l n="455">Vivendum est melius, venient mox cana senectae</l>
+<l>tempora, quae arceri nullis tollive medellis</l>
+<l>possunt, ut falso cecinit nugator Homerus.</l>
+<l>Hei mihi non sistunt labentis stamina vitae</l>
+<l>pharmaca, non annos succi remorantur euntes.</l>
+<l n="460">Felices igitur colles iterumque beati,</l>
+<l>quos dulces Zephyri, quos suavis spiritus aurae</l>
+<l>et nemus umbrosum atque avium certamina cingunt. </l>
+<l>Non mihi contingat, quicquid fovet aurea ditis</l>
+<l>unda Tagi, non optarim mihi Lydia regna</l>
+<l n="465">Riphaeosve greges aut fulvi munera Gangis;</l>
+<l>omnia despiciam, o patrii, mea gaudia, colles, </l>
+<l>ultima dum vestris me vallibus occupet aetas: </l>
+<l>hic ubi securos, proavi, coluistis agellos, </l>
+<l>et licuit seram per saecula longa senectam </l>
+<l n="470">ducere et optatae concludere gaudia vitae.</l>
+<closer>FINIS</closer>
+<note>450-451 <emph>desunt in</emph> <hi>Istria I</hi> ║ 453 umbra: umbra, et <hi>Istria I</hi> ║454 vicina e specula mare prospectare profundum <hi>Istria I</hi> ║ 456 tollive: pellive <hi>Istria I</hi> ║ 464 non … regna: non divitiae, non fama Cylippi <hi>Istria I</hi> ║ <emph>post</emph> 464 <hi>Istria I</hi>: sit potior, non optarim mihi Lydia regna ║ 466 <emph>deest in</emph> <hi>Istria I</hi> ║ 467 dum: sed <hi>Istria I</hi> ║ 468 hic ubi (dum vestros, proavi, coluistis amores) <hi>Istria I</hi> ║ 470 et … seram: venturam placuit <hi>Istria I</hi>
+</note>
+</body>
+    <back>
+        <docImprint>Andreae Rapicii Iurisconsulti Tergestini Histria, ad Sigismundum Herbertsteinum regii fisci praef. etc., Viennae Austriae, excudebat Michael Zimmermannus, anno 1556 (H)
+            
+            Lazius, Wolfgang, Typi chorographici provinciae Austriae, Viennae 1561, Ee v - Ff v (D)	 </docImprint>
+    </back>
+</text>
+</TEI>

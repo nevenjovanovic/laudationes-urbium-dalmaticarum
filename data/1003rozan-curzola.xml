@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- nedovršeno -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Excerpta e historia Vauzalis sive Occhialinus Algerii Prorex, Corcyram Melaenam terra marique oppugnat nec expugnat (1571), versio electronica</title>
+                <author><name>Anton Rozanović (Antonius Rosaneus)</name>, Korčula (<date from="1524">n. 1524</date>)</author>
+                
+                <respStmt>
+                <resp>Editionem electronicam curavit</resp>
+                <name>Neven Jovanović</name>
+                
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Prima versio electronica <date when-iso="2009-06">2009-10</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                    projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+                    Hrvatska.  <date>listopada 2009</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    Rukopis 37. Državnog arhiva u Zadru.
+                </bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="genus">
+                    <!-- kontrolirani katalog za žanrove, za novolatinski? -->
+                    <category>
+                        <catDesc>genera litteraria</catDesc>
+                    </category>
+                </taxonomy>
+                
+                <taxonomy xml:id="aetas">
+                    <!-- gdje je kontrolirani katalog za periodizaciju? -->
+                    <category>
+                        <catDesc>aetates</catDesc>
+                    </category>
+                    <category xml:id="locus">
+                        <catDesc>locus</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1571">1571</date>
+                <address>
+                    <addrLine>Spalati</addrLine>
+                </address>
+            </creation>
+            
+            <textClass>
+                
+                <keywords scheme="#aetas">
+                    <list>
+                        <item>litterae renatae</item>
+                        <item>latinitas recentior</item>
+                        <item>saec. XVI</item>
+                        <item>1500-1550</item>
+                    </list>
+                </keywords>
+                <keywords scheme="#genus">
+                    <list>
+                        <item>prorsa</item>
+                        <item>historia</item>
+                        <item>bellum Turcicum</item>
+                        
+                    </list>
+                </keywords>
+                <keywords scheme="#locus">
+                    <list>
+                        <!-- kontrolirani katalog za mjesta -->
+                        <item>Corcyra Melaena</item>
+                        <item>Dalmatia</item>
+                        <item>Croatia</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2010-01-28</date>
+                Podaci o autoru. div / type.
+            </change>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2009-10-05</date>
+                TEI zaglavlje i formatiranje, nedovršeno.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="prorsaOratio-historia">
+        <front>
+            
+            <gap reason="irrelevant" resp="NJ"/>
+                <milestone unit="page" n="4" facs="antonrosaneo/korc/zkzd37/rosan-zd37-004.jpg"/>
+            <titlePage>
+                <docAuthor>Rosaneo Antonio. -</docAuthor>
+                <titlePart>Vauzalis, sive Occhialinus, Algerii Prorex, Corcyram Melaenam, terra, marique oppugnat nec expugnat</titlePart>
+                <titlePart>Relatio historica Antonii Rosenei, Patricii ex illustrioribus, et antiquioribus familiis ejusdem Urbis, Archidiaconi, et Iuris utriusque Doctoris, qui praesens omnibus interfuit.</titlePart>
+                <docDate>Anno 1571.</docDate>
+            </titlePage>
+            <div type="prorsaOratio-epistula-dedicatoria">
+                <milestone unit="page" n="5" facs="antonrosaneo/korc/zkzd37/rosan-zd37-005.jpg"/>
+                <gap reason="irrelevant" resp="NJ"/>            
+                <opener>Ser-mo D. D. Duci Nicolao de Ponte Antonius Rosaneus Corcyr.</opener>
+               <gap reason="irrelevant" resp="NJ"/>
+            </div>
+            <div>
+                
+                
+            </div>
+        </front>
+        
+        <body>
+            <div type="prorsaOratio-historia">
+                <gap resp="NJ" reason="irrelevant"/>
+<milestone unit="page" n="26" facs="antonrosaneo/korc/zkzd37/rosan-zd37-026.jpg"/>
+                <p>
+                    Hoc loco non erit ab re insulae, et oppidi nomen situm, et munitionem describere, quo facilius, quae paulo post dicentur, percipi possint.
+                </p>
+                <p>
+                    Ab antiquis comperio hanc insulam Corcyram Melenam, sive nigram appellatam (ut puto) <app><rdg wit="AD">ob similitudinem situs Pheacię</rdg> <rdg wit="Zd">a <gap/></rdg></app> cum utrumque oppidum septentrionem spectet, commune nomen sortitam, et discrepans a densitate nemorum. In quem sensum videtur declinare carmen de ea <app><rdg wit="AD">compactum</rdg> <rdg wit="Zd"><sic>computu</sic></rdg></app>
+                    <quote>
+                        <l>Corzula nunc dicor, fueram Corcyra Melena</l>
+                        <l>Dicta prius, merito nomen utrumque gero</l>
+                        <l>Nam maris Adriaci, Garganea litora contra</l>
+                        <l>Densior est <app><rdg wit="AD">piceis<note place="margin-left"><sic>spisis</sic></note></rdg><rdg wit="Zd">piceis</rdg></app> insula nulla iugis</l>
+                        <l>Inde Melena vocor, sed ut altera vertor ad arcton</l>
+                        <l>Hinc me <app><rdg wit="AD">Corcyrae<note place="margin-left">Pheacia</note></rdg><rdg wit="Zd">Corcyrae</rdg></app> nomen habere puto.</l>
+<milestone unit="page" n="27" facs="antonrosaneo/korc/zkzd37/rosan-zd37-027.jpg"/>
+                        <l>At nova <app><rdg wit="AD">uox uenit</rdg><rdg wit="Zd">venit</rdg></app>, quia cingit circulus urbem</l>
+                        <l>et parvi cordis moenia nomen habent</l>
+                        <l>Quin refero magni speciem pulcherrima cordis</l>
+                        <l>Nam Divus centrum Marcus in urbe tenet.</l>
+                    </quote>
+                </p>
+                <p>
+                    In <app><rdg wit="AD">eam pos</rdg><rdg wit="Zd">ea post</rdg></app> bellum Trojanum Antenor se recepit, ut est auctor <app><rdg wit="AD">Dytes</rdg><rdg wit="Zd">Dyctis</rdg></app> Cretensis illorum temporum miles, et scriptor, <app><rdg wit="AD"><milestone unit="page" n="20"/>et oppidum condidit, quamuis Plinius Gnidiorum oppidum fuisse testatur</rdg></app> quod possibile est Antenorem translatum in pinguiorem glebam ad Euganeos <app><rdg wit="AD">insulam hanc</rdg></app> sociis suis Gnidijs reliquisse. <app><rdg wit="AD">Vrbem istam uero ab Antenore eiusue sociis fundatam fuisse tum uetustissima traditio testatur, tum quę extant memorię: super portam australem ueterum modo muro clausam in lapidem tale incisum legebatur carmen quod defectum siue temporis edacitate siue hominum iniuria adhuc uestigia retinet antiquitatis:
+                    <quote>
+                        <l>Hic Antenoridę Corcyrę prima Melenę</l>
+                        <l>Fundamenta locant nobile gentis opus</l>
+                    </quote>
+                        <note place="foot">Anno autem domini 1594 restauratis urbis męniis, turribus, ędificiis munita ciuitas fuit, Antonio Leonę prętore, cuius stemma gentilium Leonis <unclear>auem fransuicti</unclear> pluribus in locis męniorum in lapide incisum expositum fuit. Quod stemma <unclear/> ornatius a latere sinistro Porte marinę, adintus subscripta habet in lapide hęc carmina.
+                            <milestone unit="page" n="20v"/>
+                            <l>Post <unclear>Ili</unclear> cineres, hęc męnia condidit olim</l>
+                            <l>Antenor; uerum ne ueterata ruant</l>
+                            <l>Antonii cura sunt integrata leonis</l>
+                            <l>Reddita et antiquo forma decusque loco.</l></note>
+                    
+                    
+                    </rdg></app>A recentioribus Curzulae nomen recepit, tam urbs, quam insula, et rationem hujus nominis non potui hucusque indagare, nisi <app><rdg wit="AD">quia</rdg><rdg wit="Zd">quod</rdg></app> octogesimo a Reate stadio euntibus via <app><rdg wit="AD">Iuria iuxta</rdg><rdg wit="Zd">salaria praeter</rdg></app> montem <app><rdg wit="AD">Coretum</rdg><rdg wit="Zd">Coritum</rdg></app> fuit quaedam civitas diruta Curzula, ut scribit Dionisius <app><rdg wit="AD">Halicarnasseus libro primo</rdg><rdg wit="Zd">Alicarnaseus lib. s.</rdg></app> pag. 9 et fortasse haec ab illa denominationem suscepit. Longitudo <app><rdg wit="AD">insulę</rdg><rdg wit="Zd">eius</rdg></app> ab oriente in occidentem est circiter stadiorum trecentorum; latitudo non est ubique aequalis, ubi tamen major, non superat nonaginta stadia, ubi minor quadraginta; ambitus septingenta. Tota <app><rdg wit="AD">montuosa</rdg><rdg wit="Zd">montosa</rdg></app> est, sterilis, et arida, vitibus apta, et pascuis non inutilis et lignandi comoditate praecipua. In medio altiores sunt montes, et quasi dorsum totius insulae, medietas excrescit extremitates hinc et inde subsidunt, litora tortuosa multas valles, malefidasque stationes, et portus <app><rdg wit="AD">etiam <milestone unit="page" n="21"/></rdg><rdg wit="Zd">et</rdg></app> tutos et magnos intus <app><rdg wit="AD">exteriusque</rdg><rdg wit="Zd">et exterius</rdg></app> efficiunt. Caput eius ad Eurum <mentioned>veru</mentioned><app><rdg wit="AD"><note place="margin-right">Speo = Rascnich</note></rdg></app> dicitur, quoniam protenditur <app><rdg wit="AD">artum</rdg><rdg wit="Zd">acutum</rdg></app> spatio ulteriori <app><rdg wit="AD">mille passus</rdg><rdg wit="Zd">per mille passuum,</rdg></app> postea dilatatur. Sed ad Zephirum est bifidum, et vallem maximam Sancti Ioannis de gradina quinquaginta stadiorum complectitur. Aquarum dulcium inopiam pluvialibus solatur; fons tamen procul ab eadem valle maxima distat triginta stadiis in campo magno pagi Blattae, qui multoties tantis <app><rdg wit="AD">scaturire solet</rdg><rdg wit="Zd">solet scaturire</rdg></app> aquis, ut stagnum ex campo fiat, quod et pago nomen indidit. Blatto enim <app><rdg wit="AD">Illyrica lingua Stagnum significat; et multoties <sic>bicennio</sic>, et triennio, immo et septennio solent illę</rdg></app> aquae non decrescere. Cum autem exsiccatae sunt, planities mille et quingentos passus longa, et sex stadia lata remanet
+                    <milestone unit="page" n="28" facs="antonrosaneo/korc/zkzd37/rosan-zd37-028.jpg"/>
+                    huberima, ut pote cujus labra proscissa, et seminata, dum aqua decrescit centesimum reddidere fructum. <app><rdg wit="AD">Campus in iure est certi numeri familiarum, et quolibet septennio diuiditur, more Hungarico, in capita familiarum; fęminę etiam si maneant innuptę suam habent portionem. Si tamen nubant, et transeant in familias <milestone unit="page" n="21v"/> quę in agro non <sic>habent</sic>, ipsę quoque ius amittunt; tale ius nec ratione dotis nec hęreditatis nec ulla alia uia aquiri uel alienari potest, sed semper manet in eisdem familiis. Duę fiunt in singula capita portiones, quas Illyrica lingua <foreign xml:lang="hr">stupi</foreign> uoccant, una in parte pinguiori, altera in steriliori. Omnes portiones sunt ęquales, pręter illas, quę Diuisoribus assignantur, quę maiores sunt. Diuisores autem sunt sex; tres urbani, et tres rurales, et hoc pariter ius diuisorum in certis familiis fixum manet, nec ad alios transit. Portiones modo maiores modo minores pro numero capitum sunt.
+                    </rdg></app> Nascitur eo in campo uliginosa herba, qua si nimium vescantur armenta adeo pinguescunt <corr resp="AD">pinguescant</corr> ut morbo correpta crepent, neque carnes, neque pelles ullo sunt usui propter morbi <app><rdg wit="Zd"><sic>stagionem</sic></rdg><rdg wit="AD">contagionem</rdg></app>, non admodum ab <app><rdg wit="Zd">epidemiae</rdg><rdg wit="AD">epidimię</rdg></app> peste dissimilem. Si <app><rdg wit="Zd">universus</rdg><rdg wit="AD">totus</rdg></app> ille ager coleretur est opinio quod procul <app><rdg wit="Zd">dubio</rdg></app> aleret nedum colonos, et incolas sed etiam vicinos. Veruntamen periti profundiorem eum superficie maris testantur, nec posse aquam per canalia in mare deduci perfractis quoque montibus interpositis <milestone unit="page" n="21v"/> astruunt. Incolarum vero ignavia nullo pacto excusari potest, quamvis enim raro ager ille inundet, nunquam tamen aratur vel colitur praeterquam pars minima ab orientali latere, ex qua maximos proventus colligere solent. 
+                    
+                    Insula ferax vini <sic>thedae</sic> et <app><rdg wit="Zd">picis</rdg><rdg wit="AD">piscis, sicut et mare insulam abluens piscium.</rdg></app> duas artes potissimum exercet scilicet carpentariorum ad fabricandas naves, et latomorum. Sita est in Illyrico e regione Gargani lato centum millibus passuum interiacente pelago, in quo a noto Melita ab austro <app><rdg wit="Zd">Augustae</rdg><rdg wit="AD">Augusta</rdg></app> cum aliquibus scopulis per stadia circiter sexaginta ab occidente equinoctiali Issa, aestivali vero Pharus, per triginta millia passuum procul ab ejus litore proximos excipiunt fluctus. A septentrione autem esset tractus <app><rdg wit="Zd">Narentanus</rdg><rdg wit="AD">Narentaneus</rdg></app>, sed interjacet Promontorium Sabioncelli nomine Oeni apud Ptholomaeum <app><rdg wit="Zd">notatum</rdg></app>, quod continenti juxta Narentani fluminis <app><rdg wit="Zd">hostia</rdg><rdg wit="AD">ostia</rdg></app> junctum, et <app><rdg wit="Zd">aliquantum</rdg><rdg wit="AD">aliquantulum</rdg></app> ad Epidaurinas insulas in dexteram porrectum mox in sinistram Pharum versus
+                    <milestone unit="page" n="22v"/>
+                    longe ampliori spatio deflectens efficit Isthmum quatuor stadiorum, in quo est civitas Stagni inter duo maria, quorum orientale prospicit Ragusium, occidentale vergit in Pharum, et <app><rdg wit="Zd">Brachiam</rdg><rdg wit="AD">Bracchiam</rdg></app>. Duo quoque exteriora canalia constituit primum ab oriente cum Melita <app><rdg wit="AD">et Augusta</rdg></app> per totam <app><rdg wit="AD"><unclear>leuam</unclear></rdg></app> insulae extensionem porrectum <app><rdg wit="AD">centum</rdg></app> sexaginta stadiis latum, alterum <app><rdg wit="Zd">parte Melenae</rdg><rdg wit="AD">cum parte Onęi</rdg></app> 
+                    <milestone unit="page" n="29" facs="antonrosaneo/korc/zkzd37/rosan-zd37-029.jpg"/>
+                    latitudinis sexdecim stadiorum, quorum <app><rdg wit="AD">canalium</rdg><rdg wit="Zd">etiam</rdg></app>  dispar est <app><rdg wit="AD">et</rdg></app> longitudo. Illud enim duo de viginti milia passuum <app><rdg wit="AD">non</rdg></app> excedit, hoc duodecim superat, quoniam Corcyra cum per id spatium excurrerit postea deflectit in pelagus tota reliqua sui longitudine, et relinquit <app><rdg wit="Zd">Oeni</rdg><rdg wit="AD">Onęi promontorii</rdg></app> brachium super Pharum se <app><rdg wit="Zd">extendentem</rdg><rdg wit="AD">extendens</rdg></app> humili planitie, <app><rdg wit="Zd">et melitense</rdg><rdg wit="AD">canale a Melita</rdg></app> sine scopulis est, Curzulense autem tam in introitu, quam in exitu scopulis et saxis abundat, et propterea periculosum est imperitis praesertim intrantibus. Urbs ab utrisque faucibus circiter quinquaginta stadiis distans, et maximam sumitatem <app><rdg wit="Zd">Oeni</rdg><rdg wit="AD">Onęi</rdg></app> seu Sabioncelli in <app><rdg wit="Zd">septentrione</rdg><rdg wit="AD">septemtionem</rdg></app> prospiciens in excurrenti colle <app><rdg wit="Zd">quam moenibus,</rdg><rdg wit="AD">quem męniorum</rdg></app> ambitu ovalis 
+                    <milestone unit="page" n="23r"/>
+                    formae complectitur situata pene tota mari circumdatur, nisi quod ab austro cum reliqua insula ponte, et fossa, ac navali conjungitur. Aedificia urbana ex vivo saxo albo ibidem exciso structa cum templo, et turri campanaria in umbilico caeteris superiori propter soli inaequalitatem <app><rdg wit="AD">qua interiora eo sunt altiora culminibus ędificia pulcherimam uisu speciem procul intrantibus prębent</rdg></app>. In medio oppidi platea ex polito saxo ante templum, et campanariam turrim strata omnes totius urbis vias aequali spatio dimensas ad se ducit, <app><rdg wit="Zd">unde</rdg><rdg wit="AD">Inde</rdg></app> disticon hoc ei optime convenit <app><rdg wit="AD">cui alia duo carmina a beneuolo Poeta addita fuerunt</rdg></app>:
+                    <quote>
+                        <l><app><rdg wit="Zd">Viculus</rdg><rdg wit="AD">Circulus</rdg></app> in medio, <app><rdg wit="Zd"><sic>denusque</sic></rdg><rdg wit="AD">densusque</rdg></app> hinc inde viarum</l>
+                        <l>Ordo cingatur, Corzula picta manet.</l>
+                        <l><app>
+                            <rdg wit="AD">
+                                Corcula, Dalmatię non ultima gloria surgit,
+                            </rdg>
+                        </app></l>
+                        <l><app>
+                            <rdg wit="AD">
+                                Quęque <unclear>premit</unclear> Venetos, sedula cura, patres.
+                            </rdg>
+                        </app></l>
+                    </quote>
+                        Et quidem eo tempore locus satis munitus reperiebatur praesertim tormentis <app><rdg wit="AD">bellicis</rdg></app>. Nam paucis diebus ante bellum motum Raphael Gabrielius a Petro Bragadeno, loci rectore 
+                    <milestone unit="page" n="23v"/>
+                    optimo missus in legationem Venetiis reportauerat numerum non parvum sclopetorum lancearum arcuum, sagittarum, et sex <app><rdg wit="Zd"><sic>colombrinas</sic></rdg><rdg wit="AD">columbrinas</rdg></app> aeneas emittentes pilas ferreas librarum duodecim.  Deinde post bellum jam motum Philippus Roseneus, et ipse orator missus, attulerat quattuor <app><rdg wit="Zd"><sic>petrerias</sic></rdg><rdg wit="AD">petreiras</rdg></app>, et duas <app><rdg wit="Zd">colombrinas et triginta <sic>archibusonarum</sic></rdg><rdg wit="AD">columbrinas</rdg></app> et pulveris <app><rdg wit="Zd">boni <sic>Sardici</sic></rdg><rdg wit="AD">bombardici</rdg></app> copiam, et multa alia tela. Erant <app><rdg wit="Zd">et</rdg><rdg wit="AD">etiam</rdg></app> in urbe priora tormenta ferrea, <app><rdg wit="Zd">et</rdg></app> aenea, praesertim unum, quod papale nominant, quod ponderantem triginta libras ferri pilam jaculatur, et in armamento etiam erant multa alia arma bellica. Maenia tamen
+                    <milestone unit="page" n="30" facs="antonrosaneo/korc/zkzd37/rosan-zd37-030.jpg"/>                    vetera et ruinosa instauratione indigebant, Pugnatorum quoque paucitas dubiam tuitionem reddebat. Sed satis divagati ad institutum redeamus.
+                </p>
+
+                <gap reason="irrelevant" resp="NJ"/>
+            </div>
+            </body>
+
+
+    </text>
+</TEI>

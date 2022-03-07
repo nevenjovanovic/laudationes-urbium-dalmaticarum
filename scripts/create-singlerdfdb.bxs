@@ -1,0 +1,1 @@
+XQUERY db:create("laud-asirelli-rdf", "/home/neven/Repos/laudationes-urbium-dalmaticarum/ttl/in-laudem-nobilitatis-aspalatensis.rdf", (), map { 'ftindex': true(), 'chop': false(), 'intparse' : true() })

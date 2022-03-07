@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Excerpta e libro Inscriptionum seu epigrammatum... (1435–36), versio electronica</title>
+                <author><name>Ciriaco d'Ancona (Kyriacus Anconitanus, Ceriaco Pizzicolli)</name>, <date from="1391" to="1455">c. 1391 – c. 1455</date></author>
+                <editor>
+                             
+                    <name>Neven Jovanović</name>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                    projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+                    Hrvatska.  <date when="2010-02">veljače 2010</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p><bibl>Cyriaque d'Ancône, <editor>Léon Renier</editor>: 
+                    Inscriptiones seu epigrammata graeca et latina reperta per Illyricum a Cyriaco Anconitano apud Liburniam : designatis locis ubi quaeque inventa sunt cum descriptione itineris. 
+                    <pubPlace>Romae</pubPlace>: 
+                    <publisher>apud Gregorium Roiseccum</publisher> 
+                    (1747) </bibl>.
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1435-08-12" to="1436-08-01">1435–1436</date>
+            </creation>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2010-02-04</date>
+                <name>Neven Jovanović</name>
+                Prva verzija.
+            </change>
+           
+        </revisionDesc>
+    </teiHeader>
+    <text type="prorsaOratio">
+
+	
+
+<body>
+    <div type="prorsaOratio-epistula">
+        <head>EPISTOLA II. Ad Georgium Begnum Iadertinum, Virum doctum et amicum suum primarios inter competundissimum ex proximo Corcyrae Insulae scopulo religioso.
+            </head>
+        <argument><p>De itinere suo ex Corcyra ad Dalmatiae Promontorium.</p></argument>
+<p>
+    <milestone unit="page" n="56"/>
+    Scripsi ad te, vir optume Georgi, ex Corcyra caerulea insula, et antiquissima cervorum sede eodem, quo ad eam venimus, die. Sed continuo obsistente nobis adverso, et infestissimis fluctibus crebrescente Euro, in ea per triduum <choice><orig>invito</orig> <reg>inviti</reg></choice> consedimus. Quarto sed enim die, <choice><orig>ad in</orig> <reg>in</reg></choice> conspectuque Insulae Promontorium Dalmatiae pauperrimum Cerere, Baccho sed opulentissimum, remorum vi navigavimus. In quo et ad binum morati 
+    <milestone unit="page" n="56"/>
+    diem taedio tandem fessi diuersa in salo saxa, et loca perinculta lustrauimus. Demum pridie Kalendas Decembres scopulum meliorem adiuimus. Ibi primum aedem Beatae Virgini sacram vidimus. In qua non pauci religiosissimi viri castissimum Seraphici Ordinem seruant. <choice><orig>Equis</orig>  <reg>Aquis</reg></choice> quum ibidem ad primam diei horam allaberemur, solemnem Andreae felicissimi Apostoli diem celebratam audiuimus. Sed ut non me meis totum inexpertem curis uiderer, hoc ad porticum aedis in angulo claustri atque rotundissimo lapide Epigramma<ref/><note>Extat in epistola quae sequitur.</note> optumis insculptum litteris inueni. <choice><orig>Vt</orig> <reg>et</reg></choice> hoc amicitiae tuae loco rescribendum curaui. Tu uale, et Barnabam nostrum <foreign xml:lang="el">Philotheon di' olou andra</foreign> ac alios amicissimos, ut mos, ex me salutatum ibis.
+</p>
+        <closer>
+            <dateline>Ex praelibato religioso scopulo. <date when="1435-12-01">Kalend. Decembr. 1435.</date></dateline> 
+            <signed>Kyriacus ubique tuus.</signed>
+        </closer>
+    </div>
+    <gap reason="irrelevant" resp="NJ"/>
+    <milestone unit="page" n="xxii"/>
+    <div type="prorsaOratio-iter-epigraphicum">
+        <p>
+            Ad K. Iul. venimus Lisson antiquam, et inter maritimas ultimam Dalmatiae Ciuitatem sitam apud Drilonem fluuium ab ostiis ad III. mil. quam uulgus in hodiernum Alexium uocat. In qua primum uidimus ingentia moenia, magnis condita lapidibus, et diuersa architectorum arte conspicua, in quibus epigramma hoc magno in lapide consculptum inueni.
+        </p>
+        <p>Deest icon.</p>
+        <quote n="150">
+            L. GAVIAR. NN. AVG.<lb/>
+            II VIR. QVINQ. DEC<lb/>
+            DECR. MVR. REF.<lb/>
+            IDEM Q. PROB. CORQ
+        </quote>
+        <p>
+            Ad III. Non. Iuliarum uenimus Scodram, mediterraneam Dalmatiae ciuitatem, quam incolae Scutarim in hodiernum uocant. Sed ibi neque moenia nec aliud opus ullum uidi et memoratu dignum.
+        </p>
+        <p>
+            Ad pridie Idus Iul. uenimus Rhizanam, mediterraneum utique Dalmatiae oppidum, quod uulgus hodie Antiuarim uocat, et pro Metropolitana nunc loco Docleae uicinae Ciuitatis habetur, nec aliquid ibi memorabile uidetur.
+        </p>
+    </div>
+    <div type="prorsaOratio-iter-epigraphicum">
+        <head>Dalmatia</head>
+        <p>Ad XI. K. Aug. uenimus Phariam insulam Ciuitatemque Dalmatiae nobilem, quae hodie uulgus Lesinanam uocat.
+        <quote n="151">
+            <q>CLODIAE SEVERAE<lb/>
+            CLODIVS GALLICANVS<lb/>
+            ET VISPANA SVRILLA <sic>FILA</sic><lb/>
+            <abbr>L. D. D. D.</abbr></q>
+        </quote>
+        </p>
+        <milestone unit="page" n="xxiii"/>
+        <p>
+           Ad IX K. Augu. uenimus Issam Insulam et egregiam utique Dalmatiae Ciuitatem. Vbi antiqua uidimus in circuitu magnis edita lapidibus moenia, sed magna ex parte collapsa uetustate: habet in medio nobilissimi portus nobile amphitheatrum; sed ipsum utique uetustate aliqua ex parte dirutum, in quo tale consculptum erat epigramma.
+           <quote n="152">
+               <q>ΔΙΟΝΥΣΙΟΣ<lb/>
+               ΑΓΗΣΙΔΑΜΟΣ ΑΓΗΣΙΔΑΜΟΥ<lb/>
+               ΑΓΗΣΙΔΑΜΟΣ ΔΩΡΙΚΚΛΕΟΣ<lb/>
+               ΑΓΗΣΙΔΑΜΟΣ ΦΙΛΗΣΙΟΥ</q>
+           </quote>
+        
+        <quote n="153">
+           <bibl> Ad paruam basim lapideam.</bibl>
+            <q>ΑΡΤΕΜΙΔΙ <lb/>
+            ΦΕΡΑΙΑΙ ΚΙΝ<lb/>
+            ΤΟΣ ΔΡΩΝΟΝ</q>
+        </quote>
+        </p>
+        <p>
+            
+            <quote n="154">
+                <bibl>In aere ad Imaginem Aug.</bibl>
+                <q>DIVVS AVGVSTVS PATER<lb/>
+                PROVIDENT</q>
+            </quote>
+            Deest icon.
+        </p>
+        <p>Ad IIII. K. Aug. uenimus ad antiqua Salonarum Palatia, Diocletiani Caesaris opus. Spalatum ab incolis in hodiernum dictum. Cuius egregiae architecturae parietes promoenia Ciuitatis extant. Eius utique in medio conspicitur nobile Iouis Templum, quod nomine Beati Doimi Pontificis hodie ciuies incolunt.
+        <quote n="155">
+            <bibl>Epigramma ad antiquum in aula praefatae aedis sepulchrum.</bibl>
+            <q>AVR. GLYCON<lb/>
+            ET VALENTIA<lb/>
+            VIRGEI VIVI SIBI <lb/>
+            POSVERVNT</q>
+        </quote>
+            <quote n="156">
+                <bibl>Ad lapidem prope litus.</bibl>
+                <q>AVRELIA PRIVATA<lb/>
+                QVAE VIXIT ANNOS<lb/>
+                PLVSMINVS XXXXXX<lb/>
+                AVRELIVS DONATI<lb/>
+                ANVS MATRI BENE<lb/>
+                MERENTI POSVIT</q>
+            </quote>
+            <quote n="157">
+                Ad alium lapidem.
+                AVRELIAE FLAVIAE<lb/>
+                CONIVGI INCOMPARABILI<lb/>
+                NI L. INNOCENTIVS<lb/>
+                ET SIBI VIVVS POSVIT<lb/>
+            </quote>
+            <quote n="158">
+                In alio lapide.
+                S. IVL. PROCVLVS<lb/>
+                IVLIA PRISCA MATER<lb/>
+            </quote>
+            <quote n="159">
+                In alio lapide.
+                ANTONIO AGRIPPE<lb/>
+                QVI VIX. ANN. XXXVIII<lb/>
+                ARRIA PRIMA MARITO INCOMPARABILI <lb/>
+                POSVIT ET SIBI
+            </quote>
+            <quote n="160">
+                In alio lapide.
+                L. T. AEMILIO VRSINO<lb/>
+                FRATRI EIVS POSVIT<lb/>
+                T. AEMILIVS PROTOGENES STERGIO<lb/>
+                LIBERTO
+            </quote>
+            <quote n="161">
+                In alio lapide ornatissimo.
+                C. CALENIO P. FIL<lb/>
+                ET C. PATRONO<lb/>
+                C. CALENIVS DEMETRIVS<lb/>
+                ET CALENIVS PRIMVS<lb/>
+                ET CALENIA FVSCA<lb/>
+                B. M. AMICI OPTIMI<lb/>
+                AVE ET VALE. FELIX LAPIS
+            </quote>
+            <quote n="162">
+                In alio marmoreo lapide.
+                FL. FIDENTIVS EX<lb/>
+                COMITIBVS SIRMESIS<lb/>
+                HIC EST DEPOSITVS<lb/>
+                VIXIT AN XX
+            </quote>
+        </p>
+        <milestone unit="page" n="xxiV"/>
+        <p>
+            Ad III. K. Aug. uenimus Salonas insignem Dalmatiae Ciuitatem. In qua primum nobilissima uidimus moenia, sed undique iam solo antiquitate collapsa. Vidimusque amphitheatrum in medio ciuitatis ingens, atque mirabiles aquaeductus egregiae architecturae conspicuos, statuasque arte decoras, et immanes columnas undique per agros dirutas, atque conuulsas immensis ruinis; quas inter Epigrammata haec Graeca, Latinaque conspectantur.
+            <quote n="163">
+                Epigramma ad magnum et ornatum sepulchrum.
+                ΙΟΥΛΙΑ ΠΙΛΗ<lb/>
+                ΕΙΡΗΝΗ ΣΕΜΝΟΤΑΤΗ<lb/>
+            </quote>
+            <quote n="164">
+                Item apud Salonas ad alium tumulum.
+                D. M.<lb/>
+                T. ATTIAE LAEMONTINAE<lb/>
+                DEF. ANN. XXIII CAETENNIA AMVLLINA<lb/>
+                D. B. M.
+            </quote>
+            <quote n="165">
+                Ad aliud ornatum monumentum.
+                C. SEVIO TERTIO C. SEVIO TEMPESTIVO<lb/>
+                FILIO<lb/>
+                CELANDVS
+            </quote>
+            <quote n="166">
+                Ad marmoreum lapidem in eodem loco.
+                P. CETENVS VRSIO<lb/>
+                MARCIAE VENERIAE<lb/>
+                COIVGI ET CETENIO<lb/>
+                VRSINO F. P
+            </quote>
+            <quote n="167">
+                Ibidem in alio tumulo.
+                D. M.<lb/>
+                C. MANII MONIMVIANI<lb/>
+                VIXIT AN. XV D. XVII<lb/>
+                SEXARIA PRIMITIVA MATER<lb/>
+                FILIO PIISSIMO
+            </quote>
+            <quote n="168">
+                Ad aliud ornatum monumentum.
+                AVIDIAE T. L. INENVAE<lb/>
+                MATRI ET CAECILIAE C. F.<lb/>
+                TERTVLLAE SORORI<lb/>
+                AVIDIA T. F. LVCVLLA<lb/>
+                POSVIT
+            </quote>
+            <quote n="169">
+                Apud Absorim.
+                L. SVLPICIVS P. F. VARVS<lb/>
+                V. F. SI. ET MEDEAE OPIAE<lb/>
+                MATRI SVAE ET SVIS OMNIBVS
+            </quote>
+        </p>
+        <p>
+            Ad K. Aug. Tragurium uenimus, egregiam Dalmatiae Ciuitatem, quae sita in mari intra sui nominis insulam et caeteram Dalmatiam per binos lapideos pontes se ad utrorumque latus mediam inter decurrentes euripos continet. Vbi lapides inter hinc inde Latina haec et uetusta uidentur Epigrammata.
+            <quote n="170">
+                Ad aedem Mariae extra moenia ad sepulchrum ornatissimum, sub uiri et coniugis imaginibus.
+                I. CAESELLIVS P. F. TRO<lb/>
+                MAXIMVS<lb/>
+                CAESELLIA P. F. QVARTA
+            </quote>
+            <quote n="171">
+                Ibidem in alio tumulo.
+                B. CENNIVS VXORI SVAE<lb/>
+                CAESIAE OPTATAE FECIT<lb/>
+                NON LVBENS SED FACTVM FECIT
+            </quote>
+            <quote n="172">
+                Ad aedem Nicolai.
+                IVLIAE LASCIVAE<lb/>
+                ET IVLIAE LVPAE<lb/>
+                ANN. XVIII IVLIA<lb/>
+                PANTHERA POS. SOR. ET MATR.
+                
+            </quote>
+            <milestone unit="page" n="xxV"/>
+            <quote n="173">
+                <bibl>Ad alium lapidem.</bibl>
+                <q>AELIAE VRSE QVAE ANNOS XXII MENSES VII<lb/>
+                DIES XVI IVLIVS HERMES PATER PET STATIVS<lb/>
+                DIONYSOCLES MARTIVS INFELICISSIME</q>
+            </quote>
+            <quote n="174">
+                <bibl>Item apud Tragurium ad aedem Dominici in magno tumulo.</bibl>
+                <q>T. RVBRIVS T. L. PHILOMVS<lb/>
+                IIIIII VIR TESTAMENTO FIERI<lb/>
+                IVSSIT SIBI ET BAVREAE<lb/>
+                ΣΣ. L. RVFAE ET T. RVBRIO T. F.
+                ALBAE</q>
+            </quote>
+            <quote n="175">
+                <bibl>Ad aedem Ioannis Baptistae.</bibl>
+                <q>D. M.<lb/>
+                FORTVNIO DEF. ANN. III MENS XI<lb/>
+                CAETENNIANVS ET VICTORINA<lb/>
+                ALVMNO CARISSIMO</q>
+            </quote>
+        </p>
+    </div>
+</body>
+    </text>
+    </TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                    <title>De laudibus Rhacusae, versio electronica</title>
+                    <author><name>Michael Tarchaniota Marullus (Michele Marullo)</name> <date from="1461" to="1500-04-10">(1461? – 1500-04-10)</date></author>
+                <respStmt>
+                    <resp>Editionem electronicam curavit</resp>
+                    <name>Neven Jovanović</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Textum transcripsit</resp>
+                    <name>Ana Mihaljević</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009-12-31</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority/>
+            </publicationStmt>
+            
+            <sourceDesc>
+                    <p><bibl>Epigrammaton libri 4, 17, in: Marullus, Michael Tarchaniota: Beati Rhenani Helvetensis Ad Lectorem Paraenensis. Michaelis Tarchaniotae Marulli Constantinopolitani epigrammata et hymni, Arge[n]toraci, 1509.</bibl>, cuius extat <ref target="http://daten.digitale-sammlungen.de/~db/0001/bsb00013751/images/">facsimile electronicum</ref>.</p>
+            </sourceDesc>
+            
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notAfter="1489">ante a. 1489.</date>
+            </creation>
+        </profileDesc>
+        
+        <revisionDesc>
+            
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2008-05-05</date>
+            </change>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2009-12-22</date>
+                Validacija u OxyGenu. Označavanje stihova (l) i strofa (lg).
+            </change>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2009-12-23</date>
+                Pregledao. Dodao marginalije (tok radnje) unutar napomena.
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    <text>
+                <body>
+                        <div type="ode" met="alcaicum">
+                                <head>DE LAVDIBVS RHACVSAE</head>
+                        <lg>
+                                <l>Rhacusa multis gens Epidauria</l>
+                                <l>Sicana pubes pluribus, at mihi,</l>
+                                <l>Vt nomen incertum genusque</l>
+                                <l>Grande soli decus urbiumque</l>
+                        </lg>
+                        <lg>
+                                <l>Quascunque longus subluit Adria;</l>
+                                <l>Quo te merentem carmine prosequar?</l>
+                                <l>Non falsus, aut somno petita</l>
+                                <l>Materia sine teste inani?</l>
+                        </lg>
+                        <lg>
+                                <l>Amica quondam dulcis, ubi puer</l>
+                                <l n="10">Primas querelas et miseri exili</l>
+                                <l>Lamenta de tristi profudi</l>
+                                <l>Pectore non inimicus hospes.</l>
+                        </lg>
+                        <lg>
+                                <l>Hinc me locorum uis rapit aspera</l>
+                                <l>Euicta cultu saxaque mollibus</l>
+                                <l n="15">Seruire Phęacum uiretis</l>
+                                <l>Iussa uirum docili labore</l>
+                        </lg>
+                        <lg>
+                                <l>Et cuncta Cressa uite nitentia</l>
+                                <l>Qua longa Sercus brachia porrigit</l>
+                                <l>Obiectus hibernis pruinis</l>
+                                <l n="20">Et Boream populis tuetur;</l>
+                        </lg>
+                        <lg>
+                                <l>Hinc tuta passim sponte deum freta</l>
+                                <l>Littusque foetum portubus et bonis</l>
+                                <l>Gens laeta conuectis utroque</l>
+                                <l>Limine flammiferentis astri.</l>
+                        </lg>
+                        <lg>
+                                <l n="25">Hinc ipsa muro moenia duplici</l>
+                                <l>Educta coelo, pars licet altera</l>
+                                <l>Natura et abrupti superbit</l>
+                                <l>Rupibus aeriis profundi,</l>
+                        </lg>
+                        <lg>
+                                <l>Complexa portus mole Cyclopea</l>
+                                <l n="30">Vrbisque quantas diuitias neque</l>
+                                <l>Mater Syracusae tulere</l>
+                                <l>Nec gemino mare diues Isthmos.</l>
+                        </lg>
+                        <lg>
+                                <l>Et si ista (quamquam maxima, nec nisi</l>
+                                <l>Concessa raris munere coelitum)</l>
+                                <l n="35">Virtutis et laudum tuarum</l>
+                                <l>Vera loqui quota pars uolenti?</l>
+                        </lg>
+                        <lg>
+                                <l>Cum morem et urbis sępe animo sacra</l>
+                                <l>Tot iura mecum cogito, cum decus</l>
+                                <l>Pulchramque libertatem auorum</l>
+                                <l n="40">Perpetua serie retentam</l>
+                        </lg>
+                        <lg>
+                                <l>Interque Thurcas et Venetum asperum</l>
+                                <l>Et inquietae regna Neapolis</l>
+                                <l>Vix qualis Aetneo profundo</l>
+                                <l>Vnda freti natat aestuosi?</l>
+                        </lg>
+                        <lg>
+                                <l n="45">Heu quae suetum nec patitur iugum</l>
+                                <l>Nec si carendum sit, ferat otium</l>
+                                <l>Incerta uotorum suisque</l>
+                                <l>Exitio totiens futura;</l>
+                        </lg>
+                        <lg>
+                                <l>Nam quae remotis usque adeo iacet</l>
+                                <l n="50">Gens ulla terris? quod mare tam procul</l>
+                                <l>Ignotum acerbis Appulorum</l>
+                                <l>Exiliis Calabrumque cladi?</l>
+                        </lg>
+                        <lg>
+                                <l>Non his beati quaeritur artibus</l>
+                                <l>Quies honesti, non bona strenuae</l>
+                                <l n="55">Virtutis et frugi parata</l>
+                                <l>Regna domi populique pace.</l>
+                        </lg>
+                        <lg>
+                                <l>Sed haec silenti non patiens amor;</l>
+                                <l>Tu uero <corr resp="NJ">coeptis</corr> artibus optima</l>
+                                <l>Rem auge decusque, et nationum</l>
+                                <l n="60">Vt merita es, caput usque uiue.</l>
+                        </lg>
+</div>
+
+                </body>
+  </text>
+</TEI>

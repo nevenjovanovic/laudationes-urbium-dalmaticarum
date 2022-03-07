@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>De triumpho Christi poema (1499)</title>
+                <author>Macarius Mutius (Macario Muzio,
+                    Camerino, <date>n. 1440, m. 1515/23?</date>)</author>
+                <editor>Neven Jovanović</editor>
+                <respStmt>
+                <resp>Electronice descripsit</resp>
+                <name>Željka Salopek</name>
+                
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Prima versio electronica <date when-iso="2009-06">2010-09</date>
+                </edition>
+            </editionStmt>
+            <extent>Versus 317</extent>
+            <publicationStmt>
+                <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                    projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+                    Hrvatska.  <date>rujna 2010</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    M25749  Mutius, Macarius: De triumpho Christi poema. Venedig: Franciscus de Lucca und Antonius Francisci, 29.III.1499. 4°
+                    24 Bl. a–c⁸. 24 Z. (Exemplum Marci Maruli) 
+                </bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <creation>
+                <date notAfter="1499">1499</date>
+                <placeName>
+                    Camerinum
+                </placeName>
+            </creation>
+            
+            <textClass>
+                
+                <keywords scheme="#aetas">
+                    <list>
+                        <item>litterae renatae</item>
+                        <item>latinitas recentior</item>
+                        <item>saec. XV</item>
+                        <item>1450-1500</item>
+                    </list>
+                </keywords>
+                <keywords scheme="#genus">
+                    <list>
+                        <item>prorsa</item>
+                        <item>epistola</item>
+                        <item>poesis</item>
+                        <item>epicum carmen</item>
+                        
+                    </list>
+                </keywords>
+                <keywords scheme="#locus">
+                    <list>
+                        <!-- kontrolirani katalog za mjesta -->
+                        <item>Camerinum</item>
+                        <item>Venetia</item>
+                        <item>Italia</item>
+                        
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2011-11-27</date>
+                Grčki tekst.
+            </change>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2010-09-16</date>
+                Versio prima.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <pb n="1r"/>
+        <titlePage><docAuthor><persName>MACARIVS MVTIVS</persName> EQVES CAMERS</docAuthor> 
+<titlePart>DE TRIVMPHO <persName>CHRISTI</persName>.</titlePart></titlePage>
+
+<pb n="2r"/>
+
+<div type="epistola"><opener><persName>MACARIVS MVTIVS</persName> EQVES CAMERS LECTORI FELICITATEM</opener>
+
+    <p>Haeret in primo limine libellus meus paruus blaesus uerecundus nec, dum consistit infans, uix pendens a manu graditur, lucem refugit, et ad solem caecutit tenebrarum alumnus. Nudus est rudis solutus, nullis placet umbilicis, non est pumicata frons, formidat lituras, sed spongiam magis; omnia ueretur, criticos praesertim et <foreign xml:lang="grc">μαστιγοφόρους</foreign>, horret inuidiae genuinum: iam sagum cogitat et in globum se colligit et saltum meditatur, iam thura timet et piper, iam non libellus erit, sed cucullus et scombros uestiet tandem inuolucro. Quod si ronchi primum non excipient et sannae et sibila, si blande allicias ut tactum pati discat, si mentum palpes, si pendulum crinem concinnes et a fronte reducas, fortasse cupiet depelli et ab ubere longius reptabit. Si oscula dabis et plausum, salua res: iam garrit morio, iam consistit et graditur, exilit erro, iam fugit, 
+
+<pb n="2v"/>
+
+surgunt plumae, prominent pennae, iam uolitat, iam non cucullus est, sed cuculus: iam omnes nidos pererrat omnium bibliothecarum inquilinus. Hunc tibi commendo ut blandiaris foueas defendas; in manu tua est an perpetuo lateat, an perpetuo uagetur.</p> <closer><salute>Vale.</salute></closer></div> 
+
+<pb n="3r"/>
+
+<div type="epistola"><opener><persName>MACARIVS MVTIVS</persName> EQVES CAMERS LECTORI FELICITATEM</opener>
+
+                <p>Miratus sum
+                    frequenter nec semel dolui non nullos quibus neque ingenium neque bonarum artium
+                    studium et eruditio neque dicendi facultas defuit ludicris narrationibus et
+                    commentis turpibus, etiam plerumque fabulis inanem operam impendere uoluisse,
+                    quum ad posteritatis commoditatem et nominis sui memoriam haud dubia cum laude
+                    multa scribere potuissent, quae ad bonos mores excitarent et ad uirtutem
+                    capessendam comparandamque gloriam hortarentur. Quo in genere ut
+                        <persName>Arbitrum</persName>
+                    <persName>Apuleium</persName>
+                    <persName>Lucianum</persName>, uiros non contemnendae doctrinae <corr resp="NJ">atque</corr>
+                    facundiae plane accusare non ausim, ita asseuerare citra iustam reprehensionem
+                    posse uideor huiuscemodi scriptores sibi et posteris commodius consulere
+                    potuisse si <sic>tantum</sic> ueram narrationem aggressi historiam aut, si minus
+                    rerum gestarum materia dabatur, aliquid ad humanae uitae institutionem <pb n="3v"/> et
+                    politicae rei utilitatem scribere maluissent. Neque ignoro neque inficior
+                    huiusmodi scripta (si qui sunt qui scrutari uelint et interiorem sensum
+                    indagare) multa in recessu et altiora et utiliora quam fronte appareant esse
+                    inuenturos. Maneo tamen in sententia <sic>quod</sic> tenuem frugem sparsam et
+                    magno et confuso aceruo abstrusam ad iacturam potius quam ad lucrum accedere
+                    arbitror, si longae inquisitionis labor consideretur et temporis ratio, quae non
+                    parui ducenda est, habeatur. Verum ne hos auidius cuiquam uel pertinacius
+                    insectari uidear, liberum iudicium omnibus relinquo qui uoluerint diligentius
+                    ueritatem intueri. Absoluant sane, si libet, et omni laude cumulent, iudicium
+                    uero meum praeceps et temerarium existiment: ego uel sponte a causa cado: dixi
+                    quod sentio mihique persuadeo, apud integrum iudicem non facilius illos
+                    absolutum iri quam plerosque poetas quos clarissima ingenia, doctrinam
+                    singularem, et scribendi elegantiam meretriciis amoribus et impurissimis
+                    scortorum lenociniis maculare et diuinae poetices dignitatem sanctitatem et
+                    gloriam ad libidinem suam traducere <pb n="4r"/> ac turpiter foedare non puduit.
+                    Dissimulant scilicet <persName>Clodiam</persName>
+                    <persName>Hostiam</persName>
+                    <persName>Planiam</persName>, impudicas procul omni dubio feminas, et licentia
+                    ingeniorum nominibus aliis, <persName>Lesbiam</persName>
+                    <persName>Cinthiam</persName>
+                    <persName>Deliam</persName> luculentis uersibus illustrant. Equidem nunquam adduci potui ut cum
+                        illis sentirem qui linguae intemperantiam cum uitae probitate coniungunt: siquidem impure loqui et bene honesteque uiuere longe dissentiunt. Illud
+                    nimirum uitium est, hoc autem omnem complectitur honestatem. Clamitent ut uelint
+                    et obstrepant: "Sic scripsit <persName>Pedo</persName>, sic
+                    <persName>Marsus</persName>, sic <persName>Getulicus</persName>; prurit
+                    opusculum <persName>Sulpitii</persName> nec frontem <sic>caperat</sic>; sic
+                        Fescenini, sic 
+                        <sic>crotopaegnion</sic>
+                     libri placent." Quid ad causam? <sic>habent</sic> culpae auctores qui in
+                    eadem naui sunt, non tamen uindicantur a culpa; friuola est horum defensio quae
+                    secum pugnat, a qua, quum discesserint, quid amplius dicant, plane non habent.
+                    Hoc igitur subinde inculcant: <q>lasciua est nobis pagina, uita proba</q>. hic
+                    est his clypeus, hunc obiectant, hoc se tuentur, non tamen euadunt; lasciua
+                    etenim pagina lasciuae uitae, non probitatis est argumentum. Quae
+                        <sic>probitatis</sic>, quaeso, eorum esse potest qui ueluti sanctiones et
+                    dogmata quaedam teneant <pb n="4v"/> libidinis? neque existiment sine
+                    <persName>Veneris</persName> pruritu et tentigine, quae per omnem nequitiam
+                    lumbos scalpat, et flagitioso aliquo mendacio poemata placere, eoque impudentiae
+                    progressi sunt ut deorum etiam, quibus templa et aras erexerunt et cerimoniis
+                    diuinoque cultu passim uenerati sunt, non sine offensione diuinitatis, quam
+                    illis tribuerunt, furta caedes adulteria et stupra impudentissimis carminibus
+                    uulgarint. Vtrunque profecto impium fuit: et sceleratos homines inter deos
+                    recipere et apotheosim celebrare, et receptos probrosis cumulare criminibus. Neutrum sane
+                    tolerari decuit ne humana ingenia in uitium prona deis auctoribus scelerum
+                    impunitatem sibi promitterent. Verum neque humani neque diuini iuris rationem
+                    habentes illos non modo sceleratos sed imbelles quoque et ridiculos fuisse non
+                    minus impie quam impudenter palam testati sunt; legimus namque deorum catenas et
+                    uulnera et alia quaedam futilium uatum deliramenta sapientum auribus ac lectione
+                    penitus indigna; quo fit ut tolerabilior fortasse plerisque existimetur
+                        Zoilus orator  qui <persName>Homerum</persName> perinde ac fabularum scriptorem <pb n="5r"/>
+                    castigat, unde <foreign xml:lang="grc">homeromastigos</foreign> appellatio nata
+                    est, et Plato
+                     qui poetas a ciuitate sua eliminat ac nominatim in
+                    <persName>Homerum</persName> inuectus est; illius enim exemplo et auctoritate
+                    leuiora ingenia ad confingendum concitata ineptissimis erroribus legentium
+                    mentes implicuerunt. Vtinam intra illas saltem fabulas constitissent quae ad
+                    illecebras studiorum citra omnem turpitudinem nouitate rerum et iucunditate
+                    narrationis gratae <corr resp="NJ">adhuc</corr> tenerae puerorum aetati proponuntur, in
+                    quibus saepe numero honesta ueritas latet, quae ad uirtutis rudimenta cum
+                    uoluptate alliciat, uel quae metu futurae poenae uel alicuius specie monstri
+                        <corr resp="NJ">atque</corr> formidine a uitiis deterrerent, quales olim fuere larua
+                    incubus et <persName>Gorgon</persName>, quarum nomina terroris argumenta prae se
+                    ferunt, neque flagitiosa potius et sacrilega et ipsis prorsus indigna numinibus
+                    excogitassent. Quis etenim patrem
+                    hominum <corr resp="NJ">atque</corr> deorum quem appellant et dominum rerum posita
+                        grauitate <persName>Tonantis</persName>
+                         in faciem tauri uersum mugire per aequor et precium tergi stuprum
+                        portare puellae aequo animo ferat? Quis <persName>Iouis</persName> optimi
+                        maximi uolantis <pb n="5v"/> unguibus raptum <persName>Ganymedem</persName> ad
+                        pocula et infanda coeli facinora sublimem ferri et
+                    <persName>Martem</persName> cum <persName>Venere</persName> deprehensa spectante
+                    deorum coetu iacere turpiter non abominetur? Vtinam iterum adque iterum
+                    huiusmodi flagitia ab his aut numquam excogitata aut e medio sublata fuissent;
+                    haberemus profecto sanctum et inuiolatum poetae nomen quale desideramus et
+                    quondam habuere qui castis moribus mystica cerimoniarum sacra et diuinos hymnos
+                    aut heroum et fortium uirorum gesta ad imitandum cum laude cecinerunt, nec
+                    lauream illam, quam cum imperatorum triumphis accepere communem, foeda
+                    prostitutae ueneris proluuie per meretricum concubitus et puerorum stupra
+                    maculassent. Verumtamen dum praua ingenia licentius excurrunt, paucorum lasciuia
+                    uel insania poetice apud omnes fere infamis irrisa adque explosa iacet, et hi
+                    malorum daemonum cibum carmina, illi meretriculas musas immerito appellant,
+                    quando haec hominum qui fuerint abusi culpa sit, non uitium facultatis. 
+                    An quia <persName>Arellius</persName>
+                        celebris alioqui <placeName>Romae</placeName> pictor semper alicuius amore
+                        feminae <pb n="6r"/> flagrans insigni flagitio artem corrupit, <sic>quod</sic>
+                        dilectarum imagine deas pinxit, omnis pictura fuit improbanda? Aut si
+                        Diagoras, qui a re
+                    ipsa <foreign xml:lang="grc">ἄθεος</foreign> dicitur, et 
+                        <persName>Theodorus</persName>
+                     philosophi deorum naturam sustulerunt, iccirco omnem philosophiam
+                    explodemus? Minime sane, sed insignem illius intemperantiam, horum impium
+                    errorem <corr  resp="NJ">atque</corr> ignorantiam acrius taxandam existimo; iniquum enim
+                    foret et nulla parte ferendum et hanc et illam ad uitae dignitatem et commodum
+                    repertam unius aut alterius culpa exterminare, quando nulla sit ars aut facultas
+                    in qua nemo aliquando peccarit. Par ratio est poetarum, apud quos tamen optima
+                    quaeque deligenda sunt quae studiose imitemur, si quid impudicum intercidit,
+                    respuendum est, si mala omnino occurrant, statim fugienda ne consuetudo
+                    obscoenae lectionis illecebris uoluptatis et lasciuae narrationis titillatio
+                    obrepat et in uitium incautos trahat; blanda equidem nimis est musarum uis ad
+                    utramque partem, et carminum modulatio, si aures pateant; facile enim quae uelit
+                    ingerit secum et mentem sermonis suauitate occupat et animum <pb n="6v"/> inuitum
+                    quoque quo uelit inclinat, ut merito flexanimam dixeris.
+                     Sed quoniam lasciuientibus etiam ingeniis non nulla cum laude interim
+                    scribuntur quae minime sunt negligenda, ubi inuenias, aurum (ut aiunt) e
+                    sordibus eruendum et per spinarum densitatem rosa cautius decerpenda, nec magni
+                    laboris est; neminem fallunt; eminent namque et ueluti lumina quaedam e tenebris
+                    clarius lucent et ipsa raritate commendantur. Splendescunt post <persName>Eunum</persName> liguritorem
+                     et <persName>Zoilum</persName>
+                        semiuirum
+                     paschales uersus Ausonii, 
+                    et post centonem pia uota matutinae
+                        precationis. Vtinam nobilissimum ingenium et perpetuum stilum ad haec
+                    tantum conuertisset!  Sed nescio quo prauo errore et impio non minus quam peruerso iudicio usu
+                    uenit, quae pie ac relligiose scribantur, minus dignitatis et elegantiae
+                    plerisque habere uideantur. Atqui apud Graecos <persName>Orpheus</persName> et
+                        <persName>Homerus</persName> gentilium deorum laudes eleganter scripsere.
+                     Apud Romanos Fastorum libri, qui festos dies et sacra continent,
+                    elegantissimi habiti sunt. Apud Hebreos (ut <persName>Hieronymi</persName>
+                    uerbis utar), <quote>Quid psalterio
+                            canorius?
+                         quod in morem nostri <pb n="7r"/>
+                        <persName>Flacci</persName> et Graeci <persName>Pindari</persName> nunc
+                        iambo currit, nunc alcaico personat, nunc sapphico tumet, nunc semipede
+                        ingreditur. Quid deuteronomii et
+                                <persName>Esaiae</persName> cantico pulchrius? Quid
+                                <persName>Solomone</persName> grauius? Quid perfectius
+                            <persName>Iob</persName>?
+                         quae omnia hexametris et pentametris uersibus (ut
+                        <persName>Iosephus</persName> et <persName>Origenes</persName> scribunt)
+                        apud suos conposita decurrunt.</quote> Pudeat modo christianos, quibus nec
+                    natura nec eruditio defuit, pauca habere huiusmodi quae aures uel mediocriter
+                    eruditas non offendant et a sacrario religionis nostrae musas tamdiu procul
+                    exulare. Scripsit olim
+                            <persName>Iuuencus</persName>
+                        <persName>Sedulius</persName>
+                        <persName>Arator</persName>
+                        <persName>Prudentius</persName> et <persName>Fortunatus</persName>;
+                        scripsere et alii quaedam cum laude et religionis commendatione,
+                     sed obsoleuit id genus camoenarum iampridem et in tenebris iacet; nemo
+                    fere exercet, nemo excitat; ecce florent nostra tempestate ingenia, uigent
+                    studia: quotusquisque tamen est qui ad illustrandas sacras litteras stilum
+                    accommodet et ea in re uelit exerceri, quae ad ueram frugem et immortalitatem
+                    cum gloria perducat? uix unus aut alter inuenitur qui eo studio teneatur,
+                    maluntque uel futiles aeglogas plerique scribere et pastoralibus nugis
+                    obstrepere <pb n="7v"/> uel epigrammaton scommata iaculari uel ad gratiam componi,
+                    ridere, adulari, uel aliorum amores et propriam plerumque insaniam uersibus
+                    testari, quam sacram aliquam historiam canere et ueram caelestium rerum
+                    disciplinam illustrare. Vtinam mihi
+                        ingenium foret et doctrina par desiderio, quandoquidem omne ocium, quod
+                        undique mihi daretur, in eo scribendi genere libentissime consumerem;
+                     cuius quidem rei amplissimum testimonium uideri poterit quod succisiuis
+                    et occupatis etiam temporibus, quantum permiserunt res meae domesticae et
+                    principum negocia, quibus multos annos non minus assidue et diligenter quam
+                    fideliter seruiui, minimam quamque scribendi occasionem obseruaui, id quod
+                    epistolis, quae opusculis meis praeponentur, facile declarabo. Etsi carmina ipsa
+                    nimium quoque testentur non ex ocio et uacuo animo (ut oportebat) esse
+                    composita, in quibus nihil me torquet magis quam lima, cui nullum tempus
+                    congruum inuenio. Premuntur itaque rudia apud me, quum neque elimandi et
+                    excolendi commoditas ulla sit neque inculta ausim dimittere. Excidit tamen
+                    iampridem in laudem <pb n="8r"/>
+                    <persName>uirginis Mariae</persName>
+                    <bibl>Parthenodia elego
+                            <sic>stilo</sic> aedita</bibl>:
+                     et <bibl>hecatonstichon
+                        Heroico</bibl>,
+                     attamen ad ferulam redibunt. Exibit nihilominus propediem <bibl>Poliuchus:
+                         sic carmen inscribitur quo diuum <persName>Venantium</persName>
+                        Camertem, cuius sub numine et tutela iucundissima ac gratissima patria mea
+                        est, celebraui</bibl>. Festinat ex eadem officina 
+                        <bibl>
+                            <foreign xml:lang="grc">egkomion</foreign>
+                            <persName>Diui Sebastiani</persName>
+                        </bibl>
+                    :  et 
+                        <bibl>Sicelis, quae <persName>diuam Luciam</persName> uirginem Siracusanam
+                            elegis complexa est</bibl>
+                    ,  et 
+                        <bibl>breuis quaedam conquestio de <persName>Christo</persName>
+                        crucifixo</bibl>
+                    ;  quae omnia in unum corpus coalescent et tempestiue in publicum
+                    egredientur. Nunc uero 
+                        <bibl>triumphus <persName>Christi</persName></bibl>
+                    
+                     separatim properat in lucem, partum flagitantibus amicis abortiuum dabo.
+                    Vrget etenim me hinc multorum flagitatio, hinc occupatio, quae maturare non
+                    sinit; malo tamen acerbum foetum eniti quam nullum. Explorabit igitur uadum, si
+                    fidum inueniet, ut neque fluctibus inuidiae obrui neque obtrectationum scopulis
+                    allidi contingat, ducet in medium socios libellos in quibus mirari oportet
+                    neminem siquid desideretur. Quid enim
+                        ab homine occupatissimo et qui studia litterarum iampridem posthabuerit
+                        amplius
+                    
+                    <pb n="8v"/> expectant qui omnia ad trutinam reuocant? Dedi quod potui, gratiam habeant
+                    si uelint, si minus, aequo animo feram dissimulantium ingratitudinem. Si musae
+                    meae non offendent, satis habeo: placere multis minimae curae est, displicere
+                    non gratum. Quod si errorem existimabunt et culpam non potuisse ad unguem omnia
+                    praestare, dent ueniam quaeso et ualeant. Non laudabunt, nihil inuiti conferant:
+                    nil postulo, nil extorqueo. Laudabunt alii quos pii saltem animi et religiosae
+                    mentis studium delectabit.</p> <closer>Vale.</closer> 
+</div>
+<pb n="9r"/> 
+
+<div type="epistola"><opener><persName>MACARIVS MVTIVS</persName> EQVES CAMERS LECTORI FELICITATEM.</opener>
+
+    <p>Quum legatus <placeName>Ariminum</placeName> peterem, coepi in itinere leuandi laboris gratia mecum uaria cogitare, quumque ex alia re in aliam (ut fit) uaga mente transcurrerem, eo forte incidi ut perspicerem religionem christianam uberrimam praestare materiam ad scribendum etiam poetis, sed animos magis pronos in libidinem quam ad diuinum cultum erectos a rebus sacris abhorrere. Nam (ut caetera sileam) quae carminibus posse illustrari summa cum dignitate et elegantia commodissime uidebantur. Subiit me pulcherrima cogitatio admirandi poematis, si ingenium et doctrina par materiae contigisset; concaepi etenim speciosissimum christi triumphum, in quo aditum ad inferos, malorum daemonum tumultum et fugam, sanctorum patrum laetitiam, sacra colloquia, ac reditum cum uictoria narrarem, quae spolia dux receperit, qui comites fuerint secuti, et qua superum pompa et alacritate ad 
+
+<pb n="9v"/>
+
+patrem remearit. Tollebat animum ea cogitatio ac sublimem rapiebat et dulcedine quadam nouitatis pertentabat. Coepi itaque ex tempore ingenium experiri et carmen exorsus triduum quo <placeName><sic>Ariminium</sic></placeName> perueni ex ephippiis cecini. Viderunt nonnulli qui nostra aetate non habentur indocti (quum in patriam meam unde eram profectus redirem) nouum opusculum et laudarunt. Placuit mihi quoque (ne mentiar) et tamquam nouum foetum adamaui. mox refrigerato primo calore quale esset apparuit. Altius igitur quiddam et uberius meditatus sum. Animaduerti namque non unum modo uerum etiam tres me posse aedere triumphos et tribus libris suo quemque ordine explicare. Primus sic mihi digerebatur ut spretas mortalium diuitias ambitum honores plausum regna et id genus aliasque caducae huius et inanis uitae illecebras
+        
+        propulsatas calcataque uitia omnia et absolutam de his uictoriam contineret; quae mihi ita facile uisa sunt piis inuentis posse construi et ornari ut ad uarietatem, quae plurimum splendoris habet et ornamenti, nihil deesse 
+
+<pb n="10r"/>
+
+plane uideretur. Secundus inferum iter, fracta <placeName>Erebi</placeName> claustra, attonitos daemonas, sacras conciones,
+        
+        uicti ducis catenas, opima uictoris spolia, et mirificam tertiae lucis gloriam, qua immortalis et omnipotens triumphator a morte rediit, figuris poeticis non iniucunda serie complectebatur. Tertius triumphantem <persName>Christum</persName> in coelum reducebat: hic mihi comitum catalogus, 
+        
+        superum pompa, et caelestis aulae cultus (ut humana mens capere poterat) plurimum lucis ac decoris sublimium rerum praestantia et numero pollicebatur. Haec mihi proposui (si uita superesset) et uberioris materiae fiducia et iusti operis spe hactenus opusculum pressi; uerumtamen quum aetas ingrauescat et <quote>homo bulla sit, praecipue senex</quote> (ut <persName>Varro</persName> ait) et in dies minus ocii minusque uirium et spei in reliquum uitae, ueritus ne (si diutius aeditionem differam) his paucis quos genui uersibus interire et quos concepi non nasci contingat, hortantibus amicis triumphum (ut obiter ex equo cecineram) qualemcumque emittere decreui, ut alii, quibus plus ocii ingenii ac doctrinae
+
+<pb n="10v"/>
+
+sit, admoniti eam materiam non esse a poetis alienam prouinciam summerent et foetum quem ego concepi ipsi eniterentur. Praelusi igitur his quos utinam excitare et exhortari oratione mea possem ut sacris litteris ornamenta poetarum adiungerent. Quid enim prohibet? quid retrahit? quae difficultas? (ut diuorum nomina taceam) cur uersus <persName>Christum</persName> non capit? cur non aeque sonat hoc nomen ut pleraque gentilium? equidem uidere non uideor quid dulcius in se habeat uel magis consonum 
+        
+        <persName>Anchises</persName> <persName>Priamus</persName> <persName>Aeneas</persName> uel litterarum natura uel compositione si elementorum sonum et structuram perpendimus. Quid habet dignius quaeso <persName>Tros</persName> et <persName>Erichthonius</persName>, <persName>Aegeus</persName> et <persName><sic>Cetrops</sic></persName> quam <persName>Christus</persName>? Quid <persName>Aiax</persName> uel <persName>Teucer</persName> elegantius delicatis auribus affert? 
+        
+        alii iudicent. An hoc tolerabile est quod eleganter crista uersibus inseritur. <persName>Maro</persName>. <q>Tum galeam <persName>Mesapi</persName> habilem cristisque decoram induit</q>: et alibi: <q>Armaque <persName>Lauso</persName> donat habere humeris et uertice figere cristas</q> <persName>Papinius</persName> <q>Albaque puniceas intersecat infula cristas</q> <persName>Silius</persName> <q>quatit aura comantes cassidis <sic>auricomae</sic> cristas</q>, ea similitudo 			
+
+<pb n="11r"/>
+
+nominum est, ea tum litterarum tum syllabarum cognatio ut ab eadem fere origine utrumque deduci uideatur si sonum quo mouentur sequi uelint; re tamen diuersa sunt admodum haec et longe distant. Quid quod idem <persName>Silius</persName> eodem pene nomine <persName>Christam Tudertem</persName> his uersibus celebrat <q xml:id="silius001a" next="#silius001b">flumineo Libycam turbabat in aggere pubem <persName>Christae</persName> nomen erat:</q> <q xml:id="silius001b" prev="#silius001a">bis terni iuncta ferebant arma senem circa nati.</q> et paulo inferius. <q>Tandem cum toto cecidit grege nomen in umbro clarum <persName>Christa</persName> diu populo.</q> Alterum tamen probant, alterum respuunt: cur hoc? an quia minus delectant sacra quam profana? Ego uero ita existimo ut quacumque sede locetur uersum cum dignitate impleat et terminet. excipient haec quidam cum risu certo scio et contemnent: fastidit namque religiosa animus lasciuior
+        
+        et quae ad sacra pertinent despicit, nugas probat, fabulas laudat, libidine delectatur, quam si tollas, nihil relinquitur quod fastidium leuet; facessant huiuscemodi ingenia et (ut libet) suo furore agitentur, quandoquidem sine controuersia reor fore ut omnes, qui doctrinam aliquam cum probitate et religione coniunxerint, 
+
+<pb n="11v"/>
+
+sententiam meam probent: quod si elegantissimum et sacratissimum nomen et omni honore ac reuerentia procul omni dubio dignissimum a <q xml:id="mart4-31a" next="#mart4-31b">fonte sororum</q> (ut aiunt) <q xml:id="mart4-31b" prev="#mart4-31a">auersum</q> existimant, cur non deum uocant? 
+        
+        cur non tonantem? cur non rerum opificem patrem omnipotentem et coeli terraeque regem appellant? malunt profecto peruicacia quadam mortali ac nequissimo hominum <persName>Ioui</persName> haec indere cognomenta quam ei cuius propria sunt et non alterius. Sed de nomine satis. At opera diuini opificii numero uarietate et ornatu admiratione quotidiana omnium ingenia ad scribendum inuitant et ad supremi laudem auctoris et sacra celebranda mysteria exhortantur: 
+        
+        rara tamen de his mentio est, quod poeticam facultatem excedere fortasse arbitrantur. Negare non ausim eam esse diuinarum rerum uim adque dignitatem ut nullo stilo assequi possimus, non tamen ita remotam censeo ut <persName>Camoenis</persName> inaccessibilem rear. Verum enimuero si maiora uiribus iudicantur, relinquant (si libet) quae difficiliora sunt, nec de trinitate aut <persName>Christi</persName> corpore uerba faciant, nec eiusmodi uelint scribere et ea attingere
+        
+        quae altissima eruditissimorum 
+
+<pb n="12r"/>
+
+ac sanctissimorum hominum ingenia fatigarunt. Etsi ad haec quoque gentilitas (si quis accuratius monumenta discutiat) sese erexit, ad quae poetae aditum habuere, nec dubium sit cuiquam gentiles imaginem et simulacrum coluisse trinitatis; quod ita esse facile ostendam si unum prius explicem. Maiores olim qui aliquo ingenio et doctrina praestiterunt deorum multitudinem nihil aliud existimasse quam diuersas unius et solius dei potestates. Praetereo quae Theodosius <bibl>in saturnalibus</bibl> ea de re copiose et eleganter disseruit: qui non modo deorum numerum sed dearum quoque ad unum diuinitatis numen referri oportere apertissime demonstrat. Satis mihi sit unum superi <persName>Iouis</persName> testimonium ex poetica disciplina et elegantia excerptum: ita enim in deorum concilio inducitur concionem exordiri. <q>Caelicolae magni</q>, et suprema huius sententiae maiestate subiecit: <q>quos nostra potestas imperiis diuisa facit</q>; qua plane testatus est deos omnes a se pendere et particulas esse potestatis suae unumque esse omnium numerum et solum diffusum tamen ac late patens diuersa nomina sortiri. His itaque constitutis per se patet facilius esse tres ad unum reduci quam multos: 
+
+<pb n="12v"/>
+
+tres autem gentiles praecipue coluisse nulli obscurum est: Iouem Neptunum et Plutonem <persName>Saturni</persName> et <persName>Rheae</persName> filios, quibus uulgatum est coelum maria et inferna regna paruisse et cum his omnia. <persName>Ioui</persName> fulmen trifidum: <persName>Neptuno</persName> tridentem: <persName>Plutoni</persName> tricipitem <persName>Cerberum</persName> tribuere, in quibus ternarii numeri est ratio seruata. Tres nanque fratres, tria regna, tria attributa sunt. et haec trifariam disposita: triplicem etenim cuspidem fulmini tres dentes fuscinae tria cerbero capita dederunt. Quo tendit huius numeri tam diligens obseruatio? nempe ut unus omnes et omnia idem habeantur et sint, quod ipsius diuinitatis communio: omnes namque dii habiti sunt et idem omnibus nomen probabile reddit. <persName>Iouem</persName> enim, quem coelo regnare putauerunt, supremum optumum maxumum uocauere: hinc trita apud antiquos oratores praefatio <q><persName>Iuppiter</persName> optume maxume</q>: sic enim ordiebantur. <persName>Neptunum</persName> uero secundum <persName>Iouem</persName> appellari <persName>Papinius</persName> his uerbis ostendit <q>dextramque secundi (quod superest) complexa <persName>Iouis</persName></q>: <persName>Plutonem</persName> <persName>Stygium Iouem</persName> dici satis constat. <persName>Maro</persName>: <q>sacra <persName>Ioui Stygio</persName> quae rite incoepta paraui perficere est animus</q>. <persName>Iuppiter</persName> 
+
+<pb n="13r"/>
+
+igitur coeli rex: <persName>Iuppiter</persName> maris arbiter: <persName>Iuppiter</persName> inferum rector est: omnibus ergo his locis unum regnare et unum esse <persName>Iouem</persName> non aliud prae se fert quam unum esse deum ac tres quamuis distinctos unum <corr resp="NJ">atque</corr> idem habere numen et in unam coire potestatem. Vides iam trium unitatem, de qua loquebamur, apud gentiles quoque ostendi. Non senserunt haec quispiam dicet; immo exploratissimum est non aliter doctos uiros esse arbitratos quam numerum deorum ad unum referri et unum esse: non nouerunt patrem et filium nec spiritus sancti meminerunt, fateor: sed tanta similitudo potest maiorum exemplo qui haec tetigerunt nostrae aetatis poetas ad scribendum excitare. De corpore uero <persName>Christi</persName> salutifero christianorum uiatico quae dicuntur et credimus admirationem habent supra modum: non tamen adeo aliena sunt ut nihil prorsus simile apud maiores inueniatur? cur ultra fidem iudicant quidam panem carnem fieri et uinum sanguinem? Atqui Xerxes infusum patere merum in sanguinem non semel, sed iterum et tertio conuersum uidit. Sed a poetis haec quaerimus de quibus agitur. 
+
+<pb n="13v"/>
+
+Legimus itaque apud Maronem <q>latices nigrescere sacros fusaque in obscoenum se uertere uina cruorem</q>. An hoc somniauit eminentissimi ingenii ac doctrinae uir, qui nihil unquam carminibus inseruit nisi ex altissima quadam disciplina aut historia repetitum. fuit profecto hoc magis apud nos celebrandum <sic>quam</sic> uinum non in obscoenum se uertere cruorem, sed in <persName>Christi</persName> sanguinem uera piaque religione edocemur. Panem uero transire in carnem adeo absurdum est, quum in cibo quotidiano idem fieri continue sentiamus. Legimus ad haec quindecim libros transmutationum <persName>Ouidii</persName>, meras fabulas fere omnes, rem mysticam ueram et religiosam commemorare supersedimus: quod apud alios minus celebris sit, tanquam religionis nostrae nihil sit proprium et peculiare, quum tamen apud gentiles huiusce quoque mysterii similitudo non desit: nam qui in deos reciperentur ad nectar et ambrosiam, immortalium potum et cibum, inuitabantur. Conuenit profecto cum <persName>Christi</persName> uerbis qui ita nos ad immortalitatem inuitat: <q>Qui manducat hunc panem uiuit in aeternum</q>. Proponitur itaque nobis suauissimum et saluberrimum nectar <persName>Christi</persName> sanguis et ambrosia <persName>Christi</persName> caro: quam 
+
+<pb n="14r"/>
+
+qui rite gustauerunt in aeternam uitam ad felicissimam beatorum immortalitatem transcribentur. Sed haec tanquam nimis fortasse remota missa faciant: <persName>Christum</persName> aut uerum deum et hominem apud homines natum et educatum cur relinquunt? cur non laudant? si non ea parte qua diuinitas fulsit, saltem qua hominem induit, cur uerisimilia, immo uerissima ac dictu facillima uersibus non tradunt? Non ordiantur a conceptu quoniam in eo diuinitatis opera fuit praecipua; impossibile enim putant qui leges naturae sequuntur feminam, nisi marem admiserit, gignere posse. supra hominum naturam est, fatemur. Sed quid ita mirum est deum in se ipso uoluisse aliquid excellentius operari? Atqui <persName>Martem</persName> ex <persName>Iunone</persName> sine uiri officio natum esse prisci uates meminerunt: <persName>Christum</persName> ex uirgine integra ortum nostri cecinisse durius putant, et uerbum a diuina mente summi patris in uirginis uterum descendisse scribere non audent, quum illi Palladem ex cerebro <persName>Iouis</persName> aeditam carminibus praedicent; adiiciunt largoque satos Curetas ab imbre et Venerem e sanguine et spuma ortam maris unde <persName>Aphroditem</persName> 
+
+<pb n="14v"/>
+
+uocant et sexcentum ineptias. Pudet me hic inserere quae de Orione fabulantur. Quid foedius dici potuit aut mirabilius quam infantem sine patris aut matris opera ex urina genitum, quod et nomen refert. Inuenit nihilominus ridiculum facinus auctores poetas qui hoc decantarent quamuis <persName>Hesiodus</persName> <persName>Neptuni</persName> filium ex <persName>Euryale</persName> <persName>Minois</persName> testaretur? o caecam temeritatem et insanam petulantiam; narrabunt potius quidam <persName>Iouis</persName> incunabula ac <persName>Rheae</persName> astus et <persName>Corybantum</persName> aera et occultos pueri uagitus referent, uel <persName>Bromium</persName> per fulmen aeditum immaturo partu paterno femori alligatum ad exactos menses peruenisse, et mille nugas, quam <persName>Christi</persName> natalem aut educationem, in quibus exponendis uirginis partus, praeuiae stellae aspectus, magorum ab orientis solis finibus aduentus et uisitatio, et adorantium munera quae infanti tribuerunt, fuga in <persName>Aegyptum</persName> et alia complura non sterilem aut iniucundam materiam praestarent. Quid tempus tero? potius canerent <persName>Iliae</persName> puerperium aut <persName>Auges</persName> nymphae: et stellam quam <persName>Aeneas</persName> capta <placeName>Troia</placeName> uiderat Idaea claram se condere silua. Educatum <persName>Romulum</persName> cum <persName>Remo</persName> fratre ferino lacte sub ruminali ficu <corr resp="NJ">atque</corr> lupae fuluo 
+
+<pb n="15r"/>
+
+nutricis tegmine laetum clarissima testantur monumenta, <persName>Christum</persName> uero ad reginae coeli pectus intemeratum cecinisse alienum arbitrantur plerique facilius existimantes feram <persName>Romuli</persName> nutricem quam <persName>Christi</persName> matrem posse laudari. Clara est <persName>Achillis</persName> et <persName>Ascanii</persName> pueri indoles et aliorum de quibus olim uates scripserunt: pueritiam <persName>Christi</persName> <persName>Musae</persName> nostrae despiciunt: nihil fortasse dignum laude aut memorabile id aetatis de se praestitit. absit facinus nefarium: quid dignius laude aut memorabilius dici potest quam puerum de lege cum sacerdotibus eruditissimis in templo disputasse? minus hoc fidei habebit quoniam praeceptorem habuisse non legerint: legunt tamen et celebrant in <placeName>Parnasso</placeName> nescio quem somnio repente poeticam hauxisse, <persName>Christi</persName> disciplinam quod doctoris ferulam non tulit non recipient. Laboriosum esset omnia persequi et conferre quae ad rem spectant et passim inueniuntur. <persName>Tagum</persName> <persName>Silius</persName> in cruce deplorat: pendentem <persName>Christum</persName> pro hominum salute nostri dissimulant. Scripsi ego breuem quandam conquestionem quam inter alia hierosticha mea aedam. scripserunt illa 
+
+<pb n="15v"/>
+
+gentiles, nemo ibit inficias: cur nostri similitudine rerum ducti <persName>Christi</persName> acta scribenda esse non censent? cur non ueternum excutiunt et ad haec quae diximus excitati non conuertuntur? Sparsa fortasse exempla minus mouent: descensus ad inferos nonne iugem perpetuam et fere peculiarem poetarum materiam habere uidentur? habet equidem; duxit <persName>Homerus</persName> carmine <persName>Vlyxem</persName> ad inferos, duxit <persName>Maro</persName> <persName>Aeneam</persName>, descendit <persName>Hercules</persName>, descendit <persName>Orpheus</persName>: trita est haec orbita poetarum. Quid inde fabulantur esse relatum? ab <persName>Vlyxe</persName> et <persName>Aenea</persName> nihil praeter umbrarum colloquia; uxorem <persName>Eurydicen</persName> <persName>Orpheus</persName> non uendicauit: <persName>Hercules</persName> tricipitem cerberum eduxit ad superos, si credere dignum: admittamus sane. Quid ea de re beneficii est humano generi allatum? palluit sol, territus est orbis, aconitum in nostram perniciem e spuma Stygii canis ortum ueneficiis accessit. At satius erat Tartareo barathro occulere quam ad terrorem hominum coelo ostentare. Haec priscis uatibus decantata sunt: cur poetae Christiani <persName>Christi</persName> iter ad inferos, uictoriam et spolia illa sanctissima non canunt? non belluam hic <corr resp="NJ">trifaucem</corr> eduxit 
+
+<pb n="16r"/>
+
+sed patres illos amplissimos antiquae legis ab umbris <placeName><corr resp="NJ">Erebi</corr></placeName> liberauit: haec sunt opima triumphantis ducis spolia, haec plena est uictoria sine qua nihil <persName>Adam</persName> poenitentia et sudore uultus, nil uictimis et innocentia <persName>Abel</persName>, nil obedientia <persName>Abraam</persName>, continentia <persName>Loth</persName>, <persName>Iob</persName> patientia, <persName>Dauid</persName> psalmis, et sanctitate <persName>Moses</persName> profecissent. Omnia denique opera et labores cassi irritique fuissent nisi <persName>Christus</persName> de morte triumphasset. Quid enim miracula <persName>Eliae</persName> aut <persName>Helisei</persName> aliorumque patrum admiranda facinora momenti habuissent nisi <persName>Christus</persName> uictor a longo carcere et tetro uindicasset? Quid solis obedientia <persName>Iosue</persName>? somniorum interpretatio <persName>Danieli</persName>? <persName>Machabeis</persName> fortitudo profuisset? nisi horum gesta <persName>Christus</persName> resurgendo confirmasset? Sed quo feror tandem? Quid pergo molestus esse? Quid plura ingratis auribus ingero eorum qui sanam doctrinam non sustinent? Iam carmina ipsa testentur an possit <persName>Christus</persName> uersibus celebrari.</p> <closer>Vale.</closer> 
+</div></front>
+<pb n="16v"/> 
+        <pb n="17r"/>
+<body>
+    <div type="carmen" met="hexametrum">
+    <head><persName>MACARIUS MVTIVS</persName> EQVES CAMERS DE TRIVMPHO <persName>CHRISTI</persName></head> 
+
+<l n="1">Infernos aditus et fracti claustra profundi</l>
+<l n="2">Aetheria pulsata manu spoliataque caeci</l>
+<l n="3">Antra ducis canimus; <persName>Christi</persName> pia <persName>Musa</persName> triumphum</l>
+<l n="4">Incipe: siderei dicam spectacula regni. </l>
+        <l n="5"><persName>Christus</persName> ut immensa descendit luce sub umbras</l>
+<l n="6">Horrentes mortisque domos et regna silentum</l>
+<l n="7">Inuasitque <placeName>Erebo</placeName> clausos trepidante recessus: </l>
+<l n="8">Horruit immanis perculsi ianitor <placeName>Orci</placeName></l>
+<l n="9">Impulsaeque procul disiecto cardine <persName>Ditis</persName></l>
+<l n="10">Procubuere fores: timuit pallentis <placeName>Auerni</placeName></l>
+<l n="11">Regia nigrarumque cohors turbata sororum </l>
+<l n="12">Occuluit pauidis horrentia monstra cerastis</l>
+<l n="13">Aduentante deo: tremuerunt sceptra reclusae</l>
+<l n="14">Noctis et attoniti dextra cecidere tyranni</l>
+        <l n="15">Protinus <corr resp="NJ">atque</corr> imas barathri petiere latebras</l>
+<l n="16">Confusumque chaos secretaque <placeName>Tartara</placeName> manes. </l>
+        <l n="17">Ille serenata per aperta silentia fronte</l>
+<l n="18">Ingressus pigram nubem noctemque fugabat</l>
+<l n="19">Ante oculos furui pulsa caligine mundi. </l>
+
+<pb n="17v"/> 
+
+<l n="20">Sternebant sese passimque aequata iacebant</l>
+<l n="21">Obuia: tum nouies <placeName>Stygiis</placeName> circumflua campis</l>
+<l n="22">Cessit nigra palus regi lachrymasque remisit</l>
+<l n="23">Et tristes <placeName>Cocytus</placeName> aquas cursumque negauit. </l>
+        <l n="24">Vt stetit in medio coetu castoque piorum</l>
+<l n="25">Concilio, inferna quos olim sede repostos</l>
+<l n="26">Expectata salus sperando laeta fouebat,</l>
+<l n="27">Ora diu patribus sanctis optata resoluit</l>
+<l n="28">Talibus et lentis uacuauit pectora curis. </l>
+        <q>
+<l n="29">Affulsit promissa dies: delapsus ab alto</l>
+            <l n="30">Sum deus, humana tandem sub imagine corpus <note place="margin">Concio christi</note></l>
+<l n="31">Mortalesque uices subii: nam frigora et aestus</l>
+<l n="32">(Vt sors dura dabat) coniuncto numine sensi</l>
+<l n="33">Factus homo saeuamque tulli per uulnera mortem</l>
+<l n="34">Vitae auctor; digitis etiam explorare licebit</l>
+<l n="35">Ingentem lateris plagam manibusque refixos</l>
+<l n="36">Et pedibus clausos fossis, dum corpus operto</l>
+<l n="37">Accipiam rursus tumulo primusque resurgam</l>
+<l n="38">Impatiens iterum leti: redimenda redempta</l>
+<l n="39">Morte mea uita est hominum, sic mystica solui </l>
+            <l n="40">Dicta <corr resp="NJ">pares</corr> uarias olim complexa figuras</l>
+<l n="41">Nexibus ambiguis, quae consummanda supersunt,</l>
+<l n="42">Protinus absoluam: nunc uestra ergastula sunto</l>
+<l n="43">Libera: damnatis calcata superbia cristis </l>
+
+<pb n="18r"/>
+
+<l n="44">Submissa ceruice gemat rebusque secundis</l>
+            <l n="45">Inuidia infelix aliorum sorte benigna <note place="margin">vii. uitia capitalia</note></l>
+<l n="46">Praecipue uestra doleat rabieque cruentas</l>
+<l n="47">Ita premat fauces; ignaua per ocia uitam</l>
+<l n="48">Torpor iners damnet nimiumque insana cupido </l>
+<l n="49">Congestique fames auri turpisque uoluptas</l>
+<l n="50">Infandae <sic>ueneris</sic>, uentris quoque laxa uorago </l>
+<l n="51">Aeternum caecis tenebrarum linquitur antris. </l>
+<l n="52">Vos alacres mecum supera ad conuexa triumphum</l>
+<l n="53">Ducite felices animae: super alta reducam</l>
+<l n="54">Sidera stelliferosque axes, ubi regna beatos</l>
+<l n="55">Nullo fine manent, patris dabo cernere uultus</l>
+<l n="56">Quos refero aetheria concessa in luce quiete. </l>
+            </q>
+        <l n="57">Haec inter laetas animas immensa pererrant</l>
+<l n="58">Gaudia: laetitiam radiantis gratia frontis</l>
+<l n="59">Spargebat: Stygiis diuorum gloria regnis</l>
+<l n="60">Spectatur praesente deo gaudentque tueri</l>
+        <l n="61"><corr resp="NJ">Atque</corr> silent: auidos tardat reuerentia plausus</l>
+<l n="62">Orantis; postquam diuina silentia fandi</l>
+<l n="63">Concessere uices, grato pia murmure turba</l>
+<l n="64">Coepit et innumeris audita est uocibus una. </l>
+        <q>
+            <l n="65">Venisti o superum celsa regnator ab arce <note place="margin">Responsio</note></l>
+<l n="66">In tenebras nostrumque chaos uisurus adisti</l>
+<l n="67">Squalentes sine luce domos et nigra profundi</l>
+
+<pb n="18v"/>
+
+<l n="68">Regna soli: mersis <placeName>Erebi</placeName> sub carcere tandem</l>
+<l n="69">Expectatus ades, nec spes frustratur, ouantis</l>
+<l n="70">Ora ducis spectare licet: tu uictor <placeName>Auerni</placeName> </l>
+<l n="71">Humanique salus generis. tu nostra relaxas</l>
+<l n="72">Vincula et obscura damnatas nocte latebras. </l>
+<l n="73">Te duce Taenareis fugimus loca tetra cauernis</l>
+<l n="74">Horrendasque umbras abstrusaque linquamus antra. </l>
+<l n="75">O pietas: unde hoc potuit mortale mereri</l>
+<l n="76">Aut sperare genus? regem descendere ab astris: </l>
+<l n="77">Induat ut serui formam: poenasque nocentum</l>
+<l n="78">Ipse luat uitamque reis ut sponte rependat</l>
+<l n="79">Morte sua: quid enim solio traxisset ab alto? </l>
+<l n="80">Immortalis eras: mortalia fata subire</l>
+<l n="81">Suasit amor: flexit pietas: clementia culpam</l>
+<l n="82">Diluit, ut superas tecum redeamus in oras. </l>
+<l n="83">Duc age (te sequimur, tibi fas, te gloria solum </l>
+<l n="84">Tanta manet) iustum superata morte triumphum. </l>
+            </q>
+        <l n="85">Talibus intentis croceo <persName>Tithonia</persName> peplo</l>
+<l n="86">Aurea surgebat: rosei lux tertia mundi</l>
+<l n="87">Lutea puniceis sparsit confinia flammis</l>
+<l n="88">Extemplo sublimis abit circaque frequentes</l>
+<l n="89">Obsessam tenebris sedem noctemque relinquunt</l>
+<l n="90">Insignes animae, proceres uulgusque beatum,</l>
+<l n="91">Et notas repetunt auras terrasque reuisunt. </l>
+
+<pb n="19r"/>
+        
+<l n="92">Hic postquam manifesta fides dubitantia soluit</l>
+<l n="93">Corda metu charaeque simul genitricis amorem</l>
+<l n="94">Impleuit monuitque suos mundoque resurgens</l>
+<l n="95">Certa triumphato patefecit numina leto, </l>
+<l n="96">Ad patrem superumque choros remeauit in astra. </l>
+        <l n="97">Gratior haud unquam coelo nec laetior alto</l>
+<l n="98">Vlla dies orta est; tanta nec luce sereni</l>
+<l n="99">Arrisere poli, nitido nec purior orbe</l>
+<l n="100">Flammiferos <persName>Titan</persName> radianti gurgite currus</l>
+<l n="101">Extulit et claro spectauit ab aethere terras. </l>
+        <l n="102">Quo rapit inualidas praeceps audacia uires,</l>
+<l n="103">Quo summi secreta dei spectacula cantu</l>
+<l n="104">Ordiar, et diuum coelestes ordine pompas</l>
+<l n="105">Exsequar? aut tantos capiam qua mente paratus? </l>
+<l n="106">Tu quaecumque uoles alti monumenta triumphi,</l>
+<l n="107">Qui nigris remeans duxisti uictor ab umbris,</l>
+<l n="108">Pande mihi; quantum ipse dabis, mihi dicere fas est. </l>
+        <l n="109">Scandebat niuea suspensus nube serenum </l>
+<l n="110">Aera libratis coeli per inania plantis</l>
+<l n="111"><persName>Christus</persName>, et aetherii repetens fastigia regni</l>
+<l n="112">Sidereum relegebat iter dextraque salutis</l>
+<l n="113">Signa ferens sanctas ducebat in ardua turmas</l>
+<l n="114">Expectante polo; fulgebant uertice sacro</l>
+<l n="115">Regis adorati uultus, unde omnia circum </l>
+
+<pb n="19v"/>
+
+<l n="116">Splendebant radiis; oculos quocunque ferebat</l>
+<l n="117">Spectatus grata ridebat lampade mundus. </l>
+        <l n="118">Pone sequebantur comites examine longo <note place="margin">Catalog.</note></l>
+        <l n="119">Sublimes animae: primo commissa parenti <note place="margin">Adam</note></l>
+<l n="120">Prima phalanx priscumque genus, cui clara propago</l>
+        <l n="121">Haerebat, pastor primus qui munera grato <note place="margin">Abel</note> </l>
+<l n="122">Sacra deo, primos laetis a matribus agnos</l>
+<l n="123">Obtulit, et primus crudelia uulnera sensit</l>
+<l n="124">Germanique manus uiolentaque funera caedis,</l>
+        <l n="125">Inuidia suadente nefas. prope frater, ademit <note place="margin">Seth</note></l>
+<l n="126">Qui luctum mortisque tulit solatia moesto</l>
+        <l n="127">Patre satus prolesque aeuo documenta sequenti, <note place="margin">Filii seth</note></l>
+<l n="128">Quae scripsit geminis coelum scrutata columnis. </l>
+<l n="129">Et gens prisca simul, septem quae in saecula uixit, </l>
+<l n="130">Casta dei soboles superis intenta, nec ullas</l>
+<l n="131">Illa hominum cupiit natas auramue secuta est.</l>
+<l n="132">Hinc qui diluuio terris undante capaci</l>
+        <l n="133">Puppe nouos circum fluctus despexit et aequor <note place="margin">Noe</note></l>
+<l n="134">Insolitum, uiduo seruans animalia mundo. </l>
+        <l n="135">Et pater et structa sedit qui filius ara <note place="margin">Abraam</note></l>
+        <l n="136">Mactandus gladium spectans dextraque parentis, <note place="margin">Isaac</note></l>
+<l n="137">Iussa parat dum sacra senex patriamque nefando</l>
+        <l n="138">Crimine damnatam diuinaque sulfura et ignes <note place="margin">Loth</note></l>
+<l n="139">Ardentesque uidere domos pollutaque tecta</l>
+
+<pb n="20r"/>
+
+<l n="140">Qui spreuit, retro flexit quae lumina coniunx</l>
+<l n="141">In statuam mutata salis: tum uictus amore</l>
+        <l n="142">Inuicto iuuenis bis septem qui tulit annos <note place="margin">Iacob</note></l>
+<l n="143">Seruitium, primas flammas pactosque hymenaeos</l>
+        <l n="144">Suspirans; iuxta natus cui laeta iacenti <note place="margin">Ioseph</note></l>
+<l n="145">Visa iubar placido summittere sidera somno </l>
+<l n="146">Fraternosque suo stratos sub mergite culmos</l>
+<l n="147">Vidit adorantes, magni presagia fati. </l>
+<l n="148">Et fratrum foecunda cohors numerosaque pubes </l>
+<l n="149">Et clarus patrui sanguis cui fusa per orbem</l>
+        <l n="150">Immensum latis resonat patientia terris. <note place="margin">Iob</note></l>
+<l n="151">Lecta manus patrum, quos inter maximus alti</l>
+<l n="152">Praecipuo splendore micans dux agminis ibat,</l>
+        <l n="153">Accepit rutilo fumantis uertice montis <note place="margin">Moses</note></l>
+<l n="154">Aeterni qui iussa dei magnusque sacerdos</l>
+        <l n="155">Inscriptas humero gemmas tunicamque iacyntho <note place="margin">Aaron</note></l>
+<l n="156">Intextam roseo quam circum mala rubebant</l>
+<l n="157">Punica, qui primus radiantibus induit oris,</l>
+<l n="158">Conspicuo fulgens ostro byssoque decorus</l>
+<l n="159">Dum litat et flauo limbus circumsonat auro. </l>
+        <l n="160">Monstratique haeres sacri cultusque paterni <note place="margin">Heleazar.</note></l>
+        <l n="161">Et uolucres <persName>Phoebi</persName> potuit qui sistere currus <note place="margin">Iosue</note></l>
+<l n="162">Produxitque diem uictor; quique ora gigantis</l>
+        <l n="163">Accinctus funda fregit cytharaque canoros <note place="margin">Dauid</note></l>
+
+<pb n="20v"/>
+
+<l n="164">Arguta cecinit modulato carmine psalmos. </l>
+<l n="165">Et qui diuisas sicco pede transiit undas</l>
+        <l n="166">Fluminis, hospitio gratus dum praemia natum <note place="margin">Heliseus</note></l>
+<l n="167">Dat sterili et functum uita dum suscitat orbae. </l>
+<l n="168">Quemque utero exceptum cetus uectare per undas</l>
+        <l n="169">Aequoreas ualuit tutumque exponere terris. <note place="margin">Ionas</note></l>
+        <l n="170"><corr resp="NJ">Atque</corr> oculis captus tenebris quem sparsit hirundo </l>
+        <l n="171">Nec prius aspexit lustrari lampade coelum <note place="margin">Tobias</note></l>
+<l n="172">Oblita quam natus seruato lumina piscis</l>
+<l n="173">Felle ducis monitu abstersit; tum flebile threnos</l>
+        <l n="174">Qui scripsit querulos numeris quique ora leonum <note place="margin"><abbr>Hierem.</abbr></note></l>
+        <l n="175">Saeua lacu medio securus mulsit et ungues, <note place="margin">Daniel</note></l>
+        <l n="176">Et qui mulcenti portauit prandia raptus <note place="margin">Abacuc</note></l>
+<l n="177">Vertice per uacuum, simul et fornace profunda</l>
+        <l n="178">Impia qui tumidi risere incendia regis <note place="margin">Tres <abbr>pu.</abbr></note></l>
+        <l n="179">Quique memor leges Chaldeis ignibus ustas <note place="margin">Esdras</note></l>
+<l n="180">Reddidit, et septem, fortissima pectora, fratres,</l>
+        <l n="181">Qui lingua et manibus scelerato uulnere caesis <note place="margin">Macabei</note></l>
+<l n="182">Subiectas passi flammas sartagine clausi. </l>
+<l n="183">Mille aliis clari gestis aciesque subibant</l>
+<l n="184">Quaeque suum comitata ducem; mille agmina passim</l>
+<l n="185">Cernere erat uariosque globos, quos saltus honore</l>
+<l n="186">Praestabat, regum natam qui sanguine prisco </l>
+        <l n="187">Reginam coelo genuit matremque <persName>Tonanti</persName>: <note place="margin">Pater uirginis</note></l>
+
+<pb n="21r"/>
+
+        <l n="188">Et modo <placeName>Iordanis</placeName> dominum qui laureat undis <note place="margin">Ioannes baptista</note></l>
+        <l n="189">Quique crucem merito passus dextraque pependit; <note place="margin">Latro</note></l>
+<l n="190">Tantum extrema fides summique modestia uoti</l>
+<l n="191">Praestitit; assertis surgebat in aethera diuis </l>
+<l n="192">Ordine quisque suo, quos ingens turba uolucrum</l>
+        <l n="193">Infantum, dulces animae, nunc ore decoro <note place="margin">Innocentes</note></l>
+        <l n="194">Et risu ambibant, <corr resp="NJ">nunc</corr> oblectamine uocum</l>
+<l n="195">Certantes blandis implebant cantibus aures. </l>
+<l n="196">Hi sunt quos <persName>Veneris</persName> non attigit ulla uoluptas: </l>
+<l n="197">Nec macula infecit teneros; nam uulnere acerbo </l>
+<l n="198">Insontes primo liquerunt limine uitam. </l>
+<l n="199">Tunc hilaris coelum scandens manus astra subibat, </l>
+<l n="200">Candida supremi decus et pars magna triumphi.</l>
+<l n="201">Nec pia femineo cessabat gloria sexu: </l>
+        <l n="202">Prima parens alias acies ac signa regebat <note place="margin">Eua</note></l>
+        <l n="203"><corr resp="NJ">Atque</corr> alios amissa choros in regna uocabat</l>
+<l n="204">Morte recepta ducis, matrum spectabilis ordo;</l>
+<l n="205">Hanc natae castaeque nurus neptesque secutae. </l>
+<l n="206">Quaeque diu sterilis foecundam sponte mariti </l>
+        <l n="207">Conubio famulam iunxit sobolemque benigno <note place="margin">Sara</note></l>
+<l n="208">Illius amplexu fouit, sua gaudia partus</l>
+<l n="209">Attulit et nato arrisit despecta senectus.</l>
+<l n="210">Et quae sopiti lectum subiere parentis</l>
+        <l n="211">Et fratres peperere sibi ne stirpe carerent. <note place="margin">Filiae Loth</note></l>
+
+<pb n="21v"/>
+
+<l n="212">Hic amor in <persName>Venerem</persName> duxit, non foeda uoluptas,</l>
+<l n="213">Humanum reparare genus solumque putantes</l>
+<l n="214">Orbe patrem toto mundi superesse fauillis. </l>
+        <l n="215">Tum mater gemini sensit quae proelia foetus <note place="margin">Rebeca</note></l>
+<l n="216">Dum properat nascique prior dum pugnat uterque </l>
+<l n="217">Hic manibus retrahitque pedes, hic calce repellit. </l>
+        <l n="218">Et quae coniugium furtim thalamosque sororis <note place="margin">Lia</note></l>
+<l n="219">Preripuit septemque alios deduxit in annos. </l>
+<l n="220">Vtraque chara deo, communis ferre mariti</l>
+        <l n="221">Alternas contenta uices tantum aemula partus. <note place="margin">Rachel</note></l>
+        <l n="222">Queque sub umbroso respondit tegmine palmae <note place="margin">Delbora</note></l>
+<l n="223">Et <placeName>Solymos</placeName> octo rexit iustissima lustris</l>
+<l n="224">Consilio et longam peperit post bella quietem.</l>
+        <l n="225">Et quae iudicium saluo intemerata pudore <note place="margin">Susanna</note></l>
+<l n="226">Pertulit et falso conuicit crimine testes. </l>
+        <l n="227">Assyriis et quae uoluit se credere castris <note place="margin">Iudith</note></l>
+<l n="228">Aeternum meditata decus caesique cruore</l>
+<l n="229">Aspersit uiduas animoso uulnere palmas</l>
+<l n="230">Hostis, et obsessae uictrix caput intulit urbi. </l>
+        <l n="231">Huic regina comes patruum formosa gementem <note place="margin">Hester</note></l>
+<l n="232">Et populum tutata suum; sine nomine circum</l>
+<l n="233">Turba frequens laeta diuas complexa corona.</l>
+<l n="234">At geminae claras inter duo lumina matres</l>
+<l n="235">Tendebant gressus liquida regione uolucres</l>
+
+<pb n="22r"/>
+
+        <l n="236">Altera quae dominam coeli terraeque potentem <note place="margin">Anna</note></l>
+        <l n="237">Aediderat: felix sero tamen altera foetu <note place="margin"><abbr>mr. uirg.</abbr> Elisabeth</note></l>
+<l n="238">Qui regis praecursor iter monstrauit: et illo</l>
+<l n="239">Femineo maior partu non attigit auras.</l>
+<l n="240">Innumeraeque aliae castis quae milibus ibant</l>
+<l n="241">Admixtae et uario concordes ore canebant, </l>
+        <l n="242">Quis turbam uariosque duces populique beati</l>
+<l n="243">Signa canat <sic>densaque</sic> acies, quisue inclita dicet</l>
+<l n="244">Nomina siderei scandentis summa triumphi? </l>
+<l n="245">Scindebant puras auras puroque uolabant</l>
+<l n="246">Orbe uiri matresque simul castaeque puellae</l>
+<l n="247">Annosique senes puerique et laeta iuuentus,</l>
+        <l n="248">Precipue uates experti uera fidemque</l>
+        <l n="249">Dictorum pulchro subeuntes agmine pompae <note place="margin">Prophetae</note></l>
+<l n="250">Sacra manus dilecta deo quae numine uero </l>
+<l n="251">Afflata et sancti stimulis agitata caloris</l>
+<l n="252">Euentus rerum coelique arcana reclusit. </l>
+<l n="253">Vna omnes dulci mulcentes sidera cantu</l>
+<l n="254">Aetherias arces promissaque regna petebant.</l>
+        <l n="255">Interea laeto diuorum ianua coelo</l>
+<l n="256">Ardua laxabat supremi tecta parentis</l>
+<l n="257">Coelicolumque domos placidas clarosque penates.</l>
+<l n="258">Aurea perpetuis superum laquearia flammis</l>
+<l n="259">Ardebant sacrique tholi sedesque <persName>Tonantis</persName></l>
+
+<pb n="22v"/>
+
+<l n="260">Stellataeque fores accensa per atria lucem</l>
+<l n="261">Spargebant nitidis ignem miscentibus astris. </l>
+        <l n="262">Regia sublimi pompa luxuque beato</l>
+<l n="263">Obuia prodibat caelique exercitus omnis </l>
+<l n="264">Summa potestates ducebant agmina et altae</l>
+<l n="265">Virtutes celsique throni; tum classica sancto</l>
+<l n="266">Ore procul clangore pio pia signa canebant</l>
+<l n="267">Victoris uexilla dei lectasque cohortes</l>
+<l n="268">In superum coetus longo testantia cantu. </l>
+        <l n="269">At circum propiore sono recinente citatis</l>
+<l n="270">Ad citharam leuibus digitis plectroque uolanti</l>
+<l n="271">Innumera certante lyra discrimina mille, </l>
+<l n="272">Mille fides ictis uario modulamine chordis</l>
+<l n="273">Et totidem surgens ad sacras barbitus odas</l>
+<l n="274">Aedebat duplicesque manus agitantia naula</l>
+<l n="275">Cymbalaque et pulsis resonabat <sic>bracthea</sic> palmis</l>
+<l n="276">Tinnitus tremula crispans ad carmina dextra. </l>
+<l n="277">Nec minus obliquas iungebat consona uoces</l>
+<l n="278">Plurima compactis respondens tibia cannis</l>
+<l n="279">Et sistra et grato crepitantia tympana bombo</l>
+<l n="280">Sambucae et molles numeri quos temperat unda</l>
+<l n="281">Hydraulis, caeleste melos referente monaulo; </l>
+<l n="282">Diuinos iunxere modos rhythmosque sonantes</l>
+<l n="283">Acta dei; tales modulans symphonia cantus</l>
+
+<pb n="23r"/>
+
+<l n="284">Laeta triumphantes reuocabat in ethera diuos. </l>
+        <l n="285">Vt ualuas tetigere poli, exultantia claustra</l>
+<l n="286">Intrantem sensere ducem: micuere benignis</l>
+<l n="287">Ignibus et dulci tonitrus crepuere sereno. </l>
+<l n="288">Accepit lux alma pios fouitque beati</l>
+<l n="289">Aura loci; incedunt pariter speciemque tuentur</l>
+<l n="290">Aeterni summique boni: domus alta nitebat</l>
+<l n="291">Diuino fulgore, acies dum templa subirent</l>
+<l n="292">Celsa poli mediasque uias super altra tenerent. </l>
+        <l n="293">Ventum erat ad coeli solium mundique tribunal</l>
+<l n="294">Quo summa aeterni fulgebant ora parentis. </l>
+<l n="295">Tum uero auditae uoces et carmina sacris</l>
+<l n="296">Dicta choris; laudes et fortia gesta triumphi</l>
+<l n="297">Tollebat gauisa manus gratesque canebat</l>
+<l n="298">Ante pedes affusa ducis uultuque sereno</l>
+<l n="299">Intentos oculos mentesque aeterna uoluptas</l>
+<l n="300">Pascebat, geminata pio tum gaudia plausu</l>
+<l n="301">Laetitiaque suis explebant pectora uotis. </l>
+        <l n="302">Ipse triumphator magno cum patre sedebat</l>
+<l n="303">Sublimis, dextram sedem sceptrumque tenebat</l>
+<l n="304">Maiestate pari, unde aequa dicione gubernat</l>
+<l n="305">Omnia: sola eademque tribus sociata potestas. </l>
+<l n="306">Quae facies quaeue ora dei, quis cultus <placeName>Olympo</placeName></l>
+<l n="307">Quoue pater natum uultu amplexuque recepit</l>
+
+<pb n="23v"/>
+
+<l n="308">Dicere mortali uetitum, nec scire uolenti</l>
+<l n="309">Plura datur superantque meas caelestia uires. </l>
+<l n="310">Sed cum summa dies aderit, cum nostra redibunt</l>
+<l n="311">Corpora post obitus, ubi flamma uindice mundus</l>
+<l n="312">Arserit, aetherios uultus habitusque licebit</l>
+<l n="313">Cernere quum densa iudex in ualle sedebit</l>
+<l n="314">Aeternus iusta decernens ultima lance.</l>
+<l n="315">O utinam dextra liceat sedisse <persName>Tonantis</persName></l>
+<l n="316">Electos inter cuneos aedesque beatas</l>
+<l n="317">Scandere et extremo saltem remeare triumpho.</l>
+<closer>FINIS</closer>
+    </div></body> 
+
+<back>
+
+    <docImprint>Impressit Venetiis <corr resp="NJ">presbyter</corr> <persName>Franciscus Lucensis</persName> Cantor ecclesiae. <abbr>S.</abbr> Marci. Et <persName>Antonius Francisci Venetus</persName> litterarum artifex Regnante Serenissimo Principe: et. <abbr>D. D.</abbr> <persName>Augustino Barbadico</persName> dei gratia Inclito duce Venetiarum. <date when="1499-03-29">Anno salutis domini M.cccc.xcix. die xxix. mensis martii</date> feliciter.</docImprint> 
+
+<pb n="24r"/>
+
+<div type="epistola"><opener><persName>MACARIUS. M.</persName> EQUES CAMERS LECTORI FELICITATEM.</opener>
+
+<p>Perlegisti facile (ni fallor) libellum meum, in quo, si elegantia et uarietas quam desiderasti lectionis fastidium non sustulit, leuauit breuitas. aequum te praebeas oro si epistolis meis scriptorum quorundam lasciuiam negligentiam leuitatem non probo; non crimen est, sed desiderium: utilem enim et honestam operam quam praestare poterant expetiui. Absit praua interpretatio ut in nomen cuiusquam inuectum existimes, eorum praesertim qui uiuunt. Porro si errata inueneris, non inuenies pertinacem. admoneas quaeso, non aegre feram discere et emendare et imprimis christianae cedere ueritati.</p> <closer>Vale.</closer></div></back> 
+
+            </text>
+</TEI>

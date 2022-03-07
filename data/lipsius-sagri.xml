@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+           <title>Justi Lipsii ad F. M. Sagri epistula (1603), editio electronica</title>
+            <author><name>Justus Lipsius</name>,
+	     <date>1547 – 1606</date></author>
+           <editor>Stjepan Krasić</editor>
+<respStmt>
+  <resp>Electronice edidit</resp>
+<name>Neven Jovanović</name>
+</respStmt>
+
+         </titleStmt>
+        <extent>
+          138 verborum
+        </extent>
+         <publicationStmt>
+	   <p>Elektronska verzija: Neolatina Croatica, znanstveni
+	   projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+	   Hrvatska.  <date>Ožujak 2012.</date></p>
+	 </publicationStmt>
+	 
+         <sourceDesc>
+           <bibl>
+             Cerva, Seraphinus Maria ; Krasić, Stjepan: Bibliotheca Ragusina in qua Ragusini scriptores eorumque gesta et scripta recensentur. Zagrabiae : JAZU, 1975--77 (Hrvatski latinisti, knj. 8). Sv. 2, s. 77.
+           </bibl>
+           <bibl>
+           Justus Lipsius, Opera omnia, Vol. 3, Moretus, 1593; Cent. V, ep. 32, s. 33.
+           <relatedItem><ref target="http://books.google.hr/books?id=YVdAAAAAcAAJ&amp;pg=RA6-PA33">GBS</ref></relatedItem>
+           </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+     <revisionDesc>
+       <change><name>Neven Jovanović</name>
+       Početna verzija.
+       </change>
+     </revisionDesc>
+   </teiHeader>
+<text>
+<body>
+  <milestone unit="page" n="2-77"/>
+  <gap reason="non-necesse"/>
+      <div type="prorsa">
+      <opener>Francisco Mariae Sagri Illyrio salutem dicit.</opener>
+
+<p>
+Tu vero non humanitatem meam require, sed fidem alienam, aut fortunam accusa, per quam factum ut litteras ego tuas, praeter has unas, viderim nullas. An silentio dissimulassem? Non est meum, utique erga tales, non solum eruditione commendabiles, sed loco et habitatione insignes. Si enim recte verba capio, Ragusia te habet civem aut incolam, nobilis Respublica, et quae Barbariam a nobis dividit; legibus et moribus polita. Itaque de neglectu tui suspicari omitte; nam vos tales amare ego didici, sed et officijs paria facere, quo fine valetudo quidem permittit. Quae saepe, immo plurimum, afflicta, manum conanti inijcit, et intercedit iis, quae honeste aut comiter velim. At in animum ius tamen non vindicat: qui est, vir doctissime, pariter in te pronus, et iam nunc affectu et amore fideliter se iungit.</p>
+<closer>Lovanij, V. Idus Iulias MDCIII.</closer>
+<gap reason="non-necesse"/>
+</div>
+</body>
+</text>
+</TEI>

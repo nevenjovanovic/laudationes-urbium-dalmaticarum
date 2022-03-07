@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Ioannis Conversini scripta de Ragusio (1384--1400), versio electronica</title>
+    <author>
+        <name>Giovanni Conversini da Ravenna</name>, <date from="1343" notAfter="1408">1343 – 1408</date></author>
+        <respStmt>
+        <resp>Editionem electronicam curavit</resp>
+        <name>Neven Jovanović</name>
+        
+    </respStmt>
+    
+</titleStmt>
+<editionStmt>
+<edition>
+<date when="2010-01">mense Januario 2010</date>
+</edition>
+</editionStmt>
+    <publicationStmt>
+        <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+            Hrvatska.  <date when="2010-01">siječnja 2010</date></p>
+    </publicationStmt>
+<sourceDesc>
+    <p>Excerpta e Historia Ragusii et litteris: <bibl>Rački, Franjo: Prilozi za poviest humanisma i renaissance u Dubrovniku, Dalmaciji i Hrvatskoj. I. Ivan Ravenjanin, učenik Petrarcin, dubrovački kancelar (1384–87), kano predteča humanisma u Dubrovniku. In: Rad JAZU , Vol. 74 (1885) , S. 135–191</bibl>.
+        
+        Excerpta e Rationario vite: <bibl>Giovanni Conversini da Ravenna, Rationarium vite (ed. Vittore Nason), Firenze: L. S. Olschki (1986).</bibl>
+        
+    </p>
+    
+</sourceDesc>
+</fileDesc>
+    <profileDesc>
+        <creation>
+            <placeName>Dubrovnik.</placeName> <date from="1384" to="1387">1384-87</date>.
+            <placeName>Padova</placeName> <date to="1400">1400</date>.
+        </creation>
+    </profileDesc>
+<revisionDesc>
+<change>
+<name>Neven Jovanović</name>
+<date>2010-01-20</date>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+    <group>
+        <text>
+            <front>
+                <docTitle><titlePart>
+                    Historia Ragusii et litterae Iohannis Conversini (excerpta)
+                </titlePart></docTitle>
+            </front>
+            <body>
+                <div><head>Historia Ragusii</head>
+                
+               <milestone unit="page" n="164"/> 
+                    <gap reason="irrelevant" resp="FR"/>
+                    <p>Cum munus haud litteris ineptum, aptum potius et homini libero conueniens sortitum iri putarem, in sordidum indignumque incidi, adeo seruile, inordinatum, inquietumue atque importunum, ut nichil supra omnia huiusce portionis incommoda temeritatis et amplioris ocii seu ingenii foret attingere</p>
+                    <gap reason="irrelevant" resp="FR"/>
+                <p>
+                    Extimacionis satis ac nominis cancellarii titulus habet; rem si uero ipsam metiare, autoritatis parum, plurimum seruitutis <gap reason="irrelevant" resp="FR"/> Primum haud uni cure mancipatur, uerum quot sunt <corr>hominum (homines Kniewald)</corr> urgente auaricia seu uoluptate cogitationes uane; nec uni sed omni obtemperandum est plebi. Non litteris, non professione, non titulo muneris prehabita maiestate, leui quisque ac flocco impetu <unclear>quantinus</unclear> condicione sordescat, cancellarium ciet, nulla temporis, nulla loci, actionis nulla ordinisue adhibita consideracione <gap reason="irrelevant" resp="FR"/> Si in foro nundinetur, amicum si consulat, si indulgeat sodalibus, si sibi ipsi, minime paratur et insequatur actutum, inexplebiles questus, murmura, argucie, improbacio atque exprobacio, deinde contumelie ac mine <gap reason="irrelevant" resp="FR"/> Quo autem huius <corr>ope (operis Kniewald)</corr> moles quanta sit, pateat, maleficia, testium depositiones, criminaciones, prede, lamenta, citaciones, credita, testamentorum distribuciones, tutele, inuentaria, sacramenta, publicanorum soluciones, creatorum nomina, criminum causarumque sentencie, locaciones, empciones, uendiciones, pacta conuentaque, presentaciones, sequestra, inhibiciones, precepta, edicta, decreta, ciuilitates, proclamaciones, multaque, que pretereo, officine huius solicitudo sunt. Edicta publica insuper ac uendicionum tituli cum precone triuiatim decantandi, quo quid uiro litteras profitenti excogitari fedius potest? Viduarum quoque ac ceterorum, quibus nefas est tribunal adire, quo rerum pro meritis accipiatur assensus, domus obeunde; quod autem reorum supplicia cruciatusque presenciam huius exigant, taceo. Ad ciuilia <sic>nemo</sic> iudicibus ad causas, uti mos peruetustus dictabat, in triuio sedentibus, cancelarium in subselliis ordo collocat. In fronte igitur astantium atque pertranseuntium populorum citaciones, edita quidem et sapiente indigna uoce singulatim, prout quemque sortio conciniuit, explicande; tum instrumenta, testificata documentaque ab reo atque actore producta materno cuncta clamore reuelanda. Audienda item clamorosi iurgia fori, ut ait 
+                    <milestone unit="page" n="165"/>
+                    Seneca, linguasque uenales, ut Lucanus,  quorum peticiones, oppositiones,   improbaciones,   inficie aggeratim ab actore et reo utrimque delatrate, corde sigillande ac sigillate cum sententia, ita mos exigit, uolumini   contexende.   Cum semper   sit   infidelis   memoria  depositi, quod incomposite ac turbulente   credideris <gap reason="irrelevant" resp="FR"/>   quo tanta   tamque dissipatim atque inconpaginate tradita, una exquisite instruere,  congestare   queat,   nulla   est  opus secordia,   arrectis   potius  exertisque auriculis,   ne quid   effluat e prolatis.   Nec ab huiusmodi opera festi pacem dies habent, sed quo maximi sunt,   hoc indulgentius instandum; quippe confluentibus ut qui circumferientur agrestibus urbanis cuncta rixisque fremoribus completa sunt.   Quid de iugi assistentia cancellarii   cum   regente?   Hic ei reipublice   lege   debetur,   ut   qui presit,   ni   nature   necessitas   extorqueat,   a   mane   in   vesperum  in porticu   ad   ora   deambulantium   perseueret,  mos,   quod   iudicium magis   est   peruium   passis   iniuriam,   certe   non improbandus.   Hic igitur ad subsellia sedendum ut in spectaculo, cuius frequentatione loci,   Seneca teste,   moribus bonis   damnosius   nichil  est.   Ita enim hereat  oportet   huius   obsequio,   ut   sedente  magistratu   sedendum, deambulante deambulandum sit. Vix enim, inquam, suapte appetitu refectionem diariam sumi contingat, sicque illorum gregem <unclear>totalem(?)</unclear> cedentem <sic>auxonia</sic> non euasi, qui ad alienum somnum dormiunt, ad alienam famem comedunt,   ad alienum gressum ambulant,   quorum sorte miserius,   ut ait Seneca,   et infortunacius   nichil est.   At uero dictata, quod sue maxime uidetur esse professionis, non pro ingenii facundia seu fecunditate   artisue preceptione,   sed pro aliene potius ruditatis aut inscitie conceptu, nec unius quidem, cuius in sententiam haud foret perdifficile cedere uel eam ipsam ab erroris caligine detergere, sed plurimorum fabricanda sunt.   Sub tot itaque uariorum doctrina  ingeniorum   ad   ipsam dicendi   rationem tam cecutientium quam temere et casu per quod impetu uerba formantium, cum alius crassam, attenuatam ille, hic scrupulosam exoptet orationem, quante sit   molis  dictatorem  esse   censeat,   qui bene  dicendi  non  ambigit rationem.   Admirabere, vel magis rideas,   ubi noris, disceptationem ex oratiuncule  differentia subortam,   in   qua  nulla  vel   delira  anicula   ponendum   cauillam   putet <gap reason="irrelevant" resp="FR"/>   Audine, in   obeundis   quoque consiliis,   quam   multa  vite   iactura et labor inest.   Primum recensendi proceres, an quinquagenarium expleant; deinde loco edictore, voce quidem preconia,   quo   multa plectantur   absentes,   singillatim nominandi.   Circumferende item distributim, quibus sortiendum est, pile;   declarandeque,   materno   sed   eloquio,   littere  destinate <milestone unit="page" n="166"/>  annalibus, inscribenda decreta, suspensis item mutisque labiis audiende disceptationes, conciones animose, opiniose, contenciose, clamores, ne dicam furores, consulta quoque et ab ratione semotissima et ipsam plerumqne rempublicam maximas in calamitates precipitantia <gap reason="irrelevant" resp="FR"/> Contemplare igitur, quante sit molis, si bene, si docte, si composite, etiam si nequiter, si dolose, si fatue, si dissolute peroretur, haurire auribus omnia <gap reason="irrelevant" resp="FR"/> Ex quibus omnibus potes ipse colligere, quid hos me in questus impulerit
+                </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                <p>
+                    Aduerte quam iniqua et aduersa fortuna mea, qui mitem dominum et principem, et diligentem, quodque prestantius est, et prudentem, quo michi uacarem, declinaui, proque uno uiro multis obtemperandum; menstruo <sic>(quippe)</sic> presidatu reguntur, sicque quot mensibus alternandi sunt, si vanus, si furens, si fatuus, tolerandus est
+                </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <p>
+                        Ita litterarum  penitus  ignota   uis   est,   ut ipsi   quoque   sacerdotes nisi materna  dictione  lectitare   nichil   norint;   diuinorum officiorum codices usu ipso ac male quidem legunt,   soloecismis   barbarismisque lectionem claudicare facientes,   ut non deuotionem audienti sed tedium pariant. Sexagenarius ferme abbas in festo episcopi et martiris Blasii, qui quidem dies his festiuus populis et persolennis est,  pontificio   ornatu missam   egit   (conditio namque abbatie annuatim solennibus catedrali ecclesie missam debet); ita, me hercule, interrupte missam ac laboriose proferebat, ac si litterarum nouitius puer nunc primum   elementa   redderet;   tandem,   sicut potuit finita,   populum uix  sciuit  crucis   benedictione dimittere.   Tunc surridens ueteranis
+                        
+                        <milestone unit="page" n="167"/>
+                        quibusdam ciuitatis primoribus, usque ne, inquam, alias homo iste, an nunc primum celebrauit? immo quotannis istic, aiunt, celebrat; sed hebes adeo rudisque, ut dediscere quotidie uideatur
+                    </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <milestone unit="page" n="168"/>
+                    <p>
+                        Istic et litterarum usus nullus et ingenia non elimata studiis, non eruditionibus directa, sed qualia quisque secum nascens traxit
+                    </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <milestone unit="page" n="170"/>
+                    <p>
+                        Nulla hic ingenii subtilioris officina; quidquid reperias affabre factum, latine manus fecere terre misere
+                    </p>
+                    <p>
+                        Urbis arehitectura egregia satis, nec qualem in barbaris putes
+                    </p>
+                    <p>
+                        In quas (sc. domus) igitur adii, ordo tantus, distinctionis compositionisque tanta pulcritudo, quanta maior in Latii medio nulla esse posset
+                    </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <p>
+                        Vita quanto inferior, tanto immundior, brutorumque simillima. Perpaucis demptis stramentis cuncti lineis solo passim cubant, pallearum usum uel ignorant uel non habent, pro quibus <unclear>succides(?)</unclear> a pecoribus decisas sub filtris aut tapetibus sternunt, desuper dormitant ac vestiti quidem, linteorum usus ignotus. Haud mollior uictus.   Arietum,   quorum abunde copia,  unus et quotidianus
+                        <milestone unit="page" n="171"/>
+                        usus. <corr>Sat</corr> piscium ferax locus est. Conficiendi panis ars nulla. Proinde horum teterrimus odor, hispidus cultus; habenda persona est, forma ipsa tantum a pecoribus distant; preteriti nichil, futuri parum curantes. Ventri uiuunt, tegi et pasci summum est. Corporis cultus hand ceteris discolor moribus, namque <sic>rudi(s)</sic> et scabra uestis lana, nec varium, ut Maro ait, mentita colorem <gap reason="irrelevant" resp="FR"/> Neque hominum infimorum, sed eorum quoque, qui mediocri sorte, qui suprema <unclear>fluunt(?)</unclear>, barbe comarumque nutriendarum mos est <gap reason="irrelevant" resp="FR"/> At vero natio ista, ut inferior ingenii prestantia, sic morum constantia superior
+                    </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <milestone unit="page" n="171"/>
+                    <p>
+                        Omnium cura, vigilantia, studium, solertia, ut habeat, intendit; egere nefas, abundare prima laus
+                    </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <p>nobilem esse atque locupletem, hic loci <gap reason="irrelevant" resp="FR"/> modice differt</p>
+                </div>
+                <div><head>Litterarum excerpta</head>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <milestone unit="page" n="166a"/>
+                    <p>Qua uersus inspexeris arentia sata et procellosum mare patet; non dulcis aque muscosis sempiterne lapillis scaturigines, non distincta floribus prata, nec quibus insideat ueterem defletura querellam philomena rami frondentes</p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <p>Tu preclaram feracemque urbem ex Latus, ego litoris Epidaurii rupes colo</p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <p>ab extremo   Latii (na ime Mletaka) inter saxa atque montes detrusus horendos</p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <p>Primum  illud   non deest  incommodi — tako sam izpovieda — quod ego cunctis, omnes mihi sunt ydiote, per interpretem agenda omnia <gap reason="irrelevant" resp="FR"/>   Id  quoque tedium auget,   quod ignaros latini sermonis nescio   michi barbari, quorum opus habes, admoneri</p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <milestone unit="page" n="168a"/>
+                    <p>
+                        Tu in deliciis Latinos inter, ego in puluere barbaros inter sum statutus
+                    </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <p>
+                        Saxosus enim, <corr resp="NJ">immo</corr> saxum est locus, saxei mores, ferea precordia
+                    </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                    <milestone unit="page" n="172a"/>
+                    <p>
+                        Ragusio decedens <gap reason="irrelevant" resp="FR"/> Venetias accurri ratus ob illius provinciam opportunitatemque honestiore me vita et tranquilliore fruiturum
+                    </p>
+                    <gap reason="irrelevant" resp="FR"/>
+                </div>
+            </body>
+               
+        </text>
+        
+        
+    </group>
+</text>
+</TEI>

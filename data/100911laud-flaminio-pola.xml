@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>De Scriptorum dissensionibus, deque urbis Polae
+                    origine scitu digna (<date>c. 1514</date>), versio electronica</title>
+                <author><name>Marcus Antonius Flaminius (Marco Antonio Flaminio)</name>, Serravalle 1498 - Roma 1550.</author>
+                <editor>Jacopo Morelli</editor>
+                <respStmt>
+                <resp>Editionem electronicam curavit</resp>
+                <name xml:id="NJ">Neven Jovanović</name>
+                
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Prima versio electronica <date when-iso="2009-06">2010-09</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                    projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+                    Hrvatska.  <date>rujna 2010</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    Jacopo Morelli:  Iacobi Morellii Bibliothecae Regiae Divi Marci Venetiarum custodis bibliotheca manuscripta graeca et latina tomus primus.  Bassani: ex typographia Remondiniana, (1802)
+                </bibl>
+                
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="genus">
+                    <!-- kontrolirani katalog za žanrove, za novolatinski? -->
+                    <category>
+                        <catDesc>genera litteraria</catDesc>
+                    </category>
+                </taxonomy>
+                
+                <taxonomy xml:id="aetas">
+                    <!-- gdje je kontrolirani katalog za periodizaciju? -->
+                    <category>
+                        <catDesc>aetates</catDesc>
+                    </category>
+                    <category xml:id="locus">
+                        <catDesc>locus</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="1514">1514 circa</date>
+                <address>
+                    <addrLine>Imolae</addrLine>
+                </address>
+            </creation>
+            
+            <textClass>
+                
+                <keywords scheme="#aetas">
+                    <list>
+                        <item>litterae renatae</item>
+                        <item>latinitas recentior</item>
+                        <item>saec. XVI</item>
+                        <item>1500-1550</item>
+                    </list>
+                </keywords>
+                <keywords scheme="#genus">
+                    <list>
+                        <item>prorsa</item>
+                        <item>oratio</item>
+                        <item>silva</item>
+                        <item>annotatio</item>
+                        <item>nota</item>
+                        
+                    </list>
+                </keywords>
+                <keywords scheme="#locus">
+                    <list>
+                        <!-- kontrolirani katalog za mjesta -->
+                        <item>Imola</item>
+                        <item>Italia</item>
+                        
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <name corresp="#NJ">Neven Jovanović</name>
+                <date>2010-12-29</date>
+                Zaglavlje i bis > his; celebrent > celebrem.
+            </change>
+            <change>
+                <name corresp="#NJ">Neven Jovanović</name>
+                <date>2010-09-16</date>
+                Versio prima.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="prorsa-silva">
+        <front>
+            <titlePart>Marci Antonii Flaminii</titlePart>
+            <titlePart>Annotationum silvae duae</titlePart>
+            <titlePart>ad Leonem X. Pont. Max.</titlePart>
+        </front>
+        <body>
+              
+            
+            
+            <milestone n="434" unit="page"/>
+            <div n="1-24"><head>Silvae I. Caput XXIV.
+            
+            De Scriptorum dissensionibus, deque urbis Polae
+            origine scitu digna.</head>
+            
+                <p>Nоn possum non mirari cum aliquando mecum ipse cogito scriptores, nec quidem
+                    proletarios, non solum in fabulis recensendis, sed etiam in historia, cuius
+                    finis Strabone teste est Veritas, plerumque dissentire. Hoc, ut in aliis, sic
+                    etiam in principiis ас nominibus urbium deducendis ssepe contingit. Utrumque in
+                    urbium regina totiusque orbis capite Roma factum est, cum alii aliter de eius
+                    conditore nominisque origine scripserint; quae quidem omnia Dionysius
+                    Halicarnasseus in primo Antiquitatum diligentissime exequitur: quanquam proprium
+                    Romae nomen vetitum publicari ob idque Valerium Soranum neci datum vulgatissimum
+                    sit; cuius rei caussam <abbr>С.</abbr> Sempronius de origine urbis, Macrobius in
+                    Coenis, et alii attulere. Pola quoque, ut alias omittam, urbs antiquissima ac
+                    Romanorum secutis saeculis facta colonia idem passa est. Plinius a Colchis
+                    conditam scribit, cui et Strabo astipulatur libro quinto his verbis: <q>Pola in
+                        sinu portus formam habente sita est, parvas quidem, verum fructicosas et
+                        portuosas praseferente insulas. Priscum autem est id Colchorum aedificium,
+                        qui adversus Medeam immissi fuerant. Ii votorum impotes et fugae
+                        desperatione solliciti Graecorum quidem lingua Exulum, Colchorum vero
+                        sermone Polam appellavere locum, uti Callimachus commemorat.</q> Hoc idem et
+                    Mela et alii. Ceterum carmen reverendae vetustatis nuper inventum est <milestone
+                        n="435" unit="page"/> cui titulus est <bibl>De Polae urbis origine</bibl>.
+                    Id cum Franciscus Polensis Praetorius scriba Seravalli optimo patri meo Ioanni
+                    Antonio Flaminio, viro de litteris (absit arrogancia) benemerito obtulisset ut
+                    verba convulsa, mutilata, et tineis et carie paene consumpta reformaret, ille
+                    syllabatim quaeque olfactans, omnia tandem, non tamen sine pulvere ас sudore, in
+                    pristinum statum pristinamque gratiam vindicavit. Eius carminis auctor,
+                    quicunque is fuerit, non illepido aut infirmo argumento Polam non a Colchis, sed
+                    ab Argonautis conditam refert; itemque a Polluce, non a Colchorum lingua nomen
+                    accepisse. Versus ipsos, quando non parum voluptatis, cum ob antiquitatem, tum
+                    ob nitorem legentibus allaturi videbantur, his nostris silvulis abigendos non
+                    putavi: qui quidem hi sunt.</p> 
+            <q>
+                <l>Pola vetus, te te posuit Iovis inclyta proles</l> 
+                <l>Astrigeri: nondum notant tua <sic>litera</sic> nomen:</l>
+                <l>Non cultor, non messor erat: montana colebant</l> 
+                <l>Agrestes tantum Nymphae loca, monticolaeque</l> 
+                <l>Immixti Satyris Fauni, Dryadumque choreis.</l> 
+                    <l> Delia lustrabat, pharetramque arcumque sonantem </l>
+                    <l> Attonitae sensere ferae: per litora passim </l>
+                    <l> Nereidum cantus audiri et stertere phocae. </l>
+                    <l> Progenies Iovis huc veniens, quo tempore Colchon </l>
+                    <l> Aesonides adiit Phryxea vellera pellis </l>
+                    <l> Ablaturus, ait: Comites, Argiva iuventus, </l>
+                    <l> Hic memorem nostri condamus nominis urbem</l>
+                    <l> Et si quos longi ceperunt taedia cursus, </l>
+                    <l> Hic maneant sedemque sibi placidamque quietem </l>
+                    <l> Inveniant. Placuit sententia. Protinus urbem </l>
+                    <l> Aedificant magni Pollucis nomen habentem. </l>
+                    <l> Hic alto primum ponunt delubra Tonanti, </l>
+                    <l> Nec procul armiferae statuunt Tritonidis arcem</l>
+                <milestone n="436" unit="page"/>
+                    <l> Legiferamque Deam сelebrant patremque Lyaeum</l>
+                    <l> Neptunique aras in curvo litore condunt.</l>
+                    <l> Crescit opus: longe lateque haec fama vagatur.</l>
+                    <l> Sic celebrem populis urbem generique nepotum</l>
+                    <l> Atque vetustate insignem gens Thessala condit</l>
+                    <l> Ante etiam belli Troiani tempus et ante</l>
+                    <l> Debita quam diris caderet gens Dardana fatis;</l>
+                    <l> Quam clari imperio reges tenuere vigentem</l>
+                    <l> Legibus et Divum cultu et probitate virorum.</l>
+                    <l> Post haec illustrem magni fecere Quirites,</l>
+                    <l> Cum dominae facta est Romana colonia gentis.</l>
+                    <l> Sic decus excrevit, sic ingens fama tenetque</l>
+                    <l> Praeclarum in populis per tot iam saecula nomen<note>(1)</note>,</l>
+                
+                <note resp="Morelli">(1) Carmen hoc in pagella conscissa et cariosa vetustate se legisse ас vitio librarii locis pluribus depravatum restituisse Flaminius ipse pater affirmat illudque antiquitatem prae se ferre visum sibi esse declarat (<bibl>Epistol. Lib. IV. n. 5. p. 174.</bibl>). Idem vero, a me acceptum, vir multa eruditione <sic>prastans</sic>, quocum amicitiam colui, Io. Augustinus Gradonicus Episcopus Cenetensis edidit in opusculo <bibl>Novae collectionis Calogerianae tomo XXIV.</bibl> inserto, in quo de Flaminio utroque disseruit: at erroribus maculatum ex codice ms. Bononiensi <bibl>Bartholomaeus Vergottinus in libello de Pola an. 1795. Venetiis impresso</bibl> iterum dedit. Ceterum <bibl>Carmen inscriptum Primordia civitatis Pole</bibl> in codice Marciano, saeculo XV. ineunte exarato, exstat; quod quia nonnullis partibus, cum quoad sententias, tum quoad verba, Flaminiano respondet, afferre hic placet ut quid auctor alter ex altero sumpserit colligi possit atque ad rem discernendam quicquid superest lectoribus suppetat.
+                    <q>
+                            <l> Pollui sub Polluce Pola Iovis inclyta proles.</l>
+                            <l> Nullis adhuc viris ceperant mea litora nomen:</l>
+                            <l> Non sator, non messor erat: nemorosa colebant</l>
+                            <l> Agrestes nymphae tempe montana plerumque</l>
+                            <l> Lustrabat Delia, sociis armata pharetris.</l>
+                            <l> Multae iam cecidere ferae cantusque sonoros</l>
+                            <l> Nereides et iura dabant in ripis aquarum.</l>
+                            <l> Precipites illas miro candore vidisses</l>
+                            <l> Exercere ludos, et ubera nuda movere.</l>
+                        <milestone n="436" unit="page"/>
+                            <l> Huc unicus rex ipse Pollux his <corr resp="#NJ">raptus</corr> et ardens:</l>
+                            <l> Hic sedem ponamus, ait, delubraque Deum</l>
+                            <l> Statuit, et Palladi Cererique sacravit honores.</l>
+                            <l> Paeana canunt Iovemque patrem placidumque Liaeum</l>
+                            <l> Dant circum nomenque sacrant quod super in astris</l>
+                            <l> Aethereis placido <sic>mis</sic> fulget nomine regis.</l>
+                            <l> Post hunc me reges multi rexere signanter:</l>
+                            <l> Me coluit Roma. Ludorum aspice molem</l>
+                            <l> Et excelsa Divum moenia recolenda trophaeis.</l>
+                            <l> Hinc Carlus, Orlandus acer pugnavit, et ingens</l>
+                            <l> Bellum egit non absque caede, et horrentia virum</l>
+                            <l> Corpora lapideis cernis tumulata sepulchris.</l>
+                            <l> Ha quam felix, quam dives agris auroque superba</l>
+                            <l> Stabam, classe potens, armato milite ferox!</l>
+                            <l> Ast quia nil fixum sinit natura deorsum,</l>
+                            <l> Troia ruit, Carthago minax, florentes Athenae</l>
+                            <l> Moerent, Roma gemit, iam quae mucrone corusco</l>
+                            <l> Imperio premebat orbem. Sic fletibus <corr resp="#NJ">usa</corr></l>
+                            <l> Fortuna currente rota me volvit ad ima.</l>
+                            <l> Heu quam mentis inops qui se putat esse felicem,</l>
+                            <l> Prosperitate fretus mundana! Heu colligo quantum</l>
+                            <l> Post Zephyros plus laedit hiems, post gaudia quantum</l>
+                            <l> Serius succedant luctus: invenio certum</l>
+                            <l> Fore nihil melius quam nil habuisse secundum.</l>
+                    </q>
+                </note>
+            </q>
+                
+            </div>    
+            </body>
+    </text>
+</TEI>

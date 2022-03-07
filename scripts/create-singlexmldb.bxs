@@ -1,0 +1,1 @@
+XQUERY db:create("laud-asirelli", "/home/neven/Repos/laudationes-urbium-dalmaticarum/normalized/asirelli-ragusa-normalized.xml", (), map { 'ftindex': true(), 'chop': false(), 'intparse' : true() })

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ragusium Dalmatie ciuitas e Supplemento Chronicharum (<date when="1483">1483</date>), versio electronica</title>
+                <author>Giacomo Filippo Forèsti da Bergamo <date from="1434" to="1520">(1434 – 1520)</date></author>
+                <respStmt>
+                    <resp>Editionem curavit</resp>
+                    <name>Neven Jovanović</name>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2010-01-02</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority/>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <p><bibl>Forèsti, Giacomo Filippo: Supplementum Chronicharum, Uenetijs, 1492/93.02.15 [BSB-Ink I-125 - GW M10980], fol. 146v</bibl>, facsimile digitale: <ref target="http://daten.digitale-sammlungen.de/~db/0004/bsb00040325/">, imago n. 21, 151# (304).</ref>.</p>
+            </sourceDesc>
+            
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1483">1483</date>
+            </creation>
+        </profileDesc>
+        
+        <revisionDesc>
+            
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2010-01-02</date>
+                Početno TEI označavanje.
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    <text>
+                <body>
+                    <div type="liber" n="3">
+                        <div>
+                            <milestone unit="page" n="17"  facs="foresti/foresti17"/>
+                            <note place="margin-top">Anno ante Christi aduentum</note>
+                            <note place="margin-top">Anno mundi</note>
+                            <note place="margin-left">1560</note>           
+                            <note place="margin-left">3639</note>
+                            <gap reason="fragmentum"/>
+                        <head>Epidaurum Epiri ciuitas.</head>
+                        <p>
+                            <name>Epidaurum</name> <name>Epiri</name> hoc est <name>Albanie</name> ciuitas his temporibus teste <name>Eusebio</name> in <name>Epiro</name>, prouincia scilicet <name>Albania</name>, in maris littore condita est; a quibus tamen non constat. Quae postmodum <name>Romanorum</name> ciuium colonia facta propter inauspicatum nomen a <name>Romanis</name> <name>Dyrachium</name> appelata fuit. Ea quippe est ciuitas quae postea propter aeris malignitatem pene derelicta habetur. Veruntamen adhuc multa ipsius urbis monumenta uisuntur inter que statua equestris aenea ad quandam portam extat, quam alii <name>Theodosii</name> imperatoris, alii <name>Constantini</name> esse affirmant. Ipsa ciuitas nunc <name>Venetorum</name> ditioni subiacet: quam propter portus commoditatem <name>senatus ipse Venetus</name> posito presidio a <name>Turcorum</name> excursionibus custodit. <name>Epidaurum</name> tamen alia urbs in <name>Achaia</name> est, ut <name>Plynius</name> li. 4o naturalis historiae scribit, <name>Esculapii</name> delubro percelebris: unde <name>Romani</name> continuis tribus annis peste uexati inspectis <name>Sibyllinis libris</name> <name>Esculapium</name> sub serpentis forma ueluti fatale remedium duxerunt ad urbem. <name>Ragusium</name> etiam <name>Dalmatie</name> ciuitas <name>Epidaurus</name> a nonnullis dicta est.
+                        </p>
+                            <gap reason="fragmentum"/>
+                    </div>
+                    </div>
+                        <div type="liber" n="9">
+                            <div>
+                                
+                                <milestone unit="page" n="146v"  facs="foresti/foresti146v"/>
+                                <gap reason="fragmentum"/>
+                            <head>Ragusium Dalmatie ciuitas.</head>
+                            <p>
+                                <note place="margin-top">Anno mundi</note>
+                                <note place="margin-top">Anno Christi</note>
+                     <note place="margin-left">5656</note>           
+                                <note place="margin-left">457</note>
+<name>Ragusium</name> autem <name>Dalmatie</name> ciuitas ab <name>Epidaurensibus</name> <name>Epidauro</name> a <name>Gotthis</name> euerso auspicaci loco hoc quoque tempore et anno condita; quae prae ceteris <name>Dalmatie</name> urbibus publicis et priuatis opibus magnifice est extructa. Hanc et ipsa naualia et portum optimum cathena clausum: cuius ciues ceteros <name>Dalmatas</name> opibus et reliquis bonis atque uirtutibus superant: qui cum liberi sint legibus moribusque instructi Venetorum more senatum et magistratum ac patriciorum ordinem habent a plebe distinctum. Patricii soli rempublicam ipsam administrant, plebs tantum suis rebus studet et uero publicis minime curiosa est.
+
+                            </p>
+                                
+                                <gap reason="fragmentum"/>
+                                
+                        </div></div>
+                        
+
+                </body>
+  </text>
+</TEI>

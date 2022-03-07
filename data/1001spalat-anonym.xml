@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                    <title>In laudem Spalati, versio electronica</title>
+                    <author>Anonymus <date notAfter="1600">(c. 1600)</date></author>
+                <respStmt>
+                    <resp>Editionem electronicam curavit</resp>
+                    <name>Neven Jovanović</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Textum edidit</resp>
+                    <name>Bratislav Lučin</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2010-01-02</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority/>
+            </publicationStmt>
+            
+            <sourceDesc>
+                    <p><bibl>Bratislav Lučin, Marulićev opis Splita, Split: Književni krug, 2005.</bibl>, ubi editum ex <bibl>Splitska pjesmarica Trogirskoga kaptola, f. 1v</bibl>.</p>
+            </sourceDesc>
+            
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notAfter="1600">c. 1600.</date>
+            </creation>
+        </profileDesc>
+        
+        <revisionDesc>
+            
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2010-01-02</date>
+                Početno TEI označavanje.
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    <text>
+                <body>
+                        <div type="elegia" met="elegiacum">
+                                <head>In laudem Spalati</head>
+                                <l>Si qua manent ueterum non diruta męnia regum,</l>
+                                <l>Dant primum Spalato nobilitate locum.</l>
+                                <l>Nobilis hic locus est, ubi sponte Dioclitianum</l>
+                                <l>Deposito imperio consenuisse patet.</l>
+                                <l>Cęsaris Augusti tanto cognomine dignus</l>
+                                <l>Et mundi domitor facta per alta fuit.</l>
+                                <l>Hic tria templa iacent magnis miranda columnis</l>
+                                <l>Et turres circum sidera celsa petunt.</l>
+                                <gap reason="opus imperfectum"/>
+                                
+                        </div>
+                        
+
+                </body>
+  </text>
+</TEI>

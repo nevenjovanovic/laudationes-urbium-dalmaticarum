@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>De Scodrensi obsidione et expugnatione (1504), de vita Georgii Castrioti (1508-10), versio electronica</title>
+    <author><name>Marinus Barletius (Marino Barlezio / Barleti)</name>, Skadar / Scutari, 1454–1512</author>
+        <respStmt>
+        <resp>Editionem electronicam curavit</resp>
+        <name>Neven Jovanović</name>
+        
+    </respStmt>
+    
+</titleStmt>
+<editionStmt>
+<edition>
+<date>1578</date>
+</edition>
+</editionStmt>
+    <publicationStmt>
+        <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+            Hrvatska.  <date>rujna 2009</date></p>
+    </publicationStmt>
+<sourceDesc>
+    <p>Digitalni faksimil knjige: 
+        <bibl>Chronicorum Turcicorum, in quibus vita, indoles, et aduersus Turcas res gestae Georgij Castrioti, Epirotarum principis (qui ... Scanderbegus, hoc est, Alexander Magnus, cognominatus fuit) libris XIII / describuntur à Marino Barletio, Scodrensi... ; accesserunt autoris eiusdem libri iij de Scodra, urbe Epiri nobilissima, a Turcis expugnata... Francoforti ad Moenum : apud Ioannem Feyrabend : impensis Sigismundi Feyrabend, 1578.</bibl>
+        Prema faksimilu: <ref target="http://adrastea.ugr.es/record=b1100544~S1*spi">Universidad de Granada, Biblioteca Universitaria</ref>.
+    </p>
+    <p>
+        <bibl>De Vita Moribus Ac Rebus Praecipue Aduersus Turcas, Gestis, Georgii Castrioti, Clarissimi Epirotarum Principis, qui propter celeberrima facinora, Scanderbegus, hoc est, Alexander Magnus, cognominatus fuit, libri Tredecim, per Marinum Barletium Scodrensem conscripti. Romae <date from="1508" to="1510">1508-10.</date></bibl>
+        <bibl>Barletius, Marinus: De obsidione Scodrensi ad serenissimum Leonardum Lauretanum Aristocratie Venetae principem. : Conciones uarie a Meumethe turcarum principe et ab aliis militiae praefectis artificiose compositae. Venetia: per Bernardinum de Vitalibus (<date when="1504">1504</date>) </bibl>
+    </p>
+</sourceDesc>
+</fileDesc>
+        <revisionDesc>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2011-02-01</date> impecratus > imprecatus corr </change>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2011-01-31</date> zaglavlje (TKTK datum djela) </change>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2010-09-28</date> septerm > septem corr. </change>
+            <change>
+                <name>Neven Jovanović</name>
+                <date>2008-08-28T00:16:08</date>
+            </change>
+        </revisionDesc>
+</teiHeader>
+    <text>
+        <front>
+            <docTitle>
+                <titlePart>Chronicorum Turcicorum, in quibus vita, indoles, et aduersus Turcas res
+                    gestae Georgii Castrioti, Epirotarum principis (qui propter egregia et praeclara
+                    facinora Scanderbegus, hoc est, Alexander Magnus, cognominatus fuit) libris
+                    XIII. describuntur à Marino Barletio, Scodrensi sacerdote ; </titlePart>
+                <titlePart> accesserunt autoris eiusdem libri iij de Scodra, urbe Epiri nobilissima,
+                    a Turcis expugnata. </titlePart>
+                <titlePart> omnia figuris et uiuis imaginibus illustrata. Cum rerum, ac sententiarum
+                    notatu dignissimarum indice amplissimo. </titlePart>
+            </docTitle>
+            <docImprint>
+                Cum gratia et priuilegio Caesareo.
+                Impressum <placeName>Francoforti ad Moenum</placeName>, <date when="1578">1578</date>.
+            </docImprint>
+        </front>
+        <group>
+        <text>
+            <front>
+                <div>
+                    <opener>Nobili et strenuo Friderico Adelberto ab Hessenburg, in Schnozenbach et Haiuuinda; Praetori et Consiliario Herbipolensi: Domino et patrono suo colendissimo, S. P. D.</opener>
+                </div>
+            </front>
+            <body>
+                <div>
+                    <head>Marini Barletii Scodrensis sacerdotis, de uita et gestis Scanderbegi, Epirotarum principis, liber primus. </head>
+                </div>
+                <!-- desunt multa -->
+                <div>
+                    <milestone unit="page" n="173"/>
+                    <head>
+                        Marini Barletii Scodrensis sacerdotis, de uita et gestis Scanderbegi Epirotarum principis, liber decimus. 
+                    </head>
+                    <milestone unit="page" n="173v"/>
+                    <milestone unit="page" n="174"/>
+                    <milestone unit="page" n="174v"/>
+                    <milestone unit="page" n="175"/>
+                    <p>
+                        Interim uero Oratores Pii Pontificis, Sforciae, ac Ferdinandi Regis, cum literis ad Scanderbegum applicuerunt.<note place="margin-right">Legati Pontificis ad Scanderbegum.</note> Quem exhortabantur, rogabantque, ut cum exercitu et copiis ad ipsum Regem Ferdinandum amicum suum liberandum, tutandumque, traiicere properaret. Quod quum Scanderbegus accepisset, ut erat sacrosanctae Apostolicae sedis studiosissimus, non immemor praeterea amicitiae Alphonsi regis, cui summa fuerat beneuolentia deuinctus, perbenigne hoc munus, negociumque conficiendum suscepit. Igitur florido milite, robustoque exercitu confestim in Dauniam traiiciens se contulit. Verum priusquam e regno discederet, quam caute, quam callide et celeriter potuit, cum Mahumete Turcarum Principe composuit, et annuas cum eo inducias fecit. Reliqua uero omnia imperii sui (ut oportebat) disposuit atque firmauit. Cuius regimen et tutelam uxori, ac quibusdam proceribus amicisque commisit. Quo facto, Goicum ex sorore nepotem, uirum armis factisque clarum, atque strenuum cum quingentis electis equitibus in Siciliam, quae est circa Pharum, praemisit, ut prius inde hostem infestaret. Dehinc ipse post crebras supplicationes, et orationes pro uictoria, sua, suorumque incolumitate ad Deum peractas, exercitum suum praemisit, partim in portum Dyrrhachinum, partim in Achrolyssum, seu Mediam, et in sinum Rizicum ad naues et triremes, quas Pius Pontifex cum Sforcia duce ex Italia in Apuliam traiiciendum miserant. Reliquum uero copiarum in Ascriuium, indeque Ragusium secum ad naues deduxit.</p> 
+                    <p>Sed antequam ulterius procedam, parumper hinc a proposito digredi constitui, et urbem Ragusinam quoquo modo possim, 
+                    <milestone unit="page" n="175v"/>
+                    describere enitar. 
+                        <note place="margin-left">Descriptio urbis Ragusinae.</note>
+                        Est enim Ragusium hac tempestate, quod alio nomine Epidaurum uocitant, urbs (ut quibusdam placet) in Liburnia ad mare posita, quae naualia ipsa, et portum satis accommodatum habet, in cuius deefensione turris munita constructa est, eius ambitus ultra mille passuum excurrit. Arcem inexpugnabilem habet montibus hinc inde cinctam, opere, arte et manu egregie munitam, templis referta est urbs, aedificiisque ornata magnificis, fontes ingentes ac perennes in ea per fistulas et aquarum ductus continue scaturiunt. Quae quidem ciuitas optimatium moderatione, ac ciuili regimine utitur. Fundatores eius Epidaurenses primos fuisse perhibent. Agrum uero non amplum, sed montuosum, saxosumque, cum duobus oppidulis possidet. Ragusinus populus, et ciues, cum omni gente pacem et commercium habent.
+                        <note place="margin-left">Mores et ciuilia Ragusinorum.</note>
+                        Tributa Hungaris Turcisque soluunt. Principem sexto quoque mense sibi deligunt, quem lingua peculiari Chenesium uocant. Mercimonia tam terra, quam mari undique suis nauigiis conuehunt, caeterosque Dalmatiae, et Liburniae populos opibus, et reliquis bonis, atque uirtutibus facile superant. Qui etiam quum liberi sint legibus, moribusque instructi, Venetorum more Senatum, et Magistratus, ac Patritiorum ordinem habent a plebe distinctum.
+                        <note place="margin-left">Patritii more Venetorum.</note>
+                        Patritii soli Rempublicam ipsam administrant. Plebs autem suis rebus studet, et de Rebuspublicis minime curiosa est. Sed iam ad propositum redeo.
+                    </p>
+                    <p>
+                        Quum enim Scanderbegus Ragusium peruenisset, populus frequens omni ad hoc effusa ciuitate, summo cum plausu et laeticia ei obuiam processit. Qui in urbem ab illis deductus honorifice, liberaliterque acceptus est. Postridie post solennia, et diuina de more peracta, uniuersam urbem circuiuit, alio uero die ad naualia armamentaria, arcem, omniaque urbis munimenta uisenda perrexit. Quartus uero dies in uariis diuersisque ludorum, ac spectaculorum generibus consumptus est. Sequenti uero in Senatum deductus, donatusque pluribus, ac diuersis muneribus, et in concione publice laudatus est. nam Dauid quidam Ragusinorum scriba, sic, ut ferunt, laudibus Scanderbegum prosequutus est:
+                        <note place="margin-left">Dauid, Ragusinorum scriba, laudator Scanderbegi.</note>
+                        Nescio quod hodie, Scanderbege Princeps illustris, urbi nostrae, et populo Ragusino clarius, fulgentiusque sydus, irradiantiorque stella, praesentius numen, propiciusque tuo benignissimo aspectu, tuaque praesentia exoriri, appparereque potuerit. Vere hodierna die, qua urbem nostram inuectus es, omnia nobis clara, omnia lucida, omnia laeta atque prospera euenere. Coelum iam obscuratum, obnubilatumque, serenum, lucidum, atque perspicuum tuo conspectu factum, redditumque est. Terra quoque ipsa te ingrediente, gaudere, laetari, atque iubilare uisa est. Ciues omnes, cunctusque populus te tanquam Deum, et numen quoddam coeleste conspicere, atque intueri uisi sunt, laeta nobis undique iucunda atque festiua omnia perstrepere, personareque audita sunt. Vere nos, urbemque nostram, lares atque penetralia, ueluti solis
+                        <milestone unit="page" n="176"/>
+                        splendidissimus radius illustrasti, illuminastique. Nam ut primum littoribus nostris te applicuisse nunciatum, omnes ciues, senes, iuuenes, uirgines, mulieres, adolescentes, pueri, sani, languidi, et infirmi, ad te uidendum, tuoque conspectu, et praesentia perfruendum, certatim conglobatimque accurrerunt, nomenque tuum, Princeps Serenissime, non tantum hic, et in Epiro, uerum etiam per uniuersam Italiam, concupitum, exoptatumque est. Quid plura? Te Deus optimus maximusque, rerum omnium creator et moderator in terris misisse creditur, ut non solum in Epirum, et Macedoniam patriam illam tuam, magnorum Regum, atque Principum inuictissimorum sedem et altricem, uerum etiam Dauniam, Italiamque, omnium uirtutum, et bonarum artium Reginam atque inuentricem, decorares illustraresque, protegeres atque defenderes. Ecce iam nomen tuum, Princeps inuictissime, ubique euolat. Ecce te omnes in auxilium et defensionem inuocant, te assertorem, protectorem, et liberatorem appellant. Ecce reges et principes orbis terrae in sui tutelam et subsidium te implorant. Ecce nunc Pius ille Dei uicarius, ac totius orbis caput et princeps, cum Sfortia Mediolanensium Duce, et Ferdinando Siciliae Apuliaeque Rege, oratores suos ad te mittunt, ut in eorum auxilium, et Italiae liberationem, acceleres atque festines. O foelix patria, quae te talem et tantum uirum produxit. O foelices parentes, qui te genuere. O foelices proceres, et commilitones, qui te ducem, te rectorem, principem, et Imperatorem sequuntur, qui tanto Rege
+                        <milestone unit="page" n="176v"/>
+                        gaudent, utuntur, fruunturque. Ibis o Rex <sic>tremide</sic> et inuicte in Apuliam. Ibis o lux et decus Albanae in Italiam, liberabis eam, uinces hostem. Vicisti iam Amurathem illum Turcarum regem potentissimum, qui toties Hungaricam ferocitatem et potentiam profligauit: uicisti Mahumetem eius filium, qui tot reges, tot duces et principes, tam suae sectae quam Christianae fidei superauit. Qui tot regna et imperia subegit, qui toti orbi timor fuit, caepisti, obtruncasti, profligasti tot eorum duces, tot principes, et Imperatores. Tu enim solus Turcarum timor, tu solus Turcas uincere nosti. Ibis foelix inuictissime princeps, foelicior redibis. Non sic Alexander tuus Epirotes, non Pyrrhus ille Epirotarum rex, fulmen, bellique artifex uictores ex Italia rediere, quemadmodum tu potens, et generose rex, uictor foelixque in patriam redibis. Ecce populus, et ciues tui Ragusini tibi aram constituunt, ecce te tanquam Deum, et numen colunt, ueneranturque. Ecce pro te, ut uictor et incolumis redeas, preces iugiter ad Deum effundere parati. Ecce tibi urbem, familiam, liberos, quicquid habent, possident, seque totum denique in mancipium dedunt atque tradunt.
+                    </p>
+                    <p>
+                        Postquam uero Scanderbegus a ciuibus et populo Ragusino, publice laudatus, tamdiu cum eis, et apud eos est commoratus, quamdiu uniuersa classis et exercitus ibidem conueniret, quo cum uenisset, uarii ac diuersi ludi et certamina peracta, atque celebrata sunt.
+                        <note place="margin-left">Paulus Angelus Dyrrachinus Archiepiscopus.</note>
+                        Postea uero Paulus Angelus Dyrrachinus Archiepiscopus, qui omnium laborum, periculorum, atque consiliorum socius, atque particeps (uelut Eneae alius Achates) Scanderbego fuit, ad ciues et populum Ragusinum gratias exoluens, in hunc modum est elocutus:
+                    </p>
+                    <p><note place="margin-left">Oratio Pauli Angeli Dyrrachini Archiepiscopi ad ciues et populum Ragusinum.</note>
+                    Credo equidem Patres conscripti, ciues optimi atque praestantissimi, nullo humano ingenio, sed diuino potius, urbem hanc, et moenia fundata fuisse, ut unicuique mortalium in summa essent admiratione. Quis enim unquam tam eleganti fretum se putarit ingenio? Quis ea doctrinae copia? Quis tanta eloquentiae, uel arte politus, uel natura preditus? ut eius laudes, non explicare, sed concipere tantum, aut ualeat, aut audeat?
+                        <note place="margin-left">Ragusina urbs Epidaurum dicta.</note>
+                        Ragusina enim urbs, quae alio quoque digniori nomine Epidaurum dicta est, quasi ciuitas supra omne aurum, immo omni auro dignior excellentiorque, uere, recteque Epidaurum appellatum: nam quae urbs nostra aetate, quae ciuitas huic comparari potest?  Ea enim cunctis opibus, ac diuitiis plena refertaque: haec optimis moribus, et uirtutibus ac disciplinis praedita. In ea Senatus amplissimus, Respublica florentissima, patres conscripti, et senatores, maiestate quadam augusta, et uenerabili, qui cum omnibus gentibus et populis amicitiam, pacem, atque concordiam perpetuo seruare nouerunt. Quid enim per Deum immortalem urbibus pace melius, iucundiusue?  Praeterea hic artes omnes liberales, Philosophia, Theologia, Leges, caeteraeque artes, et disciplinae
+                        <milestone unit="page" n="177"/>
+                        uigent. Sed quid potissimum de naui <sic>factiua</sic>, de mercatura (pace enim caeterarum urbium et ciuitatum dixerim) cum quibus urbs uestra non contendere tantummodo, sed illas etiam longe superare potest. Nam quae maria Ragusini mercatores non nauigant, quas terras ii non permeant, quae loca tam abdita atque remotissima, ad quae non accedant atque penetrent?  Quid igitur urbe Ragusina nobilius? Quid clarius atque praestantius? quae nulli subdita, neque obnoxia, legibus suis uiuit, moderaturque. Hinc mare, inde terram habet, agro satis feraci, et bene culto atque ameno fruitur, insulas, scopulos, in quibus omnis amoenitas atque cultura reperitur. Oppida munita cum salinis, portu satis tuto accommodatoque utitur. Sed quid de pietate et misericordia uestra in naufragos, profugos, exules, pauperes, ac mercatores dicam? Quid plura de urbe Ragusina, nisi id quod de Roma iam olim dici consueuerat, Asylum esse mortalium et patrima, parique modo nunc de urbe Ragusina dicendum.
+                        <note place="margin-right">Ragusium altera Roma.</note>
+                        Eam esse portum tutissimum, confugium, et receptaculum omnium mercatorum, diuitum ac pauperum, scholam et magistram omnium uirtutum, exemplar, et lumen bonorum morum, decus et ornamentum totius Dalmatiae, Illyrici, Adriatici, Aegeique maris. Ideo dicendum Ragusium, siue Epidaurum, ab Epidaurensibus, diuino quidem nutu hoc in loco positum atque fundatum esse. Neque forte quis uanus esset uates, si hanc urbem uestram inter caeteras maximas urbes orbis terrae, altius caput aliquando elaturam praediceret, et cum his de imperio, armis, uiribus, potentia, uirtuteque certaturam. Sed quid de liberalitate uestra Patres conscripti, de magnificentia et humanitate dicam? Quis enim unquam mortalium ciues egregii, et praestantissimi, tot et tanta praeclara opera, totque beneficia uestra in nos, dignis satis extollere laudibus possit? De quibus mihi tacendum satius puto, quam pauca dicere, uel ea frigide laudare. Quia quanto plura de his proferrem, eo maiora mihi proferenda essent, crederem equidem mihi potius diem quam materiam defuturum. Veruntamen ne omnino ingratus uidear, pro uestra in nos munificentia, ac liberalitate, utcunque et quascunque ualeam, possimue, pro inopia, ac ingenii mei imbecillitate gratias agam, referre enim minime possum. Itaque in primis tuae serenitati, Princeps illustrissime, tuoque sublimi consilio, benignissimoque Senatui, atque Reipublicae infinitas ac immortales ago gratias. Deinde uobis ciues egregii atque praestantissimi huius almae atque magnificae urbis: postremo uobis omnibus cuiuscunque generis gradus, et conditionis, quibus polliceor, Deum testor, fidemque meam obstringo, quod ob uestra in nos beneficia collata, uosque, nomenque uestrum, urbisque, semper, et quoad uixerimus, et nomen Epiroticum durabit, animis, mentibus, et cordibus nostris, ossibusque medullitus fixa inhaerebunt, et in archiuo, uiuoque lapide sculpta atque incisa, semper apud nos permanebunt. Quae nullus unquam casus tollet, aut aliqua aetas
+                        <milestone unit="page" n="177v"/>
+                    aetas delebit, nosque filiis, ac nepotibus nostris, iique filiis ac nepotibus suis ea referent atque praedicabunt, Quamobrem in praesentiarum Deum summum optimumque, qui omnium benefactorum ac bonorum operum retributor optimus est, exoramus, obsecramusque, ut ipse uobis pro tot ac tantis uestris in nos beneficiis condigna merita, et aeterna praemia retribuat atque condonet. Vos, regnum, imperium uestrum, urbem, Senatum, Rempublicam, liberos, opes, familiam, nomen uestrum, perpetuo conseruet, corroboret, consolidet atque confirmet.
+                    </p>
+                    <p>
+                        His a Dyrrachino praesule dictis, milites Albani, quod diei superfuit, in hastiludiis, aliisque uariis ac diuersis certaminibus et spectaculis ad finem perduxerunt, iussi mox, ut omnia, quae ad nauigationem opus erant, expedirentur.
+                        <note place="margin-left">Ludus in Ragusio.</note>
+                        Iamque satis omnibus instructis, praeparatisque, et re iam non ultra recipiente cunctationem, in animo sibi esse Ragusium, classe undique traducta, eodemque omnibus peditum equitumque copiis contractis, quae prima dies cursum nauibus daret, Deo bene iuuante in Apuliam traiecere. Igitur circum oram maritimam, Castriotus misit, ut naues et triremes, quae ex Italia ad comportandum exercitum eius uenerant, Ragusium omnes contraherentur, quicquid praeterea militum nauiumque suarum in Epiri Macedoniaeque littore erant, ibidem conuenirent, ut nec urbs multitudinem hominum, nec portus naues capere posset. Tantusque omnibus ardor inerat, in Apuliam traiiciendi, ut non ad bellum duci uiderentur, sed ad certa uictoriae praemia. Ex Epiro autem et Macedonia milites undique acciuerat omnes. Quantum uero militum in Dauniam transportatum sit, diuersae sunt opiniones: aliqui quinque millia peditum, duo millia et ducenti equites: alii duo millia peditum, tria millia et quingenti equites in naues imposita: quidam non adiecere numerum, inter quos me ipsum in re dubia poni malui. Tantamque multitudinem conscendisse naues aiunt, ut nemo mortalium in Epiro, Macedonia, et Illyrico relinqui uideretur.
+                    </p>
+                    
+                </div>
+            </body>
+        </text>
+<text>
+    <front>
+        <docAuthor>MARINI BARLETII, SCODRENSIS SACERDOTIS</docAuthor>
+        <docTitle><titlePart>DE SCODRENSI OBSIDIONE, ET EXPUGNATIONE,</titlePart></docTitle>
+        <docDate>1504</docDate>
+        
+    <div type="epistula">
+        
+        
+        
+    </div>
+        
+    </front>
+<body>
+       
+<div type="liber"> 
+    
+    <head>Liber primus.</head>
+        
+        <p>
+            <milestone unit="page" n="139" facs="cipiko-m/139.png"/>
+            <note place="margin-right">De Turcarum origine varia Scriptores.</note>
+            <note place="margin-right">I.</note>
+            <note place="margin-right">II.</note>
+            <note place="margin-right">III.</note>
+            <milestone unit="page" n="140" facs="cipiko-m/140.png"/>
+            <note place="margin-left">Ottomanus, Turca, Saladinus, unus idemque creatus Amiram seu Rex.</note>
+            <note place="margin-left">Orchanes, Ottomani filius.</note>
+            <milestone unit="page" n="232"/>
+            <note place="margin-right">Amurates Rex.</note>
+            <note place="margin-right">Graeciae occupatae occasio.</note>
+            <note place="margin-right">Paiazetes Rex.</note>
+            <milestone unit="page" n="232v"/>
+            <note place="margin-left">Paiazetes a Tamberlano captus.</note>
+            <note place="margin-left">Calapinus Rex.</note>
+            <note place="margin-left">Vincit Sigismundum, Regem Vngarię.</note>
+            <note place="margin-left">Moyses opprimit Orchiram Calap. F.</note>
+            <milestone unit="page" n="233"/>
+            <note place="margin-right">Meumethes Rex.</note>
+            <note place="margin-right">Amurate victo Mustapha  Rex.</note>
+            <note place="margin-right">Vngariae Rex profligatus.</note>
+            <note place="margin-right">Amurates obiit.</note>
+            <note place="margin-right">Meumethes Rex.</note>
+            <milestone unit="page" n="233v"/>
+            <note place="margin-left">Constantinopolis capta.</note>
+            <note place="margin-left">Pera occupata.</note>
+            <milestone unit="page" n="234"/>
+            sermone Albania dicitur: quia incolentes eam, omnes fere Epirotica lingua utuntur:
+            <note place="margin-right">Macedoniae, nunc Albanię, descriptio.</note> cuius quum apud plerosque dubius sit situs, a proposito prum digrediens, eius fines describere conabor. Macedonia enim, teste Plinio, centum et quinquaginta populorum, ac duobus inclyta regibus, quandamque terrarum imperio, quae antea dicebatur Aemathia, in Lyssum oppidum terminans, ad Epiroticas gentes in solis occasum extenditur. Ab Oriente Magnesia atque Thessalia per Strimonem fluuium septem lacubus : ab Occidente Dalmatia. In cuius ora oppida sunt ciuium Romanorum, Rhizimum, Ascriuium, Butuauium, Olchinium, quod Prisci Colchinium dixere, a Colchis conditum, et amnis Drino: superque eum oppidum Romanorum Scodra,
+            <note place="margin-right">Scodra Romanorum oppidum.</note> a mari decem et nouem millibus passuum distans. Ciuitates illustres Lyssum et Acrolyssum, et Epidamnum, quod Corcyraei condidere, hoc tempore Dyrrhachium appellatum, propter inauspicatum nomen, et Apollonia ciuitas optimis instituta legibus: in cuius finibus locus est celeber, quem Nympheum uocitant, teste Strabone: ubi petra est ignem uomens, et metallum semper excrescens: cui fontes subsunt, qui aquas tepidas scatent, atque ut Possidonius refert, terra est bitumine referta, quae uineis pediculosis remedium praebet. Sunt praeterea eiusdem populi multi, quorum Cauchones in pluribus locis habitantes, uirorum suorum excellentia semper per se tenuerunt imperia: a ciuitate uero Apollonia non longe excurrit Egnatia uia Orientem uersus, per singula millia passuum lapideis columnis distincta, atque per stadia mille sexcenta et octoginta protensa. Haec est illa Macedonia (ut Plinij uerbis utar) quae quondam terrarum imperio potita est. Haec Asiam, Armeniam, Illyrium, Albaniam, Cappadociam, Syriam, Aegyptum, Taurum, Caucasum transgressa. haec in Bactris, Medis, Persis dominata, toto Oriente possesso. haec etiam Indiae uictrix, per uestigia Liberi patris atque Herculis uagata. Ad hanc tam inclytam et magnificam, tamque mirabilem regionem, et Principum semper magnanimorum parentem et altricem, animum aduertens tyrannus, eius fines inuadens, assidue infestare coepit, ratus se eam quam facillime posse opprimere, et sub iuga sua celerrime submittere. sed eum profecto multum opinio fefellit, resque longe aliter euenit. nam diu cum Epirotica gente laborauit. Annum ferme tricesimum cum ea in oppugnationibus et assiduis bellis consumpsit: quam neque ui, neque ferro perdomare aut superare potuit. Occurrerunt enim ei Reguli omnes, et Principes prouinciae, qui solida inter se firmaque amicitia, atque perpetua fide obstricti atque deuincti simul erant. Cursitarunt in eum uiri fortissimi et constantissimi, acerrime ei resistentes: ex quo Barbarus remdifficiliorem, et supra quam arbitratus fuerat, nactus, minus tute, et non sine maxima suorum caede prouinciam intrare, 
+            <milestone unit="page" n="234v"/>
+            et Macedoniae oram uexare poterat. Post plurimum uero temporis, siue rerum humanarum cursu et uarietate, siue coelestium permissu, aliter de rebus humanis, et de hoc imperio praescribentium, Reguli omnes, quorum quisque terminos suos facillime tutari poterat, ex humanis sublati sunt: ita forte sceleribus nostris exposcentibus, pro quibus iure affligimur, meritasque persoluimus poenas. tunc nepharius hostis acrius regnum undique inuadere atque opprimere coepit: et ipsum deinde audacius ingressus, frequentius diripere atque incendio dare ausus est. Postremo igitur succedens in Imperium is Meumethes Princeps, qui post Byzantii nobilissimae ac praeclarissimae urbis expugnationem, aliud Imperium, quatuor regna, prouincias uiginti, ducentas urbes, Christianis tantum (ut scribitur) ademit. Inflatus Barbarus incremento tantae foelicitatis, ad summum facinus aspirauit, concepitque mente, facile se omnia expugnaturum, et ad totius orbis principatum breui peruenturum. Callebat quidem astrorum scientiam. Dicebat hoc et diuino nutu, et fatorum dispositione, ac siderum positione futurum esse. 
+            <note place="margin-left">Meumethis res gestae, et quinque linguarum peritia.</note>
+            Didicerat Graece, Latine, Arabice, Chaldaee, atque Persice loqui. Nouerat enim, magnorum uirorum gesta, praecipue Caesarum, Magnique Alexandri: quorum factis is ualde accensus, hos omnino sibi sequendos proposuerat. Erat quidem magni atque inuicti animi, ingenio plurimum pollebat, calliditate atque astutia caeteris praestabat. Decreueratque prius perdomita Italia Romam proficisci, eamque sibi subiicere: sed in primis Epirum sibi expugnandam dictitabat.
+            <note place="margin-left">Epirus.</note>
+            Qua, ad id peragendum, ut uoti sui compos fieret, nihil aptius, nihil commodius aut opportunius uideri, nec aliunde, alioue modo se ad quod instituerat posse peruenire, cum propter loci uicinitatem, tum etiam rerum omnium maximam commoditatem. nam Epirus ad Ionium, quod Italiam quadantenus alluit, mare protenditur. Illic enim sunt syluae et arbores excelsae, maxima frequentia, ad naues et triremes extruendas conficiendasque: illic egregii, optimique portus ad quancunque etiam ingentem tenendam, ornandamque classem. Habet quidem agrum undecunque feracissimum, campos amoenissimos, latissimosque: pascua uberrima, flumina, fontesque saluberrimos ad saturitatem. His itaque omnibus callidus atque uersutus Ottomanus impulsus, Epirotas continue omni conatu uexare, atque assidue premere aggressus est, ut eos aut in ditionem et potestatem suam redigeret, aut penitus subuerteret. sed quum diu apud illos elaborasset, et uariis grauibusque cladibus affectus esset, nec alterum quidem consequi ualuisset, palam cognouit, indomitam esse Epiroticam gentem: statuitque aliam sibi uiam eos domandi esse tentandam, unum negocium subeundum, quo pacto a se proculdubio Epiroticae genti imperaturum iri speraret.
+        </p>
+    <p>
+        Est autem nostra temperstate urbs Scodra Macedoniae orae caput, nec
+        <milestone unit="page" n="235"/>
+        non illius partis Dalmatiae, quae ei proxima est.
+        <note place="margin-right">Scodra Macedoniae caput, Turcice Scanderia dicta.</note>
+        De cuius origine nulla nunc certa extant monumenta, nullaque certa memoria. nam quum ea bis a Barbaris incensa fuerit, ab Antio quoque Romanorum praetore deleta, tota per se exarsit. Quo quidem tempore constat, uetera urbis monimenta, omnesque historias de ea conscriptas incendio periisse: tamen quicquid de ipsius origine inuestigare aut reperire potui, et de statu eorum, qui in ea uicissim regnauerunt, quantum memoria hominum comprehendi potuit, diligenter collegi, eaque omnia breuiter conscribam. Ferunt enim Barbari quidam, eam ab Alexandro Magno conditam fuisse: quibus non est assentiendum. nam ante Alexandrum Scodra iam condita erat. sed ipsi Meumethani hac ratione utuntur: quia lingua sua Scodram Scanderiam uocant, quod nomen ex eorum interpretatione idem est quod Alexandria. Sed haec est Aegypti urbs ab Alexandro condita. Alii uero dicunt, a quodam Joanne regulo Epirota conditam fuisse. qui quum in ea aliquot annos imperium tenuisset, a ciuibus, et ab uniuerso populo, qui eius tyrannidem pati non poterat, eiectus est. qui postea populari moderatione usi sunt. At Joannes ipse regno exactus, dum urbem deserere cogeretur, discedens, quaecunque mala, quascunque calamitates et diras potuit, in eam <corr>imprecatus</corr> est. Crederem, si uir ille integerrimus fuisset, ab eo Deum immortalem exoratum fuisse: quoniam et urbs illa, et tota regio semper a saeuissimis hostibus uexata fuit, et nullum genus calamitatis reperiri potest quod non sustinuerit. Verum si mihi cogitanti, quae de huius urbis antiquitate existimare uelim, audacter in medium proferre liceat: urbem hanc tum uetustate, tum rerum gestarum gloria percelebrem non immerito existimauerim, tam natura et ipsius situ, quam fertilitate. Ex quo credibile est, Romanos rerum potitos huc, ut aliis plaerisque in locis, ad Barbarorum arcendas incursiones, colonos suos misisse. Hinca apud Plinium legimus, Scodram Romanorum oppidum uocitatum. Quod declinante postmodum Imperio, et re Romana pessum ruente, a Barbaris destructum, desolatum credi potest: ita ut quaecunque extabant monumenta scripta, maxime interierint. Et ideo de eius conditoribus nihil certi et explorati in medium afferre possumus. Verum nuper ad manus nostras fragmenta quaedam uerius, quam annales, peruenerunt, quae instaurationem potius urbis huius, quam aedificationem ad Attauorum nostrorum memoriam referant.
+        <note place="margin-right">Instauratores Scodrae.</note>
+        In his enim uernacula lingua scriptum est: Rosam quendam, cum Pha sorore sua, primos fundatores urbis Scodrae fuisse. Unde eius arx Rosapha appellabatur. qui diu foeliciter, quieteque regnauerunt: quibus deinde successisse ferunt (ex hac quae inter homines memoria extat) Nemagnanum quendam Imperatorem, qui Epiri, Macedoniae, Dalmatiae, utriusque Mysiae, totiusque nouae
+        <milestone unit="page" n="235v"/>
+        Romae imperium habebat. Qui moriens, filium caecum Vrosium nomine reliquit, cui ob uirtutem probitatemque cuncti parebant. Ei Stephanus filius in Imperio successit, et unicum filium Vrosium nomen aui referentem reliquit. Hic uitam silentio et absque liberis pertransijt, cuius Imperium proceres eius inter se partiti sunt. Nam inferior Mysiae comiti Lazaro obitigit, superior autem Nicolao Xuppano, noua uero Roma tribus fratribus obuenit, Vuchassioni, qui etiam regium nomen adeptus est, Andreae, et Exico. Moncinus quidam Deno, tantum maritimae urbi praefuit. Ex stirpe uero et prole <sic>Nemagnami</sic> Imperatoris, natus est Balsa, qui oram Bolianae proximam ab urbe fere usque ad mare tenens, tres suscepit alios: Georgium, Strazimirium et Balsam: qui uiri praeclarissimi fuerunt. Hi enim Scodram, quam ipse Vrosius (de quo supra diximus) tenebat, aggressi caeperunt. Nondum enim muris cincta erat, sed partim in plano, partim in colle posita, in quo nunc tota est. Hi quoque Duchainos Regulos, et Sophios, ex Aemathia seu Macedonia expulerunt: et Croiam urbem, quae sub imperio Sophiorum erat, caeperunt: qui uictoriam sequentes, bellum Stephano superioris Mysiae Regi intulerunt: quam tandem cum uniuerso exercitu fusum profligatumque, ad urbem Ragusium persecuti sunt, et ibi eum obsederunt. Denique intercedentibus Raguseis, pax inter eos facta est, positis confinibus usque ad Neretam fluuium, qui fines Phariae Dalmaticae ciuitatis diuidit. Hic enim erant termini Imperii, quod tres fratres tenebant. Dehinc uero ulterius progressi, Albam Graecam, quae in Epiro est, Castorium seu Castorilium, et totam Aulonem breui expugnarunt: qui quoad uixerunt (quoniam per id tempus fauste foeliciterque uitam duxerunt) Barbari nunquam Epirum, siue Macedoniam ingredi aut uexare ausi sunt. Multo post tempore duo ex his fratribus (minimo natu superstite, qui Balsa appellabatur) ex humanis sublati sunt. tunc quidam Hieurenesius Barbarorum praefectus, cum quadraginta millibus Turcarum in Macedoniam irrupti: cui quum Balsa tumultuario repentinoque milite occurrisset, nec uniuerso exercitu expectato, nec ducibus castrorum suadentibus, in eum intrepide irruisset (erat enim impiger, magnique animi) ab eo in quadam planicie, quae ab incolis Saura dicitur, prope flumen Aoum, iuxta Albam Graecam Epiroticae terrae, profligatus est, et ipse cum omnibus copiis suis caesus. Mortuo uero Balsa, Barbari tunc primum Epirum inuadere atque uexare caeperunt. <note place="margin-left">Castorium, Albaque Graeca, et Croia, occupatae a Barbaris. Scodra donata Amurathi Turcae: et recepta, atque oppignorata Venetis.</note>
+        Hinc et Castorio, Alba Graeca et Croia potiti sunt. Caeterum Balsae postea successit in regno Strazimirus Balsichius, familia Balsichiorum oriundus. Hic Scodram, Driuastum, Lyssum, Antibarium, et totum illum tractum tenuit: ac filium unicum Georgium reliquit, qui Scodram Amurathi Turcarum Regi ultro donauit (nondum enim rudi illi saeculo urbes et ciuitates adeo in honore
+        <milestone unit="page" n="236"/>
+        et precio erant. nondum enim caeca uesanaque regnandi cupiditate mortalium animi adeo exagitabantur) quam etiam postea successu temporis iterum ab ipso Amurathe dono recepit, eo quod ipsi Amurathi uirginem quandam formosissimam sibi sanguine coniunctam tradiderat. Demum Georgius eam urbem (ut fertur) Principi Venetorum pignori dedit, quam amplius non exegit. Quae quidem urbs hac tempestate magnitudine rerum gestarum celeberrima est, eo quod in monte saxeo posita sit, qui fere undique latissimis campis et feracissimis cingitur. Est enim ciuitas ipsa egregie natura et manu munita, in immensum edita, circuitu non mediocri. nam ab urbe condita, murorum ambitus amplius duo millia passuum quadrati forma in planum usque excedebat. Huius partem quae in plano erat, Drino fluuius per medium secabat. super quo ingens pulcherrimusque pons lapideus extructus erat: qui tantae longitudinis erat, ut extrema parte Bolianam pertingeret. Cuius uestigia his quoque temporibus extant: et locus, ubi arx tantummodo posita erat, nunc totam urbem complectitur. Quae quanta fuerit, illud certissimo argumento esse potest. nam quum ingens Barbarorum multitudo eius fines inuaderet, ex uniuersa fere iuuentute ad sonum (ut aiunt) campanae, quinque millia equitum ex urbe in aciem obuiam prodibant. quae quum prope flumen Drinum, quod ab urbe octo millibus nunc distat, cum hoste congressa esent, stragem quam maximam plaerumque ediderunt. Verum quia Scodrensis miles numero longe inferior erat, tandem magno, continuoque bello fessus, cladem insignem suscepit. Qui ex ea superfuerunt, una cum familia in arcem confugerunt: hostis uero facto impetu in urbem irruit. Et quum eam destitutam reperisset, saeuissimo incendio totam exussit, atque euertit. Deinde oppugnare arcem conatus est: quam quum expugnare non ualuisset, inde discessit. Scodrensis postea urbis reficiendae et instaurandae curam omisit. Et quoniam arx ipsa tutior locus uisus est, ibi totam urbem ponere coepit. Quae quidem undique natura praeceps est, nisi ea parte, qua septentrionemspectat, aditum admodum decliuem habet: a quo collis quidam intra iactum sagittae distat, totus uineis oleisque consitus: super quo Praefectus nouae Romae, quem Bassam Turcae appellant,
+        <note place="margin-right">Bassa, praefectus nouae Romae.</note>
+        priori obsidione tabernaculum suum collocauerat. Ex quo postea Bassae nomen semper obtinuit. Haec praeclara et nobilissima ciuitas aeris salubritate praepollet, agro facili, negocio bene culto, et omnium feracissimo, aquis satis abundans. Despicit per uniuersum fere agrum, nihilque est quod ex urbe prospicienti impedimento sit: quin omnes tractus, spaciosos et latos campos intueatur, singulaque oculis percurrat. Inde enim cultores aspicias, qui agros colunt: messores, qui fruges maturas metunt. inde molas frumentarias: piscatores, qui hinc fluminibus, inde lacu amoenissimo magnam piscium capturam faciunt.
+        <milestone unit="page" n="236v"/>
+        Praeterea uineas, hortos undique, mare, flumina, fontes, lacum, ac omnia, quae ad oblectandos sensus a natura procreata sunt. Cuius quidem urbis radices montis ab Oriente nunc tantum riuulus quidam Drini alluit, ab Occidente autem Boliana flumen, quae piscium suiuslibet generis est abundans: ac iugi celerique cursu urbem praeterfluens, ad duodeuiginti millia passuum in mare egreditur. Oritur autem ex illo celeberrimo lacu, quem omnes recentem esse putant: quoniam antiqui scriptores nullam huius fecere mentionem.
+        <note place="margin-left">Noui lacus, nouaque flumina.</note>
+        ab urbe fere stadiis sexdecim distat. Ex hoc coniicitur, hunc, ut multa alia uel flumina uel lacus ex terra post antiquitatem illa erupisse: de quo (quia non est silentio praetereundus) qui de situ orbis accurate scripserunt, non tacuissent. hanc opinionem, id quod a uetustioribus loci huius incolis accepi, comprobare uidetur. nam ubi nunc lacus est (ut illi praedicant) continens olim erat: erantque iuges ac perennes fontes, ex quibus diuinitus lacus ille ingens atque largissimus editus est: qui quidem altissimus, pulcherrimusque extat, cuius circuitus centum et uiginti millia passuum et amplius complectitur, aerem quoquo uersus saluberrimum diffundens, uarietate, magnitudineque piscium omni tempore abundans. praedia feracissima, oppida egregia, uicos complures proximos habet. In eo uero scopuli extant, in quibus coenobia pulcherrime extructa sunt, quae sacerdotes Graecorum frequentes incolunt. Sed nemini hoc mirum esse uideatur, si lacum hunc recentem esse dixerim. nam apud praestantissimos celeberrimosque geographos atque scriptores inuenimus, persaepe et in mari insulas ac scopulos, et in terra fontes ac flumina enasci, atque quotidie emergere. Non abs re fuit in hanc descriptionem diuertisse, quo cunctis exploratum esset, quanti facienda haec urbs esset, et cur Turcarum Tyrannus tantopere eiusmodi urbe potiri conaretur. Igitur deinceps quod proposui, pro uiribus exequar: quod si fortasse stilo deficiam, legentes boni consulent: quia omnia quibus interfui (ut iam praefatus) et quae uidi, et passus sum, fideliter exponam.
+    </p>
+                                        </div>
+                            <div type="liber">
+                                <head>Marini Barletii Scodrensis sacerdotis de Scodrensi obsidione et expugnatione, Liber secundus.</head>
+                                <milestone unit="page" n="242"/>
+                                <p>
+                                    tetra, tamque funesta fame, quae etiam fortissimos uiros debiliores reddit, perirent. Quae deditio insperata, Scodrenses profecto non mediocri moerore atque dolore affecit, cum propter Christianorum uelut patrimonii attractionem, quod indies res Christian imminueretur, et ad extraneos alienosque deuolueretur: tum propter nimiam hostis uicinitatem, quod tam commodum, tam opportunum locum ad bellum continuandum sibi Barbarus adiunxerat. De cuius urbis situ, eiusque conditore, quantum hominum memoria colligi potest, perstringendo breuissime attingam. Croia ciuitas est Epiri, regni illius ualidissimum munimentum, et tanquam clauis firmissima. Haec non magno ambitu continetur, in altissima saxi crepidine, 
+                                    et undique praecipiti, posita: campos latissimos hinc et inde habet, ubi Caesar tota acie cum Pompeio conflixit. 
+                                    <note place="margin-right">Caesaris et Pompeii ad Croiam conflictus.</note>
+                                    Quae quidem oppugnari, nec expugnari ullo modo potest: quia et natura, et arte, et hominum opere ex omni parte munita est. in ea enim sunt fontes iuges, ac perennes: ex quibus ei nomen inditum fuit. nam Croia, quod Epiroticum nomen est, Latine fons interpretatur. habet quidem agrum feracissimum atque amoenissimum, syluas uero et arbores caeteris (ut opinor) uberiores, speciosioresque, et ad classes aedificandas (ut quidam putant) nusquam proceriores aptioresque reperiri possunt. Distat autem Dyrrhachio ad quatuordecim millia passuum, Scodra uero ad quinquaginta septem: et quia finibus Barbarorum contermina erat, ab his post obitum inuictissimi Principis Scanderbegii, cuius imperio fidelissime parebat, continuo uexari coeperat. Duo tamen ex Barbarorum Principibus, adhuc ipso Scanderbegio uiuente, cum 
+                                    <milestone unit="page" n="242v"/>   
+                                    omnibus uiribus suis eam obsidere tentarunt: sed eorum conatus, fortissime aduersante Scanderbegio, ad irritum ceciderunt: quin eo uiuente nullus Barbarorum exercitus Epirum ingredi (ut ita dicam) et inuadere ausus est. Prius enim Amurathes pater Meumethis, cum omnibus copiis ad eius oppugnationem accessit: quam quum expugnare non potuisset, ex nimia indignatione et dolore consumptus interiit. Postea uero Meumethes, in cuius deditionem nuperrime uenit, uallo eam undique circundare conatus, minime expugnare potuit. Hanc urbem tam munitam Carolus quidam Sophia regulus Epiroticus condidit: priusque uallo cratibusque eam sepsit, deinde fortissimis muris cinxit. Non longo post temporis interuallo, a Balsichis, de quibus supra memorauimus, interfectus est. Qui tunc Scodram, et totam fere Epirum tenebant, et tunc Croia potiti sunt. Verum quum Balsa aetate minimus adhuc (ut iam diximus) superstes esset, aliis duobus fratribus extinctis, a Turcis, qui tunc primum in Macedoniam et Epirum irruperunt, quibus ipse inuicti animi nondum uniuersis copiis collectis, nec satis ad bellum instructus, non subsidiis firmata acie, non equite apte locato, incaute inconsulteque agmine trepido ac tumultuante, licet infesto, occurrerat, in insidias praecipitatus, in fugam conuersus, ac obtruncatus est. Post cuius caedem Barbari Croia potiti sunt, et Alba Graeca, quae Epiri est, ac etiam Castorio. Sed Croia non diu sub Turcarum imperio mansit. 
+                                    <note place="margin-left">Croia a Scanderbegio liberata, et Venetis donata.</note>  
+                                    Nam magnanimus uir, et egregius Princeps Epirotarum Scanderbegius, eam a Tyrannide Barbarorum, Principe Amurathe, strenue liberauit. quam quum quinque et uiginti annos possedisset, uergens in senium, ueritus ne denuo aliquo modo a Barbaris opprimeretur, Principi Venetorum eam libere tradidit. Sed ad propositum redeamus.
+                                </p>
+                            </div>
+</body>
+    <back>
+        <div type="colophon">
+            <p></p>
+        </div>
+        
+    </back>
+</text>
+    </group>
+    </text>
+</TEI>

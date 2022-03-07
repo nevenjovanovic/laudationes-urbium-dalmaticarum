@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+           <title>In suam patriam encomiasticon (1601), editio electronica</title>
+            <author><name>Petar Palikuća</name>,
+	    Dubrovnik, <date>fl. 1608.</date></author>
+           <editor>Stjepan Krasić</editor>
+<respStmt>
+  <resp>Electronice edidit</resp>
+<name>Neven Jovanović</name>
+</respStmt>
+
+         </titleStmt>
+        <extent>
+          66 verborum, versus 10
+        </extent>
+         <publicationStmt>
+	   <p>Elektronska verzija: Neolatina Croatica, znanstveni
+	   projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+	   Hrvatska.  <date>Ožujak 2012.</date></p>
+	 </publicationStmt>
+	 
+         <sourceDesc>
+           <bibl>
+             Cerva, Seraphinus Maria ; Krasić, Stjepan: Bibliotheca Ragusina in qua Ragusini scriptores eorumque gesta et scripta recensentur. Zagrabiae : JAZU, 1975--77 (Hrvatski latinisti, knj. 8). Sv. 3, s. 42.
+           </bibl>
+           <bibl>
+           Nikola Vitov Gučetić, Nicolai Viti Gozzi Commentarii in tres psalmos XV, XXV, CXXIV. Venetiis, Ad Robertum card. Bellarminum, 1601.
+           </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+     <revisionDesc>
+       <change><name>Neven Jovanović</name>
+       Početna verzija.
+       </change>
+     </revisionDesc>
+   </teiHeader>
+<text>
+<body>
+  <milestone unit="page" n="3-42"/>
+  <gap reason="non-necesse"/>
+      <div met="elegiacum" type="epigramma">
+      <head>EIVSDEM IN SVAM PATRIAM ENCOMIASTICON.</head>
+
+<l>Quae iacet Illyricis Elaphite nobilis undis</l>
+<l>Insula, Racusio subditur imperio.</l>
+<l>Gignit parua viros, melius queis gurgite vasto</l>
+<l>Nulla per aequoreum gens trabe currit iter.</l>
+<l>Hic nemus Hesperidum, sunt hic Peneia Tempe;</l>
+<l>Sunt fontis latices, Naiadesque Deae</l>
+<l>Neptunus fert sceptra, Venus Cytherea videtur</l>
+<l>Post habuisse Gnidon, postque habuisse Cypron.</l>
+<l>I nunc, qui blateras, in nos mendacia scribe;</l>
+<l>Dentes ni cesses experiere meos.</l>
+<gap reason="non-necesse"/>
+</div>
+</body>
+</text>
+</TEI>

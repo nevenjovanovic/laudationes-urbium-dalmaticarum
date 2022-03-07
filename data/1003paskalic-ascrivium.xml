@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Ad Georgium Bizantium: Ascrivium (1551), versio electronica</title>
+    <author>Ludovik Paskalić (Ludovicus Pascalis, Lodovico Pasquali, Kotor c. 1500–1551)</author>
+    
+</titleStmt>
+<editionStmt>
+    <edition>
+        <date>Versio electronica in lucem primum edita die 7. Martii anno 2010.</date>
+    </edition>
+</editionStmt>
+    <publicationStmt>
+        <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+            Hrvatska.  <date when="2010-03">ožujka 2010</date>.</p>
+    </publicationStmt>
+<sourceDesc>
+    <p><bibl>Paskalić, Ludovik:  Ludouici Pascalis, Iulii Camilli, Molsae, et aliorum illustrium poetarum carmina, ad illustriss. et doctiss. marchionem Auriae Bernardinum Bonifatium per Ludouicum Dulcium nunc primum in lucem aedita.  Venetiis: apud Gabrielem Iolitum et fratres De Ferrariis (1551), p. 49-51.</bibl>. Exscripsit Sanja Perić Gavrančić. </p>
+</sourceDesc>
+</fileDesc>
+    <profileDesc>
+        <creation>
+            <date notAfter="1551">ante 1551.</date>
+        </creation>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            Odabrano iz glavnog Paskalićeva dokumenta. Uređeno zaglavlje.
+            <name>Neven Jovanović</name>
+            <date>2010-03-08</date>
+        </change>
+        <change>
+            XML označavanje, zaglavlje
+            <name>Neven Jovanović</name>
+            <date>2010-03-07</date>
+        </change>
+        <change>
+            Početni prijepis
+            <name>Sanja Perić Gavrančić</name>
+        </change>
+    </revisionDesc>
+</teiHeader>
+    <text type="poesis"><body><div type="poesis-silva">
+        <head>AD GEORGIUM / BIZANTIUM, / ASCRIVIUM.</head>
+        <!-- praefatio -->
+<lg><l>Haec tibi Dalmaticas inter Bizantice sylvas</l>
+<l>Propter aquas, mediae canimus sub tempore brumae.</l>
+<l>Tu mihi, Cecropii seu sacra inventa Solonis</l>
+<l>Mente agitas, seu nubiferae tibi cognita Cyrrhae</l>
+<l>Aonidum comitante choro per templa vagaris,</l>
+<l>Seu quodcunque moves, meritis en accipe pridem</l>
+<l>Carmina vota tuis, nec te has invisere sylvas</l>
+<l>Poeniteat si quando tuam maioribus actis</l>
+<l>Lenia defessam demittis ad ocia mentem.</l>
+<l>Te Lauri virides, Myrtique, humilesque Myricae,</l>
+<l>Te Satyri Dryadesque canent, quin omnia tollent</l>
+<l>Haec nemora, haec arbusta tuas ad sydera laudes.</l>
+        <!-- narratio --></lg>
+<lg><l>Interea iuvet haec, media quae noctis in umbra,</l>
+<l>Dum venti, fluctusque silent, volucresque ferasque</l>
+<l>Somnus habet, vitreae <sic>Bithynnius</sic> arbiter undae</l><!-- MS Bithynius -->
+<l>Muscosa sub rupe sedens sine teste canebat</l>
+<l>Ipse sibi, quum vicina sub sepe laterent</l><!-- saepe -->
+<l>Naiades, plenosque nova dulcedine cantus</l>
+<l>Exciperent tacitae, viridesque ediscere colles</l>
+<l>Et nemora, et volucres, nec non iterare docerent.</l><!-- iuberent -->
+        <!-- carmen; primo, mundi creatio -->
+<l>Ille canebat, uti vasto circumdata ponto</l>
+<l>Arbitrio sit terra Dei, cui desuper aether</l><!-- quam del. pro cui     -->
+<l>Imminet; et variis coelum spectabile signis</l>
+<l>Assidua tantam foveat vertigine molem;</l>
+<l>Utque per immensae vacuos telluris hiatus</l>
+<l>Infundat se se maris impetus, et cava subter</l>
+<l>Antra; vagus quum se tumidos attolit in aestus</l>
+<l>Oceanus, non multimodae sic sydere lunae</l><!-- seu pro non MS -->
+<l>Non alio cogente Deo, sed quod mare vastum</l><!-- Siue pro Non MS -->
+<l>Internus vigor, ut reliquum genus omne animantum,</l>
+<l>Intus alat, seque immensos infundat in artus;</l>
+<l>Et certis spaciis aestu respiret anhelo,</l>
+<l>Alternetque vices, et nunc se fluctibus arctet,</l>
+<l>Nunc tumeat, lateque patentes obruat agros;</l>
+<l>Utque hinc ima cavae se se per viscera terrae</l>
+<l>Insinuans gustus paulatim linquat amaros,</l>
+<l>Et nova per varias emittat flumina partes.</l></lg>
+        <!-- secundo, Polyphemus et colones in Illyrico -->
+<lg><l>Tum canit, ut Siculis senior Polyphoemus in oris</l>
+<l>Regnarit quondam, ternaque ut prole parentem</l>
+<l>Vix tandem Galataea suo dignata cubili</l>
+<l>Fecerit, utque novas sedes, nova quaerere regna</l>
+<l>Impulerint Lycii consulta oracula Phoebi</l>
+<l>Trinacrios iuvenes, patriasque relinquere terras.</l>
+<l>Quorum de numero, cultu, et pietate priorem</l>
+<l>Illirium longe auspiciis melioribus usum</l><!-- Illyrius -->
+<l>His demum venisse locis, belloque subactas</l>
+<l>Dixisse <sic>Illyricas</sic> proprio de nomine gentes,</l><!-- liber Illiricas -->
+<l>Et nostras rexisse diu foeliciter oras:</l>
+<l>Vtque sit in multas primi post funera Regis</l>
+<l>Divisum Imperium fraterno foedere, partes,</l>
+<l>Atque haec ut gelido loca subdita cuncta Leonti,</l><!-- Lycaee corr. in Leonti MS -->
+<l>Illyrii soboles primo Vermanus in aevo</l>
+<l>Rexerit, insignis iaculis venator, et arcu;</l>
+<l>Vtque suo nostros dici cognomine montes </l>
+<l>Iusserit, et leges dederit, ritusque novarit.</l></lg>
+        <!-- Ascra -->
+<lg><l>Pone refert, ut Pierides in vallibus Ascrae</l>
+<l>Pascentem niveas puerum videre capellas</l>
+<l>Propter aquas, mollique oppressum lumina somno;</l>
+<l>Et super Aonios raptum per inania montes</l>
+<l>Gorgoneis lavere vadis; ut tempora lauro</l>
+<l>Cinctus, et argutas pertentans pollice chordas</l>
+<l>Dixerit haec illi divino carmine Phoebus.</l>
+<l>Fortunate puer, prima en munuscula Musae</l>
+<l>Hos tibi, non ulli quos attrivere priores</l>
+<l>Dant calamos, his tu calamis impone labellum;</l><!-- his... refer om. MS -->
+<l>Inde refer, quo conveniat sub sydere terram</l>
+<l>Vertere, quid laetas faciat succrescere aristas;</l><!-- pingues -->
+<l>His tibi et Ascriviae gentis dicatur origo,</l>
+<l>Venturique tua clari de stirpe nepotes;</l>
+<l>Fortunate puer, latis pecus errat in arvis:</l>
+<l>Tu fontes inter sacros, et frigida Tempe</l>
+<l>Carpis adhuc placido somnum suadente susurro.</l>
+        <!-- Ascraeus puer -->
+<l>His adiungit uti iam somno excussus ab alto</l>
+<l>Ascraeus puer insolitum sub pectore numen</l>
+<l>Senserit, et patriam sic solverit ora per urbem,</l>
+<l>Cura Deum Cives, alias dant numina sedes, </l>
+<l>atque alio vos fata vocant, monet autor Apollo</l><!-- monet... patriae om. MS -->
+<l>Linquere Rus miserum patriae, terrasque remotas</l>
+<l>Illyriae penetrare iubet, ubi surgit in auras</l>
+<l>Vermanus pater, et glaciali fronte Leontes.</l><!-- Lycaeus MS -->
+        <!-- urbs sub Vermano -->
+<l>Hic locus urbis erit, hic vestro e sanguine creti</l>
+<l>Cernentur meritis conscendere ad astra nepotes.</l></lg>
+<lg><l>Nec tacuit mox, ut patriis abscesserit oris</l>
+<l>A magnis sic iussa Deis Ascrea iuventus,</l><!-- Ascręa MS -->
+<l>Vtque peragratis variis regionibus orbis</l>
+<l>Venerit his tandem multo post tempore terris,</l><!-- multo: paruo MS -->
+<l>Et laeto auspicio parvam fundaverit urbem,</l>
+<l>Ascriviumque suae de nomine dixerit Ascrae.</l>
+<l>Quam patrum immemores (mediis quae cincta scatebris</l><!-- Quam... minores om. MS -->
+<l>Fluminibusque foret) Catharon dixere minores.</l></lg>
+        <!-- genus Bithynii -->
+<lg><l>Seque suumque genus recolens Bitinnius addit,</l><!-- Bithynius -->
+<l>Vt iam Bebriciis fuerit Regnator in oris,</l>
+<l>Et pulsus patrio post multa pericula regno</l>
+<l>Orbe pererrato nostris consederit arvis:</l>
+<l>Vtque hic magnorum fuerit pietate Deorum</l>
+<l>Versus in aeternas post ultima funera lymphas,</l>
+<l>Quae <corr>mea</corr> perpetuo resonant per rura susurro.</l></lg><!-- meo?? Quae... susurro om. MS -->
+        <!-- finis -->
+<l>Haec et plura suo residens Bithynnius antro,</l><!-- Bithynius -->
+<l>Rettulit, immemores quae non tenuere puellae,</l>
+<l>Et iam purpureo perfundens lumine coelum</l>
+<l>Prodierat canis rorans Aurora pruinis,</l>
+<l>Cum Deus, albenti praecinctus harundine crines,</l>
+<l>Conticuit, statimque suo se condidit alveo. </l>
+    </div>
+    </body>
+    </text>
+    </TEI>

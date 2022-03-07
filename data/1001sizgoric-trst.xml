@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+          <title>Georgii Sisgorei Sibenicensis ad Raphaelem Zouenzonium poetam elegia, ex Elegiarum et carminum libris tribus (1477), versio electronica</title>
+      
+          <author><name>Juraj Šižgorić (Georgius Sisgoreus)</name>, Šibenik <date from="1445" to="1509">c. 1445–1509?</date></author>
+          <editor>Veljko Gortan</editor>
+      </titleStmt>
+        <editionStmt>
+            <edition>Altera editio electronica.
+                <date>2008</date>
+            </edition>
+            <respStmt><resp>Editionem electronicam curavit</resp>
+                <name>Neven Jovanović</name>
+            </respStmt>
+        </editionStmt>
+        <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+                Hrvatska.  <date>2008</date>.</p>
+        </publicationStmt>
+        
+        <sourceDesc>
+            <p>V. Gortan, translatum in <bibl>Poeti d'Italia in lingua
+                latina (Padova, Trieste, Venezia, Verona, 2002: http://157.138.65.54:8080/poetiditalia/</bibl>)
+            </p>
+            <p>Prema izdanju: <bibl>Šižgorić Šibenčanin, Juraj, and Veljko Gortan. Elegije i pjesme. Zagreb: Jugoslavenska akademija znanosti i umjetnosti, 1966.</bibl></p>
+        </sourceDesc>
+    </fileDesc>
+      <revisionDesc>
+          <change>
+              <date>2010-01-18</date>
+              <name>Neven Jovanović</name>
+              Ispravio tipfeler u Apo1lo. Pojednostavio jedan tekst (premjestio iz docTitle u head). Odabrao pjesmu za laudationes (Trst).
+          </change>
+          <change>
+              <date>[2009-06-29]</date>
+              
+              <name key="neven.jovanovic">Neven Jovanović</name>
+              Etemos > Eternos.
+              Popravljeno zaglavlje.
+          </change>
+          <change>
+              <date>[2008-08-22]</date>
+              
+              <name key="neven.jovanovic">Neven Jovanović</name>
+              Validacija u Oxygenu.
+              
+          </change>
+          <change>
+              <date>[2006-01-19T23:46:52+0100]</date>
+              <name key="neven.jovanovic">Neven Jovanović</name>
+              Dodao prozne tekstove (skenirane iz izdanja HAZU), ispravio jedno eret u
+              erit, dokraja proveo strukturno kodiranje.
+          </change>
+          <change><date>[2008-05-13]</date>
+              <name key="neven.jovanovic">Neven Jovanović</name>
+              korekcija slovnih pogrešaka, premješteni brojevi petog retka unutar l elementa, TEI.2 element zamijenjen s TEI, prilagođeno tei.css listu</change>
+      </revisionDesc>
+  </teiHeader>
+    <text>
+        <front>
+            
+                <docTitle>
+                    <titlePart>Georgii Sisgorei Sibenicensis Elegiarum et carminum libri tres</titlePart>
+                </docTitle>
+                <byline>Veljko Gortan edidit</byline>
+        </front>
+        <gap reason="irellevant" resp="NJ"/>
+            <body>
+                            <div xml:id="GS203" type="elegia-epistula" met="elegiacum">
+                                <head>Ad Raphaelem Zouenzonium poetam</head>
+                                <l>	Lux mea perfoelix Raphael, tua carmina uidi,</l>
+                                <l>	     Visa quater nobis hec placuere quater.</l>
+                                <l>	Nam toto culte ueniebant carmine Musae</l>
+                                <l>	     Cunque tuo dulces ore dedere sonos.</l>
+                                <l n="5"> 	Venerat et Delphis formosus Apollo relictis</l>
+                                <l>	     Et cecinit cytharae captus amore tue.</l>
+                                <l>	Pulsabant Charites alterno ter pede terram</l>
+                                <l>	     Iam capte fidibus, clare poeta, tuis.</l>
+                                <l>	Laurea texebant Driades tibi scerta benigne,</l>
+                                <l n="10"> 	     Oscla Zouenzonio terque dedere uiro.</l>
+                                <l>	Te merito clarum ualeo uocitare poetam,</l>
+                                <l>	     Cui Phoebus, Nymphae Pyeridesque fauent.</l>
+                                <l>	Vate quid est sacrius? Quid tanto nomine maius?</l>
+                                <l>	     Nil, ego confiteor, clarius esse potest.</l>
+                                <l n="15"> 	Numen habent uates, sunt pectora digna triumpho</l>
+                                <l>	     Celesti, rapido non tribuenda rogo.</l>
+                                <l>	Nomen habent uates, quod nunquam docta tacebit</l>
+                                <l>	     Turbaque paruorum turbaque iusta senum.</l>
+                                <l>	Crimen habent uates, quo se iactabit amator</l>
+                                <l n="20"> 	     Et releget sacras corde tepente faces.</l>
+                                <l>	Nomine nil maius uatum, nil dulcius ore</l>
+                                <l>	     Musarum; Phoebi cedite, cuncta, lyre!</l>
+                                <l>	Nasonem spiras certe redolesque Tibullum</l>
+                                <l>	     Et, quod pretereo, Virgiliumque sapis.</l>
+                                <l n="25"> 	Perge, mones, pulchris, Raphael, cantando puellis!</l>
+                                <l>	     Pergam ego nec metuam liuida corda canens.</l>
+                                <l>	Nam pro me pugnare meis, mea uita, puellis</l>
+                                <l>	     Est animus, si quid liuida corda parant.</l>
+                                <l>	Pro tyrone suo doctus pugnabit Apollo,</l>
+                                <l n="30"> 	     Pugnabit nato proque Minerua suo.</l>
+                                <l>	Tu quoque pugnabis, si quid tua carmina possunt,</l>
+                                <l>	     O presens Musis, clare poeta, meis.</l>
+                                
+                            </div>
+                        </body>
+                   
+    </text>
+</TEI>

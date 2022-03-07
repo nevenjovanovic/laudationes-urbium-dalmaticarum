@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xml:id="bembo-p-aethna">
+      <titleStmt>
+        <title>De Aetna Ad Angelum Chabrielem Liber, versio electronica</title>
+        <author key="dns-bembo01">
+          <persName xml:lang="it">Pietro Bembo</persName>
+          <date>1470 - 1547</date>
+        </author>
+        <editor>Aldo Manuzio</editor>
+        <respStmt>
+          <resp>Hanc editionem electronicam curavit</resp>
+          <name>Neven Jovanović</name>
+        </respStmt>
+      </titleStmt>
+      
+      <editionStmt>
+        
+          <edition>Prema elektroničkom izdanju izvornoga tiska (1496).</edition>
+        
+      </editionStmt>
+      <extent ana="B">Mg:A Verborum 7464</extent>
+      <publicationStmt>
+        <p>Rad nastao u okviru znanstvenog projekta Profil hrvatskog latinizma,
+          (Filozofski fakultet Sveučilišta u Zagrebu, Hrvatska). <date>Rujna
+            2012.</date></p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Petri Bembi De Aetna ad Angelum Chabrielem liber.
+          Pietro Bembo; Angelo Gabriel; Aldo Manuzio
+          Venice : Aldus Manutius, Romanus, February 1495/1496.
+          
+          DPR: Liber Liber</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notAfter="1496-02">1496-02</date>
+        
+        
+      </creation>
+      <textClass>
+        <keywords scheme="biblio/croala-catalogus-aetatum.xml#typ01">
+          <term>prosa oratio</term>
+        </keywords>
+        <keywords scheme="biblio/croala-catalogus-aetatum.xml#aet01">
+          <term>Litterae renatae (1400-1600)</term>
+          <term>Saeculum 15 (1401-1500)</term>
+          <term>1451-1500</term>
+        </keywords>
+        <keywords scheme="biblio/croala-catalogus-aetatum.xml#gen01">
+          <term>prosa oratio - dialogus</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <name>Neven Jovanović</name>
+        <date>2012-09-04</date>
+        Početna verzija za De nostratibus.
+        Latinski spellcheck.
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor>PETRI BEMBI</docAuthor>
+        <titlePart>DE AETNA AD 
+          ANGELVM CHABRIELEM 
+          LIBER.</titlePart>
+      </titlePage>
+    </front>
+    <body>
+      <div type="prosa-dialogus">
+        <p>Factum a nobis pueris est, et quidem sedulo, Angele, quod meminisse te certo scio, ut fructum studiorum nostrorum, quos ferebat illa aetas non tam maturos quam uberes, semper tibi aliquos promeremus: nam siue dolebas aliquid, siue gaudebas, quae duo sunt tenerorum animorum maxime propriae affectiones, continuo habebas aliquid a me, quod legeres, uel gratulationis, uel consolationis; imbecillum tu quidem illud et tenue, sicuti nascentia omnia et incipientia; sed tamen quod esset satis amplum futurum argumentum amoris summi erga te mei. Verum postea quam annis crescentibus et studia et iudicium increuere nosque totos tradidimus graecis magistris erudiendos, remissiores paulatim facti sumus ad scribendum, ac iam etiam minus quotidie audentiores.</p>
+        
+        <pb n="102"/>
+        
+        <p>Itaque quas pueri miserimus ad te lucubrationes nostras, numerare aliquas possumus; quas adolescentes, non possumus: quo in consilio nobis diutius permanendum esse non puto: nam ut interdum non loqui moderati hominis est, sic semper silere cum eo, quem diligas, perignaui: neque Hercule si in officio permansimus in prima aetate, debemus nunc, tanquam inexercitati histriones, in secundo aut tertio actu corruisse. praesertim cum aemulatio tuorum studiorum, Angele, nos non excitare modo languentes possit, sed etiam incendere quippe qui multa et praeclara habuimus a te semper habemusque quotidie et consuetudinis nostrae testimonia et doctrinae tuae. Quare sicuti pueri scriptiunculas nostras, quasi lactentis ingenii acerbitatem, detulimus ad te, sic nunc deinceps etiam ad te adolescentiae nostrae primos foetus deferemus; non quo me ipse plus ames: nam iam id 
+        <pb n="103"/>
+        
+        fieri posse uix puto; sed plane quia ita debemus inter nos; neque enim arbitror cariorem fuisse ulli quenquam quam tu sis mihi.</p>
+        <p>Sed de his et diximus alias satis multa et saepe dicemus: nunc autem, quoniam iam quotidie fere accidit, postea quam e Sicilia ego et tu reuersi sumus, ut de Aetnae incendiis interrogaremus ab iis, quibus notum est illa nos satis diligenter perspexisse; ut ea tandem molestia careremus, placuit mihi eum sermonem conscribere quem cum Bernardo parente habui paucis post diebus quam rediissemus; ad quem reiiciendi essent ii, qui nos deinceps quippiam de Aetna postularent. Itaque confeci librum quo uterque nostrum comuniter uteretur: nam cum essemus in Noniano et pater se (ut solebat) ante atrium in ripam Pluuici contulisset, accessi ad eum progresso iam in meridianas horas die: ubi ea, quae locuti sumus inter nos, fere ista sunt. Tibi uero nunc oratione utriusque nostrum, tanquam habeatur, 
+        
+        <pb n="104"/>
+        
+        explicabo, non tanquam recenseatur. Igitur cum illum multa in umbra sedentem comperissem, ita initium interpellandi eum feci.</p>
+<p><label>PETRVS BEMBVS FILIVS.</label> Diu quidem pater hic sedes et certe ripa haec uirens, quam populi tuae istae densissimae inumbrant et fluuius alit, aliquanto frigidior est fortasse quam sit satis.</p>
+        <p><label>BERNARDVS BEMBVS PATER.</label> Ego uero fili nuspiam esse libentius soleo quam in hac cum ripae, tum arborum, tum etiam fluminis amoenitate: neque est quod uereare nequid nobis frigus hoc noceat, praesertim in tanto aestatis ardore: Sed fecisti tu quidem perbene qui me ab iis cogitationibus reuocasti quas et libentissime semper abiicio, cum in Nonianum uenitur, et nunc quidem nobis nescio quo pacto furtim irrepserant non modo non uocantibus, sed etiam inuitis.</p>
+        <p><label>BEMBVS FILIVS.</label> De republica scilicet cogitabas aliquid, aut certe de
+        <pb n="105"/>
+        
+        triumuiratu tuo: saepe enim ex te audiui (si fieri possit) uelle te, in agris cum esses, quoniam tibi id cum modice contingeret, tum etiam perraro, de iis quae in urbe agantur, tanquam lethaeo aliquo sumpto poculo, nihil omnino recordari.</p>
+        <p><label>BEMBVS PATER </label>Est ita, ut dicis: nam cum ab urbe propterea me frequentiaque hominum tanquam a fluctibus in hunc solitudinis portum recipiam ut relaxem a curis remittamque paulisper animum meque ipsum restituam mihi atque ad reliquos confirmem labores, ut in ludis athletae solent qui, cum aliquo in cursu desudarint, considunt parumper reuocantque sese, ut sint ad reliqua postea certamina ualentiores; si tamen illae ipsae me rus etiam prosequuntur quas fugio curas et sollicitudines, profecto nihil ago: quod mihi quidem nunc ipsum euenit: qui cum solus in hac ripa consederim ut dignum aliquid isto
+        <!-- A iii -->
+        <pb n="106"/>
+        
+        silentio meditarer, ecce ita etiam unda illa ipsa resorbuit urbanorum negotiorum paulatimque in triumuiratus mei curas delapsus sum.</p>
+<p><label>B. F.</label> Ita sane coniectabar: uisus es enim mihi iandudum nescio quid multa cogitatione commentari, neque eo uultu, quo esse hic soles, hilari et soluto; sed, quo te in urbe conspicimus, contractiore interdum ac graui.</p>
+<p><label>B. P.</label> Recte coniectabare: Sed ista tandem, quoniam nimis iam molesta sunt, obliuiscamur.</p>
+        <p><label>B. F.</label> Vtinam ipse id possis pater; tibique istud (quando ita te iuuat) tam facile factu esset, quam mihi: sed omnes curae, quae quidem sint maximae, ita se habent; ut, si insequaris, non fugiant; si fugias, etiam insequantur: munus autem istud tuum cum est ipsum negotiosissimum per sese; quippe a quo fere omnes reipublicae nostrae partes pertractantur quodque uniuersae ciuitatis caeterarumque urbium,
+        <pb n="107"/>
+        
+        nostrarum aduocationem agit et sustinet; tum uero illud etiam accedit quod tu is es, qui maxime omnium tranquillitatem animi requietemque deames; quo fit ut magis etiam illa sentias, quae te premunt.</p>
+<p><label>B. P.</label> Est fili, et sane causa illa quidem non leuis, quae mihi labores adauget meos: sed tamen (ut uerum fatear) aliud quiddam maius me mouet; quod ipsum nuper me in urbem reuocauerat, sic dum sederem; reuocatque saepissime.</p>
+<p><label>B. F.</label> Quid illud tandem est? <label>B. P.</label> quod reipublicae causa non commoueri neque uellem, si possem; neque possem, si uelim: nam cum ab ineunte aetate ita uitam instituerim meam ut patriae adessem semper; prodessem, cum possem; potuerim autem non nunquam uel iuuenis et domi et foris; illa uero me saepe muneribus reliquis, saepe legationibus honestarit; eam ipse si deseram nunc, cum et experientia et consilio et auctoritate
+        <!-- A i i i i -->
+        <pb n="108"/>
+        
+        <sic>plusualeo</sic>; quid sit aliud, quam si tu me iuuenis senem destituas, filius patrem?</p>
+        <p><label>B. F.</label> Duas igitur causas praedicas pater curarum tuarum; duras tu quidem illas, et graues; uerum, quia te sciente a te ipso proueniunt, perferendas: nam qui te idem et actionibus tradidisti, quibus otio inimicius esse quid potest? et rus amas secessusque istos tuos; quae quidem, cum multo diutius ipsis careas quam fruaris, uitam sibi illam efficiunt molestiorem, dolendum tibi non puto si te uel illis ipsis rebus condemnes, quas fugis, uel fugias omnino quae te iuuant. Sed illud tamen quale est quod te dixeras reipublicae causa commoueri? an te fortasse mi pater motus ii Galliarum perturbant, qui feruntur? <label>B. P.</label> Minime illi quidem; uerum admodum gaudeo te e Sicilia rediisse: nam si aliquid euenerit, malo te hic esse, ubi omnes sumus, quam illic ubi neminem habes tuorum.</p>
+        <pb n="109"/>
+        
+        <p><label>B. F.</label> Equidem adsum ac libens cum ea de causa, tum quia uobis omnibus carebamus iam nimium diu: caue tamen putes nobis hoc Siciliensi biennio quicquam in uita fuisse iocondius.</p>
+        <p><label>B. P.</label> Gaudeo et id quidem idque ipsum ex eo suspicabamur quod nondum ad nos cogitabatis. Sed postea quam in eum sermonem incidimus, ut de Sicilia loqueremur, narra mihi quemadmodum ea se habent, quae de Aetnaeis ignibus et feruntur passim et perleguntur: te enim accessisse illuc cum Angelo tuo totumque montem perlustrasse audiebamus: et nobis quidem certe nunc uacat: quid enim istoc aestu agamus meridiani? neque est, quod ego soleam libentius, quam de naturae miraculis audire.</p>
+<p><label>B. F.</label> Haec uero ut libet, modo ualeam recensere: et quidem eiusmodi sunt ut tibi audienti afferre uel magnam possint, mihi certe narranti semper aliquam <corr>afferant</corr> 
+        <pb n="110"/>
+        
+        uoluptatem: quanquam quidem iam hoc ipsum facimus nimis saepe: quam enim multis nos eadem ipsa censes postea quam e Sicilia reuersi sumus, narrauisse? Sed consurge (si placet) ab hac umbra: nam in ripis quidem omnis quae fit accubatio, ea si longior est, esse admodum grauior solet: atque ad illa buxeta nostra (si tibi uidetur) sedesque pergamus.</p>
+<p><label>B. P.</label> Periniquum tu quidem facis qui de ignibus loquuturus ab umbra et frigore decedendum putas: sed (quando ita uis) propter aquam potius in ripa deambulemus et cum fluuio sermoni reliquo demus operam loquentes: ita mihi uidebor melius tuas illas flammas Aetnaeas (si me offenderint) Pluuici mei unda temperaturus. B. F. Illae uero neque te offendent, cum absint longissime; neque hic si adessent, restinguere illas posset Pluuicus tuus; cum mare ipsum etiam cedat illis uolentibus, atque earum ardoribus
+        <pb n="111"/>
+        
+        contrahatur.</p>
+<p><label>B. P.</label> Magnum exordium inceptas fili ac iam plane uix credenda sunt ista quae dicis: uerum qui ita fiat, explana id etiam mihi.</p>
+        <p><label>B. F.</label> Faciam, ut iubes: sed opus est ante quam illo ueniam ut aliqua te praedoceam deque insulae deque montis natura; quibus cognitis ad ea, quae postulas, recta pergemus uia.</p>
+<p><label>B. P.</label> Age, ut libet; modo ad illa etiam aliquando ueniamus: quin etiam mihi feceris gratissimum si ea lege inceperis ut <sic>nequod</sic> pulchrum praetereatur siue uidisti aliquid, siue audiuisti, siue quid es ipse commentatus.</p>
+<p><label>B. F.</label> Ego uero (si placet) iter tibi nostrum omne ordine ipso, quo factum est, recensebo; teque a Messanae menibus usque in Aetnae cacumen perducam.</p> 
+        <p><label>B. P.</label> Placet, et cupio: incipe igitur; uiamque ipsam omnem reminiscere et tanquam recurre, si potes.</p>
+<p><label>B. F.</label> Agam 
+        <pb n="112"/>
+        
+        sedulo id quidem: itaque (ne te teneam diutius) Quartusdecimus mensis agebatur ex quo ego et Angelus meus apud Constantinum praeceptorem graecarum litterarum studiis exercebamur, neque sane adhuc uacuum ullum tempus dederamus nobis laboris ac ne unum interea integrum remiseramus diem. </p>
+        <p><label>B. P.</label> Nimium fuistis assidui uestris in studiis adolescentes, uel etiam superstitiosi: annum et menses nouae linguae rudimentis incubuisse nullo intermisso die? mirum, si uos uel habitudo illa prior destituit, uel color: nos tamen e nauigatione traxisse uos pallorem istum, et maciem putabamus.</p>
+<p><label>B. F.</label> Ita euenit: sed en tibi: iam tandem nos ipsos respeximus: placuit enim ut Aetnam uiseremus; atque interea, dum animi relaxarentur, quod efficere uel occupatissimi debeamus, tantum naturae miraculum etiam feriati nosceremus: 
+        <pb n="113"/>
+        
+        ita iocundis aliquot sumptis comitibus, qui nos perductarent, consesso equo Messanam reliquimus: sed iter facientibus nobis Taurominium usque memorabile nihil <sic>comspectum</sic> est: summa enim littora eraduntur. A leua statim Rhegium, et Brutii agri paruo primum, mox latiori maris interuallo aperientibus se se paulatim angustiis prospectantur; a dextra colles continui imminent, Bacchi tota feracissima plaga, et Mamertinis uinetis minus fortasse, quam olim fuit, tanquam ab ipsa uetustate contritis iam laudibus, sed tamen satis nunc etiam percelebris. In medio fere itineris, uel paulo amplius castellum Nisus ex aeria montis rupe uiatoribus late prospicitur; unde illud devectum Ouidianum,
+        <q><l>Nisiades matres, sicelidesque nurus:</l></q>
+        Incolae uallem etiam omnem, quae subest, Nisi regionem uocant.</p>
+<p><label>B. P.</label> Erit isto sane modo etiam aliquid infra  
+        <pb n="114"/>
+        
+        Taurominium memorabile: nam de hoc poetae uersu (si recte memini) nobis pueris nondum inter grammaticos conueniebat: qua quidem in re adhuc illi arbitrum si quaerunt, plane uideo eam controuersiam posse dirimi a Niso tuo, a quo nescio quam blande caeteri hospites suscipiantur; te certe (ut illi dicerent) etiam elegantiorem remisit: Sed sequere.</p>
+<p><label>B. F.</label> Taurominii cum ueterum monumentorum reliquiae plures uisuntur, templa, sepulchra, aquaeductus: quin saepe temere graeca numismata passim effodiuntur affabre facta illa quidem, neque in aes modo insculpta, sed in argentum, sed in aurum; quod etiam Syracusis plurimum, et fere per totam insulam euenit: tum etiam coctile theatrum adhuc manet paulo, quam id, quod Romae uidimus, minus; nisi quod illud amphitheatrum est: quae quidem omnia eo inspexi diligentius quod te recordabar plurimum semper ueterum
+        <pb n="115"/>
+        
+         hominum imaginibus monumentis que tanquam uirtutum illorum et gestarum rerum testibus oblectari. Vrbs ipsa loco praecelso atque edito sita et montium angulo promissa in pelagus prospectum maris Ionii late hinc inde dominatur: theatrum ultimam anguli rupem insedit, qua collis conspicuus ante omnem urbem in circum planitiem ducens audentior procurrit in mare; atque hinc fluctibus, inde urbe medius ipse terminatur. E Taurominitano demissi iugo, et littore paulatim relicto, uallemque ingressi; quam a leua Aetnae radices, a dextra Taurominitani montes efficiunt; per eam Randatium usque peruenimus nouum oppidum, et in Aetnae radicibus, qua parte mediterranea despectat, situm. iter totum a Taurominio nobis quatuor et uiginti milibus passuum <sic>comfectum</sic> est. uallis sonoro et perpetuo flumine scinditur et irrigatur. Platani numerosa 
+        <pb n="116"/>
+        
+        sylua utrasque ripas inumbrantes maximam sibi uallis partem egregiae incolae uendicarunt.</p>
+<p><label>B. P.</label> Ain' tandem, Platanos illae habent ripae? <label>B. F.</label> Pulcherrimas illas quidem, et multissimas; ut non Platonem modo aut Aristotelem scholasque omnes mitiores suis umbris inuitare possint ad philosophandum; sed etiam Gymnosophistas durissimos illos quidem homines et sole admodum delectatos.</p>
+        <p><label>B. P.</label> Quam uellem ut cum earum duabus possem ego uel tribus arboribus etiam omnes illas fructiferas arbores, quas in quinquuncem dispositas habemus, commutare.</p>
+<p><label>B. F.</label> Vtinam illae tibi potius pater iis stantibus totum Pluuicum obduxissent: poterant enim uel uniuersum Nonianum: sed nescio an isto sub coelo prouenirent.</p>
+<p><label>B. P.</label> Equidem arbitror: nam illis postea quam in Italia trauectae sunt et quidem ab ipsa Sicilia primum, multae urbes abundauere, quanquam posteriorum
+        <pb n="117"/>
+        
+        hominum negligentia deperierint: nos enim, dum Romae essemus, unam, quae in ima ripa speculi est Dianae Aricinae, pro miraculo uidimus. Sed nihil est profecto (mihi crede) nihil est fili (ut ego semper dicere soleo) quod effici ab homine cura diligentiaque non possit: nos enim (ut de me ipso loquar) quibus tamen, ex quo hanc uillam exaedificauimus, iam inde ante quam tu es natus consumere hic nondum etiam licuit triginta integros dies neque quando licebit scio; cupiam certe semper et peroptabo; uides quam multos tibi profuerim ordines pulcherrimarum arborum uel nostratium, uel aduenarum? quod si etiam Platanos habuissem, nunquam illae me uiuo periissent; et haberes tu quidem nunc quo melius inuitare posses Faunum tuum; et ille quo libentius accedere.</p>
+<p><label>B. F.</label> Vellem equidem, mi pater: sed (quando id effici non potest) oblecta te populis tuis: tum etiam (si
+        <!-- B -->
+        <pb n="118"/>
+        
+        placet) sicuti matres filiorum nomina qui desyderantur, in eos saepe transferunt quos habent; ita et nos Platanos illas uocemus.</p>
+<p><label>B. P.</label> Mihi uero placet illas populos semper uocari atque haud scio an etiam cum eas tempestas uetustasue consumpserit (ut ait ille de quercu Mariana) tamen erit in Noniano populus, quam Bembeam populum uocet: ita mihi quidem uidetur illas aeternitati comendasse suis carminibus Aurelius noster. Quare
+        <q><l>Quae uitreas populus arduo</l>
+        <l>Bembeas ad aquas uertice tollitur</l>
+        <l>Viuum cespitem obumbrans,</l>
+        <l>Intonsa bicolor coma</l></q>
+        sit semper populus, crescat, surgat altius uel aquila ista, uel poetae uersu: sed (ut ad Platanos redeam) non tam mea causa istud ipsum cupiebam fili, quam tua: ego enim me oblectaui satis, tum experiendo illud didici ut nequid admirarer neque, si quid sero
+        <pb n="119"/>
+        
+        aliquando, quod facio semper cum licet, siue aedifico aliquid aut paro, propterea id facio, uel quia illis omnibus rebus putem me esse usurum, cui me ipso uti iam meo ipsius iure non licet; uel quia non facile illa possem contemnere quibus carerem: quid enim mihi potest iam ad eos dies, qui mihi reliqui sunt ad uiuendum, esse non satis? uobis ista parantur pueri; uobis ista (inquam), non mihi: scio enim quam a parentibus quaesita ista dulcius accipere soleant filii, quam ipsi facile comparare; siue quod in quaerendis rebus plerique laborem fugimus, in partis omnes uoluptatem amamus; siue quod in iis, quae nobis a maioribus nostris relinquuntur, insit etiam memoria illorum qui tradidere; quae illa nobis nescio quo pacto cum sanctiora efficiat, tum certe facit multo etiam iocundiora.</p>
+<p><label>B. F.</label> Mihi quidem pater et nunc ista carissima sunt, quae, qua es in nos amoris exuberantia, a te uideo dici
+        <!-- B ii -->
+        <pb n="120"/>
+        
+        et erunt semper, dum uiuam, fixa animo et memoriae meae; cupioque, ut ex iis ipsis rebus, quae mihi a te, quaeque fratri comparantur meo, longissimam ipse nobiscum percipias uoluptatem: sed si tibi nos unquam naturae lege superuiuemus; habeo alia ego (ut de me tantum loquar: nam de fratre quanquam multa possent dici, malo illi integram causam relinquere respondendi tibi), habeo alia (inquam) quae mihi sanctissimam tui memoriam semper efficient etiam absque Noniano tuo; quippe qui me puerum educaueris non diligenter modo, sed plane (quod uere mihi uideor esse dicturus) etiam religiose; habueris tecum in legationibus tuis; imbueris optimis moribus omnibusque bonis artibus (quod in te esset) ita semper institueris ut uerear ne sim prorsus ingratissimus, ultra haec mihi a te si quid unquam relictum optauero; tum si de iis ipsis tibi non ego semper maiores
+        <pb n="121"/>
+        
+        gratias habuero, quam si mihi magnificas uillas construxisses. Quare ista quidem de causa nihil est sane, quod labores.</p>
+        <p><label>B. P.</label> Ego uero ac multum: nam, qui tibi illa praeparauerim quae sunt longe potiora meo quidem iudicio et (ut uideo) etiam tuo, curandum est etiam mihi ista tibi ut ne desint quae, cum minora quidem sint, ualde tamen sunt necessaria: quemadmodum si te quis ad coenam uocet ferculaque asserat cum uaria, tum sumptuosa; uina multifariam apponat; ministros adhibeat; calices quaerat et uasa uel aurea, uel gemmata; nisi statuerit triclinium aut mensas in hortulo disposuerit, ut tibi stanti coenandum sit, certe tu illum nihilo probes magis quam si tam multa omnino non parauisset. Ita mihi eueniet patri: nam quod te recte instituerim a puero, mecum habuerim semper, utraque lingua te docendum curarim, id est ad coenam
+        <!-- B i i i -->
+        <pb n="122"/>
+        
+         uocasse te satis dubiam et sumptuosam in qua depasceres animum tuum teque ipsum conuiua elegans oblectares: conuiuae nanque sumus omnes, dum uiuimus, neque aliud est omnis uita nostra, qua sub ista mundi luce fruimur, quam longa concoenatio aut (ut iam uerius dicam) conuictio: quod si nec sedem ullam tibi nec umbram aliquam praebuero coenanti; hoc est nisi uiuenti diuersorium secessumque gratum aliquem parauero studiis et camenis tuis, profecto non tam in illis laudabis diligentiam meam quam in his etiam culpabis negligentiam: neque tam pulchra ea tibi esse uidebuntur quibus habundaueris, quam fuisse illa, quibus carebis, necessaria. ita fiet ut, cum semel abiero, tu me saepius accuses, quam probes.</p>
+<p><label>B. F.</label> O mi pater; me ne tam impium unquam futurum, ut te audeam accusare? ego te unquam accusem, pater? quid si non tu me saepe monuisses, et ego 
+        <pb n="123"/>
+        
+        aliquando scriptum legissem a summis ac sapientissimis uiris, animi bona esse quae beatos homines facerent sola ipsa per sese quaeque opis externae non egerent? ea neque eripi posse cuiquam nec aetate senescere nec morte interire? caetera omnia manca esse, labilia, momentanea; quae quoniam fortuna et casu regerentur tanto esse magis quenque, quantum illa contemneret, uel diuitem, uel etiam sapientem? animos nostros ex aetherea sede in hanc corporis labem profectos ea lege ut ad illam ipsam purgati aliquando reuerterentur, quae hic essent, despicere; ad illa se intendere, quo properarent? me uero, quem ista quandoque docuisses; nisi mihi uillam reliqueris syluamque platanorum, putas tibi esse succensurum? non est ita, mi pater: ne putes.</p>
+<p><label>B. P.</label> Non puto.</p>
+<p><label>B. F.</label> Neque me tam dementem existimes uelim.</p>
+<p><label>B. P.</label> Non existimo.</p>
+<p><label>B. F.</label>Quid ita igitur loquebare?</p> <p><label>B. P.</label>
+        <!-- B ii ii -->
+        <pb n="124"/>
+        
+        Quia noueram mores hominum; tum etiam pertentare te prorsus uolui quam recte ista sentires. Sed omittamus haec iam tandem, fili, atque ad eam partem sermonis, ex qua egressi sumus, reuertamur.</p>
+        <p><label>B. F.</label> Immo uero pater nec reuertamur: quid enim amplius nobis cum platanis illis? de iis enim loquebamur.</p>
+        <p>Sed (si placet) ad Aetnam potius, de qua sermo haberi coeptus est, properemus.</p>
+        <p><label>B. P.</label> Mihi uero perplacet; ita tamen, ut ne festines: tibi enim ego omnes has pomeridianas horas dico.</p>
+        <p>Sed quoniam me impellente nimium iam extra Aetnae terminos prouecti sumus, non comittam, ut te interpellem saepius; nisi quid erit, quod de ea ipsa te rogem.</p>
+<p><label>B. F.</label> Sane mons ipse situ, forma, magnitudine, feritate, incendiis mirus; demum tota sui qualitate ac specie longe conspicuus, et sibi uni par est. Ab aurora mare Ionium bibit; et
+        <pb n="125"/>
+        
+        Catanam sustinet imo in pede: cum sole descendit in insulam, qua Tyrrenum pelagus est et quae Aeoliae appellantur: laterorsus, in septentriones uergenti Pelorus obiicitur et Italiae angustiae sunt: contra reliqua insula subiacet, tractusque ii omnes, qui cum Lilyboeo in Africam protenduntur. Ipsa Aetna radices suas fere in orbem deducit; nisi sicubi orientem, et meridiem uersus promisso cliuo paulisper extenditur: celebs degit et nullius montis dignata coniugium caste intra suos terminos continetur. circumitur non minus quam c. mille passuum. ascenditur fere per uiginti, qua breuior uia. Imi colles, ac omnis radicum ambitus per oppida et per uicos frequens inhabitatur; Baccho, Pallade, Cerere feraces terrae; armentorum omnis generi supra quam credas, feracissimae. Hic amoenissima loca circunquaque: hic fluuii personantes: hic obstrepentes riui: 
+        <pb n="126"/>
+        
+        hic gelidissimae fontium perennitates: hic prata in floribus semper, et omni uerna die; ut facile quilibet puellam Proserpinam hinc fuisse raptam putet: hic arborum multiiugae species et ad umbram ualentium et ad foecunditatem; in qua etiam tantum excellunt caeteras omnes arbores; ut mihi quidem magis huic loco conuenire uideantur ea, quae de Alcinoi hortis finxit Homerus, quam ipsi Phaeaciae; in qua certe nos, cum e Sicilia rediremus, nihil eiusmodi uidimus, quod nos tantopere oblectaret; ut etiam non inurbane Angelus meus interroganti eum cuidam ex Phaeacibus, qui nobis urbem omnem ostentarant, quid nam illi uideretur, ita responderit. Ego Phaeaces debere uos quidem, inquit, Homero permultum existimo; qui uobis plura etiam tribuit quam ipsa natura. referam (si potero) latine; uel certe ut potero: nam aduerti propterea tum
+        <pb n="127"/>
+        
+        etiam diligentius illum ipsum Homeri locum:</p>
+        <q><l>Hic nemora in coelum late crescentia surgunt,</l>
+        <l>Punicei pomum grani, malumque, pirumque,</l>
+        <l>Et dulces ficus, et magnae Palladis arbor.</l>
+        <l>Non illis borealis hyems, non officit aestas</l>
+        <l>Torrida; sed placidas zephyris spirantibus auras</l>
+        <l>Arboribus totum superat foetura per annum:</l>
+        <l>Et pomo insenuere recentia poma priori;</l>
+        <l>Et noua iam miti superaduenit uua racemo.</l></q>
+        <p>Medius mons nunc uariis arboribus late syluescit, et praecipue pinis, et fagis maximam in magnitudinem multitudinemque crescentibus; quarum illae inferius, hae 
+        
+        <pb n="128"/>
+        
+        sublimiores sunt: nunc nudo latere arabiles in plagas extenditur; et saepe usque ad imum descendit, frumentis adeo foecundus ut credita nonnunquam in centuplam segetem cultoribus ferat. itaque prudenter, ut multa, illud etiam prisci uiri quod nobilissimum templum Cereris in Aetna constituere: ubi enim potius dea segetum coleretur quam ubi fruges optime prouenirent? atque id quidem tantum de segetibus: uerum ab uniuersa Aetnae fertilitate (ut opinor) fabula etiam emanauit, Aristeum giganta eo in monte ita saluum esse atque uiuere; ut neque ab Aetna prematur unquam neque flammis coelestibus inuratur; quod optimi et uberrimi essent fructus qui per Aetnae loca nasceretur, nullo telluris uitio, nulla aeris offensi malignitate: nam et Aristeos graeci quidem illos uocabant, qui uicissent in certaminibus; quod uerbum ab optimo deductum esse credo, quia nisi optimi non uincerent; et gigantas scimus esse filios telluris appellatos: ita 
+        <pb n="129"/>
+        
+        quoniam fructus uniuersos tellus, quasi mater, parit; cum fructus Aetnaeos esse optimos atque uberrimos uellet dicere, tanquam caeteros superarent, fabulae datus est locus, non inuenuste quidem, si tibi ita uidetur: expecto enim etiam quid tu sentias scire abs te.</p>
+<p><label>B. P.</label> Mihi sane uidetur: itaque redde caetera.</p>
+<p><label>B. F.</label> Reddam pater; atque illa ipsa quidem, quae a principio postularas, et quorum causa ista omnia dicta sunt: uentum est enim ad id ut iam de ignibus loqueremur.</p>
+<p><label>B. P.</label> Verebar sane tu ne me longius prouecta res:<!-- ?? --> quanquam quid longum mihi esse hac in re, qua de nunc agimus, atque isto in otio potest? <label>B. F.</label> Curabo id quidem, ne fiat (si potero), quam potero, diligenter.</p>
+        <p><label>B. P.</label> Immo Hercle fiat potius; etiam id si facere ipse, ne fiat, potes: non enim impedio: illud autem ideo dixeram quia te putabam ante, quam istuc accessisses, aliquandiutius erraturum.</p><p> <label>B. F.</label>
+        <pb n="130"/>
+        
+        Ego uero existimabam pater errauisse me sic etiam nimis diu.</p>
+<p><label>B. P.</label> Non est ita: sed, ne nunc tandem erremus; perge de ignibus, ut proposuisti: uerum autem, quid tu haeres? <label>B. F</label>: Pergam equidem, ut iubes: sed scin quam in salebram inciderim? <label>B. P.</label> Nihil profecto minus.</p>
+<p><label>B. F.</label> Dum tibi ad ignes festino, eam Aetnae partem, quae nobis una restabat de tribus (sic enim partiri soleo) et qua sine ad ignes ipsos perueniri non potest, pene omiseram suboblitus: ita Aetnam, quasi Chimaeram, caecideramus; et tanquam ream capite mulctaueramus imprudentes: sed agam nunc tutius ac de utroque simul loquar. Superior itaque montis pars (nam iam de iis, quae infra sunt, diximus) usque ad summum cacumen nuda uariam faciem praeostendit: nam alibi semiherbosi tractus sunt intersurgentibus tophis qui etiam in
+        <pb n="131"/>
+        
+        pedemontana regione passim uisuntur: alibi per summa ora exundans incendium saxis fluentibus totas plagas inoccupauit; alibi arenarum campi magnam in longitudinem, et latitudinem extenduntur. In supremo crateres duo sunt, quorum alterum, qui minus altissimus est, ipsi uidimus in putei rotunditatem angustum, emissis ueluti gemina sponda hinc inde saxis sulfureo uirore fumigantibus: hunc lapidea planities ambitu angusto circuntenet; quo ut primum inscendimus, sulfureis statim nebulis, et suburenti fumo, ueluti e fornace, percussi ora pene retulimus gradum: mox increscente audacia, qua uentus perflabat, paulatim ingressi craterem ipsum tetigimus manu. Effundebatur inde, sicuti ex camino, fumus non intermissa exhalatione: is tamen etiam scissa per longa
+        <pb n="132"/>
+        
+        incendia montis cute, uentis intus furentibus; qui eo die imperiosius bacchabantur; multis in locis sibi faciebat exeundi uiam: interdum quoque de repente ipsis sub pedibus exiliens manere nos uno in loco non permittebat: quin etiam illud accidit ut quem locum maxime contemplabamur, quod erat saxis nuper effusis et adhuc ignem et sulfur retinentibus incrustatus; per hunc, qua parte concesserat in rimam, interflueret igneus riuus ac pedes ipsos inter emissa ex riuo saxa urentia prosilirent.</p>
+<p><label>B. P.</label> Quid ais? peream, ni me totum commoues, fili, atque etiam perterrefacis tua ista oratione. Quid autem saxa illa? an etiam quenquam uestrum interlaesere? <label>B. F.</label> Neminem profecto pater: quin etiam eorum duo, cum refrixissent, quae manu capi poterant, Messanam deportauimus sulfuris partem seruantia, caetera subnigra.</p>
+<p><label>B. P.</label> Quid enim
+        <pb n="133"/>
+        
+        uos tam ultra temere procedebatis?</p>
+        <p><label>B. F.</label> Quia cum licere illic nobis tuto consistere putabamus; tum etiam perlustrandi studio, uel potius auiditate ferebamur.</p>
+<p><label>B. P.</label> An nesciebatis Plinium illum maiorem ita occidisse; dum nimium diligenter (ne dicam inconsulte) Veseuiana incendia pertentaret?</p>
+        <p><label>B. F.</label> Quid ni sciremus pater? uerum tanta nos delectatio illius spectaculi detinebat, tanta rei nouitas, tantus inuaserat stupor, ut sui ipsius iam nemo satis nostrum recordaretur. Sed missa haec faciamus; atque ad illam planitiem, de qua modo dixeram, reuertamur: quae quidem ita tamen perurebat ipsa ut manus, nisi extemplo retulisses, offenderentur: pedes duplici calciamento ita propter <sic>ascensus</sic> difficultatem comparato tuebamur. Ab eo cratere, quem dixi, mons per fundae iactum insurgit ascensu difficillimo partim salebris impedientibus, 
+        <!-- C -->
+        <pb n="134"/>
+        
+        partim tardantibus arenis; et cliuus statim etiam quoquouersus impendebat. is uniuersi corporis uertex summus est; et tanquam in urbem arx domina, sic ille in montem prominatur. ab eius <sic>inscensu</sic> detinuere nos potentissima uis ventorum et exhalantes fumi: itaque tibi de illo referre quidem aliud nihil possum nisi tibi ea uis recenseri quae ab Vrbano monacho accepimus postea, Messanae cum esset; homo ille quidem uerissimus atque harum rerum cupientissimus sciscitator: is enim paucos ante nos dies per summam tranquillitatem totum uerticem perlustrarat.</p>
+<p><label>B. P.</label> Immo uero cupio: noui enim ego illum atque amo, quod te non latet; quo mihi futura sunt haec omnia illius etiam testimonio gratiora.</p>
+<p><label>B. F.</label> Aiebat ille igitur (quando ea tibi narrari postulas; quibus tamen ego tam accedo ut credam quam omnino si perspexissem) 
+        <pb n="135"/>
+        
+         uerticem illum esse ab ingenti cratere occupatum ambitu circiter quatuor stadiorum eumque non usque in imum descendere eodem hiatu, sed aluum sibi intus paulatim astringere eatenus quoad in medio centro ad euomenda montis incrementa satis amplo ore foraminatur: tum esse in summa montis corona paruum tramitem, ubi pedes firmentur; ex eo si quis declinauerit, aut in craterem obrui, aut e monte deturbari: stetisse tamen se ibi tam diu quo barathrum exploraret: eructasse tum montem magno strepore incendia caliginosa et perurentes petras supra os quantum sagitta quis mitteret, uel eo amplius, insurgentes: atque eum, ueluti corpus uiuens, non perflasse semper, sed emissa semel anima cessasse diutule, dum respiraret: tum se copiam intuendi habuisse, quae uellet: mox eiectasse iterum atque iterum pari interuallo usquequaque: 
+        <!-- C ii -->
+        <pb n="136"/>
+        
+        interea ingemere intus cauernas auditas, intremere etiam tonitruis montem sub pedibus magno et formidoloso iis, qui aderant, horrore: ex quo illud mirum uidetur quod qui tum strepitus per tranquillitatem sentiebantur, eorum a nobis nihil auditum sit in tanta ferocia uentorum.</p>
+<p><label>B. P.</label> Illud uero nec uideatur, fili, neque plane ipsum est mirum: constat enim (quemadmodum scriptores tradidere) simul cum uentis Aetnae animam immutari et quo flante fumos tantum et caligines exhalet, eo ponente modo puras, modo crassiores flammas emittere pro surgentium uentorum qualitate: aliquando etiam effundi torrentes ignium uaria exundatione prout intra montis uiscera pinguia uel exilia incrementa sunt: quae cum ita se habeant, illud etiam posse fieri quis est, qui neget, lenissima unius uenti aura eos strepitus intra
+        <pb n="137"/>
+        
+        montem excitari, qui uel furente altero non queat? non enim quam perflet quis, sed quam intret in montem, quamque se in cauernas illius inque uiscera insinuet, est spectandum.</p>
+<p><label>B. F.</label> Intra montem <corr>igitur</corr> tu, tanquam intra pectus animam, sic accipi ab Aetna uentos putas quibus illa modo spirat leniter, modo uehementius incitatur? <label>B. P.</label> Sane quidem: nisi tamen ueriora illa sunt, quae de Typhoeo deque Encelado poetarum fabulositas concinnauit.</p>
+<p><label>B. F.</label> Verissima illa quidem fabella est: sed perge tu mihi atque etiam, pater, huius incendii causas redde, si placet: nam ex incolis quidem inuentus est nemo qui ea nobis paulo uerius explicaret.</p>
+<p><label>B. P.</label> Pergam ut libet: sed non prius id faciam quam mihi dixeris quomodo illud sit quod tu uerissimam fabellam dixisti.</p>
+        <p><label>B. F.</label> Quia sane ea demum uerissime fabula est quae nihil habet
+        <!-- C iii -->
+        <pb n="138"/>
+        
+        ueritatis.</p>
+<p><label>B. P.</label> Pulchre nimirum: atque isto modo ego etiam dicere historiam falsissimam possum; ut ea sit demum falsissime historia quae falsi habeat nihil.</p>
+<p><label>B. F.</label> Non sequitur istud, pater, sed nos dialecticen e captiosis sophistarum circulis coronisque ne auocemus; satis enim habet illic negoti. Quare age mi pater; explana potius illa nobis, quae petimus; ea incendia unde oriantur; et orta quomodo perdurent.</p>
+<p><label>B. P.</label> Tu uero postulas etiam sine dialecticis philosophari: quod quidem ipsum fieri quam possit, uel alio tempore ex te ipso cognosces; uel cum uoles, audies de me: nunc uero age, philosophemur: interea tamen paulisper hoc in cespite considamus: neque enim ullis adhuc Nonianis legibus cautum est, ne quis temere quoquo in cespite considat: quem admodum olim urbanis, ne quoquo in solio: et ego iam deambulando defessus
+        <pb n="139"/>
+        
+        sum.</p>
+<p><label>B. F.</label> Tu uero quiesce, ut libet, et quam diu libet: ego autem et stare adhuc possum libentius et te ita melius auscultabo.</p>
+<p><label>B. P.</label> Et quidem hoc etiam licet: sed quoniam ita uis ut, quibus de ignibus ego te antea interrogaram, de iis tu me nunc audias disserentem, breui expediam quae sentio: neque enim nimis multa sunt. Tellus quidem omnis, Bembe fili, sicuti nostra corpora, foraminibus canalibusque distincta est, et tanquam uenis internotata; siue quod omnino coire non potest quae specie quidem multum sibimet differat intra se se; siue quod aut gignit ipsa semper aliquid aut interimit et immutat; neque unum idem omnis atque eodem permanet; siue (ut alii tradidere, et quidem principes in philosophia uiri) quia plane uiuit ipsa; atque a mundi anima uitam trahens ab eadem mundi anima extra intraque perlustratur. Sed in omni tellure nuspiam maiores fistule aut
+        <!-- C iiii -->
+        <pb n="140"/>
+        
+        meatus ampliores sunt quam iis in locis, quae uel mari uicina sunt, uel a mari protenus alluuntur: nam cum exedit semper mare, consumitque suopte contactu, suaque natura omnia; tum autem, si partem est nactum aliquam debiliorem, membraque non adeo robusta telluris; erôdit illa multo facillime; pergitque in uiscera ipsa, quam potest: itaque cum in aliena regna sibi uiam faciat; uentis etiam facit: ex quo fit; ut loca quaeque maritima maxime terraemotibus subiecta sint, parum mediterranea. quod si etiam in sulfuris uenas uenti furentes inciderint; tum incendia suscitantur sane non difficulter; quoniam et in sulfure concipiendi permagna ignis uis inest, et uenti etiam aliena succendunt ui sua: haec autem tu ut in Aetna accidant omnia, uide, quippe (ut modo tute dixisti), quae mare in radicibus habeat, quae sulfurea sit, quae cauernosa; seu quod natura ita fuerit semper ipsa; seu quod
+        <pb n="141"/>
+        
+        salo aliquando subexesa uentos admiserit aestuantes, per quos idonea flammae materies incenderetur. Habes, unde incendia oriantur Aetnae tuae: habe nunc quomodo etiam orta perdurent: in quo quidem nolo ego te illud admirari, quod uulgus solet: magnum esse scilicet tantas flammas, tam immensos ignes post hominum memoriam semper habuisse, quo aleretur: quid est enim magnum ipsi magistrae rerum omnium, et parenti naturae? quid arduum; quid illa tandem non potest? qui stellas; qui solem; qui coeli conuexa; qui terras omnes, ac maria; qui mundum denique ipsum, quo nihil est admirabilius, uel potius extra quem nihil est, quod admireris; saepe sine admiratione intuemur; iisdem nobis esse Aetna miraculum potest? caue sis tam imprudens fili; ut tu id putes: nam si naturam respicimus; nihil in Aetna est, quod mirum uoces: si rem
+        <pb n="142"/>
+        
+        consyderamus ipsam; nonne tibi etiam mira uideantur cum alia loca permulta, tum uel Aponi nostri fontes, calidaeque illae purissimae; quibus natura non tantum ut calefacerent dedit, quod erat tamen ab aquis alienum; sed multum de iure quoque rerum omnium concessit, multum de nostro, tum aliquid de deorum etiam, et suo; ut morbis scilicet mederentur non modo sine ullo aegri dolore, qua de causa graeco uerbo Aponus nomen inuenit; sed etiam cum uoluptate? itaque, qui curantur,
+        <q><l>Non uenas referant (ut ait ille); nec uulnere uulnera sanant;</l>
+        <l>Pocula nec tristi gramine mista bibunt:</l>
+        <l>Amissum lymphis reparant impune uigorem;</l>
+        <l>Pacaturque aegro luxuriante dolor:</l></q>
+        Nam morbos quidem expellere hominum plane est rerum usum multarum
+        <pb n="143"/>
+        
+        recte callentium: hoc autem uel sine dolore id efficere; uel (quod multo est maximum) etiam cum uoluptate deorum mihi quidem uidetur esse proprium, ipsiusque principis omnium, et parentis naturae. quod si cum uno Aponi fonticulo, et canali profunda illa comparaueris inundationesque omnes Aetnae tuae; fortasse non uerear, ne noster hic colliculus tuo illo monte sit minor. Sed faciam, ut tibi pollicitus sum; et Aetnae incendia quomodo alatur, docebo. Quoniam igitur (ut scis) humore, et calore omnia concipiuntur; cum et semper ardeat mons, et semper a mari perlustretur; habes iam duobus istis uerbis, quod petis: ignis enim qui detrahit semper aliquid atque consumit; gignit etiam semper aliquid sibi, quod consumat, suo ipsius calore humectantibus undis tellure, semperque igni materiam sufficientibus, quo alatur: nam et bitumen maxime, quod sulfuri
+        <pb n="144"/>
+        
+        simillimum est, fit ex terra et limo exudante tellure; tum et eiusdem fere generis halumen; quod quia ex salo et terra conficitur, ita uocatur.</p>
+<p><label>B. F.</label> Vnde autem saxa, et pumices pater, et eiectamenta illa, quae uomit? quid illa tandem sunt? an sulfur tantum, bitumen, halumen omnia? <label>B. P.</label> Nequaquam fili: sed tanta est uis ignium, praesertim inclusorum, et uentis intus furentibus; ut non uiscera imbecilla modo; sed plane nerui etiam fortiores corripiantur telluris; et saxa ipsa durissima liquefiant.</p>
+<p><label>B. F.</label> At ea ipsa saxa non aliquando defecisse, montemque sibi non subsedisse, nonne illud est mirum pater? <label>B. P.</label> Neque id fili quidem mirum: tellus enim semper foecunda est sui ipsius; semperque semet ipsa parturit: nisi tamen malis tu cum Pythagora sentire; qui quidem apud Ouidium ita praecipiens inducitur
+        <pb n="145"/>
+        
+        ut audeat affirmare Aetnaea incendia non esse usquequaque duratura.</p>
+<p><label>B. F.</label> Ego uero, quid sentiam, non sat scio: quanquam equidem mallem Pythagoram, quam Empedoclem imitari: ille enim quae naturae consentanea uidebantur, credebat asserens mutari quidem omnia, nihil tamen omnino interire: hic, dum curiosius naturae causas perscrutatur, etiam se ipsum imperscrutabilem facit.</p>
+<p><label>B. P.</label> Sed ualere nos illos sinamus fili: et quoniam nos tibi, Aetnae incendia unde fiant, diximus, id uelim ego scire item ex te, ipsa ista quomodo fluant.</p>
+<p><label>B. F.</label> Iam istud quidem fieri sine ullo negotio potest uel una Hesiodi comparatione; qua ille in sua theogonia fluxisse ait tellurem, ubi eam post fulminatum Typhoeum igne correptam describit, isto (ni fallor) modo: ex quo sane libet mihi suspicari etiam pastorem illum Ascraeum aliquando
+        <pb n="146"/>
+          Aetnam conscendisse; atque inde sibi sumpsisse; quod de universa tellure scriptum reliquit: 
+        <q><l>Vritur ipsa ingens tellus; aestuque furente</l>
+        <l>Liquitur, albentis quondam ceu lamina plumbi</l>
+        <l>Arte uirum, flammisque caua fornace liquescit:</l>
+        <l>Seu ferrum (quanquam hoc maternae uiscera rupis</l>
+        <l>In duras aluere uires); cum ferbuit olim</l>
+        <l>Vulcani domitum manibus, terraeque fatiscit.</l></q>
+        Et quidem propterea illum ego plumbi, et ferri exempla posuisse crediderim; ut alteri ea compararet, quae igne facilius corripiuntur, et fluunt; ut sulfurea tellus omnis, et eae telluris partes, quae tenuiores sunt; alteri autem cum saxa omnia, tum ea, quae flammae resistunt magis, et sunt suapte natura duriora.</p>
+<p><label>B. P.</label> Mihi
+        <pb n="147"/>
+        
+        haec quidem certe non displicent ipsa per se: atque etiam delectauit me non nihil poetae ingenium; qui tam apte descripserit fluentem et ardentem tellurem: sed tamen tu fili nimium perparce respondes ad illa, quae peto: non modo enim istud ita simpliciter cupio, ea incendia quomodo fluant, scire abs te: sed etiam, ubi descenderint, quam faciem capiant; tum si perdurant eadem semper, an aliquando immutentur, audire.</p>
+<p><label>BEMBVS. FIL.</label> Geram tibi morem pater; et ea, quae postulas, ut potero explicabo. Pleno iam partu (ut maturior est omnis foetus, quicunque in Aetnae matris utero coalescit) nisu parientis expellitur, et eiectatur, quacunque prius rimam inuenerit, aut uiam sibi parauerit ui sua: saepe tamen exit ex cratere, quem ipsi uidimus; nunquam ex superiore; quod uel eo inscendere grauis materia non queat; uel, quia inferius alia
+        <pb n="148"/>
+        
+        spiramenta sunt, non sit opus. Despumant igitur flammis urgentibus ignei riui pigro fluxu totas delambentes plagas: ii paulatim recedente calore priorem sibi naturam reposcentes in lapidem indurescunt fragilem sane flammis eneruantibus, et si complectas, putrem. Stat ea confluuies, ueluti glacies, concreta usque, ut alteri descendant riui: ii nanque non suprafluunt; sed inter montis arenosam cutem, et priora concreta fluenta insinuantes sese cursum sibi medium quaerunt: sic, que prius induruerant; quia friabilia sunt (ut dixi), nouis incendiis cedentia crepant, et in partes disiecta prosiliunt, quacunque unda deurgens interfluit: deinde conglaciantem eam altera subiit illuuies; atque ipsa tantundem facit: tum altera item, et altera: non enim continuato fluore mons; sed per intermissos spiritus (ut supra commemorauimus) eructatur: atque ita nouissimis semper uincentibus,
+        <pb n="149"/>
+        
+        multiplicatoque in immensum incendio ex igneis fluminibus fracti lapides altissimo congestu magnam partem montis <corr>inoccuparunt</corr>: atque ii, quo recentius fluxere, eo et nigriores sunt, et firmiores: aetate et pallescunt, et resoluuntur: inde ego esse arenarum plagas omnis, quae circa cacumen uisuntur, existimo. Materies omnis aridissima est; atque ideo minus multo, quam uiui lapides, ponderosa; scabra adeo, ut breui mora, tanquam a lima, inscendentibus calcei exedantur.</p>
+        <p><label>B. P.</label> Atqui ego sane in eo mallem Empedoclem imitari; qui ascensurus amyclis aereis utebatur: sed sequere.</p>
+<p><label>B. F.</label> Ea infra paruum craterem circumuersus totum montem complexa est; et cumulum eum, in quo maior crater est, sustinet: demittitur inde alicubi per interualla imum in montem obliquis <corr>fluxibus</corr>; quaque Catana iacet, usque in mare; lata saepe, qua uisus patet;  
+        <!-- D -->
+        <pb n="150"/>
+        
+        horrendum sane spectaculum modo alueis hiantibus, modo impendentibus ripis. Inter maxima profluuia longe memorabile illud est; quod paulo ante nostra aetatem usque intra Catanam decurrens non paruam urbis partem incendio depopulauit: neque sane descensus is minus, quam per <num value="200">.cc.</num> stadia conficitur. Quin etiam portum eum, de quo ait Virgilius 
+        <q><l>Portus ab accessu uentorum immotus, et ingens</l>
+        <l>Ipse; sed horrificis iuxta tonat aetna ruinis,</l> </q>
+        ita impleuere fluenta Aetnaea; ut iam errasse Virgilium putes, quod portum ibi esse ingentem dixerit, qui pene nullus siet.</p>
+<p><label>B. P.</label> Istud nimirum est, quod a principio dixeras cedere illis uolentibus, atque eorum contrahi ardoribus ipsum mare.</p>
+<p><label>B. F.</label> Est ita quidem, ut dicis: sed (ut ad propositum reuertamur) reptare per eas crepidines, quas dixi, duobus milibus passuum necesse 
+        <pb n="151"/>
+        
+        est quemuis craterem uisuros: reliquum iter in equis conficitur. reptationis eius labor haud facile credas quam durus est, quamque indigens uirentis genu; quippe, quia degrauante uiatore temere ingesti lapides concedunt; et in ascensu raptissimo, ni probe posueris pedem, dimoto uno tota congeries deuoluitur, et in te ipsum ruit: adde quam etiam, si in plano cecideris, laedunt scabritie sua; et manus crebro contactu, nisi contexeris, offenduntur. Magna haec fortasse uidebuntur pater audienti tibi: magna enim sunt (ut mihi quidem uideri solet); uerum nusquam adeo ac nobis uidentibus fuere: nam Aetna quanta est, nemo quidem scit, qui non uidet. Ex summo uertice contemplari totam insulam licet, termini eius longe esse multo minus uidentur, quam sunt.</p>
+        <p>Brutia ora ita tibi sub oculis iacet; ut eo posse traiicere pene quidem iactu lapidis putes: serena tempestate  
+        <!-- D  i i -->
+        <pb n="152"/>
+        
+       Neapolitani etiam tractus extimantur. Niuibus per hyemem fere totus mons canet: cacumen neque per aestatem uiduatur.</p>
+<p><label>B. P.</label> Quid, quod hyemare tantum eas meminit Strabo? <label>B. F.</label> At experientia ita te docet, usque ipse auctor (quod quidem uenia illius dixerim) non deterior. Quare illud mi pater etiam atque etiam uide ne quid te moueat, si aliqua ex parte huius nostri de Aetna sermonis cum uetustis scriptoribus dissentimus: nihil enim impedit fuisse tum ea omnia, quae ipsi olim tradidere, quorum permanserint plurima in nostram diem; quaedam se immutauerint; aliqua etiam surrexerint noua: nam (ut caetera omittam) quod cinerosa partim esse summa cacumina dictauere, eius rei nunc uestigium nullum apparet: cinis enim, qui queat conspici, toto monte nullus est: neque id tamen omnibus annis fuit: nam multorum testimonio accepimus, qui uidere, annos ab hinc quadraginta tantos  
+        <pb n="153"/>
+        
+         ex Aetna cineres euolasse; ut per totam eam insulae partem, quae uersus Pelorum iacet, uniuersam oleam abstulerint; eos etiam in Italiam uentis ferentibus latos. Sed (ut ad niues illas redeamus) addebat idem Vrbanus Kalendis Iuniis ascendente se satis largiter, abundeque ninxisse; tum iterum, qui septimus fuerit post eum diem, dum ipse Randatii moraretur, in uniuersam montanam plagam niues fere in pedis altitudinem descendisse: in quo ipso licet et Pindarum suspicias scite cognomento usum; qui Aetnam niuium nutricem appellarit. Quo latere subest Catana, media fere inter ipsam et cacumen regione purissimus et perennis fons erumpit dorico uocabulo Crana ab incolis appellata: caeterum toto monte supra radices nullae aquae sunt; nisi quae uel ex niuibus emanant; cuius quidem rei etiam Theocritum testem habemus; in quo dum Galateae
+        <!-- D i i i -->
+        <pb n="154"/>
+        
+        Cyclops enumerat diuitias suas, haec etiam interserit,
+        <q><l>Est glacialis aquae riuus mihi, quem syluosa</l>
+        <l>Nectareum in potum niuibus fluit Aetna solutis;</l></q>
+        aut si quae intra fagorum truncos pluuiis descendentibus relinquuntur. Atqui res et locus me monuere ut quod ibi uidimus pulcherrimum natura opus et mirati fuimus maxime, non praeterirem. Altissima in specula; qua sylua deficiente liberior prospectus in insulam et Tyrrhena fluenta dominatur, herbidus campus leni decumbit cliuo: hunc pini procerae pari distantes interuallo ducta corona circunsepiunt: in medio fagus densissima quadrifido robore se subiiciens, celsior quam caeterae, ueluti regina ipsa consurgit: ea non statim ex imo discriminatur; sed a tellure per spatium cubitalem uno trunco contenta est: inde 
+        <pb n="155"/>
+        
+        se in ramos consimiles aequalibus interuallis dispartitur: interne usque ad imas radices arbor deficiens undis pluuialibus urnam ex sese facit: illae montano purgante aere, ac umbris solem arcentibus et fontanis gelidiores sunt, et putealibus puriores.</p>
+        <p>Ambigeres ibi tu quidem pater si quid eorum tibi laudandum esset; quidnam potissimum laudares, an prospectum eius loci, an locum; tum an arborem, an undas: ita scite in alteris decorandis (quasi quidem id agerent ut, quid magis pulchrum esset, ambigeretur) et Hamadryas et Nais conuenere: in honestandis uero alteris admirabile quidem est quantum gratiae uenustatisque sibi inuicem afferant Iupiter Genio, et genius Ioui: quo fit ut in utrisque multum Venus etiam permista sentiatur.</p>
+<p><label>B. P.</label> O pulchras naturae delicias, uel etiam Deorum (ut poetis placet) si qui sunt, qui eum montem colant.</p>
+        <p><label>B. F.</label> Sunt pater (ut aiunt) 
+        <pb n="156"/>
+        
+        atque incolunt illo ipso quidem in loco.</p>
+<p><label>B. P.</label> Mirabar si haec temere dicerentur prouenire, praesertim a Siculis, quos quidem constat propter sermonis impunitatem et licentiam etiam trilingues uocatos: sed quis inhabitat Deus? <label>B. F.</label> Fauni esse fontem illum dicunt.</p>
+<p><label>B. P.</label> Fabellam te uideo inchoare: sed quoniam in Faunum incidimus, sequere: detineri enim me ab illo facile patior; cum quo te scio libenter etiam carminibus ludere interdum solere. istud autem qui sciunt? an ita fortasse coniectantur? <label>B. F.</label> Videre se aiunt pastores ipsum Deum passim errantem per syluas et pascua; tum etiam sedentem sub illis arboribus coronatum pinu et tacentem saepius; interdum tamen etiam fistula solantem amores. Sed continebo potius me hic, pater; leuia enim ista sunt; et mihi loqui tecum nisi reuerenter non licet: quanquam quidem, si pergerem,  
+        <pb n="157"/>
+        
+        faceremus ipsi hac in re quod facere etiam reges in coenis solent: qui quidem inter apros, et pauones, quibus habundant quotidie, interdum tamen et allium poscunt et betas. Neque sane animus noster uacare semper rebus seuerioribus potest neque, si uacet, tamen ex illis tam plenam capit iocunditatem, quam si ea ipsa remitteret interdum et mox non longo interuallo intermissa reuocaret. Ita nos quidem nunc grauia illa philosophiae studia quibus quidem certe id omne tempus soles, quod tibi per rempublicam licet impertire, melius etiam fabellis istis leuioribus <sic>condiremus</sic>: et quidem licet maxime uel in Noniano fabulari.
+        </p>
+        <p>
+          <label>B. P.</label> Sane quidem licet dum illud tamen semper teneatur ut cerato remige Sirenas, quod aiunt. Et profecto poeta ille sapientissimus nunquam Vlissi concessisset, quem prudentissimum semper facit,
+        <pb n="158"/>
+        
+        ut Sirenarum cantus audiret nisi liceret etiam grauibus et sapientibus uiris, quorum tamen in numero me non pono, minus seriis adesse interdum rebus, et lusus captare non adeo seueros; modo ne remiges audiant, hoc est, ne sensus pateant uoluptatibus quibus et demulcentur ipsi semper et, nisi ratione occlusi sint, saepe etiam facillime capiuntur: quod tibi esse faciundum in uita maxime semper censeo, Bembe fili: nam nisi te ita informaris, ut uoluptatum illecebris animum imperuium geras, non possum dicere, quam multae tibi occurrent species earum quae te non adolescentem modo (ut es nunc) demulcere possint et delinire, ac iam etiam debellare et deuincere, sed plane etiam uirum. Itaque illis aut magnanimiter imperandum est, quod fecerunt uiri omnes magni et boni, et ii, quos propterea deos etiam
+        <pb n="159"/>
+        
+        appellauere; uel omnino turpiter deseruiendum, in quo quidem tu (si me audies) non committes ut reiecta continentia atque ipso amore uirtutis ex illorum sis grege, de quibus praeclare Oratius,
+        <q><l>Nos numerus sumus, et fruges consumere nati,</l>
+        <l>Sponsi Penelopes, nebulones, Antinoique</l>
+        <l>In cute curanda plus aequo operata iuuentus;</l>
+        <l>Quis pulchrum fuit in medios dormire dies, et</l>
+        <l>Ad strepitum citharae cessantum ducere curam.</l></q></p>
+        <p>Sed quoniam iam aduesperascit, procedamus in atrium: nugae autem pastorales istae tuae sub umbris sunt potius, et inter arbores, quam intra penates recensendae. Quae cum dixisset, et iam in atrium peruenissemus,
+        <pb n="160"/>
+        
+        ego finem loquendi feci; ille cogitabundus in bibliothecam perrexit.</p>
+        
+        
+      </div>
+
+    </body>
+    <back>
+      <div type="colophon">
+        <p>IMPRESSVM VENETIIS IN 
+          AEDIBVS ALDI ROMANI <date when="1496-02">MENSE FEBRVARIO ANNO. M.VD.</date></p>
+      </div>
+    </back>
+  </text>
+</TEI>

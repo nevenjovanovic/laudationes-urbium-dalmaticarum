@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscriptio aedis senatus Ragusae (ante 12. Aug. 1435), versio electronica</title>
+                <author><name>Ciriaco d'Ancona (Kyriacus Anconitanus, Ceriaco Pizzicolli)</name>, <date from="1391" to="1455">c. 1391 – c. 1455</date></author>
+                <editor>
+                             
+                    <name>Neven Jovanović</name>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                    projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+                    Hrvatska.  <date when="2010-02">veljače 2010</date></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p><bibl>Kokole, Stanko: Cyriacus of Ancona and the Revival of Two Forgotten Ancient Personifications in the Rector's Palace of Dubrovnik In: Renaissance Quarterly , Vol. 49 , Nr. 2 The University of Chicago Press on behalf of the Renaissance Society of America (1996), S. 225-267; textum inscriptionis edididit <editor>Stanko Kokole</editor>, p. 238-239, n. 23</bibl>, e marmore Ragusino et <bibl>codice apographo epistolarum Cyriaci, annis 1440. exarato, hodie Florentiae, in Biblioteca Nazionale, Cod. Pal. Targioni-Tozzetti 49, fol. 18 (70)</bibl>.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1435-08-12">ante 12. Aug. 1435.</date>
+            </creation>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2010-02-04</date>
+                <name>Neven Jovanović</name>
+                Prva verzija.
+            </change>
+           
+        </revisionDesc>
+    </teiHeader>
+    <text type="prorsaOratio">
+
+	
+
+<body>
+    <div type="prorsaOratio-inscriptio">
+        
+<p>
+    Civitati <lb/> Ragusei nobiles providentissimique cives. <lb/> Blasii martyris <expan>pontif(icis)q(ue) (sancti)ss(imi)</expan> <expan>praecl(arae)</expan> huius Epidaurae <lb/> Raguseae civitatis patroni auspicante numine <lb/> ad <date when="1435-08-12"><expan>prid(ie)</expan> Iduum Sextilium</date> <expan>aug(ustum)</expan> faustum <expan>feliciss(imum)que</expan> diem <lb/> ex <expan>s(enatus) c(onsulto)</expan> et amplissimi ordinis decreto <lb/> atrium praetorianum hoc insigne ut <expan>publ(icam)</expan> <expan>civit(atis)</expan> aulam et <lb/> senatoriam aedem <expan>aed(ificavere)</expan> <lb/> optumis <corr>curantibus</corr> <expan>V vir(is)</expan> <expan>optim(v)m</expan> in omnem <lb/> <expan>oportvnvmq(ve)</expan> praesentem et posteritatis vsvm aere pvblico <lb/> 
+    dicandum <expan>exornandvmq(ve)</expan> dedere. <lb/> 
+    <expan>K(yriacus) A(nconitanus)</expan> <lb/> 
+    <date when="1435"><expan>A(nno) D(omini)</expan> MCCCCXXXV Sigismundo <expan>Imp(eratore)</expan> <expan>anno</expan> II.</date>
+</p>
+        
+
+    </div>
+    <div type="prosaOratio-inscriptio-inCodice">
+        <p>
+            CIVITATI SVE RAGVSEI <expan>NOB(iles)</expan> <lb/> 
+            <expan>PROVIDENTISS(imi)Q(ue)</expan> CIVES Blasij martyris <expan>pont(ificis)q(ue)</expan> preclare huius <expan>epidaur(eae)</expan> <lb/> 
+            <expan cert="medium">Rag(useorum)</expan> Ciuitatis patroni auspicante numine. <lb/> 
+            Ad <date when="1435-08-12"><expan>prid(ie)</expan> Iduum sextilium Augustum</date> faustum <expan>feliciss(imum)q(ue)</expan> <lb/> 
+            diem ex <expan>S(enatus) C(onsulto)</expan> et <expan>ampl(issimi) ord(inis)</expan> <expan>decr[eto]</expan>
+            ATRIVM pretorianum hoc insigne ut <expan>publ[icam]</expan> <expan>[ci]vitatis</expan>
+            aulam et Senatoriam edem optimis curantibus V 
+            uiris optimum in omnem <expan>oportunumq(ue)</expan> presentem
+            et posteritatis usum ere <expan>publ(ico)</expan> dicandam <expan>exornandamq(ue)</expan>
+            dedere. <date when="1435"><expan>A(nno) D(omini)</expan> MCCCCXXXV, <expan>EVG(en)ij p(a)pe</expan> <expan>A(nno)</expan> V</date>
+        </p>
+    </div>
+    
+</body>
+    </text>
+    </TEI>

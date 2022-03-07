@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Aldus Mannuccius Lectori (1577), versio electronica</title>
+    <author>
+        <name>Aldus Mannuccius (Aldo Manuzio il Giovane)</name>, <date from="1547" notAfter="1597">1547 – 1597</date></author>
+        <respStmt>
+        <resp>Editionem electronicam curavit</resp>
+        <name>Neven Jovanović</name>
+        
+    </respStmt>
+    
+</titleStmt>
+<editionStmt>
+<edition>
+<date when="2010-01">mense Januario 2010</date>
+</edition>
+</editionStmt>
+    <publicationStmt>
+        <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+            Hrvatska.  <date when="2010-01">siječnja 2010</date></p>
+    </publicationStmt>
+<sourceDesc>
+    <p>Ad fidem editionis: <bibl><editor>Antoine-Augustin Renouard</editor>: Annales de l'imprimerie des Alde, ou Histoire des trois Manuce et de leurs éditions. T. II. Paris: l'auteur (1825). Etiam apud <ref target="http://catalogue.bnf.fr/ark:/12148/cb311990628/description">Gallica</ref></bibl>.
+        
+        Editio princeps autem erat:
+        <bibl>De illustribus familiis quae hodie Rhacusae exstant anno CIC IC xxcII Kal. Ian. ad amplissimum Senatum Rhacusanum Didacus Pyrrhus. [1582]. [Venetiis: Aldo Manuzio il giovane] — In-4°. 16 pp.</bibl>
+        
+    </p>
+    
+</sourceDesc>
+</fileDesc>
+    <profileDesc>
+        <creation>
+            <placeName>Venetiis.</placeName> <date when="1582-06-01">1582-06-01.</date>
+        </creation>
+    </profileDesc>
+<revisionDesc>
+<change>
+<name>Neven Jovanović</name>
+<date>2010-01-20</date>
+</change>
+</revisionDesc>
+</teiHeader>
+<text type="epistula">
+    <body>
+        <milestone unit="page" n="135"/>
+        <opener>Aldus Mannuccius Lectori.</opener>
+        <p>Rhacusanae civitatis praecipuas familias Didacus Pyrrhus eleganti sane, et pererudito carmine complexus est. Quod cum ad me pervenisset, diutius jacere non sum passus. Ut tantae civitatis, tantique viri laudes apud omnes gentes exstarent. In quo cum multa me moverint, movit potissimum vetus quaedam mea erga Rhacusanam nobilitatem benevolentia qui fratrem meum, Hieronymum, puerum septennem, sed supra aetatis captum incredibiliter eruditum, eo loco mortuum habeam. Cujus memoriae praestare hoc qualecumque officium volui : ut sciant homines debere me ei civitati quamplurimum, quae et vivum fratrem meum amavit, (quo est in exteros amore) et mortuum, ejus ingenii suavitates recordans, hodieque luget.  
+        </p>
+        <closer>
+            <dateline> <placeName>Venetiis</placeName>. <date when="1582-06-01">CIC IC xxcII Kal. Jun.</date> </dateline>
+        </closer>
+    </body>
+</text>
+</TEI>

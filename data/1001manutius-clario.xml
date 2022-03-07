@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Aldi Manutii epistulae dedicatoriae ad Danielem Clarium (1498 – 1504), versio electronica</title>
+    <author>
+        <name>Aldus Manutius (Aldo Manuzio)</name>, <date from="1449" notAfter="1515">1449 – 1515</date></author>
+        <respStmt>
+        <resp>Editionem electronicam curavit</resp>
+        <name>Neven Jovanović</name>
+        
+    </respStmt>
+    
+</titleStmt>
+<editionStmt>
+<edition>
+<date when="2010-01">mense Januario 2010</date>
+</edition>
+</editionStmt>
+    <publicationStmt>
+        <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+            Hrvatska.  <date when="2010-01">siječnja 2010</date></p>
+    </publicationStmt>
+<sourceDesc>
+    <p>Ad fidem editionis: <bibl>Beriah Botfield, Praefationes et epistolae editionibus principibus auctorum veterum praepositae, Cambridge: University Press; London: Bohn, 1861. Facsimile apud <ref target="http://www.archive.org/details/prefacestofirste00botfuoft">archive.org</ref></bibl>.
+        
+    </p>
+    
+</sourceDesc>
+</fileDesc>
+    <profileDesc>
+        <creation>
+            <placeName>Venetiis.</placeName> <date when="1498-07-13">13. 7. 1498.</date>;  <date when="1502-06">6. 1502.</date>; <date when="1504-11">11. 1504.</date>; <date when="1504-10">10. 1504.</date>
+        </creation>
+    </profileDesc>
+<revisionDesc>
+<change>
+<name>Neven Jovanović</name>
+<date>2010-01-20</date>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+    <body>
+        <div>
+            <head>
+                <bibl>Aristophanes, Atheniensis, Poeta. Comoediae novem, Graece, cum Scholiis
+                Graecis a Marco Musuro ex vett. Codd. descriptis et recensitis; cum
+                ejusdem praefatione Graece, et Scipionis Carteromachi Epigrammate
+                gemino; sequuntur Excerpta ex Hephaestionis Enchiridio, et alia Demetrii Triclinii, de metris quibus usus est Aristophanes; item Platonii
+                    de differentia et diverso charactere Comoediarum Apospasmation, cum
+                    nonnullis de Comoediae antiquae, mediae, novaeque Scriptoribus, et numero
+                    Comoediarum ; duplici Vita Aristophanis, prima ab Anonymo scripta,
+                    alia, a Thoma Magistro. Comoediae vero ipsae vario argumento,
+                    pedestri sermone, itemque alio iambico carmine, quod Aristophanis Grammatici nomine inscribitur, illustrantur. Folio. Apud Aldum, Venetiis,
+                    idibus Quintilis, 1498.
+                    Editio Princeps. Char. Graec. cum sign, et cust. pagg. sine num. Foll. 348,
+                    lin. 32.</bibl>
+            </head>
+            <milestone unit="page" n="218"/>
+            <opener>Aldus Manutius Romanus  Danieli Clario Parmensi S. P. D.</opener>
+            <p>Perbeati illi mihi videntur, Clari vir doctissime, qui hoc tempore in summa bonorum librorum copia, liberalibus disciplinis operam daturi,
+                Graece discunt; facile enim ac brevi Graecam linguam, nisi ipsi sibi defuerint, consequentur, in qua multis saeculis nullus fere ex Latinis, culpa magis temporum quam ingeniorum, excelluit. Facillime, Graecis literis adjutricibus, omnium laudatarum artium procreatricem philosophiam callebunt, nec medicinam minus. Errant meo judicio multum, qui se bonos philosophos medicosque evasuros hoc tempore existimant, si expertes fuerint literarum Graecarum; quibus et Aristoteles, quicquid ad dialecticen, ad philosophiam et naturalem, et transnaturalem, et moralem, quicquid ad rhetoricen et poeticen pertinet, doctissime scripsit: et Ammonius, Simplicius, Themistius, Alexander Aphrodiseus, Philoponus, Eustathius, et caeteri peripateticae sectae eruditissimi viri, omnia quaecunque vel scientiae pervestigatione, vel disserendi ratione comprehenderat Aristoteles, optime ac luculentissime commentati sunt; quibus item Hippocrates, Galenus, Paulus, et alii in medicina excellentissimi viri, omnia quae ad medicae artis spectant cognitionem, copiosissime verissimeque literis commendarunt. Non aliis quam Graecis literis ii, qui mathematici vocantur, artem suam obscuram, reconditam, multiplicem, subtilemque, facillimam cognitu posteris tradiderunt: quo in genere permulti, ut Architas, Ptolemaeus, Nicomachus, Porphyrius, Euclides, perfecti homines exstiterunt. Quae omnia quam depravate et corrupte, quam mutilate et perperam, ut taceam etiam quam barbare et inepte Latinis scripta sint, quis vel 
+                <milestone unit="page" n="219"/>
+                mediocriter eruditus ignorat? sed brevi spero futurum ut, explosa barbarie rejectisque ineptiis, bonis literis verisque disciplinis, non ut nunc a paucissimis, sed uno consensu ab omnibus, incumbatur. En! erit tandem ut glande neglecta, inventis vescamur frugibus.
+                Optime igitur tu, mi Clari, in praestanti ista et opulenti urbe Ragusio juventuti consulis, qui eam et Graece et Latine simul, ut praecipit Quintilianus, summo studio ac fide jam multos annos, publico conductus stipendio, doces. Quod ut tibi factu facilius sit, mitto ad te Aristophanem, ut illum non modo legendum sed ediscendum quoque discipulis praebeas tuis: quem et in tuo nomine publicare voluimus, ut conjunctionem studiorum amorisque nostri, quo possem munere declararem, et praesertim cum tu, etsi de facie nos non novimus, assiduis tamen me afficias beneficiis. Essem profecto ingratissimus si te valde amantem non redamarem. Accipe igitur novem Aristophanis fabulas; nam decimam Lysistraten ideo praetermisimus, quia vix dimidiata haberi a nobis potuit. Sint satis has novem cum optimis et antiquis (ut vides) commentariis; quibus Graece discere cupientibus nihil aptius, nihil melius legi potest, non meo solum judicio, quod non magnifacio, sed etiam Theodori Gazae, viri undecunque doctissimi; qui, interrogatus quis ex Graecis auctoribus assidue legendus foret Graecas literas discere volentibus; respondit, solus Aristophanes; quod esset sane quam acutus, copiosus, doctus, et merus Atticus. Hunc item Joannes Chrysostomus tanti fecisse dicitur, ut duodetriginta comoedias Aristophanis semper haberet in manibus, adeo ut pro pulvillo dormiens uteretur: hinc itaque et eloquentiam et severitatem, quibus est mirabilis, didicisse dicitur. Ego sic assidue legendum a Graecis censeo Aristophanem, ut a nostris Terentium, quem, quod semper legeret, M. Tullius familiarem suum appellabat. 
+                
+            </p>
+            <closer><salute>Vale.</salute>
+                <dateline>Venetiis, <date when="1498-07-13">tertio Idus Julias, M.IID</date>.</dateline>
+            </closer>
+            
+        </div>
+        <div><milestone unit="page" n="254"/>
+                <head>
+                    <bibl>Poetae Christiani Veteres; scilicet Prudentii, Prosperi Aquitanici,
+                        Joannis Damasceni, Cosmae Hierosolymitae, Theophanis, Sedulii, Juvenci,
+                        Aratoris, Probae Falconiae, Lactantii Firmiani, Cypriani, Tipherni, S.
+                        Damasi, Gregorii Nazianzeni, et Nonni, aliorumque Christianorum Poetarum
+                        veterum carmina sacra, Greece et Latine, omnia ex recognitione Aldi Romani.
+                        Accedunt Homerocentra, quae et Centones ex Homero, Graece, cum
+                        interpretatione Latina, studio Petri Candidi, Monachi, Venetiis, ex Aldi
+                        academia, <date from="1501" to="1504">1501—4</date>. Quarto. 4 vol. scilicet
+                        i. Prudentii opera, foll. 233, quorum unum non est impressum ; II. Aliorum
+                        Poetarum opera, foll. 291 ; III. Gregorii Nazianzeni opera, foll. 233 ; IV.
+                        Nonni Carmina, foll. 51. </bibl>
+                </head>
+        <div>
+            
+            <opener>Aldus Romanus, Danieli Clario Parmensi, bonas literas Ragusii profitenti, S.</opener>
+            <p> VIDE an ita sit quod aiunt, mi Clari, malos et daemonas et homines rebus bonis
+                semper esse contrarios, quod, ex quo statui Christianos poetas cura nostra impressos
+                publicare, ut loco fabularum, et librorum gentilium infirma puerorum aetas illis
+                imbueretur, ut vera pro veris, et pro falsis falsa cognosceret, atque ita
+                adolescentuli, non in pravos et in infideles, quales hodie plurimi, sed in probos
+                atque orthodoxos viros evaderent quia: <q>adeo a teneris assuescere multum est</q>, tot
+                illico oborta sunt impedimenta malorum invidia et domesticorum, <foreign
+                    xml:lang="el">καὶ ταῖς τῶν καταράτων, καὶ δραπετευόντων δούλων
+                    ἐπιβουλαῖς,</foreign> ut pene opprimerer. Tandem Jesu Christo, Deo optimo maximo
+                adjuvante, (nam si ipse pro nobis, quis contra nos?) Prudentius primus ex
+                Christianis poetis, qui in manus nostras pervenerunt, abusque Britannis accitus, cum
+                jam mille et centum annis et plus eo delituisset, exit in publicum, typis nostris
+                excusus, ut prosit Christianis suis. Idque sub tuo nomine, Clari suavissime, ut in
+                ista urbe Ragusio inclyta, et plena nobilitatis, sereno vultu, quo optimus quisque
+                ac doctissimus istic solet, excipiatur. Utetur primum te hospite, ut per te, qui
+                vitae integritate, ac bonarum literarum, quas publice profiteris, doctrina, apud
+                istos optimos virtutisque amantissimos cives multum, et authoritate, et gratia
+                vales, ab omnibus cognoscatur. Illud fortasse miraberis Dittochaeum inter Prudentii
+                opera connumeratum, necnon Prosperi epigrammata, digna lectu, quod una cum Prudentio
+                imprimenda curarim, me <milestone unit="page" n="255"/> censuisse; sed magis
+                mirabere, cum et Dittochaeum perlegeris, et epigrammata, cur ab omnibus fere doctis
+                aetatis nostrae barbara, indignaque lectu habita fuerint, condemnataque indicta
+                causa. Nemo, enim, ex doctis ea opera (ut opinor) legit, nec qui adhuc invenire, qui
+                nisi primum versum legerit. In quibus et ipse annumerabar. Quaedam tamen correctiora
+                desiderabis, quae nos, ut in antiquissimo invenimus exemplari, quod unum erat
+                duntaxat, dimisimus. Juvencum praeterea, Sedulium, Aratorem, quos tandiu typi nostri
+                parturiunt ob circiter octo <sic>millia</sic> Gregorii <sic>Nanzianzeni</sic> Carminum, et Nonnum, qui
+                Evangelium <foreign xml:lang="el">κατὰ Ἰωάννην</foreign> heroico carmine
+                elegantissime scripsit, et id genus caetera, quae Graece addidimus cum Latina
+                interpretatione, perbrevi parient, confestimque nata, ad te advolabunt. </p>
+                <closer>
+                    <salute>Vale.</salute>
+                </closer>
+        </div>
+        <div>
+            <opener>Aldus Manutius Romanus Danieli Clario Parmensi, in urbe Rhacusa 
+                bonas literas publice profitenti, S. P. D.</opener>
+                    <p>Christianos poetas, jam annum in thermis nostris excusos, tandem, mi Clari,
+                        emittimus, tibique viro Christianissimo et morum magistro nuncupamus: qui ne
+                        cito, ut ego statueram, et tu optabas, publicarentur, tot mihi impedimenta
+                        fuerunt, ut ipse mecum saepe sim admiratus, duxerimque <foreign
+                            xml:lang="el">κακοδαιμόνων</foreign> id fieri opera, ne si in locum
+                        gentilium, lascivorumque poetarum, hi nostri Christiani poetae in scholis,
+                        ubi teneri puerorum animi instituuntur, succederent, facile in bonos
+                        plerique omnes evaderent. Quoniam <q>quo semel est imbuta recens servabit
+                            odorem testa diu</q>; atque <q>adeo a teneris assuescere multum est.</q>
+                        Sed Jesu Christo, Deo optimo maximo, adjuvante, vicimus. Nam sanctissimos
+                        libros, qui circiter mille annos latuere, publicavimus, ut amentur
+                        leganturque in scholis, fiatque non ut antehac, cum fabulae, quibus tenera
+                        puerorum aetas imbuitur, pro historia habebantur; quae est potissima, ut
+                        puto, causa, quod quamplurimi e doctis et vitiosi sunt et infideles. Sed
+                        contra pro falsis falsa habeantur, et vera pro veris. Et si usquam hisce
+                        libris proficient studiosi, id erit maxime in ista urbe Rhacusa tum civium
+                        probitate, quam a parentibus longa serie tanquam haereditatem accipiunt, tum
+                        te magistro. Deus quam bene convenit optimum virum, eumque doctissimum in
+                        optima urbe, et bonarum literarum <milestone unit="page" n="256"/>
+                        perstudiosa, esse praeceptorem. Quamobrem et tibi, et Rhacusae gratulor
+                        plurimum, idemque oro eveniat in caeteris Christianae religionis
+                        civitatibus. Quod tamen facillime spero futurum, si a teneris annis hosce
+                        Christianos poetas pueri doceantur, imbuanturque divinis. Nam cum ad
+                        gentiles jam bene instituti legendos se conferent, bona quaecunque
+                        invenerint legendis illis, ut e spinis rosas, et id genus flores, accipient;
+                        mala vero, et quae moribus obsunt, prudentes, tanquam scopulum, evitabunt.
+                    </p>
+                <closer>
+                    <salute>Vale, mi Daniel, cum Daniele Restio nostro homine integerrimo necnon tam
+                        moribus quam literis ornatissimo, meque amate, ut facitis.</salute>
+                    <dateline> Venetiis, <date when="1502-06">mense Junio, M.D.II.</date></dateline>
+                </closer>
+        </div>
+        </div>
+        <div>
+            <milestone unit="page" n="269"/>
+            <head>
+                <bibl>Demosthenes, Paeaniensis, Atticus, Rhetor. Orationes duae et sexaginta, cum 
+                    Libanii Sophistae in eas ipsas Orationes argumentis, Graece. Accedit vita 
+                    Demosthenis per Plutarchum, et ejusdem vita per Libanium, Graece. 
+                    Praecedit Aldi Manutii Epistola ad Danielem Clarium, Parmensem. 
+                    Folio. Venetiis, in aedibus Aldi: <date when="1504-11">mense Novembri, 1504.</date> 
+                    
+                    Editio Princeps. Char. Gr. cum sign. pagg. num. et cust. Foll. 320, lin. 46.</bibl>
+            </head>
+            <opener>Aldus Pius Manutius, Romanus, Danieli Clario Parmensi, S. P. D.</opener>
+                <p>SUMMUM locum in Oratoria tenere apud Graecos Demosthenem, et in Poetica Homerum,
+                    nemo est qui ambigat; sic apud Latinos in Oratoria Marcum Tullium esse facile
+                    principem, in Poetica vero Mantuanum poetam. Quod ita mihi esse verum videtur,
+                    ut non modo non futurum unquam putem qui hos superet adaequetve, sed ne accedat
+                    quidem propius. Et quanquam duo haec admirabilium ingeniorum paria successu adeo
+                    felici suos elucubrarunt libros, et tradiderunt posteris, ut aeternos
+                    reliquerint, non tamen eodem successu aut vitam vixerunt, aut oppetierunt
+                    mortem. Nam poetae et quietiorem egerunt vitam, et sua morte mortui sunt:
+                    oratores vero in summis semper vixerunt molestiis, et tandem crudeliter
+                    occubuerant, quippe qui rebus publicis regendis incubuere. In quibus si rudis es
+                    et ineptus, abjectus vivis et inglorius, atque publicorum munerum omnino expers:
+                    sin vero aptus, ac paulo quam caeteri ingeniosior, adtrahis ad te erumnas,
+                    <foreign> ὡς κακίας νέφος,</foreign> adisque plerumque periculum capitis:
+                    quemadmodum accidisse Demostheni et Marco Tullio legimus. Verum ex duobus his
+                    infelicior Demosthenes fuit. Nam et cum vitiis quibusdam natus est, quae
+                    industria non mediocri tolli oportuit. Unde Valerius Maximus; — <q>Alterum
+                    Demosthenem natura, alterum industria fecit; et puer admodum privatus patre, sub
+                    infidis et avaris tutoribus educatus est, quos male administrata tutela, in jus
+                    vocare coactus, non sine labore immodico, ac periculo, deperdita etiam ablatorum
+                    parte, evicit</q>. De eo sic in ejus vita Libanius; — <q><foreign xml:lang="el">ὀρφανὸς δὲ καταλειφθεὶς ὑπὸ τοῦ πατρὸς κομιδῆ νέος ἦν μέν, ὥς φασιν, ἀσθενὴς τῷ σώματι καὶ  
+                        νοσώδης ὥστε μηδὲ εἰς παλαίστραν φοιτῆσαι, καθάπερ
+                        πάντες οἱ τῶν Ἀθηναίων παῖδες εἰώθεσαν. ὅθεν
+                        καὶ ἀνδρωθεὶς ὑπὸ τῶν ἐχθρῶν εἰς μαλακίαν ἐσκώπτετο καὶ Βάταλος ἐπωνυμίαν ἔσχεν.</foreign></q> Hoc est, ut et Graecarum literarum rudes intelligant; —
+                    Privatus autem patre admodum <milestone unit="page" n="270"/> juvenis fertur
+                    imbecilli fuisse corpore, et valetudinario adeo, ut neque ad palaestram
+                    accederet: quemadmodum omnibus Atheniensium pueris moris erat. Quapropter vir
+                    factus ab inimicis in molliciem mordebatur: appellabaturque cognomento Batalus.
+                    Et paulo inferius; — 
+                    <q>
+                        <foreign xml:lang="el">εἰς ἄνδρας ἐγγραφεὶς εὐθὺς ἀγῶνα κατὰ τῶν ἐπιτρόπων
+                            ἐνεστήσατο κακῶς διῳκηκότων τὴν οὐσίαν αὐτοῦ. καὶ εἷλε μὲν αὐτούς, οὐ
+                            μὴν ἠδυνήθη πάντα ἀπολαβεῖν ὅσα ἀπολωλέκει.</foreign>
+                    </q> Id est; — Cum primum adscitus est inter viros, statim
+                    tutoribus male ipsius facultatibus administratis, diem dixit; et evicit quidem
+                    eos, sed non omnia potuit, quae amiserat, recuperare. Et in eadem; —
+                    <q><foreign xml:lang="el"> Ἔτι κἀκείνων μνημονευτέον, ὅτι τραυλὸς μὲν
+                        ἦν τὴν γλῶτταν ἐκ φύσεως, τὸ δὲ πνεῦμα ἀτονώτερος.</foreign></q> Hoc est ; — Ad haec et illa
+                    commemoranda, Demosthenem et lingua balbum, et imbecillis fuisse lateribus. Item
+                    in eadem; — 
+                    <q>
+                        <foreign xml:lang="el"> καὶ γὰρ δειλὸς ἦν τὸ πρῶτον πρὸς τοὺς τοῦ δήμου
+                            θορύβους καὶ εὐκατάπληκτος ὥστε εὐθὺς ἐξίστασθαι. διὰ δὲ τοῦτό φασιν
+                            αὐτὸν ἄνεμον ῥαγδαῖον τηροῦντα καὶ κινουμένην σφοδρῶς τὴν θάλατταν παρὰ
+                            τοὺς αἰγιαλοὺς βαδίζοντα λέγειν καὶ τῷ τῆς θαλάττης ἤχῳ συνεθίζεσθαι
+                            φέρειν τὰς τοῦ δήμου καταβοάς. </foreign>
+                    </q>
+                    Hoc est ; — Etenim primo timidus ad concionum strepitus fuit, et
+                    consternabundus, ut statim deficeret; propterea vero aiunt ipsum vehementem
+                    ventum, commotumque admodum mare observando ad litora accedere, et recitare,
+                    sonituque maris populi clamores ferre consuevisse. Item in eadem; — 
+                    <q>
+                        <foreign xml:lang="el">παρειλήφαμεν δὲ κἀκεῖνο, ὡς καὶ ξίφος ποτὲ ἐκ τῆς
+                            ὀροφῆς ἀπήρτησε καὶ ἱστάμενος ὑπὸ τοῦτο ἔλεγεν. ἐποίει δὲ τοῦτο δι'
+                            αἰτίαν τοιαύτην· ἐν τῷ λέγειν ἀπρεπῶς τὸν ὦμον εἰώθει κινεῖν.
+                            ὑπερεκρέμασεν οὖν τοῦ ὤμου τὸ ξίφος ἐν χρῷ· οὕτω τῷ δέει τῆς πληγῆς
+                            ἠδυνήθη κατασχεῖν ἑαυτὸν ἐπὶ τοῦ πρέποντος σχήματος. </foreign>
+                    </q> Hoc est; —
+                    Accepimus vero et illud, suspensum ab eo ensem fuisse de tecto; atque sub ipso
+                    stetisse, cum recitaret; quod hanc ob causam fecisse dicitur; inter dicendum
+                    movere indecenter humerum assolebat: suspendit igitur ensem ad cutem humero
+                    imminentem, atque ita metu plagae in decenti se forma continuit. Praeterea cum
+                    maxime in patria floreret, nunc invidia civium, nunc Philippi, Alexandrive
+                    Macedonum maximorum regum persecutione nunquam quievit, immo a Philippo in pugna
+                    victus, magna cum ignominia fugit. Tum bis exulavit, primo in Aegina, et
+                    Troezene; quinquaginta etiam talentis ab Areopagitis damnatus Alexandro rege,
+                    secundo autem, Antipatro imperante, capitis damnatus a populo, autore Demade, in
+                    Neptuni templum, quod erat in Calaurea insula non tam salutis gratia, <milestone
+                        unit="page" n="271"/> quam ut inde quotidie patriam prospiceret, e
+                    Troezeniorum urbe confugit, inibique hausto veneno, cum a satellitibus
+                    traheretur, excessit e vita : quemadmodum in ejus vita Plutarchus meminit.
+                    Operae pretium autem visum est, quaedam ex ejus epistola ad magistratus
+                    populumque Atheniensium hic inserere, sunt enim hujusmodi. 
+                    <q>
+                        <foreign xml:lang="el">ἀλλὰ περὶ μὲν τούτων παύομαι, πόλλὰ γράφειν ἔχων· τὸ
+                            γὰρ μηδὲν ἐμαυτῷ συνειδέναι πεῖράν μοι δέδωκεν εἰς μὲν ὠφέλειαν ἀσθενὲς
+                            ὄν, εἰς δὲ τὸ μᾶλλον λυπεῖσθαι πάντων ὀδυνηρότατον. ἐπειδὴ δὲ καλῶς
+                            ποιοῦντες πᾶσι τοῖς ἐν ταῖς αἰτίαις διήλλαχθε, κἀμοὶ διαλλάγητ', ὦ
+                            ἄνδρες Ἀθηναῖοι· οὔτε γὰρ ἠδίκηχ' ὑμᾶς οὐδένα, ὡς ἴστωσαν οἱ θεοὶ καὶ
+                            ἥρωες (μαρτυρεῖ δέ μοι πᾶς ὁ πρόσθεν παρεληλυθὼς χρόνος, ὃς δικαιότερον
+                            ἂν πιστεύοιθ' ὑφ' ὑμῶν τῆς ἀνεγκλήτου νῦν ἐπενεχθείσης αἰτίας), οὔτ' ἐγὼ
+                            χείριστος οὐτ' ἀπιστότατος φανήσομαι τῶν διαβληθέντων. Καὶ μὴν τὸ
+                            ἀπελθεῖν οὐκ ἂν εἰκότως ὀργὴν πρός με ποιήσειεν· οὐ γὰρ ἀπεγνωκὼς ὑμᾶς
+                            οὐδ' ἑτέρωσε βλέπων οὐδαμοῦ μετέστην, ἀλλὰ πρῶτον μὲν τοὔνειδος τῆς
+                            εἱρκτῆς χαλεπῶς τῷ λογισμῷ φέρων, εἶτα διὰ τὴν ἡλικίαν οὐκ ἂν οἷός τ' ὢν
+                            τῷ σώματι τὴν κακοπαθίαν ὑπενεγκεῖν. ἔτι δ' οὐδ' ὑμᾶς ἐνόμιζον ἀβουλεῖν
+                            ἔξω με προπηλακισμοῦ γενέσθαι, ὃς οὐδὲν ὑμᾶς ὠφελῶν ἐμὲ ἀπώλλυεν. ἔπειθ
+                            ὅτι γ' ὑμῖν προσεῖχον τὸν νοῦν καὶ οὐδέσιν ἄλλοις, πολλὰ ἂν ἴδοιτε
+                            σημεῖα. εἴς τε γὰρ πόλιν ἦλθον, οὐκ ἐν ᾗ μέγιστα πράξειν αὐτὸς ἔμελλον,
+                            ἀλλ' εἰς ἣν καὶ τοὺς προγόνους ἐλθόντας ᾔδειν, ὅτε ὁ πρὸς τὸν Πέρσην
+                            κατελάμβανεν αὐτοὺς κίνδυνος, καὶ παρ' ἣν πλείστην εὔνοιαν ὑπάρχουσαν
+                            ὑμῖν ἠπιστάμην. ἔστι δὲ Τροιζηνίων αὕτη, ᾗ μάλιστα μὲν οἱ θεοὶ καὶ τῆς
+                            πρὸς ὑμᾶς εὐνοίας ἕνεκα καὶ τῆς <corr>εἰς ἔμ'</corr> εὐεργεσίας εὖνοι
+                            πάντες εἴησαν, εἶτα <corr>κἀγὼ</corr> σωθεὶς ὑφ' ὑμῶν δυνηθείην
+                            ἀποδοῦναι χάριτας· ἔν τε ταύτῃ τινῶν, ὡς ἐμοὶ χαριζομένων, ἐπιτιμᾶν ὑμῖν
+                            τι πειρωμένων τῇ κατ' <corr>ἔμ'</corr> ἀγνοίᾳ, ἐγὼ πᾶσαν εὐφημίαν, ὥσπερ
+                            ἐμοὶ προσῆκε, παρειχόμην· ἐξ ὧν καὶ μάλιστα νομίζω πάντας ἀγασθέντας
+                                <corr>μου</corr> δημοσίᾳ τιμῆσαι. ὁρῶν δὲ τὴν μὲν εὔνοιαν τῶν ἀνδρῶν
+                            μεγάλην, τὴν δ' εἰς τὸ παρὸν δύναμιν καταδεεστέραν, μετελθὼν εἰς τὸ τοῦ
+                            Ποσειδῶνος ἱερὸν ἐν Καλαυρείᾳ κάθημαι, οὐ μόνον τῆς ἀσφαλείας ἕνεκα, ἣν
+                            διὰ τὸν θεὸν ἐλπίζω μοι ὑπάρχειν (οὐ γὰρ εὖ οἶδά γε· ἃ γὰρ ἐφ' ἑτέροις
+                            ἐστὶν ὡς ἂν βούλωνται πρᾶξαι, λεπτὴν καὶ ἄδηλον ἔχει τῷ κινδυνεύοντι τὴν
+                            ἀσφάλειαν), ἀλλ' ὅτι καὶ τὴν <corr>πατρίδ' ἐντεῦθεν</corr> ἑκάστης
+                            ἡμέρας <corr>ἀφορῶ</corr>, εἰς ἣν τοσαύτην εὔνοιαν ἐμαυτῷ σύνοιδα, ὅσης
+                            παρ' ὑμῶν εὔχομαι τυχεῖν. Ὅπως οὖν, ὦ ἄνδρες Ἀθηναῖοι, μηκέτι πλείω
+                            χρόνον τοῖς παροῦσι κακοῖς συνέχωμαι, ψηφίσασθέ μοι <corr>ταῦθ'</corr> ἃ
+                            καὶ ἄλλοις τισὶν ἤδη, ἵνα <corr>μήτ'</corr> ἀνάξιον ὑμῶν μηδέν μοι
+                            συμβῇ, <corr>μήθ'</corr> ἱκέτης ἑτέρων ἀναγκασθῶ γενέσθαι· οὐδὲ γὰρ ὑμῖν
+                            τοῦτο γένοιτ' ἂν καλόν. ἐπεὶ <corr>εἴ γέ</corr> μοι τὰ πρὸς ὑμᾶς
+                            ἀδιάλλακτα ὑπάρχει, τεθνάναι <milestone unit="page" n="272"/>
+                            <corr>μοι</corr> κρεῖττον ἦν. </foreign>
+                    </q> Hoc
+                    est ; — Sed de his, cum multa possim scribere, praetermitto. Nullius enim me
+                    conscium esse culpae, ad utilitatem quidem imbecillum esse experientia didici,
+                    ad majorem vero moestitiam inferendam, vehementissimum omnium. Quoniam autem
+                    omnibus accusatis reconciliati estis, id quod benefactum dixerim, et mihi velim
+                    reconciliemini, viri Athenienses : nam neque vos ulla adfeci injuria, Deos
+                    testor et heroas, mihi autem testis est omnis anteacta vita, cui magis justum
+                    est, ut fidem habeatis, quam culpae mihi nunc injuria illatae; neque ego
+                    pessimus, minimeve eorum fide dignus videbor, qui circumventi sunt calumnia.
+                    Atqui discessus meus immerito vos mihi reddet iratos ; neque enim spe vestri
+                    destitutus discessi, neque quod alio animum applicuerim meum; sed primum, quia
+                    ignominiam carceris moleste animo ferebam: deinde, quoniam propter aetatem
+                    imbecillo corpore miseriam perferre non poteram. Item non existimabam nolle vos
+                    vacare me vituperio, quod nullo vobis emolumento fuit, me vero perdidit. Ad haec
+                    in vobis, nec ullis aliis animum fuisse meum, multis poteritis signis
+                    perspicere. Nam et urbem petii, non in qua res maximas essem ipse acturus, sed
+                    in quam et majores nostros profectos cognoveram, quo tempore illis de Persarum
+                    rege periculum imminebat: et cujus plurimam erga vos benevolentiam esse
+                    perspexeram : haec autem est Troezeniorum civitas, cui opto, ut dei potissimum,
+                    ob ipsius erga vos benevolentiam, et collatum in me beneficium, sint omnes
+                    benevoli, tum ipse servatus a vobis, queam referre gratiam. Caeterum cum in hac
+                    nonnulli, ut mihi gratificarentur, increpare vos conarentur, idque mei animi
+                    ignoratione, ego eos pro viribus, ut bene dicerent, quod meum erat, admonui; qua
+                    potissimum causa puto eos omnes admiratos publice me honorasse. Sed cum viderem
+                    benevolentiam quidem hominum magnam, sed vires in prsesentia imbecillas, in
+                    Neptuni templum profectus, in Calaurea insula me contineo, non solum tutelae
+                    gratia, quam mihi esse spero ob reverentiam numinis, (neque enim certo scio, nam
+                    quae in aliorum arbitrio et voluntate posita sunt, tenuem ac incertam praebent
+                    periclitanti tutelam,) sed etiam quia patriam prospicio inde quotidie: erga quam
+                    tantae meae mihi conscius sum benevolentiae, quantam consequi opto a vobis.
+                    Quapropter, Viri Athenienses, ne diutius hisce detinear malis, ea mihi
+                    decernite, quae oiim aliis, tum nequid indignum vobis mihi eveniat, tum <milestone unit="page" n="273"/>
+                    etiam ne supplex esse aliis cogar, nam nec vobis quidem id decori fuerit. Quod
+                    si redeundi vobiscum in gratiam nulla mihi spes sit reliqua, mori me esset
+                    melius. Vides quantis semper malis versatus fuerit miser. Quare non miror a
+                    satyro scriptum, <q>Diis ille adversis genitus, fatoque sinistro.</q> Quid quod illo
+                    etiam tot jam secula mortuo, suum adhuc fortuna, licet semper varia sit atque
+                    instabilis, servare tenorem videtur? Nam abhinc fere triennium desyderanti tibi
+                    orationes Demosthenis brevi me informatas mea cura publicaturum recepi. Sed tot
+                    id tentanti mihi acciderunt impedimenta, ut persaepe excudi coeptas
+                    intermiserim, Carteromacho etiam nostro demirante, illudque Juvenalis saepe
+                    repetente, <q>Diis ille adversis genitus, fatoque sinistro,</q> cum etiam admodum
+                    quam pauca earum orationum exempla imprimenda curaverim, idque coactus, quod in
+                    nullo ante accidit volumine excuso in thermis nostris. Quorum omnium est mihi
+                    optimus testis Angelus Chabrielus, patritius Venetus, excellentis vir ingenii,
+                    et in utraque lingua doctissimus, Demosthenisque studiosissimus, qui a me hoc
+                    opus quotidiano fere, ut ait ille, convitio, ut jam excudendum curarem,
+                    efflagitabat. Quanquam et illud servasse videtur fortuna, ut quemadmodum felix
+                    ille semper fuit eloquentia, et aeternitate scriptorum suorum, ita nescio quo
+                    modo pulcherrimus liber hic omnium, quos imprimendos vel Latine vel Greece
+                    curavimus, exit in publicum ex aedibus nostris. Quamobrem si serius ad te venit,
+                    quam et tu volebas, et ipse desyderabam, non mihi velim imputes, sed Demosthenis
+                    infortunio, quem summo cum labore et industria fecisse quae fecit omnia,
+                    legimus. Rursus si pulcherrimis characteribus, et perquam decenti forma
+                    habituque, necnon castigatissimus exit in manus hominum, <foreign>ὡς κατὰ τὴν παλιγγενεσίαν,</foreign> non tantum industrise nostrae et assiduis curis
+                    adscribas, quam illius gratiae, et felicitati, quam semper in suis habuit
+                    lucubrationibus. Has vero Demosthenis orationes, Clari doctissime, nomini tuo
+                    nuncupatas, ex Neacademia nostra emittimus, ob multas causas, sed praecipua est
+                    singularis benevolentia in te mea, ob miram probitatem tuam ac doctrinam,
+                    bonarumque literarum cognitionem; tum quia in inclyta ista urbe alumna virorum
+                    nobilium Epidauro, cui nunc Rhacusae est nomen, et Latinas et Graecas literas
+                    profiteris, instituisque juventutem istam eloquentiae studiosam arte dicendi,
+                    quod, duce Demosthene et te interprete, quam facillime consequetur. Id quod eo
+                    etiam feci libentius, quoniam si cuipiam <milestone unit="page" n="274"/> reipublicae Demosthenis orationes
+                    die noctuque volvendas accurate existimo, isti existimo. Nam etsi viros omni
+                    virtute praeditos, et prudentissimos habet, quales vidi ipse Venetiis Danielem
+                    Restium secundum apud Venetos fungentem legationis officio, et Petrum Mentium
+                    Restii collegam, tamen praeceptis quam optimis oratorum omnium Demosthenis
+                    facile principis, quanta tyrannis et Philippis habenda sit fides, non obscure
+                    cognoscet. Nam cum aliis plurimis rempublicam Atheniensium admonet divinus
+                    Orator cavendum esse a tyrannis, quod sint natura rerumpublicarum inimicissimi,
+                    ut lupi ovium, tum his verbis in prima pro Olynthiis oratione; — 
+                    <q>
+                        <foreign xml:lang="el">καὶ ὅλως ἄπιστον, οἶμαι, ταῖς πολιτείαις ἡ τυραννίς,
+                            ἄλλως τε κἂν ὅμορον χώραν ἔχωσι.</foreign>
+                    </q> Hoc est, Et omnino tyrannis infida
+                    res est rebus publicis, praesertim si vicinam illi regionem habuerint : et in
+                    secunda contra Philippum, — <q><foreign xml:lang="el">οὐ γὰρ ἀσφαλεῖς ταῖς πολιτείαις αἱ πρὸς τοὺς τυράννους αὗται λίαν ὁμιλίαι.</foreign></q> Hoc est,
+                    Non enim tutae sunt rebus publicis hae nimiae cum tyrannis consuetudines, Et
+                    paulo post; — 
+                    <q>
+                        <foreign xml:lang="el">ἓν δέ τι κοινὸν ἡ φύσις τῶν εὖ φρονούντων ἐν αὑτῇ
+                            κέκτηται φυλακτήριον, ὃ πᾶσι μέν ἐστ' ἀγαθὸν καὶ σωτήριον, μάλιστα δὲ
+                            τοῖς πλήθεσι πρὸς τοὺς τυράννους. τί οὖν ἐστι τοῦτο; ἀπιστία. ταύτην
+                            φυλάττετε, ταύτης ἀντέχεσθε· <corr>ἂν</corr> ταύτην σῴζητε, οὐδὲν
+                                <corr>μὴ δεινὸν</corr> πάθητε. τί <corr>ζητεῖτ';’</corr> ἔφην.
+                            ’ἐλευθερίαν; εἶτ' οὐχ ὁρᾶτε Φίλιππον ἀλλοτριωτάτας ταύτῃ καὶ τὰς
+                            προσηγορίας ἔχοντα; βασιλεὺς γὰρ καὶ τύραννος ἅπας ἐχθρὸς ἐλευθερίᾳ καὶ
+                            νόμοις ἐναντίος.</foreign>
+                    </q> Hoc est, Commune vero quoddam natura prudentum possidet in
+                    se tutamen, quod bonum omnibus est et salutare, maxime autem populis adversus
+                    tyrannos: quodnam igitur illud est? incredulitas. Hanc custodite, hanc
+                    complectimini, si hanc servaveritis nihil adversi patiemini. Quid igitur
+                    quaeritis, inquam; Libertatem? Nonne videtis Philippum alienissimas ab ea vel
+                    appellationes habentem? Omnis enim rex et tyrannus inimicus est libertati, et
+                    contrarius legibus. Habes igitur tandem, mi Clari, ab Aldo tuo, quas jandiu
+                    desyderasti, Demosthenis Orationes, habet urbs Epidaurus quem debeat librum ad
+                    suam utilitatem <q>nocturna versare manu, versare diurna</q>, habent et caeterae
+                    respublicae quemadmodum se prudenter regere gubernareque, atque a tyrannis
+                    reddere tutas queant, habet studiosissimus quisque a quo una cum Graeca lingua,
+                    et eloquentiam optime discere, et utilissimum in sua republica praestare se
+                    possit. </p>
+            <closer>
+                <salute>Vale.</salute>
+                <dateline> Venetiis, <date when="1504-10">mense Octobris M.D.IIII</date>. </dateline>
+            </closer>
+        </div>
+    </body>
+</text>
+</TEI>
