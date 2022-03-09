@@ -4,14 +4,20 @@
         <fileDesc>
             <titleStmt>
                     <title>De laudibus Rhacusae, versio electronica</title>
-                    <author><name>Michael Tarchaniota Marullus (Michele Marullo)</name> <date from="1461" to="1500-04-10">(1461? – 1500-04-10)</date></author>
+                <author><persName>Michael Tarchaniota Marullus</persName> 
+                    (<persName>Michele Marullo</persName>)
+                    <date from="1461" to="1500-04-10">(1461? – 1500-04-10)</date>
+                    <idno type="wikidata">Q672824</idno>
+                </author>
                 <respStmt>
                     <resp>Editionem electronicam curavit</resp>
-                    <name>Neven Jovanović</name>
+                    <persName>Neven Jovanović
+                        <idno type="VIAF">6913774</idno></persName>
                 </respStmt>
                 <respStmt>
                     <resp>Textum transcripsit</resp>
-                    <name>Ana Mihaljević</name>
+                    <persName>Ana Mihaljević
+                        <idno type="VIAF">554149196629074791495</idno></persName>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -24,7 +30,12 @@
             </publicationStmt>
             
             <sourceDesc>
-                    <p><bibl>Epigrammaton libri 4, 17, in: Marullus, Michael Tarchaniota: Beati Rhenani Helvetensis Ad Lectorem Paraenensis. Michaelis Tarchaniotae Marulli Constantinopolitani epigrammata et hymni, Arge[n]toraci, 1509.</bibl>, cuius extat <ref target="http://daten.digitale-sammlungen.de/~db/0001/bsb00013751/images/">facsimile electronicum</ref>.</p>
+                    <p><bibl>Epigrammaton libri 4, 17, in: 
+                        Marullus, Michael Tarchaniota: 
+                        Beati Rhenani Helvetensis Ad Lectorem Paraenensis. 
+                        Michaelis Tarchaniotae Marulli Constantinopolitani epigrammata et hymni, 
+                        Arge[n]toraci, 1509.</bibl>, 
+                        cuius extat <ref target="http://daten.digitale-sammlungen.de/~db/0001/bsb00013751/images/">facsimile electronicum</ref>.</p>
             </sourceDesc>
             
         </fileDesc>
@@ -143,7 +154,7 @@
                         </lg>
                         <lg>
                                 <l>Sed haec silenti non patiens amor;</l>
-                                <l>Tu uero <corr resp="NJ">coeptis</corr> artibus optima</l>
+                                <l>Tu uero coeptis artibus optima</l>
                                 <l>Rem auge decusque, et nationum</l>
                                 <l n="60">Vt merita es, caput usque uiue.</l>
                         </lg>
