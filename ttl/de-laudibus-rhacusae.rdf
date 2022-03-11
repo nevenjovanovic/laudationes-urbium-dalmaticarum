@@ -661,7 +661,7 @@
     <powla:hasLayer rdf:resource="http://lila-erc.eu/data/corpora/De_laudibus_Rhacusae_035b882a-c21a-4ed5-9465-8aa94ca410df/id/citationUnit/De_laudibus_Rhacusae/DocumentLayer"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://lila-erc.eu/data/corpora/De_laudibus_Rhacusae_035b882a-c21a-4ed5-9465-8aa94ca410df/id/citationUnit/De_laudibus_Rhacusae/CiteStructure/s-2/t-20">
-    <powla:hasStringValue>quascunque</powla:hasStringValue>
+    <powla:hasStringValue>quascumque</powla:hasStringValue>
   </rdf:Description>
   <rdf:Description rdf:about="http://lila-erc.eu/data/corpora/De_laudibus_Rhacusae_035b882a-c21a-4ed5-9465-8aa94ca410df/id/citationUnit/De_laudibus_Rhacusae/CiteStructure/s-2/t-20">
     <powla:next rdf:resource="http://lila-erc.eu/data/corpora/De_laudibus_Rhacusae_035b882a-c21a-4ed5-9465-8aa94ca410df/id/citationUnit/De_laudibus_Rhacusae/CiteStructure/s-2/t-21"/>
