@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Danielis Clarii epistula ad Iulianum Maffeium (15. Oct. 1505), versio electronica</title>
+            <author>
+               <persName>Daniel Clarius</persName>, 
+        <date from="1460" to="1523">c. 1460 - non ante 1523</date>
+               <idno type="wikidata">Q21542922</idno>
+            </author>
+            <respStmt>
+               <resp>Editionem electronicam curavit</resp>
+               <persName>Neven Jovanović
+                <idno type="VIAF">6913774</idno>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date when="2022-03">mense Martio 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>elektronska verzija: Croatiae auctores Latini, znanstveni
+            projekt. 
+            <orgName>Filozofski fakultet Sveučilišta u Zagrebu</orgName>,
+            Hrvatska.  
+            <idno type="wikidata">Q3445232</idno>
+               <date when="2022-03">ožujka 2022</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MS Vat. Ott. lat. 707, ff. 234-239; 
+        digitalni faksimil mikrofilmske snimke
+        <ref type="internet" target="https://digi.vatlib.it/view/MSS_Ott.lat.707"/>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName>Ragusii.</placeName>
+            <date when="1505-10-15">15. 10. 1505.</date>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>prosa oratio</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>prosa oratio - epistula</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <name>Neven Jovanović</name>
+            <date>2022-03-11</date>
+        Prva verzija.
+    </change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="prorsaOratio">
+      <body>
+         <div type="prorsaOratio-epistula">
+            <opener>
+               <w norm="reuerendissimo">Reuerendissimo</w>
+               <w norm="domino">domino</w>
+               <w norm="Iuliano">Iuliano</w>
+               <w norm="metropolitae">Metrapolitae</w>
+               <w norm="Rhacusino">Rhacusino</w>
+               <w norm="Daniel">Daniel</w>
+               <w norm="Clarius">Clarius</w>
+               <w norm="Parmensis">Parmensis</w>
+               <w norm="salutem">salutem</w>
+               <w norm="plurimam">plurimam</w>
+               <w norm="dicit">dicit</w>
+               <w norm="post">post</w>
+               <w norm="meritam">meritam</w>
+               <w norm="commendationem">commendationem</w>
+               <pc>.</pc>
+            </opener>
+            <p>
+               <w norm="litteras">Litteras</w>
+               <w norm="amplitudinis">Amplitudinis</w>
+               <w norm="tuae">tuę</w>
+               <w norm="pridie">pridie</w>
+               <w norm="Kalendas">Calendas</w>
+               <w norm="Septembres">Septembres</w>
+               <w norm="laetus">laetus</w>
+               <w norm="accepi">accepi</w>
+               <w norm="quibus">quibus</w>
+               <w norm="epistolae">epistolę</w>
+               <w norm="Rhacusini">Rhacusini</w>
+               <w norm="senatus">Senatus</w>
+               <w norm="istuc">isthuc</w>
+               <w norm="ad">ad</w>
+               <w norm="pontificem">Pontificem</w>
+               <w norm="maximum">Maximum</w>
+               <w norm="tuamque">tuamque</w>
+               <w norm="amplitudinem">Amplitudinem</w>
+               <w norm="directae">directae</w>
+               <pc>,</pc>
+               <w norm="utpote">utpote</w>
+               <w norm="orationis">orationis</w>
+               <w norm="meae">meae</w>
+               <w norm="filo">filo</w>
+               <w norm="contextae">contextae</w>
+               <pc>,</pc>
+               <w norm="laudabantur">laudabantur</w>
+               <w norm="calculo">calculo</w>
+               <w norm="Fulginantis">Fulginantis</w>
+               <w norm="Sigismundi">Sigismundi</w>
+               <w norm="ab">ab</w>
+               <w norm="aure">aure</w>
+               <w norm="scribae">scribae</w>
+               <w norm="maximi">Maximi</w>
+               <w norm="pontificis">Pontificis</w>
+               <w norm="et">et</w>
+               <w norm="oratoris">oratoris</w>
+               <w norm="consummati">consummati</w>
+               <pc>.</pc>
+               <w norm="his">His</w>
+               <w norm="quoque">quoque</w>
+               <w norm="litteris">litteris</w>
+               <w norm="de">de</w>
+               <w norm="Epidauro">Epidauro</w>
+               <w norm="nostra">nostra</w>
+               <pc>,</pc>
+               <w norm="de">de</w>
+               <w norm="serpente">serpente</w>
+               <w norm="Aesculapii">Aesculapii</w>
+               <w norm="quid">quid</w>
+               <w norm="sentiam">sentiam</w>
+               <w norm="interrogabar">interrogabar</w>
+               <w norm="quidue">quidue</w>
+               <w norm="in">in</w>
+               <w norm="ea">ea</w>
+               <w norm="monimenti">monimenti</w>
+               <w norm="ueteris">ueteris</w>
+               <w norm="appareret">appareret</w>
+               <pc>.</pc>
+               <w norm="quibus">Quibus</w>
+               <w norm="quidem">quidem</w>
+               <w norm="ordine">ordine</w>
+               <w norm="respondebo">respondebo</w>
+               <pc>;</pc>
+               <w norm="sed">sed</w>
+               <w norm="primum">primum</w>
+               <w norm="me">me</w>
+               <w norm="uix">uix</w>
+               <w norm="dignum">dignum</w>
+               <w norm="confiteor">confiteor</w>
+               <w norm="tanti">tanti</w>
+               <w norm="testimonio">testimonio</w>
+               <w norm="uiri">uiri</w>
+               <w norm="publice">publice</w>
+               <w norm="commendare">commendare</w>
+               <pc>.</pc>
+               <w norm="cuius">Cuius</w>
+               <w norm="tamen">tamen</w>
+               <w norm="authoritate">authoritate</w>
+               <w norm="et">et</w>
+               <w norm="iudicio">iudicio</w>
+               <w norm="delinitus">delinitus</w>
+               <pc>(</pc>
+               <w norm="nec">nec</w>
+               <w norm="enim">enim</w>
+               <w norm="mihi">mihi</w>
+               <w norm="cornea">cornea</w>
+               <w norm="fibra">fibra</w>
+               <pc>)</pc>
+               <w norm="hoc">hoc</w>
+               <w norm="fruar">fruar</w>
+               <w norm="praeconio">praeconio</w>
+               <pc>,</pc>
+               <w norm="Demosthenis">Demosthenis</w>
+               <w norm="exemplo">exemplo</w>
+               <w norm="nullam">nullam</w>
+               <w norm="existimantis">existimantis</w>
+               <w norm="acroasin">acroasin</w>
+               <w norm="homini">homini</w>
+               <w norm="cariorem">chariorem</w>
+               <w norm="quam">quam</w>
+               <w norm="proprias">proprias</w>
+               <w norm="laudes">laudes</w>
+               <w norm="audire">audire</w>
+               <w norm="praedicari">praedicari</w>
+               <pc>;</pc>
+               <w norm="et">et</w>
+               <w norm="eam">eam</w>
+               <w norm="demum">demum</w>
+               <w norm="opimam">opimam</w>
+               <w norm="laudem">laudem</w>
+               <w norm="Hector">Hector</w>
+               <w norm="Naeuianus">Naeuianus</w>
+               <w norm="ait">ait</w>
+               <w norm="a">a</w>
+               <w norm="probato">probato</w>
+               <w norm="uiro">uiro</w>
+               <w norm="procedere">procedere</w>
+               <pc>.</pc>
+            </p>
+            <p>
+               <w norm="sunt">Sunt</w>
+               <w norm="in">in</w>
+               <w norm="Peloponneso">Peloponneso</w>
+               <w norm="Epidauri">Epidauri</w>
+               <w norm="duae">duę</w>
+               <w norm="teste">teste</w>
+               <w norm="Ptolemaeo">Ptolemęo</w>
+               <pc>;</pc>
+               <w norm="una">una</w>
+               <w norm="in">in</w>
+               <w norm="Laconico">Laconico</w>
+               <w norm="sinu">sinu</w>
+               <w norm="sita">sita</w>
+               <w norm="Calauriam">Calauriam</w>
+               <w norm="spectat">spectat</w>
+               <w norm="insulam">insulam</w>
+               <pc>,</pc>
+               <w norm="fato">fato</w>
+               <w norm="Demosthenis">Demosthenis</w>
+               <w norm="claram">claram</w>
+               <pc>,</pc>
+               <w norm="altera">altera</w>
+               <w norm="in">in</w>
+               <w norm="Saronico">Saronico</w>
+               <w norm="uergens">uergens</w>
+               <w norm="ad">ad</w>
+               <w norm="Megaras">Megaras</w>
+               <w norm="et">et</w>
+               <w norm="Aeginam">Aeginam</w>
+               <pc>.</pc>
+               <w norm="tertiam">Tertiam</w>
+               <w norm="legimus">legimus</w>
+               <w norm="Illyricam">Illyricam</w>
+               <w norm="ultra">ultra</w>
+               <w norm="Plinium">Plinium</w>
+               <w norm="et">et</w>
+               <w norm="Hirtium">Hirtium</w>
+               <w norm="Hieronymo">Hieronymo</w>
+               <w norm="Hilarionis">Hilarionis</w>
+               <w norm="Thabathensis">Thabathensis</w>
+               <w norm="boa">boa</w>
+               <w norm="dracone">dracone</w>
+               <w norm="celebrem">celebrem</w>
+               <pc>,</pc>
+               <w norm="et">et</w>
+               <w norm="Lucanus">Lucanus</w>
+               <pc>»</pc>
+               <w norm="Illyris">Illyris</w>
+               <w norm="Ionias">Ionias</w>
+               <w norm="uergens">uergens</w>
+               <w norm="Epidaurus">Epidaurus</w>
+               <w norm="in">in</w>
+               <w norm="undas">undas</w>
+               <pc>«</pc>
+               <pc>.</pc>
+               <w norm="Epidamnus">Epidamnus</w>
+               <w norm="tamen">tamen</w>
+               <pc>,</pc>
+               <w norm="non">non</w>
+               <w norm="Epidaurus">Epidaurus</w>
+               <w norm="quidam">quidam</w>
+               <w norm="anceps">anceps</w>
+               <w norm="reponunt">reponunt</w>
+               <pc>,</pc>
+               <w norm="quale">quale</w>
+               <w norm="illud">illud</w>
+               <w norm="Vergilianum">Vergilianum</w>
+               <pc>:</pc>
+               <pc>»</pc>
+               <w norm="Eliadum">Eliadum</w>
+               <w norm="palmas">palmas</w>
+               <w norm="Epiros">Epiros</w>
+               <w norm="equarum">equarum</w>
+               <pc>«</pc>
+               <pc>.</pc>
+               <w norm="illa">Illa</w>
+               <w norm="uero">uero</w>
+               <w norm="Peloponnesiaca">Peloponnesiaca</w>
+               <pc>,</pc>
+               <w norm="quae">quę</w>
+               <w norm="Isthmo">Isthmo</w>
+               <w norm="propinquior">propinquior</w>
+               <w norm="est">est</w>
+               <pc>,</pc>
+               <w norm="longe">longe</w>
+               <w norm="hac">hac</w>
+               <w norm="nostra">nostra</w>
+               <w norm="clarior">clarior</w>
+               <w norm="uel">uel</w>
+               <w norm="aede">aede</w>
+               <w norm="uel">uel</w>
+               <w norm="serpente">serpente</w>
+               <w norm="medici">medici</w>
+               <w norm="numinis">numinis</w>
+               <pc>,</pc>
+               <w norm="cuius">cuius</w>
+               <w norm="mythicam">mythicam</w>
+               <w norm="conferunt">conferunt</w>
+               <w norm="rationem">rationem</w>
+               <w norm="Macrobius">Macrobius</w>
+               <pc>,</pc>
+               <w norm="mihi">mihi</w>
+               <w norm="gentilis">gentilis</w>
+               <pc>,</pc>
+               <w norm="et">et</w>
+               <w norm="Fulgentius">Fulgentius</w>
+               <pc>.</pc>
+               <w norm="eandem">Eandem</w>
+               <w norm="quoque">quoque</w>
+               <w norm="Plinius">Plinius</w>
+               <w norm="fatidico">fatidico</w>
+               <w norm="Aesculapii">Aesculapii</w>
+               <w norm="templo">templo</w>
+               <w norm="reponit">reponit</w>
+               <w norm="insignem">insignem</w>
+               <w norm="ac">ac</w>
+               <w norm="inde">inde</w>
+               <w norm="Romanis">Romanis</w>
+               <w norm="peste">peste</w>
+               <w norm="laborantibus">laborantibus</w>
+               <w norm="labitur">labitur</w>
+               <w norm="in">in</w>
+               <w norm="urbem">urbem</w>
+               <w norm="specie">specie</w>
+               <w norm="serpentis">serpentis</w>
+               <w norm="fatale">fatale</w>
+               <w norm="remedium">remedium</w>
+               <pc>.</pc>
+               <w norm="Laconicum">Laconicum</w>
+               <w norm="uero">uero</w>
+               <w norm="nonnulli">nonnulli</w>
+               <w norm="Lemiram">Lemiram</w>
+               <w norm="dicunt">dicunt</w>
+               <pc>;</pc>
+               <w norm="Homerus">Homerus</w>
+               <foreign xml:lang="grc">τὸ <unclear>..</unclear> ἀμπελοεντ´ Ἐπίδαυρον</foreign>
+               <w norm="de">de</w>
+               <w norm="qua">qua</w>
+               <w norm="Stephanus">Stephanus</w>
+               <w norm="Byzantinus">Byzantinus</w>
+               <pc>,</pc>
+               <w norm="bonus">bonus</w>
+               <w norm="imprimis">imprimis</w>
+               <w norm="author">author</w>
+               <pc>,</pc>
+               <w norm="Aesculapium">Aesculapium</w>
+               <w norm="fuisse">fuisse</w>
+               <w norm="credit">credit</w>
+               <foreign xml:lang="grc">Ἐπίδαυρος δὲ ἐκαλεῖτο καὶ Μειλισσία καὶ Αἱμηρά
+                  διὰ τὸ συνεχῶς αἱμάσσεσθαι τὸν βωμὸν τοῦ Ἀσκληπιοῦ ὑπ´ τῶν θυσιῶν</foreign>
+               <pc>.</pc>
+               <w norm="his">His</w>
+               <w norm="liquet">liquet</w>
+               <w norm="uerbis">uerbis</w>
+               <w norm="nostros">nostros</w>
+               <w norm="Liuium">Liuium</w>
+               <pc>,</pc>
+               <w norm="Nasonem">Nasonem</w>
+               <pc>,</pc>
+               <w norm="Valerium">Valerium</w>
+               <w norm="de">de</w>
+               <w norm="Epidauro">Epidauro</w>
+               <w norm="Peloponnesi">Peloponnesi</w>
+               <w norm="uel">uel</w>
+               <w norm="illa">illa</w>
+               <w norm="Homeri">Homeri</w>
+               <w norm="uitifera">uitifera</w>
+               <w norm="uel">uel</w>
+               <w norm="illa">illa</w>
+               <w norm="Stephani">Stephani</w>
+               <w norm="cruenta">cruenta</w>
+               <w norm="Aesculapium">Aesculapium</w>
+               <w norm="schemate">schemate</w>
+               <w norm="serpentis">serpentis</w>
+               <w norm="Romam">Romam</w>
+               <w norm="uectum">uectum</w>
+               <pc>,</pc>
+               <w norm="non">non</w>
+               <w norm="ab">ab</w>
+               <w norm="Illyrica">Illyrica</w>
+               <w norm="uoluisse">uoluisse</w>
+               <pc>.</pc>
+               <w norm="quae">Quę</w>
+               <w norm="quidem">quidem</w>
+               <w norm="Epidaurus">Epidaurus</w>
+               <pc>(</pc>
+               <w norm="utrum">utrum</w>
+               <w norm="duarum">duarum</w>
+               <pc>,</pc>
+               <w norm="non">non</w>
+               <w norm="ausim">ausim</w>
+               <w norm="affirmare">affirmare</w>
+               <pc>)</pc>
+               <w norm="omnium">omnium</w>
+               <w norm="fere">fere</w>
+               <w norm="orientis">orientis</w>
+               <w norm="ciuitatum">ciuitatum</w>
+               <w norm="uetustissima">uetustissima</w>
+               <w norm="antequam">antequam</w>
+               <w norm="Moses">Moses</w>
+               <w norm="nasceretur">nasceretur</w>
+               <pc>,</pc>
+               <w norm="quo">quo</w>
+               <w norm="primum">primum</w>
+               <w norm="Iudaei">Iudaei</w>
+               <w norm="anno">anno</w>
+               <w norm="iubelaeum">Iobeleum</w>
+               <w norm="coluerunt">coluerunt</w>
+               <pc>,</pc>
+               <w norm="condita">condita</w>
+               <w norm="fuit">fuit</w>
+               <pc>,</pc>
+               <w norm="parum">parum</w>
+               <w norm="citra">citra</w>
+               <w norm="primos">primos</w>
+               <w norm="Aegyptiorum">Aegyptiorum</w>
+               <w norm="pharaones">pharaones</w>
+               <pc>.</pc>
+               <w norm="nostra">Nostra</w>
+               <w norm="uero">uero</w>
+               <w norm="haec">haec</w>
+               <pc>,</pc>
+               <w norm="quam">quam</w>
+               <w norm="Zaptat">Zaptat</w>
+               <w norm="gentiliter">gentiliter</w>
+               <w norm="dicunt">dicunt</w>
+               <pc>,</pc>
+               <w norm="nos">nos</w>
+               <w norm="Rhacusam">Rhacusam</w>
+               <w norm="ueterem">ueterem</w>
+               <pc>,</pc>
+               <w norm="fuit">fuit</w>
+               <w norm="illarum">illarum</w>
+               <w norm="utrisque">utrisque</w>
+               <w norm="recentior">recentior</w>
+               <pc>;</pc>
+               <w norm="olim">olim</w>
+               <w norm="chersonesus">chersonesus</w>
+               <pc>,</pc>
+               <w norm="nunc">nunc</w>
+               <w norm="uero">uero</w>
+               <w norm="continenti">continenti</w>
+               <w norm="penitus">penitus</w>
+               <w norm="adhaesit">adhaesit</w>
+               <pc>.</pc>
+               <w norm="in">In</w>
+               <w norm="ea">ea</w>
+               <w norm="arcus">arcus</w>
+               <w norm="ueteres">ueteres</w>
+               <pc>,</pc>
+               <w norm="sepulchra">sepulchra</w>
+               <pc>,</pc>
+               <w norm="spelaea">spelaea</w>
+               <pc>,</pc>
+               <w norm="aquae">aquae</w>
+               <w norm="ductus">ductus</w>
+               <w norm="per">per</w>
+               <w norm="saxa">saxa</w>
+               <w norm="salebrosa">salebrosa</w>
+               <w norm="et">et</w>
+               <w norm="ardua">ardua</w>
+               <w norm="montium">montium</w>
+               <w norm="scandens">scandens</w>
+               <w norm="ultra">ultra</w>
+               <w norm="uiginti">uiginti</w>
+               <w norm="milia">milia</w>
+               <w norm="passuum">passuum</w>
+               <w norm="diffunditur">diffunditur</w>
+               <w norm="quo">quo</w>
+               <w norm="nec">nec</w>
+               <w norm="ullum">ullum</w>
+               <w norm="magis">magis</w>
+               <w norm="operosum">operosum</w>
+               <w norm="Frontinus">Frontinus</w>
+               <w norm="nec">nec</w>
+               <w norm="uidit">uidit</w>
+               <w norm="nec">nec</w>
+               <w norm="scripsit">scripsit</w>
+               <pc>.</pc>
+               <w norm="est">Est</w>
+               <w norm="illa">illa</w>
+               <w norm="bona">bona</w>
+               <w norm="parte">parte</w>
+               <w norm="pensilis">pensilis</w>
+               <w norm="et">et</w>
+               <w norm="rudere">rudere</w>
+               <w norm="complanata">complanata</w>
+               <w norm="ueteri">ueteri</w>
+               <w norm="nauigantibusque">nauigantibusque</w>
+               <w norm="benigna">benigna</w>
+               <w norm="portu">portu</w>
+               <pc>.</pc>
+               <w norm="in">In</w>
+               <w norm="medium">medium</w>
+               <w norm="autem">autem</w>
+               <w norm="instar">instar</w>
+               <w norm="Taenariae">Taenarię</w>
+               <w norm="faucis">faucis</w>
+               <w norm="est">est</w>
+               <w norm="uidere">uidere</w>
+               <w norm="specus">specus</w>
+               <w norm="ingens">ingens</w>
+               <pc>,</pc>
+               <w norm="altum">altum</w>
+               <pc>,</pc>
+               <w norm="fornicatum">fornicatum</w>
+               <w norm="conuexo">conuexo</w>
+               <w norm="fornicis">fornicis</w>
+               <w norm="ferreis">ferreis</w>
+               <w norm="annulis">annulis</w>
+               <w norm="pendentibus">pendentibus</w>
+               <w norm="uia">uia</w>
+               <w norm="dehiscens">dehiscens</w>
+               <w norm="in">in</w>
+               <w norm="profundum">profundum</w>
+               <w norm="patorem">patorem</w>
+               <w norm="gradatim">gradatim</w>
+               <w norm="fertur">fertur</w>
+               <w norm="intus">intus</w>
+               <w norm="ad">ad</w>
+               <w norm="aquas">aquas</w>
+               <w norm="quibus">quibus</w>
+               <w norm="solum">solum</w>
+               <w norm="specus">specus</w>
+               <w norm="inundans">inundans</w>
+               <w norm="ad">ad</w>
+               <w norm="multa">multa</w>
+               <w norm="milia">milia</w>
+               <w norm="passuum">passuum</w>
+               <w norm="subter">subter</w>
+               <w norm="Epidaurum">Epidaurum</w>
+               <w norm="fertur">fertur</w>
+               <w norm="ambiguis">ambiguis</w>
+               <w norm="uiarum">uiarum</w>
+               <w norm="amfractibus">amfractibus</w>
+               <pc>.</pc>
+            </p>
+            <p>
+               <w norm="haec">Haec</w>
+               <w norm="sunt">sunt</w>
+               <pc>,</pc>
+               <w norm="optime">optime</w>
+               <w norm="pater">pater</w>
+               <pc>,</pc>
+               <w norm="quae">quae</w>
+               <w norm="succisiuo">succisiuo</w>
+               <w norm="tempore">tempore</w>
+               <w norm="et">et</w>
+               <w norm="strictim">strictim</w>
+               <w norm="de">de</w>
+               <w norm="postulatis">postulatis</w>
+               <w norm="potui">potui</w>
+               <w norm="colligere">colligere</w>
+               <w norm="amplitudini">Amplitudini</w>
+               <w norm="tuae">Tuae</w>
+               <w norm="gratificandi">gratificandi</w>
+               <w norm="studiosus">studiosus</w>
+               <pc>,</pc>
+               <w norm="alioqui">alioqui</w>
+               <w norm="publicis">publicis</w>
+               <w norm="occupatus">occupatus</w>
+               <w norm="negotiis">negotiis</w>
+               <pc>,</pc>
+               <w norm="quibus">quibus</w>
+               <w norm="et">et</w>
+               <w norm="alter">alter</w>
+               <w norm="mihi">mihi</w>
+               <w norm="collega">collega</w>
+               <w norm="longe">longe</w>
+               <w norm="districtior">districtior</w>
+               <pc>;</pc>
+               <w norm="ille">ille</w>
+               <w norm="huius">huius</w>
+               <w norm="summam">summam</w>
+               <w norm="senatus">senatus</w>
+               <w norm="gerit">gerit</w>
+               <w norm="a">a</w>
+               <w norm="secretis">secretis</w>
+               <w norm="in">in</w>
+               <w norm="quibus">quibus</w>
+               <w norm="et">et</w>
+               <w norm="ego">ego</w>
+               <pc>,</pc>
+               <w norm="ἔσχατος" xml:lang="grc">ἔσχατος</w>
+               <w norm="ἄνδρων" xml:lang="grc">ἄνδρων</w>
+               <pc>,</pc>
+               <w norm="epistolas">epistolas</w>
+               <pc>,</pc>
+               <w norm="quarum">quarum</w>
+               <w norm="magister">magister</w>
+               <w norm="gero">gero</w>
+               <w norm="curam">curam</w>
+               <pc>,</pc>
+               <w norm="scribendi">scribendi</w>
+               <w norm="fungor">fungor</w>
+               <w norm="officio">officio</w>
+               <pc>;</pc>
+               <w norm="quod">quod</w>
+               <w norm="muneris">muneris</w>
+               <w norm="nouus">nouus</w>
+               <w norm="adhuc">adhuc</w>
+               <w norm="nuper">nuper</w>
+               <w norm="obiui">obiui</w>
+               <w norm="a">a</w>
+               <w norm="lucerna">lucerna</w>
+               <w norm="Demosthenis">Demosthenis</w>
+               <w norm="et">et</w>
+               <w norm="Ciceronis">Ciceronis</w>
+               <w norm="auulsus">auulsus</w>
+               <w norm="Rhacusini">Rhacusini</w>
+               <w norm="senatus">senatus</w>
+               <w norm="imperio">imperio</w>
+               <pc>.</pc>
+               <w norm="qui">Qui</w>
+               <w norm="quidem">quidem</w>
+               <w norm="et">et</w>
+               <w norm="ciues">ciues</w>
+               <w norm="uniuersi">uniuersi</w>
+               <w norm="sui">sui</w>
+               <w norm="pridem">pridem</w>
+               <w norm="metropolitae">Metrapolitę</w>
+               <w norm="praesentia">praesentia</w>
+               <w norm="cassi">cassi</w>
+               <w norm="moerent">moerent</w>
+               <pc>,</pc>
+               <w norm="et">et</w>
+               <w norm="in">in</w>
+               <w norm="eo">eo</w>
+               <w norm="se">se</w>
+               <w norm="tamen">tamen</w>
+               <w norm="moerore">moerore</w>
+               <w norm="consolantur">consolantur</w>
+               <w norm="spe">spe</w>
+               <w norm="et">et</w>
+               <w norm="uidendi">uidendi</w>
+               <w norm="et">et</w>
+               <w norm="humiliter">humiliter</w>
+               <w norm="amplectendi">amplectendi</w>
+               <w norm="suum">suum</w>
+               <w norm="patrem">patrem</w>
+               <pc>,</pc>
+               <w norm="suum">suum</w>
+               <w norm="pastorem">pastorem</w>
+               <pc>,</pc>
+               <w norm="de">de</w>
+               <w norm="quo">quo</w>
+               <w norm="magna">magna</w>
+               <w norm="est">est</w>
+               <w norm="omnium">omnium</w>
+               <w norm="ciuium">ciuium</w>
+               <w norm="opinio">opinio</w>
+               <w norm="cum">cum</w>
+               <w norm="scientia">scientia</w>
+               <w norm="tum">tum</w>
+               <w norm="probitate">probitate</w>
+               <w norm="morum">morum</w>
+               <pc>,</pc>
+               <w norm="et">et</w>
+               <w norm="longo">longo</w>
+               <w norm="rerum">rerum</w>
+               <w norm="usu">usu</w>
+               <w norm="Romae">Romae</w>
+               <w norm="inter">inter</w>
+               <w norm="principes">principes</w>
+               <w norm="reipublicae">Reipublicae</w>
+               <w norm="Christianae">Christianae</w>
+               <w norm="comparato">comparato</w>
+               <pc>.</pc>
+               <w norm="his">His</w>
+               <w norm="quotidie">quotidie</w>
+               <w norm="rationibus">rationibus</w>
+               <w norm="accensi">accensi</w>
+               <w norm="et">et</w>
+               <w norm="in">in</w>
+               <w norm="dies">dies</w>
+               <w norm="magis">magis</w>
+               <w norm="inflammantur">inflammantur</w>
+               <w norm="patres">patres</w>
+               <w norm="nostri">nostri</w>
+               <pc>,</pc>
+               <w norm="morum">morum</w>
+               <w norm="grauitate">grauitate</w>
+               <w norm="benigni">benigni</w>
+               <w norm="et">et</w>
+               <w norm="faciles">faciles</w>
+               <pc>,</pc>
+               <w norm="pastorem">pastorem</w>
+               <w norm="sibi">sibi</w>
+               <w norm="annis">annis</w>
+               <w norm="parem">parem</w>
+               <w norm="uidere">uidere</w>
+               <pc>,</pc>
+               <w norm="sanctitate">sanctitate</w>
+               <w norm="et">et</w>
+               <w norm="doctrina">doctrina</w>
+               <w norm="priorem">priorem</w>
+               <w norm="desiderant">desiderant</w>
+               <pc>,</pc>
+               <w norm="optant">optant</w>
+               <pc>,</pc>
+               <w norm="et">et</w>
+               <w norm="cupiunt">cupiunt</w>
+               <pc>;</pc>
+               <w norm="qui">qui</w>
+               <w norm="nihil">nihil</w>
+               <w norm="minus">minus</w>
+               <w norm="ferunt">ferunt</w>
+               <w norm="quam">quam</w>
+               <w norm="rerum">rerum</w>
+               <w norm="nequitiam">nequitiam</w>
+               <pc>;</pc>
+               <w norm="qui">qui</w>
+               <w norm="religionem">religionem</w>
+               <w norm="profitentur">profitentur</w>
+               <pc>,</pc>
+               <w norm="non">non</w>
+               <w norm="inscii">inscii</w>
+               <w norm="quibus">quibus</w>
+               <w norm="moribus">moribus</w>
+               <pc>,</pc>
+               <w norm="qua">qua</w>
+               <w norm="doctrina">doctrina</w>
+               <w norm="ecclesia">ecclesia</w>
+               <w norm="Rhacusina">Rhacusina</w>
+               <w norm="in">in</w>
+               <w norm="multis">multis</w>
+               <w norm="emendari">emendari</w>
+               <w norm="digna">digna</w>
+               <w norm="fulcietur">fulcietur</w>
+               <pc>,</pc>
+               <w norm="et">et</w>
+               <w norm="cuius">cuius</w>
+               <w norm="pastoris">pastoris</w>
+               <w norm="exemplo">exemplo</w>
+               <pc>;</pc>
+               <w norm="quod">quod</w>
+               <w norm="si">si</w>
+               <w norm="nobis">nobis</w>
+               <pc>(</pc>
+               <w norm="ut">ut</w>
+               <w norm="fore">fore</w>
+               <w norm="speramus">speramus</w>
+               <pc>)</pc>
+               <w norm="propediem">propediem</w>
+               <w norm="contigerit">contigerit</w>
+               <pc>,</pc>
+               <w norm="tunc">tunc</w>
+               <w norm="ipsi">ipsi</w>
+               <w norm="fatebimur">fatebimur</w>
+               <w norm="Cadmum">Cadmum</w>
+               <w norm="non">non</w>
+               <w norm="Phoenicia">Phoenicia</w>
+               <pc>,</pc>
+               <w norm="non">non</w>
+               <w norm="Graecia">Grecia</w>
+               <pc>,</pc>
+               <w norm="sed">sed</w>
+               <w norm="ab">ab</w>
+               <w norm="urbe">urbe</w>
+               <w norm="Latia">Latia</w>
+               <w norm="ad">ad</w>
+               <w norm="Illyrios">Illyrios</w>
+               <pc>,</pc>
+               <w norm="non">non</w>
+               <w norm="barbaram">barbaram</w>
+               <pc>,</pc>
+               <w norm="sed">sed</w>
+               <w norm="urbanam">urbanam</w>
+               <w norm="gentem">gentem</w>
+               <w norm="penetrasse">penetrasse</w>
+               <pc>.</pc>
+               <w norm="quod">Quod</w>
+               <w norm="aut">aut</w>
+               <w norm="ad">ad</w>
+               <w norm="me">me</w>
+               <w norm="spectat">spectat</w>
+               <pc>,</pc>
+               <w norm="omnem">omnem</w>
+               <w norm="operam">operam</w>
+               <w norm="meam">meam</w>
+               <w norm="et">et</w>
+               <w norm="diligentiam">diligentiam</w>
+               <w norm="pro">pro</w>
+               <w norm="reuerendissima">Reuerendissima</w>
+               <w norm="dominatione">Dominatione</w>
+               <w norm="uestra">Vestra</w>
+               <w norm="me">me</w>
+               <w norm="nauaturum">nauaturum</w>
+               <w norm="semper">semper</w>
+               <w norm="polliceor">polliceor</w>
+               <pc>.</pc>
+            </p>
+            <closer>
+               <w norm="Rhacusii">Rhacusii</w>
+               <w norm="die">die</w>
+               <w norm="XV" type="num">XV</w>
+               <pc>.</pc>
+               <w norm="Octobris">Octobris</w>
+               <w norm="MDV" type="num">MDV</w>
+               <pc>.</pc>
+               <w norm="Daniel">Daniel</w>
+               <w norm="Clarius">Clarius</w>
+               <w norm="Parmensis">Parmensis</w>
+               <w norm="reuerendissimae">Reuerendissimae</w>
+               <w norm="dominationis">Dominationis</w>
+               <w norm="uestrae">Vestrae</w>
+               <w norm="seruus">seruus</w>
+               <w norm="humilis">humilis</w>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
