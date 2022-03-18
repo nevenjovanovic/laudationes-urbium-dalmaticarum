@@ -184,7 +184,7 @@
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/87282" norm="acroasin">acroasin</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/105624" norm="homini">homini</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/92942" norm="cariorem">chariorem</w>
-               <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/110471 http://lila-erc.eu/data/id/lemma/121354" norm="quam">quam</w>
+               <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/110471" norm="quam">quam</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/119990" norm="proprias">proprias</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/110103" norm="laudes">laudes</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/90641" norm="audire">audire</w>
@@ -427,7 +427,7 @@
                <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/111474" norm="uero">uero</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/105455" norm="haec">haec</w>
                <pc>,</pc>
-               <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/110471 http://lila-erc.eu/data/id/lemma/121354" norm="quam">quam</w>
+               <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="quam">quam</w>
                <w norm="Zaptat">Zaptat</w>
                <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/17900" norm="gentiliter">gentiliter</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/99302" norm="dicunt">dicunt</w>
@@ -602,7 +602,7 @@
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/104022" norm="fungor">fungor</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/114811" norm="officio">officio</w>
                <pc>;</pc>
-               <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354 http://lila-erc.eu/data/id/lemma/74854" norm="quod">quod</w>
+               <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="quod">quod</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/113061" norm="muneris">muneris</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/113900" norm="nouus">nouus</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/87443" norm="adhuc">adhuc</w>
@@ -712,7 +712,7 @@
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/114071" norm="nihil">nihil</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/116130" norm="minus">minus</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/103126" norm="ferunt">ferunt</w>
-               <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/110471 http://lila-erc.eu/data/id/lemma/121354" norm="quam">quam</w>
+               <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/110471" norm="quam">quam</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/121868" norm="rerum">rerum</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/113610" norm="nequitiam">nequitiam</w>
                <pc>;</pc>
@@ -740,7 +740,7 @@
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/116187" norm="pastoris">pastoris</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/101975" norm="exemplo">exemplo</w>
                <pc>;</pc>
-               <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354 http://lila-erc.eu/data/id/lemma/74854" norm="quod">quod</w>
+               <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="quod">quod</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/124676" norm="si">si</w>
                <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/110487" norm="nobis">nobis</w>
                <pc>(</pc>
@@ -776,7 +776,7 @@
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/104490" norm="gentem">gentem</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/116485" norm="penetrasse">penetrasse</w>
                <pc>.</pc>
-               <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354 http://lila-erc.eu/data/id/lemma/74854" norm="quod">Quod</w>
+               <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="quod">Quod</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/90827" norm="aut">aut</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/87344" norm="ad">ad</w>
                <w lemmaRef="http://lila-erc.eu/data/id/lemma/100712" norm="me">me</w>
