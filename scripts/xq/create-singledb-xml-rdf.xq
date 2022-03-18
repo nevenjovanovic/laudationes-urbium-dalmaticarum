@@ -1,6 +1,6 @@
 declare variable $db := ( 
-"delaudibusrhacusae-xml", "/home/neven/Repos/laudationes-urbium-dalmaticarum/normalized/marulustarchaniota-ragusa-normalized.xml",
-"delaudibusrhacusae-rdf", "/home/neven/Repos/laudationes-urbium-dalmaticarum/ttl/de-laudibus-rhacusae.rdf"
+"clarius-ep-maf-xml", "/home/neven/Repos/laudationes-urbium-dalmaticarum/normalized/clarius-d-maffei-1505-normalized.xml",
+"clarius-ep-maf-rdf", "/home/neven/Repos/laudationes-urbium-dalmaticarum/ttl/clarius-epistula-maffei.rdf"
 ) ;
 for $n in (1, 3)
 return
