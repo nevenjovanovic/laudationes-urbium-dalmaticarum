@@ -99,9 +99,12 @@
 <body>
   <milestone unit="page" n="67"/>
       <div met="elegiacum" type="elegia">
-        <head><abbr>P. N. C.</abbr> De situ Jadrę carmen ad Marium vatem celeberrimum <unclear>strenui</unclear> Bartholomei <corr resp="NJ">Liuiani</corr> ducis Venetorum</head>
+        <head><abbr>P. N. C.</abbr> 
+          De situ Jadrę carmen ad Marium vatem celeberrimum 
+          <unclear>strenui</unclear> Bartholomei <corr resp="NJ">Liuiani</corr> 
+          ducis Venetorum</head>
 
-<lg><l>Accipe ab Illeis ad te venientia campis;</l>
+<l>Accipe ab Illeis ad te venientia campis;</l>
 <l>Nam, quę promisi, carmina mitto tibi.</l>
 <l>Forte ut inauditum Illeorum nomen abhorres?</l>
 <l>Sed Rhodius uates nobilitauit eos.</l>
@@ -223,7 +226,7 @@
 <l n="115">Te tanti facio quanti Zenona Cleanthes,</l>
 <l>Molonem Cicero, uel Cicerona Philon.</l>
 <l>Tu uiue interea donec properabo uenire;</l>
-<l>Si tibi non curas viuere, viue mihi.</l></lg>
+<l>Si tibi non curas viuere, viue mihi.</l>
 <closer><foreign xml:lang="grc">Telos</foreign></closer>
 </div>
 </body>
