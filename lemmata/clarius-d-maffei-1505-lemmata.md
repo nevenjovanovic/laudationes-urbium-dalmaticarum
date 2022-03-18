@@ -8,8 +8,8 @@ Editionem electronicam curavit [Neven Jovanović](http://viaf.org/viaf/6913774)
 
 | Lemma | URI | Count |
 | ---- | --- | --- |
+| qui | [lemma/121354](http://lila-erc.eu/data/id/lemma/121354) | 25 | 
 | et | [lemma/101542](http://lila-erc.eu/data/id/lemma/101542) | 24 | 
-| qui | [lemma/121354](http://lila-erc.eu/data/id/lemma/121354) | 21 | 
 | in | [lemma/106748](http://lila-erc.eu/data/id/lemma/106748) | 13 | 
 | sum | [lemma/126689](http://lila-erc.eu/data/id/lemma/126689) | 10 | 
 | hic | [lemma/105455](http://lila-erc.eu/data/id/lemma/105455) | 8 | 
@@ -40,12 +40,10 @@ Editionem electronicam curavit [Neven Jovanović](http://viaf.org/viaf/6913774)
 | sed | [lemma/123994](http://lila-erc.eu/data/id/lemma/123994) | 3 | 
 | tamen | [lemma/127607](http://lila-erc.eu/data/id/lemma/127607) | 3 | 
 | demosthenes | [lemma/4720](http://lila-erc.eu/data/id/lemma/4720) | 3 | 
-|  | [hypolemma/110471 http://lila-erc.eu/data/id/lemma/121354](http://lila-erc.eu/data/id/hypolemma/110471 http://lila-erc.eu/data/id/lemma/121354) | 3 | 
 | epidaurus | [lemma/6135](http://lila-erc.eu/data/id/lemma/6135) | 3 | 
 | omnis | [lemma/114954](http://lila-erc.eu/data/id/lemma/114954) | 3 | 
 | fero | [lemma/103126](http://lila-erc.eu/data/id/lemma/103126) | 3 | 
 | pater | [lemma/116203](http://lila-erc.eu/data/id/lemma/116203) | 3 | 
-|  | [lemma/121354 http://lila-erc.eu/data/id/lemma/74854](http://lila-erc.eu/data/id/lemma/121354 http://lila-erc.eu/data/id/lemma/74854) | 3 | 
 | suus | [lemma/127165](http://lila-erc.eu/data/id/lemma/127165) | 3 | 
 | pastor | [lemma/116187](http://lila-erc.eu/data/id/lemma/116187) | 3 | 
 | mos | [lemma/112831](http://lila-erc.eu/data/id/lemma/112831) | 3 | 
@@ -62,6 +60,7 @@ Editionem electronicam curavit [Neven Jovanović](http://viaf.org/viaf/6913774)
 | dignus | [lemma/99407](http://lila-erc.eu/data/id/lemma/99407) | 2 | 
 | uir | [lemma/130300](http://lila-erc.eu/data/id/lemma/130300) | 2 | 
 | exemplum | [lemma/101975](http://lila-erc.eu/data/id/lemma/101975) | 2 | 
+| qua | [hypolemma/110471](http://lila-erc.eu/data/id/hypolemma/110471) | 2 | 
 | laus | [lemma/110103](http://lila-erc.eu/data/id/lemma/110103) | 2 | 
 | peloponnesus | [lemma/17943](http://lila-erc.eu/data/id/lemma/17943) | 2 | 
 | duo | [lemma/100246](http://lila-erc.eu/data/id/lemma/100246) | 2 | 
@@ -391,3 +390,6 @@ Editionem electronicam curavit [Neven Jovanović](http://viaf.org/viaf/6913774)
 | october | [lemma/16280](http://lila-erc.eu/data/id/lemma/16280) | 1 | 
 | seruus | [lemma/124560](http://lila-erc.eu/data/id/lemma/124560) | 1 | 
 | humilis | [lemma/105771](http://lila-erc.eu/data/id/lemma/105771) | 1 | 
+
+---
+EOF
