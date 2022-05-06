@@ -4,12 +4,18 @@
       <fileDesc>
          <titleStmt>
            <title>Carmen de situ Jadrę (1508), editio electronica</title>
-            <author><name>Publius Nardinus Celineus (Nardino Celinese)</name>,
+           <author ref="v105148933757754302446"><name>Publius Nardinus Celineus (Nardino Celinese)</name>,
 	    Maniago, <date>fl. c. 1500</date></author>
-           <editor>Neven Jovanović</editor>
+           <editor xml:id="v6913774">
+             <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+             </persName>
+           </editor>
 <respStmt>
   <resp>editionem criticam praeparavit et electronice edidit</resp>
-<name>Neven Jovanović</name>
+  <persName>
+    <ref type="viaf" target="6913774">Neven Jovanović</ref>
+  </persName>
 </respStmt>
 
          </titleStmt>
@@ -86,6 +92,8 @@
        </textClass>
      </profileDesc>
      <revisionDesc>
+       <change><name>Neven Jovanović</name>
+         <date>Mense Maio, anno 2022</date>. VIAF addidi. Relecturus.</change>
 		 <change><name>Neven Jovanović</name>
          <date>Mense Septembri, anno 2016</date>. Relegi.</change>
        <change><name>Neven Jovanović</name>

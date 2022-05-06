@@ -3,234 +3,418 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-           <title>Carmen de situ Jadrę (1508), editio electronica</title>
-            <author><name>Publius Nardinus Celineus (Nardino Celinese)</name>,
-	    Maniago, <date>fl. c. 1500</date></author>
-           <editor>Neven Jovanović</editor>
-<respStmt>
-  <resp>editionem criticam praeparavit et electronice edidit</resp>
-<name>Neven Jovanović</name>
-</respStmt>
-
+            <title>Carmen de situ Jadrę (1508), editio electronica</title>
+            <author ref="v105148933757754302446">
+               <name>Publius Nardinus Celineus (Nardino Celinese)</name>,
+             Maniago, <date>fl. c. 1500</date>
+            </author>
+            <editor xml:id="v6913774">
+               <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>editionem criticam praeparavit et electronice edidit</resp>
+               <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
-	   <p>elektronska verzija: Neolatina Croatica, znanstveni
+            <p>elektronska verzija: Neolatina Croatica, znanstveni
 	   projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
-	   Hrvatska.  <date>lipanj 2005</date></p>
-	 </publicationStmt>
+	   Hrvatska.  <date>lipanj 2005</date>
+            </p>
+         </publicationStmt>
          <sourceDesc>
-           <bibl>
+            <bibl>
              Facsimilia digitalia codicis manu scripti:
              Biblioteca dell' Istituto Campana per l'Istruzione Permanente (BICO) 
              <idno>ms. 18.L.13.</idno>
-           </bibl>
+            </bibl>
          </sourceDesc>
       </fileDesc>
-<encodingDesc>
-  
-  <classDecl>
-    <taxonomy xml:id="genus">
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="genus">
       <!-- kontrolirani katalog za žanrove, za novolatinski? -->
-      <category>
-        <catDesc>genera litteraria</catDesc>
-      </category>
-    </taxonomy>
-    
-    <taxonomy xml:id="aetas">
+               <category>
+                  <catDesc>genera litteraria</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy xml:id="aetas">
       <!-- gdje je kontrolirani katalog za periodizaciju? -->
-      <category>
-        <catDesc>aetates</catDesc>
-      </category>
-      <category xml:id="locus">
-        <catDesc>locus</catDesc>
-      </category>
-    </taxonomy>
-  </classDecl>
-</encodingDesc>
-     <profileDesc>
-       <creation>
-         <date>1508</date>
-         <address>
-           <addrLine>Iadrae</addrLine>
-         </address>
-       </creation>
-       
-       <textClass>
-         
-         <keywords scheme="#aetas">
-           <list>
-             <item>litterae renatae</item>
-             <item>latinitas recentior</item>
-             <item>saec. XVI</item>
-            
-             <item>1500-1510</item>
-           </list>
-         </keywords>
-         <keywords scheme="#genus">
-           <list>
-             <item>poesis</item>
-             <item>elegia</item>
-             <item>epistula</item>
-             
-             
-           </list>
-         </keywords>
-         <keywords scheme="#locus">
-           <list>
+               <category>
+                  <catDesc>aetates</catDesc>
+               </category>
+               <category xml:id="locus">
+                  <catDesc>locus</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>1508</date>
+            <address>
+               <addrLine>Iadrae</addrLine>
+            </address>
+         </creation>
+         <abstract>
+            <listPerson>
+               <person>
+                  <name>
+                     <ref type="viaf" target="v105148933757754302446">Nardinus Celineus</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>Marius vates</name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q2452129">Bartholomeus Livianus</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>Veneti</name>
+               </person>
+               <person>
+                  <name>Illei</name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q192638">Apollonius Rhodius</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q176758">Iason</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>Iapides</name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q3954">Neptunus</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>Liburnus</name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q189527">Nereus</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="hhttp://www.wikidata.org/entity/Q726279">Doris</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q202474">Dryas</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q1075258">Chloris</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q2615371">Napaea</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q134388">Saturnus</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q43216">Epicurus</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q37340">Apollo</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q859">Plato</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q125414">Pompeius Magnus</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>Apollonius</name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q171303">Zeno</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q310149">Cleanthes</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q462992">Apollonius Molon</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q1541">Cicero</ref>
+                  </name>
+               </person>
+               <person>
+                  <name>
+                     <ref type="wikidata" target="http://www.wikidata.org/entity/Q365110">Philon Larissaeus</ref>
+                  </name>
+               </person>
+            </listPerson>
+            <listPlace>
+               <place>
+                  <name>Illei campi</name>
+               </place>
+               <place>
+                  <name>Colchis</name>
+               </place>
+               <place>
+                  <name>Iader</name>
+               </place>
+               <place>
+                  <name>Adriacae aquae</name>
+               </place>
+               <place>
+                  <name>Lissa</name>
+               </place>
+               <place>
+                  <name>Substomium</name>
+               </place>
+               <place>
+                  <name>Veneta urbs</name>
+               </place>
+            </listPlace>
+            <list>
+               <head>Argumentum elegiae</head>
+               <label>vv. 1-8</label><item>Unde epistula mittitur: ab Illeis (i. e. Hylleis) campis, quorum meminit Apollonius Rhodius</item>
+               <label>vv. 9-16</label><item>Iadri nominis origo. De situ urbis</item>
+               <label>vv. 17-25</label><item>De insula Lissa siue Substomio: insula ferax, ubi nymphae ludunt</item>
+               <label>vv. 27-30</label><item>Poeta Venetiis uenit Iadram ubi per quadriennium remanebit</item>
+               <label>vv. 31-36</label><item>Quare ludens seria dicit: sunt ioci longae uitae auxilia</item>
+               <label>vv. 37-40</label><item>Mortem non timet, finem incognitum timet</item>
+               <label>vv. 41-45</label><item>Si animus cum Deo est, gaudebit - sed quomodo gaudeat qui sensibus careat?</item>
+               <label>vv. 46-48</label><item>Gaudia sunt multa; si unum desit, non eris felix.</item>
+               <label>vv. 49-50</label><item>Mors nihil, privatio a discidio venit.</item>
+               <label>vv. 51-52</label><item>Animae pars corpus. Sine corpore (sive anima?) nulla progeneratio.</item>
+               <label>vv. 53-56</label><item>Si totum non deficit, neque pars totius deficere potest; alioquin non sunt pars et totum.</item>
+               <label>vv. 57-60</label><item>Corpus mortuum cadaver, anima sine corpore spiritus (nihil habet quod animet).</item>
+               <label>vv. 61-64</label><item>Resolutum nondum unum, sed duo: anima viva, corpus cadaver.</item>
+               <label>vv. 65-66</label><item>Corpora non partes animae, sed induviae.</item>
+               <label>vv. 67-70</label><item>Fortasse una est anima universi, et absens vitam aufert.</item>
+               <label>vv. 71-74</label><item>Anima in corporibus pluribus motis, ut naves vento agitatae.</item>
+               <label>vv. 75-76</label><item>Tres motus animae.</item>
+               <label>vv. 77-82</label><item>Anima tamen integra ut flamma remanet.</item>
+               <label>vv. 83-86</label><item>Epicurus animam divisibilem putat; decipitur.</item>
+               <label>vv. 87-88</label><item>Num animae migrant?</item>
+               <label>vv. 89-90</label><item>Quo abit, unde venit anima sine corpore?</item>
+               <label>vv. 91-92</label><item>Venit a caelo aut nascitur et moritur cum corpore.</item>
+               <label>vv. 93-100</label><item>Si moritur, non est unum et totum; si venit a caelo, cur venit ad inferiora et caduca? Quare descendit ut iterum ascendat?</item>
+               <label>vv. 101-106</label><item>Plato asserit in terris esse a deo posita praemia (?); in terris est virtus, amor virtutis ad praemia ducit; tunc praemia referunt ad caelos.</item>
+               <label>vv. 107-108</label><item>Ideo boni mortem negligunt.</item>
+               <label>vv. 109-110</label><item>Vatem Marium invitant doctrina et proba vita ut idem faciat.</item>
+               <label>vv. 111-112</label><item>Poeta Mario (qui mortem negligit) timet, quia carmen de Alviano audire cupit.</item>
+               <label>vv. 113-116</label><item>Poeta quam diligat Marium (ut Pompeius Apollonium? ut Ciceronem Philon?).</item>
+               <label>vv. 117-118</label><item>Vivat Marius dum veniat poeta.</item>
+            </list>
+         </abstract>
+         <textClass>
+            <keywords scheme="#aetas">
+               <list>
+                  <item>litterae renatae</item>
+                  <item>latinitas recentior</item>
+                  <item>saec. XVI</item>
+                  <item>1500-1510</item>
+               </list>
+            </keywords>
+            <keywords scheme="#genus">
+               <list>
+                  <item>poesis</item>
+                  <item>elegia</item>
+                  <item>epistula</item>
+               </list>
+            </keywords>
+            <keywords scheme="#locus">
+               <list>
              <!-- kontrolirani katalog za mjesta -->
-             <item>Iadra</item>
-             <item>Dalmatia</item>
-             <item>Croatia</item>
-           </list>
-         </keywords>
-       </textClass>
-     </profileDesc>
-     <revisionDesc>
-		 <change><name>Neven Jovanović</name>
-         <date>Mense Septembri, anno 2016</date>. Orthographia passim eadem.</change>
-		 <change><name>Neven Jovanović</name>
-         <date>Mense Septembri, anno 2016</date>. Relegi.</change>
-       <change><name>Neven Jovanović</name>
-         <date>Mense Decembri, anno 2010</date>. TEI caput. Versio initialis.</change>
-       
-     </revisionDesc>
+                  <item>Iadra</item>
+                  <item>Dalmatia</item>
+                  <item>Croatia</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <name>Neven Jovanović</name>
+            <date>Mense Maio, anno 2022</date>. VIAF addidi. Relecturus. Formas alias addam.</change>
+         <change>
+            <name>Neven Jovanović</name>
+            <date>Mense Septembri, anno 2016</date>. Orthographia passim eadem.</change>
+         <change>
+            <name>Neven Jovanović</name>
+            <date>Mense Septembri, anno 2016</date>. Relegi.</change>
+         <change>
+            <name>Neven Jovanović</name>
+            <date>Mense Decembri, anno 2010</date>. TEI caput. Versio initialis.</change>
+      </revisionDesc>
    </teiHeader>
-<text>
-<body>
-  <milestone unit="page" n="67"/>
-      <div met="elegiacum" type="elegia">
-        <head><abbr>P. N. C.</abbr> 
-          De situ Jadrę carmen ad Marium vatem celeberrimum 
-          <unclear>strenui</unclear> Bartholomei <corr resp="NJ">Liuiani</corr> 
+   <text>
+      <body>
+         <milestone unit="page" n="67"/>
+         <div met="elegiacum" type="elegia">
+            <head>
+               <abbr>P. N. C.</abbr> 
+          De situ Iadrae carmen ad Marium uatem celeberrimum 
+          <unclear>strenui</unclear> Bartholomaei <corr resp="NJ">Liuiani</corr> 
           ducis Venetorum</head>
-
-<l>Accipe ab Illeis ad te venientia campis;</l>
-<l>Nam, quę promisi, carmina mitto tibi.</l>
-<l>Forte ut inauditum Illeorum nomen abhorres?</l>
-<l>Sed Rhodius uates nobilitauit eos.</l>
-<l n="5">Mutauit nomen spoliata Colchide Iason</l>
-  <l>Qui prius Illeus, mox et <sic>Jata</sic> fuit.</l>
-<l>Quis longam hystoriam tam paucis versibus edat,</l>
-<l>Omnia quę a priscis gesta referre queat?</l>
-  <l>Mox etiam dictum nos inde putamus Iader</l>
-<l n="10">Cuius in aprico littora <expan>multa</expan> cano.</l>
-<l>Vrbs uersa in zephyros, uitalibus obuia flabris,</l>
-<l>Vernat in hyberno tempore plena rosis.</l>
-<l>Sed qua surgentem auroram <expan>prospectat</expan> et arctos,</l>
-<l>frumentum et vinum fert spatiosus ager.</l>
-<l n="15">Proxima Japidibus Neptunus diuidit arua</l>
-<l>Quę mira excellunt fertilitate soli.</l>
-<l>Vrbis in aspectu medij e regione diei</l>
-<l>Se super Adriacas insula tollit aquas;</l>
-<milestone unit="page" n="67v"/>
-<l>Lissa uocabatur, propria nunc uoce coloni</l>
-<l n="20">Substomicem dicunt, arua Liburnus arat.</l>
-<l>Piscatu celebri et bacca pinguescit oliuę</l>
-<l>Producitque ferax dulcia mella, crocum;</l>
-<l>Hic placidus Nereus placida cum Doride ludit</l>
-<l>Et uirides frondes pandit amęna Drias</l>
-<l n="25">Nec procul a fluctu se formosissima Cloris</l>
-<l>Et simul exornat pulchra Napea comas.</l>
-<l>Postquam discessi Veneta digressus ab urbe,</l>
-<l>Huc ueni et grata nunc statione fruor.</l>
-<l>Hic dulcem contendo animam producere donec</l>
-<l n="30">Saturnus pleno se quater orbe rotet.</l>
-<l>Hoc ego per ludos et mitia seria quęro;</l>
-<l>Anxia mens hominis non bene corpus alit.</l>
-<l>Quod bene si nutrias, nunquam prematura relinquit,</l>
-<l>Sed longa in lęto corpore uita manet.</l>
-<l n="35">O utinam mecum certes, o magne poeta,</l>
-<l>Demulcere animam uiuere posse diu!</l>
-<l>Mortem non timeo, quum nec post fata nec ante</l>
-<l>Vix etiam in puncto temporis esse queat;</l>
-<milestone unit="page" n="68"/>
-<l>Finem hominis metuo, cuius pars una putrescit,</l>
-<l n="40">Altera quo uadat, sęcula nulla uident.</l>
-<l>Fac superos adeat, fiat conuiua Tonantis,</l>
-<l>Gaudebit tantum dimidiatus homo.</l>
-<l>Qui quam sit fęlix, careat cum sensibus istis</l>
-<l>Corporeis, vellem discere, quoue modo</l>
-<l n="45">Tangere, gustare, olfacere, audire atque uidere.</l>
-<l>Corporis atque animę gaudia multa fero;</l>
-<l>Si, cui nil desit, fęlix est, una uoluptas</l>
-<l>Cui desit, non est; pluribus ille caret.</l>
-<l>Mors per se nihil est <expan>usquam</expan> priuatio rebus</l>
-<l n="50">Accidit a pugna disidioque sata</l>
-<l>Vnum et totum anima est, huius pars corpus habetur</l>
-<l>Organica eiusdem <expan>progenerandis</expan> opus.</l>
-<l>Quare si totum in se nullo defecerit ęuo,</l>
-<l>Si pars in toto est, pars quoque nulla perit.</l>
-<l n="55">Cum totum a parte, aut cum pars discedit ab illo,</l>
-<l>Nec totum nec pars nomen habere potest.</l>
-<l>Corporis extincti apellatio vera cadauer,</l>
-<l><expan>Spiritus</expan> est animę cum spoliata fuit;</l>
-<milestone unit="page" n="68v" />
-<l>Nam cum non animet naturam corporis actu,</l>
-<l n="60">Non animam dici aut esse <expan>fatentur</expan> eam.</l>
-<l>Vnum quę fuerat <expan>numero</expan> resoluta videntur</l>
-<l>Esse duo et pariter sunt ratione duo;</l>
-<l>Nam viuente anima corpus marcescit in urna,</l>
-<l>Quid cum diuina mente cadauer habet?</l>
-<l n="65">Induuias potius dicamus corpora nostra</l>
-<l>Quam partes animę <expan>quando</expan> perire solent.</l>
-<l>Aut una fortasse anima uniuersa mouentur</l>
-<l>Quęcunque in toto mobile mota uides</l>
-<l>Cum pręsens illa est, quibus est, uitam omnibus affert,</l>
-<l n="70">Discedens aufert in quibus ante fuit.</l>
-<l>Non in corpore diuiditur, sed corpora in ipsa,</l>
-<l>Vt partes viuunt motibus acta suis,</l>
-<l>Non aliter quam cum plures uno equore naues</l>
-<l>Non idem uario flamine uentus agit.</l>
-<l n="75">Nam triplex uirtus, ratio, uegetatio, sensus,</l>
-<l>Tres motus anime corpora cuncta <expan>mouent</expan>.</l>
-<l>Integra sic anima ut carbonibus integra flamma</l>
-<l>pluribus accensis cum penetrauit eos;</l>
-<milestone unit="page" n="69"/>
-<l>Cum partes igitur penetret uiolentia flammę</l>
-<l n="80">Comprehendatque omnis exilitate sua,</l>
-<l>Nonne incorporea exilior, violentior igne,</l>
-<l>Hoc anima efficiet continuata magis?</l>
-<l>Hanc diuisibilem faciunt Epicurus et omnes</l>
-<l>Omnia qui pręter corpora prima secant;</l>
-<l n="85">Nec mirum, decepti homines, ut cętera cuncta,</l>
-<l>Ex atomis animam composuere suis.</l>
-<l>An plures animę ut vestes mortalia sumunt</l>
-<l>Hospitia et mutant inueterata nouis?</l>
-<l>Quid fugit aut quo nuda volat, sine corpore, tanquam</l>
-<l n="90">Veste carens anima et cum uenit, unde venit?</l>
-<l>Aut uenit a cęlo aut cum corpore nascitur ipso</l>
-<l>Et moritur sicut cętera nata simul;</l>
-<l>Ergo si moritur, tamquam pars corporis una,</l>
-<l>Non unum et totum est, ut schola docta putet.</l>
-<l n="95">Si venit a cęlo, ęthereas cur deserit auras?</l>
-<l>Numquid ob induuias inferiora petit?</l>
-<l>Aut si corpus amat, cur pro cęleste caducum</l>
-<l>Induitur vel cur depositura capit?</l>
-<milestone unit="page" n="69v"/>
-<l>Vt repetat cęlum, terras descendit ad imas;</l>
-<l n="100">Nouerit ambages huius Apollo vię.</l>
-<l>An deus in terris virtutum pręmia ponit,</l>
-<l>Vt uero sapiens disserit ore Plato?</l>
-<l>E terris oritur virtus; virtutis amore</l>
-<l>Descendunt animę ad pręmia quęque sua</l>
-<l n="105">Et mox laureolas, uel quos meruere triumphos,</l>
-<l>Deuicto mundo ad regna <expan>beata</expan> ferunt.</l>
-<l>Hoc est quod mortem negligunt qui magna merentur,</l>
-<l>Qui bene uixerunt, qui coluerunt deos;</l>
-<l>Vt nimis hoc facias, excellentissime vates,</l>
-<l n="110">Doctrina hortatur nec proba vita minus.</l>
-<l>Hoc est quod <sic>metuo</sic> cupiens audire sonantem</l>
-<l>Liuiadem rursus vatis ab ore sui.</l>
-<l>Plus te quam patrem dilexi et diligo, miror</l>
-<l>plusquam Pompeius Magnus Apollonium;</l>
-<l n="115">Te tanti facio quanti Zenona Cleanthes,</l>
-<l>Molonem Cicero, uel Cicerona Philon.</l>
-<l>Tu uiue interea donec properabo uenire;</l>
-<l>Si tibi non curas viuere, viue mihi.</l>
-<closer><foreign xml:lang="grc">Telos</foreign></closer>
-</div>
-</body>
-
-
-</text>
+            <l n="1">Accipe ab Illeis ad te uenientia campis;</l>
+            <l n="2">nam, quae promisi, carmina mitto tibi.</l>
+            <l n="3">Forte ut inauditum Illeorum nomen abhorres?</l>
+            <l n="4">Sed Rhodius uates nobilitauit eos.</l>
+            <l n="5">Mutauit nomen spoliata Colchide Iason</l>
+            <l n="6">qui prius Illeus, mox et <sic>Iata</sic> fuit.</l>
+            <l n="7">Quis longam historiam tam paucis uersibus edat,</l>
+            <l n="8">omnia quae a priscis gesta referre queat?</l>
+            <l n="9">Mox etiam dictum nos inde putamus Iader</l>
+            <l n="10">cuius in aprico litora <expan>multa</expan> cano.</l>
+            <l n="11">Vrbs uersa in zephyros, uitalibus obuia flabris,</l>
+            <l n="12">uernat in hiberno tempore plena rosis.</l>
+            <l n="13">Sed qua surgentem auroram <expan>prospectat</expan> et arctos,</l>
+            <l n="14">frumentum et vinum fert spatiosus ager.</l>
+            <l n="15">Proxima Iapidibus Neptunus diuidit arua</l>
+            <l n="16">quae mira excellunt fertilitate soli.</l>
+            <l n="17">Vrbis in aspectu medii e regione diei</l>
+            <l n="18">se super Adriacas insula tollit aquas;</l>
+            <milestone unit="page" n="67v"/>
+            <l n="19">Lissa uocabatur, propria nunc uoce coloni</l>
+            <l n="20">Substomium dicunt, arua Liburnus arat.</l>
+            <l n="21">Piscatu celebri et bacca pinguescit oliuae</l>
+            <l n="22">producitque ferax dulcia mella, crocum;</l>
+            <l n="23">hic placidus Nereus placida cum Doride ludit</l>
+            <l n="24">et uirides frondes pandit amoena Dryas</l>
+            <l n="25">nec procul a fluctu se formosissima Chloris</l>
+            <l n="26">et simul exornat pulchra Napaea comas.</l>
+            <l n="27">Postquam discessi Veneta digressus ab urbe,</l>
+            <l n="28">huc ueni et grata nunc statione fruor.</l>
+            <l n="29">Hic dulcem contendo animam producere donec</l>
+            <l n="30">Saturnus pleno se quater orbe rotet.</l>
+            <l n="31">Hoc ego per ludos et mitia seria quaero;</l>
+            <l n="32">anxia mens hominis non bene corpus alit.</l>
+            <l n="33">Quod bene si nutrias, nunquam praematura relinquit,</l>
+            <l n="34">sed longa in laeto corpore uita manet.</l>
+            <l n="35">O utinam mecum certes, o magne poeta,</l>
+            <l n="36">demulcere animam, uiuere posse diu!</l>
+            <l n="37">Mortem non timeo, quum nec post fata nec ante</l>
+            <l n="38">uix etiam in puncto temporis esse queat;</l>
+            <milestone unit="page" n="68"/>
+            <l n="39">finem hominis metuo, cuius pars una putrescit,</l>
+            <l n="40">altera quo uadat, saecula nulla uident.</l>
+            <l n="41">Fac superos adeat, fiat conuiua Tonantis,</l>
+            <l n="42">gaudebit tantum dimidiatus homo.</l>
+            <l n="43">Qui quam sit felix, careat cum sensibus istis</l>
+            <l n="44">corporeis, uellem discere, quoue modo</l>
+            <l n="45">tangere, gustare, olfacere, audire atque uidere.</l>
+            <l n="46">Corporis atque animae gaudia multa fero;</l>
+            <l n="47">si, cui nil desit, felix est, una uoluptas</l>
+            <l n="48">cui desit, non est; pluribus ille caret.</l>
+            <l n="49">Mors per se nihil est, <expan>usquam</expan> priuatio rebus</l>
+            <l n="50">accidit a pugna discidioque sata.</l>
+            <l n="51">Vnum et totum anima est, huius pars corpus habetur</l>
+            <l n="52">organica, eiusdem <expan>progenerandis</expan> opus.</l>
+            <l n="53">Quare si totum in se nullo defecerit aeuo,</l>
+            <l n="54">si pars in toto est, pars quoque nulla perit.</l>
+            <l n="55">Cum totum a parte, aut cum pars discedit ab illo,</l>
+            <l n="56">nec totum nec pars nomen habere potest.</l>
+            <l n="57">Corporis extincti apellatio uera cadauer,</l>
+            <l n="58">
+               <expan>spiritus</expan> est animae cum spoliata fuit;</l>
+            <milestone unit="page" n="68v"/>
+            <l n="59">nam cum non animet naturam corporis actu,</l>
+            <l n="60">non animam dici aut esse <expan>fatentur</expan> eam.</l>
+            <l n="61">Vnum quae fuerat <expan>numero</expan> resoluta uidentur</l>
+            <l n="62">esse duo et pariter sunt ratione duo;</l>
+            <l n="63">nam uiuente anima corpus marcescit in urna,</l>
+            <l n="64">quid cum diuina mente cadauer habet?</l>
+            <l n="65">Induuias potius dicamus corpora nostra</l>
+            <l n="66">quam partes animae, <expan>quando</expan> perire solent.</l>
+            <l n="67">Aut una fortasse anima uniuersa mouentur</l>
+            <l n="68">quaecunque in toto mobile mota uides;</l>
+            <l n="69">cum praesens illa est, quibus est, uitam omnibus affert,</l>
+            <l n="70">discedens aufert in quibus ante fuit.</l>
+            <l n="71">Non in corpore diuiditur, sed corpora in ipsa,</l>
+            <l n="72">ut partes; uiuunt motibus acta suis,</l>
+            <l n="73">non aliter quam cum plures uno aequore naues</l>
+            <l n="74">non idem uario flamine uentus agit.</l>
+            <l n="75">Nam triplex uirtus, ratio, uegetatio, sensus,</l>
+            <l n="76">tres motus animae corpora cuncta <expan>mouent</expan>.</l>
+            <l n="77">Integra sic anima ut carbonibus integra flamma</l>
+            <l n="78">pluribus accensis cum penetrauit eos;</l>
+            <milestone unit="page" n="69"/>
+            <l n="79">cum partes igitur penetret uiolentia flammae</l>
+            <l n="80">comprehendatque omnis exilitate sua,</l>
+            <l n="81">nonne incorporea exilior, uiolentior igne,</l>
+            <l n="82">hoc anima efficiet continuata magis?</l>
+            <l n="83">Hanc diuisibilem faciunt Epicurus et omnes</l>
+            <l n="84">omnia qui praeter corpora prima secant;</l>
+            <l n="85">nec mirum, decepti homines, ut caetera cuncta,</l>
+            <l n="86">ex atomis animam composuere suis.</l>
+            <l n="87">An plures animae ut uestes mortalia sumunt</l>
+            <l n="88">hospitia et mutant inueterata nouis?</l>
+            <l n="89">Quid fugit aut quo nuda volat, sine corpore, tanquam</l>
+            <l n="90">ueste carens anima et cum uenit, unde uenit?</l>
+            <l n="91">Aut uenit a caelo aut cum corpore nascitur ipso</l>
+            <l n="92">et moritur sicut caetera nata simul;</l>
+            <l n="93">ergo si moritur, tamquam pars corporis una,</l>
+            <l n="94">non unum et totum est, ut schola docta putet.</l>
+            <l n="95">Si uenit a cęlo, aethereas cur deserit auras?</l>
+            <l n="96">Numquid ob induuias inferiora petit?</l>
+            <l n="97">Aut si corpus amat, cur pro caeleste caducum</l>
+            <l n="98">induitur vel cur depositura capit?</l>
+            <milestone unit="page" n="69v"/>
+            <l n="99">Vt repetat caelum, terras descendit ad imas;</l>
+            <l n="100">nouerit ambages huius Apollo uiae.</l>
+            <l n="101">An deus in terris uirtutum praemia ponit,</l>
+            <l n="102">ut uero sapiens disserit ore Plato?</l>
+            <l n="103">E terris oritur uirtus; uirtutis amore</l>
+            <l n="104">descendunt animae ad praemia quaeque sua</l>
+            <l n="105">et mox laureolas, uel quos meruere triumphos,</l>
+            <l n="106">deuicto mundo ad regna <expan>beata</expan> ferunt.</l>
+            <l n="107">Hoc est quod mortem negligunt qui magna merentur,</l>
+            <l n="108">qui bene uixerunt, qui coluerunt deos;</l>
+            <l n="109">Vt nimis hoc facias, excellentissime uates,</l>
+            <l n="110">doctrina hortatur nec proba uita minus.</l>
+            <l n="111">Hoc est quod <sic>metuo</sic> cupiens audire sonantem</l>
+            <l n="112">Liuiadem rursus uatis ab ore sui.</l>
+            <l n="113">Plus te quam patrem dilexi et diligo, miror</l>
+            <l n="114">plusquam Pompeius Magnus Apollonium;</l>
+            <l n="115">te tanti facio quanti Zenona Cleanthes,</l>
+            <l n="116">Molonem Cicero, uel Cicerona Philon.</l>
+            <l n="117">Tu uiue interea donec properabo uenire;</l>
+            <l n="118">si tibi non curas uiuere, uiue mihi.</l>
+            <closer>
+               <foreign xml:lang="grc">τέλος</foreign>
+            </closer>
+         </div>
+      </body>
+   </text>
 </TEI>
