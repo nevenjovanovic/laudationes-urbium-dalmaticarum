@@ -9,7 +9,7 @@
     <xsl:template match="//*:text//(*:l|*:head|*:opener|*:p|*:closer)">
         <xsl:copy>
             <xsl:apply-templates select="@* "/>
-            <xsl:for-each select="//text()">
+            <xsl:for-each select=".//text()[not(parent::*:abbr)]">
         <xsl:analyze-string select="." regex="\p{{P}}">
             <xsl:matching-substring>
             <xsl:element name="pc" namespace="http://www.tei-c.org/ns/1.0"><xsl:value-of select="."/></xsl:element>
@@ -19,7 +19,14 @@
                     <xsl:matching-substring>
                         <xsl:element name="w" namespace="http://www.tei-c.org/ns/1.0"><xsl:attribute name="norm"><xsl:value-of select="lower-case(.)"/></xsl:attribute><xsl:value-of select="."/></xsl:element>
                     </xsl:matching-substring>
-                    <xsl:non-matching-substring/>
+                    <xsl:non-matching-substring>
+                        <xsl:analyze-string select="." regex="\p{{N}}+">
+                            <xsl:matching-substring>
+                                <xsl:element name="w" namespace="http://www.tei-c.org/ns/1.0"><xsl:attribute name="norm"><xsl:value-of select="lower-case(.)"/></xsl:attribute><xsl:value-of select="."/></xsl:element>
+                            </xsl:matching-substring>
+                            <xsl:non-matching-substring/>
+                        </xsl:analyze-string>
+                    </xsl:non-matching-substring>
                     
                 </xsl:analyze-string>
             </xsl:non-matching-substring>
