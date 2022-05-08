@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Carmen de situ Jadrę (1508), editio electronica</title>
+            <title>Carmen de situ Iadrae (1508), editio electronica</title>
             <author ref="v105148933757754302446">
                <name>Publius Nardinus Celineus (Nardino Celinese)</name>,
              Maniago, <date>fl. c. 1500</date>
@@ -92,7 +92,7 @@
                   </name>
                </person>
                <person>
-                  <name>Iapides</name>
+                  <name><ref type="wikidata" target="http://www.wikidata.org/entity/Q1266928">Iapydes</ref></name>
                </person>
                <person>
                   <name>
@@ -283,7 +283,7 @@
          <milestone unit="page" n="67"/>
          <div met="elegiacum" type="elegia">
             <head>
-               <abbr>P. N. C.</abbr> 
+               <num>1508.</num> <choice><abbr>P. N. C.</abbr><expan>Publii Nardini Celinei</expan></choice> 
           De situ Iadrae carmen ad Marium uatem celeberrimum 
           <unclear>strenui</unclear> Bartholomaei <corr resp="NJ">Liuiani</corr> 
           ducis Venetorum</head>
@@ -301,7 +301,7 @@
             <l n="12">uernat in hiberno tempore plena rosis.</l>
             <l n="13">Sed qua surgentem auroram <expan>prospectat</expan> et arctos,</l>
             <l n="14">frumentum et vinum fert spatiosus ager.</l>
-            <l n="15">Proxima Iapidibus Neptunus diuidit arua</l>
+            <l n="15">Proxima Iapydibus Neptunus diuidit arua</l>
             <l n="16">quae mira excellunt fertilitate soli.</l>
             <l n="17">Vrbis in aspectu medii e regione diei</l>
             <l n="18">se super Adriacas insula tollit aquas;</l>
@@ -320,7 +320,7 @@
             <l n="30">Saturnus pleno se quater orbe rotet.</l>
             <l n="31">Hoc ego per ludos et mitia seria quaero;</l>
             <l n="32">anxia mens hominis non bene corpus alit.</l>
-            <l n="33">Quod bene si nutrias, nunquam praematura relinquit,</l>
+            <l n="33">Quod bene si nutrias, nunquam immatura relinquit,</l>
             <l n="34">sed longa in laeto corpore uita manet.</l>
             <l n="35">O utinam mecum certes, o magne poeta,</l>
             <l n="36">demulcere animam, uiuere posse diu!</l>
@@ -341,11 +341,11 @@
             <l n="50">accidit a pugna discidioque sata.</l>
             <l n="51">Vnum et totum anima est, huius pars corpus habetur</l>
             <l n="52">organica, eiusdem <expan>progenerandis</expan> opus.</l>
-            <l n="53">Quare si totum in se nullo defecerit aeuo,</l>
+            <l n="53">Quor si totum in se nullo defecerit aeuo,</l>
             <l n="54">si pars in toto est, pars quoque nulla perit.</l>
             <l n="55">Cum totum a parte, aut cum pars discedit ab illo,</l>
             <l n="56">nec totum nec pars nomen habere potest.</l>
-            <l n="57">Corporis extincti apellatio uera cadauer,</l>
+            <l n="57">Corporis extincti appellatio uera cadauer,</l>
             <l n="58">
                <expan>spiritus</expan> est animae cum spoliata fuit;</l>
             <milestone unit="page" n="68v"/>
@@ -380,13 +380,13 @@
             <l n="86">ex atomis animam composuere suis.</l>
             <l n="87">An plures animae ut uestes mortalia sumunt</l>
             <l n="88">hospitia et mutant inueterata nouis?</l>
-            <l n="89">Quid fugit aut quo nuda volat, sine corpore, tanquam</l>
+            <l n="89">Quid fugit aut quo nuda uolat, sine corpore, tanquam</l>
             <l n="90">ueste carens anima et cum uenit, unde uenit?</l>
             <l n="91">Aut uenit a caelo aut cum corpore nascitur ipso</l>
             <l n="92">et moritur sicut caetera nata simul;</l>
             <l n="93">ergo si moritur, tamquam pars corporis una,</l>
             <l n="94">non unum et totum est, ut schola docta putet.</l>
-            <l n="95">Si uenit a cęlo, aethereas cur deserit auras?</l>
+            <l n="95">Si uenit a caelo, aethereas cur deserit auras?</l>
             <l n="96">Numquid ob induuias inferiora petit?</l>
             <l n="97">Aut si corpus amat, cur pro caeleste caducum</l>
             <l n="98">induitur vel cur depositura capit?</l>
@@ -400,13 +400,13 @@
             <l n="105">et mox laureolas, uel quos meruere triumphos,</l>
             <l n="106">deuicto mundo ad regna <expan>beata</expan> ferunt.</l>
             <l n="107">Hoc est quod mortem negligunt qui magna merentur,</l>
-            <l n="108">qui bene uixerunt, qui coluerunt deos;</l>
-            <l n="109">Vt nimis hoc facias, excellentissime uates,</l>
+            <l n="108">qui bene uixerunt, qui <corr resp="auctor">coluere</corr> deos;</l>
+            <l n="109">ut nimis hoc facias, excellentissime uates,</l>
             <l n="110">doctrina hortatur nec proba uita minus.</l>
             <l n="111">Hoc est quod <sic>metuo</sic> cupiens audire sonantem</l>
             <l n="112">Liuiadem rursus uatis ab ore sui.</l>
             <l n="113">Plus te quam patrem dilexi et diligo, miror</l>
-            <l n="114">plusquam Pompeius Magnus Apollonium;</l>
+            <l n="114">plus quam Pompeius Magnus Apollonium;</l>
             <l n="115">te tanti facio quanti Zenona Cleanthes,</l>
             <l n="116">Molonem Cicero, uel Cicerona Philon.</l>
             <l n="117">Tu uiue interea donec properabo uenire;</l>

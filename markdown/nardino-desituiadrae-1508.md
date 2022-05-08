@@ -1,12 +1,12 @@
 ---
-title: Carmen de situ Jadrę (1508), editio electronica
+title: Carmen de situ Iadrae (1508), editio electronica
 lang: lat
 --- 
 
 
  
 
-# 
+# 1508. P. N. C. (Publii Nardini Celinei) De situ Iadrae carmen ad Marium uatem celeberrimum strenui Bartholomaei Liuiani ducis Venetorum
 
 Accipe ab Illeis ad te uenientia campis;  
 nam, quae promisi, carmina mitto tibi.  
@@ -22,7 +22,7 @@ Vrbs uersa in zephyros, uitalibus obuia flabris,
 uernat in hiberno tempore plena rosis.  
 Sed qua surgentem auroram prospectat et arctos,  
 frumentum et vinum fert spatiosus ager.  
-Proxima Iapidibus Neptunus diuidit arua  
+Proxima Iapydibus Neptunus diuidit arua  
 quae mira excellunt fertilitate soli.  
 Vrbis in aspectu medii e regione diei  
 se super Adriacas insula tollit aquas;  
@@ -40,7 +40,7 @@ Hic dulcem contendo animam producere donec
 Saturnus pleno se quater orbe rotet.  
 Hoc ego per ludos et mitia seria quaero;  
 anxia mens hominis non bene corpus alit.  
-Quod bene si nutrias, nunquam praematura relinquit,  
+Quod bene si nutrias, nunquam immatura relinquit,  
 sed longa in laeto corpore uita manet.  
 O utinam mecum certes, o magne poeta,  
 demulcere animam, uiuere posse diu!  
@@ -60,11 +60,11 @@ Mors per se nihil est, usquam priuatio rebus
 accidit a pugna discidioque sata.  
 Vnum et totum anima est, huius pars corpus habetur  
 organica, eiusdem progenerandis opus.  
-Quare si totum in se nullo defecerit aeuo,  
+Quor si totum in se nullo defecerit aeuo,  
 si pars in toto est, pars quoque nulla perit.  
 Cum totum a parte, aut cum pars discedit ab illo,  
 nec totum nec pars nomen habere potest.  
-Corporis extincti apellatio uera cadauer,  
+Corporis extincti appellatio uera cadauer,  
 spiritus est animae cum spoliata fuit;  
 nam cum non animet naturam corporis actu,  
 non animam dici aut esse fatentur eam.  
@@ -96,13 +96,13 @@ nec mirum, decepti homines, ut caetera cuncta,
 ex atomis animam composuere suis.  
 An plures animae ut uestes mortalia sumunt  
 hospitia et mutant inueterata nouis?  
-Quid fugit aut quo nuda volat, sine corpore, tanquam  
+Quid fugit aut quo nuda uolat, sine corpore, tanquam  
 ueste carens anima et cum uenit, unde uenit?  
 Aut uenit a caelo aut cum corpore nascitur ipso  
 et moritur sicut caetera nata simul;  
 ergo si moritur, tamquam pars corporis una,  
 non unum et totum est, ut schola docta putet.  
-Si uenit a cęlo, aethereas cur deserit auras?  
+Si uenit a caelo, aethereas cur deserit auras?  
 Numquid ob induuias inferiora petit?  
 Aut si corpus amat, cur pro caeleste caducum  
 induitur vel cur depositura capit?  
@@ -116,12 +116,12 @@ et mox laureolas, uel quos meruere triumphos,
 deuicto mundo ad regna beata ferunt.  
 Hoc est quod mortem negligunt qui magna merentur,  
 qui bene uixerunt, qui coluerunt deos;  
-Vt nimis hoc facias, excellentissime uates,  
+ut nimis hoc facias, excellentissime uates,  
 doctrina hortatur nec proba uita minus.  
 Hoc est quod metuo cupiens audire sonantem  
 Liuiadem rursus uatis ab ore sui.  
 Plus te quam patrem dilexi et diligo, miror  
-plusquam Pompeius Magnus Apollonium;  
+plus quam Pompeius Magnus Apollonium;  
 te tanti facio quanti Zenona Cleanthes,  
 Molonem Cicero, uel Cicerona Philon.  
 Tu uiue interea donec properabo uenire;  
