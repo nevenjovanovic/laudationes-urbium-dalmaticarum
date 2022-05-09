@@ -13,7 +13,7 @@ return if (not($l/@lemmaRef)) then element res { element ref { "URI deest: " || 
 else
 let $l1 := $l/@lemma/string()
 let $lem := $l/@lemmaRef/string()
-return element res { element ref { $lem } , element lemma { $l1 } , element form { $l/@norm/string() } }
+return element res { element ref { $lem } , element lemma { $l1 } , element form { $l/string() } }
 }
 let $result2 := element tbody {
 for $res in $result/res
@@ -21,6 +21,7 @@ let $uri := $res/ref
 group by $uri
 return element tr { 
 element td { distinct-values($res/lemma/string())} , 
+element td { count($res/form)} ,
 element td { local:link($uri) } , 
 element td { $res/form/string()}
 }
@@ -34,6 +35,7 @@ return element table {
   element thead {
     element tr {
       element td { "Lemma" },
+      element td { "Quot"},
       element td { "URI" },
       element td { "Forma" }
     }

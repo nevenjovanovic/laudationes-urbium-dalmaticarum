@@ -7,11 +7,11 @@ Index factum programmate: [index-lemmatized-words-occurrences.xq](../scripts/xq/
 In elegia versus sunt 118, formae 780, verba 415.
 
 ## Tabula
-
 <table>
   <thead>
     <tr>
       <td>Lemma</td>
+      <td>Quot</td>
       <td>URI</td>
       <td>Forma</td>
     </tr>
@@ -19,6 +19,7 @@ In elegia versus sunt 118, formae 780, verba 415.
   <tbody>
     <tr>
       <td>a</td>
+      <td>10</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/86824">https://lila-erc.eu/data/id/lemma/86824</a>
       </td>
@@ -26,6 +27,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>abhorreo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/86880">https://lila-erc.eu/data/id/lemma/86880</a>
       </td>
@@ -33,6 +35,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>accendo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/87089">https://lila-erc.eu/data/id/lemma/87089</a>
       </td>
@@ -40,6 +43,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>accido</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/87112">https://lila-erc.eu/data/id/lemma/87112</a>
       </td>
@@ -47,13 +51,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>accipio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/87119">https://lila-erc.eu/data/id/lemma/87119</a>
       </td>
-      <td>accipe</td>
+      <td>Accipe</td>
     </tr>
     <tr>
       <td>actum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/91174">https://lila-erc.eu/data/id/lemma/91174</a>
       </td>
@@ -61,6 +67,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>actus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/91175">https://lila-erc.eu/data/id/lemma/91175</a>
       </td>
@@ -68,6 +75,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ad</td>
+      <td>5</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/87344">https://lila-erc.eu/data/id/lemma/87344</a>
       </td>
@@ -75,6 +83,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>adeo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/87421">https://lila-erc.eu/data/id/lemma/87421</a>
       </td>
@@ -82,6 +91,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aequor</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/87870">https://lila-erc.eu/data/id/lemma/87870</a>
       </td>
@@ -89,6 +99,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aetherius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/87966">https://lila-erc.eu/data/id/lemma/87966</a>
       </td>
@@ -96,6 +107,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aeuum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/87978">https://lila-erc.eu/data/id/lemma/87978</a>
       </td>
@@ -103,6 +115,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>affero</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88001">https://lila-erc.eu/data/id/lemma/88001</a>
       </td>
@@ -110,6 +123,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ager</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88060">https://lila-erc.eu/data/id/lemma/88060</a>
       </td>
@@ -117,6 +131,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ago</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88140">https://lila-erc.eu/data/id/lemma/88140</a>
       </td>
@@ -124,6 +139,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aliter</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/28966">https://lila-erc.eu/data/id/lemma/28966</a>
       </td>
@@ -131,6 +147,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>alo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88429">https://lila-erc.eu/data/id/lemma/88429</a>
       </td>
@@ -138,6 +155,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>alter</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88457">https://lila-erc.eu/data/id/lemma/88457</a>
       </td>
@@ -145,6 +163,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ambages</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88596">https://lila-erc.eu/data/id/lemma/88596</a>
       </td>
@@ -152,6 +171,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>amo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88705">https://lila-erc.eu/data/id/lemma/88705</a>
       </td>
@@ -159,6 +179,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>amoenus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88710">https://lila-erc.eu/data/id/lemma/88710</a>
       </td>
@@ -166,6 +187,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>amor</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88717">https://lila-erc.eu/data/id/lemma/88717</a>
       </td>
@@ -173,13 +195,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>an</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/88829">https://lila-erc.eu/data/id/lemma/88829</a>
       </td>
-      <td>an an</td>
+      <td>An An</td>
     </tr>
     <tr>
       <td>anima</td>
+      <td>16</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/89075">https://lila-erc.eu/data/id/lemma/89075</a>
       </td>
@@ -187,6 +211,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>animo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/89089">https://lila-erc.eu/data/id/lemma/89089</a>
       </td>
@@ -194,6 +219,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ante</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/89165">https://lila-erc.eu/data/id/lemma/89165</a>
       </td>
@@ -201,6 +227,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>anxius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90143">https://lila-erc.eu/data/id/lemma/90143</a>
       </td>
@@ -208,20 +235,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>apollo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/20104">https://lila-erc.eu/data/id/lemma/20104</a>
       </td>
-      <td>apollo</td>
+      <td>Apollo</td>
     </tr>
     <tr>
       <td>apollonius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/20173">https://lila-erc.eu/data/id/lemma/20173</a>
       </td>
-      <td>apollonium</td>
+      <td>Apollonium</td>
     </tr>
     <tr>
       <td>appellatio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90985">https://lila-erc.eu/data/id/lemma/90985</a>
       </td>
@@ -229,6 +259,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>apricus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/89657">https://lila-erc.eu/data/id/lemma/89657</a>
       </td>
@@ -236,6 +267,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aqua</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/89692">https://lila-erc.eu/data/id/lemma/89692</a>
       </td>
@@ -243,6 +275,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>arctos</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/91070">https://lila-erc.eu/data/id/lemma/91070</a>
       </td>
@@ -250,6 +283,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aro</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90045">https://lila-erc.eu/data/id/lemma/90045</a>
       </td>
@@ -257,6 +291,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aruum</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90169">https://lila-erc.eu/data/id/lemma/90169</a>
       </td>
@@ -264,6 +299,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aspectus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90278">https://lila-erc.eu/data/id/lemma/90278</a>
       </td>
@@ -271,6 +307,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>atomus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90966">https://lila-erc.eu/data/id/lemma/90966</a>
       </td>
@@ -278,6 +315,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>atque</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90490">https://lila-erc.eu/data/id/lemma/90490</a>
       </td>
@@ -285,6 +323,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>audio</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90641">https://lila-erc.eu/data/id/lemma/90641</a>
       </td>
@@ -292,6 +331,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aufero</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90671">https://lila-erc.eu/data/id/lemma/90671</a>
       </td>
@@ -299,6 +339,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aura</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90740">https://lila-erc.eu/data/id/lemma/90740</a>
       </td>
@@ -306,6 +347,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aurora</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90792">https://lila-erc.eu/data/id/lemma/90792</a>
       </td>
@@ -313,13 +355,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>aut</td>
+      <td>7</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/90827">https://lila-erc.eu/data/id/lemma/90827</a>
       </td>
-      <td>aut aut aut aut aut aut aut</td>
+      <td>aut aut Aut aut Aut aut Aut</td>
     </tr>
     <tr>
       <td>baca</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/91191">https://lila-erc.eu/data/id/lemma/91191</a>
       </td>
@@ -327,13 +371,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>bartholomaeus</td>
+      <td>1</td>
       <td>
         <a href="https://logeion.uchicago.edu/Bartholomaeus">https://logeion.uchicago.edu/Bartholomaeus</a>
       </td>
-      <td>bartholomaei</td>
+      <td>Bartholomaei</td>
     </tr>
     <tr>
       <td>beatus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/4503">https://lila-erc.eu/data/id/hypolemma/4503</a>
       </td>
@@ -341,6 +387,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>bene</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/91473">https://lila-erc.eu/data/id/lemma/91473</a>
       </td>
@@ -348,6 +395,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>cadauer</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/92168">https://lila-erc.eu/data/id/lemma/92168</a>
       </td>
@@ -355,6 +403,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>caducum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/92190">https://lila-erc.eu/data/id/lemma/92190</a>
       </td>
@@ -362,6 +411,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>caelestis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/92214">https://lila-erc.eu/data/id/lemma/92214</a>
       </td>
@@ -369,6 +419,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>caelum</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97622">https://lila-erc.eu/data/id/lemma/97622</a>
       </td>
@@ -376,6 +427,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>campus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/93945">https://lila-erc.eu/data/id/lemma/93945</a>
       </td>
@@ -383,6 +435,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>cano</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/92600">https://lila-erc.eu/data/id/lemma/92600</a>
       </td>
@@ -390,6 +443,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>capio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/92686">https://lila-erc.eu/data/id/lemma/92686</a>
       </td>
@@ -397,6 +451,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>carbo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/92806">https://lila-erc.eu/data/id/lemma/92806</a>
       </td>
@@ -404,6 +459,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>careo</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/92848">https://lila-erc.eu/data/id/lemma/92848</a>
       </td>
@@ -411,6 +467,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>carmen</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/96629">https://lila-erc.eu/data/id/lemma/96629</a>
       </td>
@@ -418,6 +475,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>celeber</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/93313">https://lila-erc.eu/data/id/lemma/93313</a>
       </td>
@@ -425,11 +483,13 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>celineus</td>
+      <td>1</td>
       <td>URI deest: 769</td>
       <td>celinei</td>
     </tr>
     <tr>
       <td>certo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/93580">https://lila-erc.eu/data/id/lemma/93580</a>
       </td>
@@ -437,6 +497,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ceterus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/93624">https://lila-erc.eu/data/id/lemma/93624</a>
       </td>
@@ -444,34 +505,39 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>chloris</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/3050">https://lila-erc.eu/data/id/lemma/3050</a>
       </td>
-      <td>chloris</td>
+      <td>Chloris</td>
     </tr>
     <tr>
       <td>cicero</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/3148">https://lila-erc.eu/data/id/lemma/3148</a>
       </td>
-      <td>cicero cicerona</td>
+      <td>Cicero Cicerona</td>
     </tr>
     <tr>
       <td>cleanthes</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/3353">https://lila-erc.eu/data/id/lemma/3353</a>
       </td>
-      <td>cleanthes</td>
+      <td>Cleanthes</td>
     </tr>
     <tr>
       <td>colchis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/3581">https://lila-erc.eu/data/id/lemma/3581</a>
       </td>
-      <td>colchide</td>
+      <td>Colchide</td>
     </tr>
     <tr>
       <td>colo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/94916">https://lila-erc.eu/data/id/lemma/94916</a>
       </td>
@@ -479,6 +545,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>colonus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/94936">https://lila-erc.eu/data/id/lemma/94936</a>
       </td>
@@ -486,6 +553,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>coma</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/95002">https://lila-erc.eu/data/id/lemma/95002</a>
       </td>
@@ -493,6 +561,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>compono</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/95367">https://lila-erc.eu/data/id/lemma/95367</a>
       </td>
@@ -500,6 +569,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>comprehendo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/95381">https://lila-erc.eu/data/id/lemma/95381</a>
       </td>
@@ -507,6 +577,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>contendo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/96251">https://lila-erc.eu/data/id/lemma/96251</a>
       </td>
@@ -514,6 +585,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>continuo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/96299">https://lila-erc.eu/data/id/lemma/96299</a>
       </td>
@@ -521,6 +593,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>conuiua</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/96471">https://lila-erc.eu/data/id/lemma/96471</a>
       </td>
@@ -528,6 +601,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>corporeus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/96661">https://lila-erc.eu/data/id/lemma/96661</a>
       </td>
@@ -535,13 +609,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>corpus</td>
+      <td>16</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/96667">https://lila-erc.eu/data/id/lemma/96667</a>
       </td>
-      <td>corpus corpore corporis corpus corporis corporis corpus corpora corpore corpora corpora corpora corpore corpore corporis corpus</td>
+      <td>corpus corpore Corporis corpus Corporis corporis corpus corpora corpore corpora corpora corpora corpore corpore corporis corpus</td>
     </tr>
     <tr>
       <td>crocum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97015">https://lila-erc.eu/data/id/lemma/97015</a>
       </td>
@@ -549,6 +625,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>cum</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97201">https://lila-erc.eu/data/id/lemma/97201</a>
       </td>
@@ -556,6 +633,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>cum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97207">https://lila-erc.eu/data/id/lemma/97207</a>
       </td>
@@ -563,13 +641,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>cum</td>
+      <td>10</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97202">https://lila-erc.eu/data/id/lemma/97202</a>
       </td>
-      <td>cum cum cum cum cum cum cum cum cum cum</td>
+      <td>cum Cum cum cum cum cum cum cum cum cum</td>
     </tr>
     <tr>
       <td>cunctus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97250">https://lila-erc.eu/data/id/lemma/97250</a>
       </td>
@@ -577,6 +657,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>cupio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97287">https://lila-erc.eu/data/id/lemma/97287</a>
       </td>
@@ -584,13 +665,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>cur</td>
+      <td>4</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97300">https://lila-erc.eu/data/id/lemma/97300</a>
       </td>
-      <td>quor cur cur cur</td>
+      <td>Quor cur cur cur</td>
     </tr>
     <tr>
       <td>cura</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97301">https://lila-erc.eu/data/id/lemma/97301</a>
       </td>
@@ -598,13 +681,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>de</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/97932">https://lila-erc.eu/data/id/lemma/97932</a>
       </td>
-      <td>de</td>
+      <td>De</td>
     </tr>
     <tr>
       <td>decipio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/98074">https://lila-erc.eu/data/id/lemma/98074</a>
       </td>
@@ -612,6 +697,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>deficio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/98257">https://lila-erc.eu/data/id/lemma/98257</a>
       </td>
@@ -619,6 +705,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>demulco</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/98578">https://lila-erc.eu/data/id/lemma/98578</a>
       </td>
@@ -626,6 +713,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>depono</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/98737">https://lila-erc.eu/data/id/lemma/98737</a>
       </td>
@@ -633,6 +721,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>descendo</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/98862">https://lila-erc.eu/data/id/lemma/98862</a>
       </td>
@@ -640,6 +729,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>desero</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/98883">https://lila-erc.eu/data/id/lemma/98883</a>
       </td>
@@ -647,6 +737,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>desum</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/98996">https://lila-erc.eu/data/id/lemma/98996</a>
       </td>
@@ -654,6 +745,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>deuinco</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99099">https://lila-erc.eu/data/id/lemma/99099</a>
       </td>
@@ -661,6 +753,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>deus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99132">https://lila-erc.eu/data/id/lemma/99132</a>
       </td>
@@ -668,6 +761,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>dico</td>
+      <td>4</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99302">https://lila-erc.eu/data/id/lemma/99302</a>
       </td>
@@ -675,6 +769,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>dies</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99334">https://lila-erc.eu/data/id/lemma/99334</a>
       </td>
@@ -682,6 +777,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>digredior</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99408">https://lila-erc.eu/data/id/lemma/99408</a>
       </td>
@@ -689,6 +785,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>diligo</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99463">https://lila-erc.eu/data/id/lemma/99463</a>
       </td>
@@ -696,6 +793,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>dimidiatus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/97176">https://lila-erc.eu/data/id/hypolemma/97176</a>
       </td>
@@ -703,6 +801,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>discedo</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99589">https://lila-erc.eu/data/id/lemma/99589</a>
       </td>
@@ -710,6 +809,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>discidium</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99605">https://lila-erc.eu/data/id/lemma/99605</a>
       </td>
@@ -717,6 +817,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>disco</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99619">https://lila-erc.eu/data/id/lemma/99619</a>
       </td>
@@ -724,6 +825,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>dissero</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99785">https://lila-erc.eu/data/id/lemma/99785</a>
       </td>
@@ -731,6 +833,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>diu</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99429">https://lila-erc.eu/data/id/lemma/99429</a>
       </td>
@@ -738,6 +841,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>diuido</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99932">https://lila-erc.eu/data/id/lemma/99932</a>
       </td>
@@ -745,6 +849,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>diuinus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99944">https://lila-erc.eu/data/id/lemma/99944</a>
       </td>
@@ -752,6 +857,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>diuisibilis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99946">https://lila-erc.eu/data/id/lemma/99946</a>
       </td>
@@ -759,6 +865,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>do</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99970">https://lila-erc.eu/data/id/lemma/99970</a>
       </td>
@@ -766,6 +873,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>doctrina</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/99986">https://lila-erc.eu/data/id/lemma/99986</a>
       </td>
@@ -773,6 +881,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>doctus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/13090">https://lila-erc.eu/data/id/hypolemma/13090</a>
       </td>
@@ -780,6 +889,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>donec</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/100084">https://lila-erc.eu/data/id/lemma/100084</a>
       </td>
@@ -787,20 +897,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>doris</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/5266">https://lila-erc.eu/data/id/lemma/5266</a>
       </td>
-      <td>doride</td>
+      <td>Doride</td>
     </tr>
     <tr>
       <td>dryas</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/5378">https://lila-erc.eu/data/id/lemma/5378</a>
       </td>
-      <td>dryas</td>
+      <td>Dryas</td>
     </tr>
     <tr>
       <td>dulcis</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/100227">https://lila-erc.eu/data/id/lemma/100227</a>
       </td>
@@ -808,6 +921,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>duo</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/100246">https://lila-erc.eu/data/id/lemma/100246</a>
       </td>
@@ -815,6 +929,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>dux</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/100327">https://lila-erc.eu/data/id/lemma/100327</a>
       </td>
@@ -822,6 +937,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>edo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/100577">https://lila-erc.eu/data/id/lemma/100577</a>
       </td>
@@ -829,6 +945,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>efficio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/100627">https://lila-erc.eu/data/id/lemma/100627</a>
       </td>
@@ -836,6 +953,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ego</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/100712">https://lila-erc.eu/data/id/lemma/100712</a>
       </td>
@@ -843,20 +961,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>eic</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/18676">https://lila-erc.eu/data/id/hypolemma/18676</a>
       </td>
-      <td>hic hic</td>
+      <td>hic Hic</td>
     </tr>
     <tr>
       <td>epicurus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/6123">https://lila-erc.eu/data/id/lemma/6123</a>
       </td>
-      <td>epicurus</td>
+      <td>Epicurus</td>
     </tr>
     <tr>
       <td>ergo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/101414">https://lila-erc.eu/data/id/lemma/101414</a>
       </td>
@@ -864,6 +985,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>et</td>
+      <td>17</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/101542">https://lila-erc.eu/data/id/lemma/101542</a>
       </td>
@@ -871,6 +993,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>etiam</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/101554">https://lila-erc.eu/data/id/lemma/101554</a>
       </td>
@@ -878,13 +1001,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ex</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/101716">https://lila-erc.eu/data/id/lemma/101716</a>
       </td>
-      <td>e ex e</td>
+      <td>e ex E</td>
     </tr>
     <tr>
       <td>excellens</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/14994">https://lila-erc.eu/data/id/hypolemma/14994</a>
       </td>
@@ -892,6 +1017,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>excello</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/101840">https://lila-erc.eu/data/id/lemma/101840</a>
       </td>
@@ -899,6 +1025,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>exilis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/102043">https://lila-erc.eu/data/id/lemma/102043</a>
       </td>
@@ -906,6 +1033,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>exilitas</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/102044">https://lila-erc.eu/data/id/lemma/102044</a>
       </td>
@@ -913,6 +1041,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>exorno</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/102106">https://lila-erc.eu/data/id/lemma/102106</a>
       </td>
@@ -920,6 +1049,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>exstinguo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/102356">https://lila-erc.eu/data/id/lemma/102356</a>
       </td>
@@ -927,13 +1057,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>facio</td>
+      <td>5</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/102758">https://lila-erc.eu/data/id/lemma/102758</a>
       </td>
-      <td>fac fiat faciunt facias facio</td>
+      <td>Fac fiat faciunt facias facio</td>
     </tr>
     <tr>
       <td>fateor</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/102985">https://lila-erc.eu/data/id/lemma/102985</a>
       </td>
@@ -941,6 +1073,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>fatum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103575">https://lila-erc.eu/data/id/lemma/103575</a>
       </td>
@@ -948,6 +1081,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>felix</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103068">https://lila-erc.eu/data/id/lemma/103068</a>
       </td>
@@ -955,6 +1089,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ferax</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103100">https://lila-erc.eu/data/id/lemma/103100</a>
       </td>
@@ -962,6 +1097,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>fero</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103126">https://lila-erc.eu/data/id/lemma/103126</a>
       </td>
@@ -969,6 +1105,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>fertilitas</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103157">https://lila-erc.eu/data/id/lemma/103157</a>
       </td>
@@ -976,6 +1113,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>finis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103321">https://lila-erc.eu/data/id/lemma/103321</a>
       </td>
@@ -983,6 +1121,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>fio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103328">https://lila-erc.eu/data/id/lemma/103328</a>
       </td>
@@ -990,6 +1129,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>flabrum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103369">https://lila-erc.eu/data/id/lemma/103369</a>
       </td>
@@ -997,6 +1137,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>flamen</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/104124">https://lila-erc.eu/data/id/lemma/104124</a>
       </td>
@@ -1004,6 +1145,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>flamma</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103402">https://lila-erc.eu/data/id/lemma/103402</a>
       </td>
@@ -1011,6 +1153,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>fluctus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/104173">https://lila-erc.eu/data/id/lemma/104173</a>
       </td>
@@ -1018,6 +1161,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>formosus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103659">https://lila-erc.eu/data/id/lemma/103659</a>
       </td>
@@ -1025,13 +1169,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>fors</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103683">https://lila-erc.eu/data/id/lemma/103683</a>
       </td>
-      <td>forte fortasse</td>
+      <td>Forte fortasse</td>
     </tr>
     <tr>
       <td>frons</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103845">https://lila-erc.eu/data/id/lemma/103845</a>
       </td>
@@ -1039,6 +1185,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>frumentum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/104126">https://lila-erc.eu/data/id/lemma/104126</a>
       </td>
@@ -1046,6 +1193,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>fruor</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103882">https://lila-erc.eu/data/id/lemma/103882</a>
       </td>
@@ -1053,6 +1201,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>fugio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/103923">https://lila-erc.eu/data/id/lemma/103923</a>
       </td>
@@ -1060,6 +1209,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>gaudeo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/104365">https://lila-erc.eu/data/id/lemma/104365</a>
       </td>
@@ -1067,6 +1217,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>gaudium</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/104369">https://lila-erc.eu/data/id/lemma/104369</a>
       </td>
@@ -1074,6 +1225,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>gestum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/104582">https://lila-erc.eu/data/id/lemma/104582</a>
       </td>
@@ -1081,6 +1233,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>gratus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/104886">https://lila-erc.eu/data/id/lemma/104886</a>
       </td>
@@ -1088,6 +1241,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>gusto</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/104976">https://lila-erc.eu/data/id/lemma/104976</a>
       </td>
@@ -1095,6 +1249,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>habeo</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/105044">https://lila-erc.eu/data/id/lemma/105044</a>
       </td>
@@ -1102,13 +1257,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>hadriacus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/8544">https://lila-erc.eu/data/id/lemma/8544</a>
       </td>
-      <td>adriacas</td>
+      <td>Adriacas</td>
     </tr>
     <tr>
       <td>hibernus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/105445">https://lila-erc.eu/data/id/lemma/105445</a>
       </td>
@@ -1116,13 +1273,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>hic</td>
+      <td>8</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/105455">https://lila-erc.eu/data/id/lemma/105455</a>
       </td>
-      <td>hoc huius hoc hanc huius hoc hoc hoc</td>
+      <td>Hoc huius hoc Hanc huius Hoc hoc Hoc</td>
     </tr>
     <tr>
       <td>historia</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/105561">https://lila-erc.eu/data/id/lemma/105561</a>
       </td>
@@ -1130,6 +1289,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>homo</td>
+      <td>4</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/105624">https://lila-erc.eu/data/id/lemma/105624</a>
       </td>
@@ -1137,6 +1297,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>hortor</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/105727">https://lila-erc.eu/data/id/lemma/105727</a>
       </td>
@@ -1144,6 +1305,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>hospitium</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/105742">https://lila-erc.eu/data/id/lemma/105742</a>
       </td>
@@ -1151,6 +1313,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>huci</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/105454">https://lila-erc.eu/data/id/lemma/105454</a>
       </td>
@@ -1158,46 +1321,53 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>hylleus</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/140915">https://lila-erc.eu/data/id/lemma/140915</a>
       </td>
-      <td>illeis illeorum illeus</td>
+      <td>Illeis Illeorum Illeus</td>
     </tr>
     <tr>
       <td>iader</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/9769">https://lila-erc.eu/data/id/lemma/9769</a>
       </td>
-      <td>iader</td>
+      <td>Iader</td>
     </tr>
     <tr>
       <td>iadera</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/136680">https://lila-erc.eu/data/id/lemma/136680</a>
       </td>
-      <td>iadrae</td>
+      <td>Iadrae</td>
     </tr>
     <tr>
       <td>iapydes</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/9812">https://lila-erc.eu/data/id/lemma/9812</a>
       </td>
-      <td>iapydibus</td>
+      <td>Iapydibus</td>
     </tr>
     <tr>
       <td>iason</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/136682">https://lila-erc.eu/data/id/lemma/136682</a>
       </td>
-      <td>iason</td>
+      <td>Iason</td>
     </tr>
     <tr>
       <td>iata</td>
+      <td>1</td>
       <td>URI deest: 1101</td>
       <td>iata</td>
     </tr>
     <tr>
       <td>idem</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/109082">https://lila-erc.eu/data/id/lemma/109082</a>
       </td>
@@ -1205,6 +1375,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>igitur</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/106127">https://lila-erc.eu/data/id/lemma/106127</a>
       </td>
@@ -1212,6 +1383,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ignis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/106156">https://lila-erc.eu/data/id/lemma/106156</a>
       </td>
@@ -1219,6 +1391,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ille</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/106221">https://lila-erc.eu/data/id/lemma/106221</a>
       </td>
@@ -1226,6 +1399,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>immaturus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/106382">https://lila-erc.eu/data/id/lemma/106382</a>
       </td>
@@ -1233,6 +1407,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>imus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/106747">https://lila-erc.eu/data/id/lemma/106747</a>
       </td>
@@ -1240,6 +1415,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>in</td>
+      <td>14</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/106748">https://lila-erc.eu/data/id/lemma/106748</a>
       </td>
@@ -1247,6 +1423,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>inauditus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/109325">https://lila-erc.eu/data/id/lemma/109325</a>
       </td>
@@ -1254,6 +1431,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>incorporeus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/107152">https://lila-erc.eu/data/id/lemma/107152</a>
       </td>
@@ -1261,6 +1439,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>inde</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/107259">https://lila-erc.eu/data/id/lemma/107259</a>
       </td>
@@ -1268,6 +1447,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>induo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/107451">https://lila-erc.eu/data/id/lemma/107451</a>
       </td>
@@ -1275,13 +1455,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>induuiae</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/107466">https://lila-erc.eu/data/id/lemma/107466</a>
       </td>
-      <td>induuias induuias</td>
+      <td>Induuias induuias</td>
     </tr>
     <tr>
       <td>inferus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/107641">https://lila-erc.eu/data/id/lemma/107641</a>
       </td>
@@ -1289,6 +1471,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>insula</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/108308">https://lila-erc.eu/data/id/lemma/108308</a>
       </td>
@@ -1296,13 +1479,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>integer</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/108350">https://lila-erc.eu/data/id/lemma/108350</a>
       </td>
-      <td>integra integra</td>
+      <td>Integra integra</td>
     </tr>
     <tr>
       <td>interea</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/108452">https://lila-erc.eu/data/id/lemma/108452</a>
       </td>
@@ -1310,6 +1495,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>inueteratus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/23904">https://lila-erc.eu/data/id/hypolemma/23904</a>
       </td>
@@ -1317,6 +1503,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ipse</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/108945">https://lila-erc.eu/data/id/lemma/108945</a>
       </td>
@@ -1324,6 +1511,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>is</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/109083">https://lila-erc.eu/data/id/lemma/109083</a>
       </td>
@@ -1331,6 +1519,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>iste</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/109122">https://lila-erc.eu/data/id/lemma/109122</a>
       </td>
@@ -1338,6 +1527,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>laetus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/109739">https://lila-erc.eu/data/id/lemma/109739</a>
       </td>
@@ -1345,6 +1535,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>laureola</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/110090">https://lila-erc.eu/data/id/lemma/110090</a>
       </td>
@@ -1352,20 +1543,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>liburnus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/111148">https://lila-erc.eu/data/id/lemma/111148</a>
       </td>
-      <td>liburnus</td>
+      <td>Liburnus</td>
     </tr>
     <tr>
       <td>lissa</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/12127">https://lila-erc.eu/data/id/lemma/12127</a>
       </td>
-      <td>lissa</td>
+      <td>Lissa</td>
     </tr>
     <tr>
       <td>litus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/110686">https://lila-erc.eu/data/id/lemma/110686</a>
       </td>
@@ -1373,20 +1567,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>liuianus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/12173">https://lila-erc.eu/data/id/lemma/12173</a>
       </td>
-      <td>liuiani</td>
+      <td>Liuiani</td>
     </tr>
     <tr>
       <td>liuias</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/12174">https://lila-erc.eu/data/id/lemma/12174</a>
       </td>
-      <td>liuiadem</td>
+      <td>Liuiadem</td>
     </tr>
     <tr>
       <td>longus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/110796">https://lila-erc.eu/data/id/lemma/110796</a>
       </td>
@@ -1394,6 +1591,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ludo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/110939">https://lila-erc.eu/data/id/lemma/110939</a>
       </td>
@@ -1401,6 +1599,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ludus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/110940">https://lila-erc.eu/data/id/lemma/110940</a>
       </td>
@@ -1408,6 +1607,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>magis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/111271">https://lila-erc.eu/data/id/lemma/111271</a>
       </td>
@@ -1415,13 +1615,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>magnus</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/111319">https://lila-erc.eu/data/id/lemma/111319</a>
       </td>
-      <td>magne magna magnus</td>
+      <td>magne magna Magnus</td>
     </tr>
     <tr>
       <td>maneo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/111485">https://lila-erc.eu/data/id/lemma/111485</a>
       </td>
@@ -1429,6 +1631,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>marcesco</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/111596">https://lila-erc.eu/data/id/lemma/111596</a>
       </td>
@@ -1436,13 +1639,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>marius</td>
+      <td>1</td>
       <td>
         <a href="https://logeion.uchicago.edu/Marius">https://logeion.uchicago.edu/Marius</a>
       </td>
-      <td>marium</td>
+      <td>Marium</td>
     </tr>
     <tr>
       <td>medius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/111841">https://lila-erc.eu/data/id/lemma/111841</a>
       </td>
@@ -1450,6 +1655,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mel</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/111858">https://lila-erc.eu/data/id/lemma/111858</a>
       </td>
@@ -1457,6 +1663,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mens</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112038">https://lila-erc.eu/data/id/lemma/112038</a>
       </td>
@@ -1464,6 +1671,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mereo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112109">https://lila-erc.eu/data/id/lemma/112109</a>
       </td>
@@ -1471,6 +1679,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mereor</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112108">https://lila-erc.eu/data/id/lemma/112108</a>
       </td>
@@ -1478,6 +1687,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>metuo</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112260">https://lila-erc.eu/data/id/lemma/112260</a>
       </td>
@@ -1485,6 +1695,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>miror</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112442">https://lila-erc.eu/data/id/lemma/112442</a>
       </td>
@@ -1492,6 +1703,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mirus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112444">https://lila-erc.eu/data/id/lemma/112444</a>
       </td>
@@ -1499,6 +1711,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mitis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112492">https://lila-erc.eu/data/id/lemma/112492</a>
       </td>
@@ -1506,6 +1719,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mitto</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112499">https://lila-erc.eu/data/id/lemma/112499</a>
       </td>
@@ -1513,6 +1727,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mobilis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112513">https://lila-erc.eu/data/id/lemma/112513</a>
       </td>
@@ -1520,6 +1735,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>modus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112553">https://lila-erc.eu/data/id/lemma/112553</a>
       </td>
@@ -1527,13 +1743,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>molo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/14830">https://lila-erc.eu/data/id/lemma/14830</a>
       </td>
-      <td>molonem</td>
+      <td>Molonem</td>
     </tr>
     <tr>
       <td>morior</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112796">https://lila-erc.eu/data/id/lemma/112796</a>
       </td>
@@ -1541,20 +1759,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mors</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112807">https://lila-erc.eu/data/id/lemma/112807</a>
       </td>
-      <td>mortem mortem</td>
-    </tr>
-    <tr>
-      <td>mors</td>
-      <td>
-        <a href="https://lila-erc.eu/data/id/lemma/14921">https://lila-erc.eu/data/id/lemma/14921</a>
-      </td>
-      <td>mors</td>
+      <td>Mortem Mors mortem</td>
     </tr>
     <tr>
       <td>mortalis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112813">https://lila-erc.eu/data/id/lemma/112813</a>
       </td>
@@ -1562,6 +1775,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>motus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113302">https://lila-erc.eu/data/id/lemma/113302</a>
       </td>
@@ -1569,6 +1783,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>moueo</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112848">https://lila-erc.eu/data/id/lemma/112848</a>
       </td>
@@ -1576,20 +1791,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>mox</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112849">https://lila-erc.eu/data/id/lemma/112849</a>
       </td>
-      <td>mox mox mox</td>
+      <td>mox Mox mox</td>
     </tr>
     <tr>
       <td>multus</td>
+      <td>8</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/112998">https://lila-erc.eu/data/id/lemma/112998</a>
       </td>
-      <td>multa multa pluribus plures pluribus plures plus plus</td>
+      <td>multa multa pluribus plures pluribus plures Plus plus</td>
     </tr>
     <tr>
       <td>mundus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113024">https://lila-erc.eu/data/id/lemma/113024</a>
       </td>
@@ -1597,34 +1815,39 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>muto</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113167">https://lila-erc.eu/data/id/lemma/113167</a>
       </td>
-      <td>mutauit mutant</td>
+      <td>Mutauit mutant</td>
     </tr>
     <tr>
       <td>nam</td>
+      <td>4</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113344">https://lila-erc.eu/data/id/lemma/113344</a>
       </td>
-      <td>nam nam nam nam</td>
+      <td>nam nam nam Nam</td>
     </tr>
     <tr>
       <td>napaea</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/15336">https://lila-erc.eu/data/id/lemma/15336</a>
       </td>
-      <td>napaea</td>
+      <td>Napaea</td>
     </tr>
     <tr>
       <td>nardinus</td>
+      <td>1</td>
       <td>
         <a href="https://logeion.uchicago.edu/nardinus">https://logeion.uchicago.edu/nardinus</a>
       </td>
-      <td>nardini</td>
+      <td>Nardini</td>
     </tr>
     <tr>
       <td>nascor</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113387">https://lila-erc.eu/data/id/lemma/113387</a>
       </td>
@@ -1632,6 +1855,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>natura</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113421">https://lila-erc.eu/data/id/lemma/113421</a>
       </td>
@@ -1639,6 +1863,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nauis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113460">https://lila-erc.eu/data/id/lemma/113460</a>
       </td>
@@ -1646,6 +1871,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nec</td>
+      <td>7</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113512">https://lila-erc.eu/data/id/lemma/113512</a>
       </td>
@@ -1653,6 +1879,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>neglego</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113552">https://lila-erc.eu/data/id/lemma/113552</a>
       </td>
@@ -1660,20 +1887,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>neptunus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/15642">https://lila-erc.eu/data/id/lemma/15642</a>
       </td>
-      <td>neptunus</td>
+      <td>Neptunus</td>
     </tr>
     <tr>
       <td>nereus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/15659">https://lila-erc.eu/data/id/lemma/15659</a>
       </td>
-      <td>nereus</td>
+      <td>Nereus</td>
     </tr>
     <tr>
       <td>nihil</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114071">https://lila-erc.eu/data/id/lemma/114071</a>
       </td>
@@ -1681,6 +1911,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nimis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113696">https://lila-erc.eu/data/id/lemma/113696</a>
       </td>
@@ -1688,6 +1919,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nobilito</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113753">https://lila-erc.eu/data/id/lemma/113753</a>
       </td>
@@ -1695,6 +1927,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nomen</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113797">https://lila-erc.eu/data/id/lemma/113797</a>
       </td>
@@ -1702,13 +1935,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>non</td>
+      <td>10</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114108">https://lila-erc.eu/data/id/lemma/114108</a>
       </td>
-      <td>non non non non non non non non non non</td>
+      <td>non non non non non Non non non non non</td>
     </tr>
     <tr>
       <td>nonne</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114074">https://lila-erc.eu/data/id/lemma/114074</a>
       </td>
@@ -1716,6 +1951,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nos</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/110487">https://lila-erc.eu/data/id/hypolemma/110487</a>
       </td>
@@ -1723,6 +1959,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nosco</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113840">https://lila-erc.eu/data/id/lemma/113840</a>
       </td>
@@ -1730,6 +1967,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>noster</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113882">https://lila-erc.eu/data/id/lemma/113882</a>
       </td>
@@ -1737,6 +1975,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nouus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113900">https://lila-erc.eu/data/id/lemma/113900</a>
       </td>
@@ -1744,6 +1983,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nudus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113946">https://lila-erc.eu/data/id/lemma/113946</a>
       </td>
@@ -1751,6 +1991,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nullus</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114081">https://lila-erc.eu/data/id/lemma/114081</a>
       </td>
@@ -1758,6 +1999,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>numerus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113981">https://lila-erc.eu/data/id/lemma/113981</a>
       </td>
@@ -1765,6 +2007,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>numquam</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114084">https://lila-erc.eu/data/id/lemma/114084</a>
       </td>
@@ -1772,13 +2015,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>numquis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114170">https://lila-erc.eu/data/id/lemma/114170</a>
       </td>
-      <td>numquid</td>
+      <td>Numquid</td>
     </tr>
     <tr>
       <td>nunc</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/113990">https://lila-erc.eu/data/id/lemma/113990</a>
       </td>
@@ -1786,6 +2031,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>nutrio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114038">https://lila-erc.eu/data/id/lemma/114038</a>
       </td>
@@ -1793,13 +2039,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>o</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114172">https://lila-erc.eu/data/id/lemma/114172</a>
       </td>
-      <td>o o</td>
+      <td>O o</td>
     </tr>
     <tr>
       <td>ob</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114173">https://lila-erc.eu/data/id/lemma/114173</a>
       </td>
@@ -1807,6 +2055,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>obuius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114833">https://lila-erc.eu/data/id/lemma/114833</a>
       </td>
@@ -1814,6 +2063,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>olfacio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114879">https://lila-erc.eu/data/id/lemma/114879</a>
       </td>
@@ -1821,6 +2071,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>oliua</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114327">https://lila-erc.eu/data/id/lemma/114327</a>
       </td>
@@ -1828,6 +2079,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>omnis</td>
+      <td>5</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/114954">https://lila-erc.eu/data/id/lemma/114954</a>
       </td>
@@ -1835,6 +2087,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>opus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/115170">https://lila-erc.eu/data/id/lemma/115170</a>
       </td>
@@ -1842,6 +2095,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>orbis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/115196">https://lila-erc.eu/data/id/lemma/115196</a>
       </td>
@@ -1849,6 +2103,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>organicus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/115243">https://lila-erc.eu/data/id/lemma/115243</a>
       </td>
@@ -1856,6 +2111,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>orior</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/115264">https://lila-erc.eu/data/id/lemma/115264</a>
       </td>
@@ -1863,6 +2119,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>os</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/115327">https://lila-erc.eu/data/id/lemma/115327</a>
       </td>
@@ -1870,6 +2127,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>pando</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/115814">https://lila-erc.eu/data/id/lemma/115814</a>
       </td>
@@ -1877,6 +2135,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>pariter</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/30976">https://lila-erc.eu/data/id/hypolemma/30976</a>
       </td>
@@ -1884,6 +2143,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>pars</td>
+      <td>11</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/116084">https://lila-erc.eu/data/id/lemma/116084</a>
       </td>
@@ -1891,6 +2151,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>paruus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/116136">https://lila-erc.eu/data/id/lemma/116136</a>
       </td>
@@ -1898,6 +2159,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>pater</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/116203">https://lila-erc.eu/data/id/lemma/116203</a>
       </td>
@@ -1905,6 +2167,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>paucus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/116271">https://lila-erc.eu/data/id/lemma/116271</a>
       </td>
@@ -1912,6 +2175,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>penetro</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/116485">https://lila-erc.eu/data/id/lemma/116485</a>
       </td>
@@ -1919,6 +2183,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>per</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/116569">https://lila-erc.eu/data/id/lemma/116569</a>
       </td>
@@ -1926,6 +2191,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>pereo</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/116791">https://lila-erc.eu/data/id/lemma/116791</a>
       </td>
@@ -1933,6 +2199,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>peto</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/117549">https://lila-erc.eu/data/id/lemma/117549</a>
       </td>
@@ -1940,13 +2207,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>philon</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/140511">https://lila-erc.eu/data/id/lemma/140511</a>
       </td>
-      <td>philon</td>
+      <td>Philon</td>
     </tr>
     <tr>
       <td>pinguesco</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/117868">https://lila-erc.eu/data/id/lemma/117868</a>
       </td>
@@ -1954,13 +2223,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>piscatus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/117943">https://lila-erc.eu/data/id/lemma/117943</a>
       </td>
-      <td>piscatu</td>
+      <td>Piscatu</td>
     </tr>
     <tr>
       <td>placidus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/118015">https://lila-erc.eu/data/id/lemma/118015</a>
       </td>
@@ -1968,13 +2239,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>plato</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/18903">https://lila-erc.eu/data/id/lemma/18903</a>
       </td>
-      <td>plato</td>
+      <td>Plato</td>
     </tr>
     <tr>
       <td>plenus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/118143">https://lila-erc.eu/data/id/lemma/118143</a>
       </td>
@@ -1982,6 +2255,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>poeta</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/118267">https://lila-erc.eu/data/id/lemma/118267</a>
       </td>
@@ -1989,13 +2263,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>pompeius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/19119">https://lila-erc.eu/data/id/lemma/19119</a>
       </td>
-      <td>pompeius</td>
+      <td>Pompeius</td>
     </tr>
     <tr>
       <td>pono</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/118414">https://lila-erc.eu/data/id/lemma/118414</a>
       </td>
@@ -2003,6 +2279,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>possum</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/118569">https://lila-erc.eu/data/id/lemma/118569</a>
       </td>
@@ -2010,6 +2287,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>post</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/118572">https://lila-erc.eu/data/id/lemma/118572</a>
       </td>
@@ -2017,13 +2295,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>postquam</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/120753">https://lila-erc.eu/data/id/lemma/120753</a>
       </td>
-      <td>postquam</td>
+      <td>Postquam</td>
     </tr>
     <tr>
       <td>potius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/47567">https://lila-erc.eu/data/id/hypolemma/47567</a>
       </td>
@@ -2031,6 +2311,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>praemium</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119037">https://lila-erc.eu/data/id/lemma/119037</a>
       </td>
@@ -2038,6 +2319,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>praesens</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/135864">https://lila-erc.eu/data/id/lemma/135864</a>
       </td>
@@ -2045,6 +2327,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>praeter</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119286">https://lila-erc.eu/data/id/lemma/119286</a>
       </td>
@@ -2052,6 +2335,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>primus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/19360">https://lila-erc.eu/data/id/lemma/19360</a>
       </td>
@@ -2059,6 +2343,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>priscus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119513">https://lila-erc.eu/data/id/lemma/119513</a>
       </td>
@@ -2066,6 +2351,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>priuatio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119521">https://lila-erc.eu/data/id/lemma/119521</a>
       </td>
@@ -2073,6 +2359,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>prius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/136134">https://lila-erc.eu/data/id/lemma/136134</a>
       </td>
@@ -2080,6 +2367,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>pro</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/118468">https://lila-erc.eu/data/id/lemma/118468</a>
       </td>
@@ -2087,6 +2375,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>probus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119573">https://lila-erc.eu/data/id/lemma/119573</a>
       </td>
@@ -2094,6 +2383,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>procul</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119631">https://lila-erc.eu/data/id/lemma/119631</a>
       </td>
@@ -2101,6 +2391,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>produco</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119681">https://lila-erc.eu/data/id/lemma/119681</a>
       </td>
@@ -2108,6 +2399,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>progenero</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119743">https://lila-erc.eu/data/id/lemma/119743</a>
       </td>
@@ -2115,6 +2407,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>promitto</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119845">https://lila-erc.eu/data/id/lemma/119845</a>
       </td>
@@ -2122,6 +2415,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>propero</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119934">https://lila-erc.eu/data/id/lemma/119934</a>
       </td>
@@ -2129,6 +2423,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>proprius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/119990">https://lila-erc.eu/data/id/lemma/119990</a>
       </td>
@@ -2136,6 +2431,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>prospecto</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/120092">https://lila-erc.eu/data/id/lemma/120092</a>
       </td>
@@ -2143,20 +2439,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>proximus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/120219">https://lila-erc.eu/data/id/lemma/120219</a>
       </td>
-      <td>proxima</td>
+      <td>Proxima</td>
     </tr>
     <tr>
       <td>publius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/19592">https://lila-erc.eu/data/id/lemma/19592</a>
       </td>
-      <td>publii</td>
+      <td>Publii</td>
     </tr>
     <tr>
       <td>pugna</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/120407">https://lila-erc.eu/data/id/lemma/120407</a>
       </td>
@@ -2164,6 +2463,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>pulcher</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/120421">https://lila-erc.eu/data/id/lemma/120421</a>
       </td>
@@ -2171,6 +2471,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>punctum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/120847">https://lila-erc.eu/data/id/lemma/120847</a>
       </td>
@@ -2178,6 +2479,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>puto</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/120610">https://lila-erc.eu/data/id/lemma/120610</a>
       </td>
@@ -2185,6 +2487,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>putresco</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/120619">https://lila-erc.eu/data/id/lemma/120619</a>
       </td>
@@ -2192,6 +2495,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>qua</td>
+      <td>8</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/110471">https://lila-erc.eu/data/id/hypolemma/110471</a>
       </td>
@@ -2199,6 +2503,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>qua</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/110467">https://lila-erc.eu/data/id/hypolemma/110467</a>
       </td>
@@ -2206,6 +2511,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>quaero</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121047">https://lila-erc.eu/data/id/lemma/121047</a>
       </td>
@@ -2213,6 +2519,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>quando</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121084">https://lila-erc.eu/data/id/lemma/121084</a>
       </td>
@@ -2220,6 +2527,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>quantum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/110678">https://lila-erc.eu/data/id/hypolemma/110678</a>
       </td>
@@ -2227,6 +2535,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>quater</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121122">https://lila-erc.eu/data/id/lemma/121122</a>
       </td>
@@ -2234,6 +2543,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>queo</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121142">https://lila-erc.eu/data/id/lemma/121142</a>
       </td>
@@ -2241,13 +2551,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>qui</td>
+      <td>18</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121354">https://lila-erc.eu/data/id/lemma/121354</a>
       </td>
-      <td>quae qui quae cuius quae quod cuius qui cui cui quae quibus quibus qui quos qui qui qui</td>
+      <td>quae qui quae cuius quae Quod cuius Qui cui cui quae quibus quibus qui quos qui qui qui</td>
     </tr>
     <tr>
       <td>quicumque</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121318">https://lila-erc.eu/data/id/lemma/121318</a>
       </td>
@@ -2255,13 +2567,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>quis</td>
+      <td>4</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121165">https://lila-erc.eu/data/id/lemma/121165</a>
       </td>
-      <td>quis quoue quid quid</td>
+      <td>Quis quoue quid Quid</td>
     </tr>
     <tr>
       <td>quisque</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121320">https://lila-erc.eu/data/id/lemma/121320</a>
       </td>
@@ -2269,6 +2583,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>quod</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/74854">https://lila-erc.eu/data/id/lemma/74854</a>
       </td>
@@ -2276,6 +2591,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ratio</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121458">https://lila-erc.eu/data/id/lemma/121458</a>
       </td>
@@ -2283,6 +2599,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>refero</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/122494">https://lila-erc.eu/data/id/lemma/122494</a>
       </td>
@@ -2290,6 +2607,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>regio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121675">https://lila-erc.eu/data/id/lemma/121675</a>
       </td>
@@ -2297,6 +2615,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>regnum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121683">https://lila-erc.eu/data/id/lemma/121683</a>
       </td>
@@ -2304,6 +2623,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>relinquo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/122569">https://lila-erc.eu/data/id/lemma/122569</a>
       </td>
@@ -2311,6 +2631,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>repeto</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/122660">https://lila-erc.eu/data/id/lemma/122660</a>
       </td>
@@ -2318,6 +2639,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>res</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/121868">https://lila-erc.eu/data/id/lemma/121868</a>
       </td>
@@ -2325,6 +2647,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>resoluo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/122728">https://lila-erc.eu/data/id/lemma/122728</a>
       </td>
@@ -2332,13 +2655,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>rhodius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/20189">https://lila-erc.eu/data/id/lemma/20189</a>
       </td>
-      <td>rhodius</td>
+      <td>Rhodius</td>
     </tr>
     <tr>
       <td>rosa</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/122165">https://lila-erc.eu/data/id/lemma/122165</a>
       </td>
@@ -2346,6 +2671,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>roto</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/122857">https://lila-erc.eu/data/id/lemma/122857</a>
       </td>
@@ -2353,6 +2679,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>rursus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/122295">https://lila-erc.eu/data/id/lemma/122295</a>
       </td>
@@ -2360,6 +2687,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>saeculum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/123105">https://lila-erc.eu/data/id/lemma/123105</a>
       </td>
@@ -2367,6 +2695,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>sapiens</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/135852">https://lila-erc.eu/data/id/lemma/135852</a>
       </td>
@@ -2374,13 +2703,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>saturnus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/20942">https://lila-erc.eu/data/id/lemma/20942</a>
       </td>
-      <td>saturnus</td>
+      <td>Saturnus</td>
     </tr>
     <tr>
       <td>schola</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/123699">https://lila-erc.eu/data/id/lemma/123699</a>
       </td>
@@ -2388,6 +2719,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>seco</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/123953">https://lila-erc.eu/data/id/lemma/123953</a>
       </td>
@@ -2395,13 +2727,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>sed</td>
+      <td>4</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/123994">https://lila-erc.eu/data/id/lemma/123994</a>
       </td>
-      <td>sed sed sed sed</td>
+      <td>Sed Sed sed sed</td>
     </tr>
     <tr>
       <td>sensus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/124355">https://lila-erc.eu/data/id/lemma/124355</a>
       </td>
@@ -2409,6 +2743,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>serium</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/124493">https://lila-erc.eu/data/id/lemma/124493</a>
       </td>
@@ -2416,13 +2751,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>si</td>
+      <td>8</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/124676">https://lila-erc.eu/data/id/lemma/124676</a>
       </td>
-      <td>si si si si si si si si</td>
+      <td>si si si si si Si si si</td>
     </tr>
     <tr>
       <td>sic</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/124690">https://lila-erc.eu/data/id/lemma/124690</a>
       </td>
@@ -2430,6 +2767,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>sicut</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/124723">https://lila-erc.eu/data/id/lemma/124723</a>
       </td>
@@ -2437,6 +2775,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>simul</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/124857">https://lila-erc.eu/data/id/lemma/124857</a>
       </td>
@@ -2444,6 +2783,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>sine</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/124883">https://lila-erc.eu/data/id/lemma/124883</a>
       </td>
@@ -2451,6 +2791,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>situs</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/124927">https://lila-erc.eu/data/id/lemma/124927</a>
       </td>
@@ -2458,6 +2799,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>soleo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/125051">https://lila-erc.eu/data/id/lemma/125051</a>
       </td>
@@ -2465,6 +2807,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>solus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/125109">https://lila-erc.eu/data/id/lemma/125109</a>
       </td>
@@ -2472,6 +2815,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>sono</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/125138">https://lila-erc.eu/data/id/lemma/125138</a>
       </td>
@@ -2479,6 +2823,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>spatiosus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/125270">https://lila-erc.eu/data/id/lemma/125270</a>
       </td>
@@ -2486,6 +2831,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>spiritus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/125406">https://lila-erc.eu/data/id/lemma/125406</a>
       </td>
@@ -2493,6 +2839,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>spolio</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/125446">https://lila-erc.eu/data/id/lemma/125446</a>
       </td>
@@ -2500,6 +2847,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>statio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/125597">https://lila-erc.eu/data/id/lemma/125597</a>
       </td>
@@ -2507,6 +2855,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>strenuus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/125810">https://lila-erc.eu/data/id/lemma/125810</a>
       </td>
@@ -2514,11 +2863,13 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>substomium</td>
+      <td>1</td>
       <td>URI deest: 1700</td>
       <td>substomium</td>
     </tr>
     <tr>
       <td>sui</td>
+      <td>5</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/131255">https://lila-erc.eu/data/id/lemma/131255</a>
       </td>
@@ -2526,6 +2877,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>sum</td>
+      <td>20</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/126689">https://lila-erc.eu/data/id/lemma/126689</a>
       </td>
@@ -2533,6 +2885,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>sumo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/126707">https://lila-erc.eu/data/id/lemma/126707</a>
       </td>
@@ -2540,6 +2893,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>super</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/126718">https://lila-erc.eu/data/id/lemma/126718</a>
       </td>
@@ -2547,6 +2901,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>superi</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/83429">https://lila-erc.eu/data/id/lemma/83429</a>
       </td>
@@ -2554,6 +2909,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>surgo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/126307">https://lila-erc.eu/data/id/lemma/126307</a>
       </td>
@@ -2561,6 +2917,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>suus</td>
+      <td>5</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/127165">https://lila-erc.eu/data/id/lemma/127165</a>
       </td>
@@ -2568,6 +2925,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tam</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/127600">https://lila-erc.eu/data/id/lemma/127600</a>
       </td>
@@ -2575,6 +2933,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tamquam</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/127617">https://lila-erc.eu/data/id/lemma/127617</a>
       </td>
@@ -2582,6 +2941,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tango</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/127620">https://lila-erc.eu/data/id/lemma/127620</a>
       </td>
@@ -2589,6 +2949,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tantum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/110679">https://lila-erc.eu/data/id/hypolemma/110679</a>
       </td>
@@ -2596,6 +2957,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tantum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/131928">https://lila-erc.eu/data/id/lemma/131928</a>
       </td>
@@ -2603,6 +2965,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tempus</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/127522">https://lila-erc.eu/data/id/lemma/127522</a>
       </td>
@@ -2610,6 +2973,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>terra</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/127912">https://lila-erc.eu/data/id/lemma/127912</a>
       </td>
@@ -2617,6 +2981,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>timeo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/128264">https://lila-erc.eu/data/id/lemma/128264</a>
       </td>
@@ -2624,6 +2989,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tollo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/128357">https://lila-erc.eu/data/id/lemma/128357</a>
       </td>
@@ -2631,13 +2997,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tonans</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/44613">https://lila-erc.eu/data/id/hypolemma/44613</a>
       </td>
-      <td>tonantis</td>
+      <td>Tonantis</td>
     </tr>
     <tr>
       <td>totus</td>
+      <td>7</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/128484">https://lila-erc.eu/data/id/lemma/128484</a>
       </td>
@@ -2645,6 +3013,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tres</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/128764">https://lila-erc.eu/data/id/lemma/128764</a>
       </td>
@@ -2652,6 +3021,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>triplex</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/128976">https://lila-erc.eu/data/id/lemma/128976</a>
       </td>
@@ -2659,6 +3029,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>triumphus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129058">https://lila-erc.eu/data/id/lemma/129058</a>
       </td>
@@ -2666,13 +3037,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>tu</td>
+      <td>6</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129131">https://lila-erc.eu/data/id/lemma/129131</a>
       </td>
-      <td>te tibi te te tu tibi</td>
+      <td>te tibi te te Tu tibi</td>
     </tr>
     <tr>
       <td>uado</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129476">https://lila-erc.eu/data/id/lemma/129476</a>
       </td>
@@ -2680,6 +3053,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uarius</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129584">https://lila-erc.eu/data/id/lemma/129584</a>
       </td>
@@ -2687,6 +3061,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uates</td>
+      <td>4</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129625">https://lila-erc.eu/data/id/lemma/129625</a>
       </td>
@@ -2694,6 +3069,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uegetatio</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129676">https://lila-erc.eu/data/id/lemma/129676</a>
       </td>
@@ -2701,6 +3077,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uel</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129695">https://lila-erc.eu/data/id/lemma/129695</a>
       </td>
@@ -2708,20 +3085,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uenetus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129783">https://lila-erc.eu/data/id/lemma/129783</a>
       </td>
-      <td>venetorum</td>
+      <td>Venetorum</td>
     </tr>
     <tr>
       <td>uenetus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129782">https://lila-erc.eu/data/id/lemma/129782</a>
       </td>
-      <td>veneta</td>
+      <td>Veneta</td>
     </tr>
     <tr>
       <td>uenio</td>
+      <td>7</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129790">https://lila-erc.eu/data/id/lemma/129790</a>
       </td>
@@ -2729,6 +3109,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uentus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129820">https://lila-erc.eu/data/id/lemma/129820</a>
       </td>
@@ -2736,6 +3117,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uerno</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129904">https://lila-erc.eu/data/id/lemma/129904</a>
       </td>
@@ -2743,6 +3125,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uero</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/hypolemma/111474">https://lila-erc.eu/data/id/hypolemma/111474</a>
       </td>
@@ -2750,6 +3133,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uersus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130035">https://lila-erc.eu/data/id/lemma/130035</a>
       </td>
@@ -2757,6 +3141,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uerto</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129966">https://lila-erc.eu/data/id/lemma/129966</a>
       </td>
@@ -2764,6 +3149,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uerus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/129978">https://lila-erc.eu/data/id/lemma/129978</a>
       </td>
@@ -2771,6 +3157,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uestis</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130034">https://lila-erc.eu/data/id/lemma/130034</a>
       </td>
@@ -2778,6 +3165,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uia</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130088">https://lila-erc.eu/data/id/lemma/130088</a>
       </td>
@@ -2785,6 +3173,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uideo</td>
+      <td>4</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130163">https://lila-erc.eu/data/id/lemma/130163</a>
       </td>
@@ -2792,6 +3181,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uinum</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130275">https://lila-erc.eu/data/id/lemma/130275</a>
       </td>
@@ -2799,6 +3189,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uiolentia</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130289">https://lila-erc.eu/data/id/lemma/130289</a>
       </td>
@@ -2806,6 +3197,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uiolentus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130287">https://lila-erc.eu/data/id/lemma/130287</a>
       </td>
@@ -2813,6 +3205,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uiridis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130341">https://lila-erc.eu/data/id/lemma/130341</a>
       </td>
@@ -2820,6 +3213,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uirtus</td>
+      <td>4</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130356">https://lila-erc.eu/data/id/lemma/130356</a>
       </td>
@@ -2827,6 +3221,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uita</td>
+      <td>3</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130393">https://lila-erc.eu/data/id/lemma/130393</a>
       </td>
@@ -2834,6 +3229,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uitalis</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130396">https://lila-erc.eu/data/id/lemma/130396</a>
       </td>
@@ -2841,6 +3237,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uiuo</td>
+      <td>7</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130476">https://lila-erc.eu/data/id/lemma/130476</a>
       </td>
@@ -2848,6 +3245,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uix</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130478">https://lila-erc.eu/data/id/lemma/130478</a>
       </td>
@@ -2855,6 +3253,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>unde</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130603">https://lila-erc.eu/data/id/lemma/130603</a>
       </td>
@@ -2862,6 +3261,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uniuersus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130700">https://lila-erc.eu/data/id/lemma/130700</a>
       </td>
@@ -2869,13 +3269,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>unus</td>
+      <td>8</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/85636">https://lila-erc.eu/data/id/lemma/85636</a>
       </td>
-      <td>una una vnum vnum una uno una unum</td>
+      <td>una una Vnum Vnum una uno una unum</td>
     </tr>
     <tr>
       <td>uoco</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130729">https://lila-erc.eu/data/id/lemma/130729</a>
       </td>
@@ -2883,6 +3285,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uolo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130745">https://lila-erc.eu/data/id/lemma/130745</a>
       </td>
@@ -2890,6 +3293,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uolo</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130746">https://lila-erc.eu/data/id/lemma/130746</a>
       </td>
@@ -2897,6 +3301,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uoluptas</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130771">https://lila-erc.eu/data/id/lemma/130771</a>
       </td>
@@ -2904,6 +3309,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>uox</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130806">https://lila-erc.eu/data/id/lemma/130806</a>
       </td>
@@ -2911,20 +3317,23 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>urbs</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/24502">https://lila-erc.eu/data/id/lemma/24502</a>
       </td>
-      <td>vrbs</td>
+      <td>Vrbs</td>
     </tr>
     <tr>
       <td>urbs</td>
+      <td>2</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130822">https://lila-erc.eu/data/id/lemma/130822</a>
       </td>
-      <td>vrbis urbe</td>
+      <td>Vrbis urbe</td>
     </tr>
     <tr>
       <td>urna</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130840">https://lila-erc.eu/data/id/lemma/130840</a>
       </td>
@@ -2932,6 +3341,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>usquam</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130870">https://lila-erc.eu/data/id/lemma/130870</a>
       </td>
@@ -2939,13 +3349,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>ut</td>
+      <td>9</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130906">https://lila-erc.eu/data/id/lemma/130906</a>
       </td>
-      <td>ut ut ut ut ut ut vt ut ut</td>
+      <td>ut ut ut ut ut ut Vt ut ut</td>
     </tr>
     <tr>
       <td>utinam</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/130919">https://lila-erc.eu/data/id/lemma/130919</a>
       </td>
@@ -2953,13 +3365,15 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>zeno</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/25482">https://lila-erc.eu/data/id/lemma/25482</a>
       </td>
-      <td>zenona</td>
+      <td>Zenona</td>
     </tr>
     <tr>
       <td>zephyrus</td>
+      <td>1</td>
       <td>
         <a href="https://lila-erc.eu/data/id/lemma/131206">https://lila-erc.eu/data/id/lemma/131206</a>
       </td>
@@ -2967,6 +3381,7 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
     <tr>
       <td>τέλος</td>
+      <td>1</td>
       <td>
         <a href="https://logeion.uchicago.edu/%CF%84%CE%AD%CE%BB%CE%BF%CF%82">https://logeion.uchicago.edu/%CF%84%CE%AD%CE%BB%CE%BF%CF%82</a>
       </td>
@@ -2974,7 +3389,6 @@ In elegia versus sunt 118, formae 780, verba 415.
     </tr>
   </tbody>
 </table>
-
 -------
 
 EOF
