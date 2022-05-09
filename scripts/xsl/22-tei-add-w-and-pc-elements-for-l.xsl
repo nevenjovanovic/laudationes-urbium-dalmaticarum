@@ -22,7 +22,7 @@
                     <xsl:non-matching-substring>
                         <xsl:analyze-string select="." regex="\p{{N}}+">
                             <xsl:matching-substring>
-                                <xsl:element name="w" namespace="http://www.tei-c.org/ns/1.0"><xsl:attribute name="norm"><xsl:value-of select="lower-case(.)"/></xsl:attribute><xsl:value-of select="."/></xsl:element>
+                                <xsl:element name="w" namespace="http://www.tei-c.org/ns/1.0"><xsl:attribute name="norm"><xsl:value-of select="lower-case(.)"/></xsl:attribute><xsl:attribute name="type">num</xsl:attribute><xsl:value-of select="."/></xsl:element>
                             </xsl:matching-substring>
                             <xsl:non-matching-substring/>
                         </xsl:analyze-string>
