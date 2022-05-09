@@ -183,25 +183,26 @@
             </listPerson>
             <listPlace>
                <place>
-                  <name>Illei campi</name>
+                  <name><ref type="wikidata" target="http://www.wikidata.org/entity/Q32047">Illei campi</ref></name>
                </place>
                <place>
-                  <name>Colchis</name>
+                  <name><ref type="wikidata" target="http://www.wikidata.org/entity/Q183150">Colchis</ref></name>
                </place>
                <place>
-                  <name>Iader</name>
+                  <name><ref type="wikidata" target="http://www.wikidata.org/entity/Q3370">Iader</ref></name>
+                  <name><ref type="wikidata" target="http://www.wikidata.org/entity/Q3370">Iadra</ref></name>
                </place>
                <place>
-                  <name>Adriacae aquae</name>
+                  <name><ref type="wikidata" target="http://www.wikidata.org/entity/Q13924">Adriacae aquae</ref></name>
                </place>
                <place>
-                  <name>Lissa</name>
+                  <name><ref type="wikidata" target="http://www.wikidata.org/entity/Q1131774">Lissa</ref></name>
                </place>
                <place>
-                  <name>Substomium</name>
+                  <name><ref type="wikidata" target="http://www.wikidata.org/entity/Q998978">Substomium</ref></name>
                </place>
                <place>
-                  <name>Veneta urbs</name>
+                  <name><ref type="wikidata" target="http://www.wikidata.org/entity/Q641">Veneta urbs</ref></name>
                </place>
             </listPlace>
             <list>
