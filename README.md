@@ -13,6 +13,10 @@ The files edited here are published as a [PhiloLogic collection](http://www.ffzg
 * The markdown versions are in [markdown](/markdown) directory
 * Various XQuery scripts to transform and analyze the files are in [scripts](/scripts)
 
+## Reports
+
+* Word index to Nardino Celinese's elegy De situ Iadrae (1508): [nardinus-desitu-index](nuntii/nardinus-desitu-index.md)
+
 ## How to use ##
 
 Download the files or clone the repository.
