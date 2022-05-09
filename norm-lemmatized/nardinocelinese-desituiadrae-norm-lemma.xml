@@ -402,7 +402,7 @@
             <l n="8">
                <w lemma="omnis" lemmaRef="https://lila-erc.eu/data/id/lemma/114954" norm="omnia">omnia</w>
                <w lemma="qui" lemmaRef="https://lila-erc.eu/data/id/lemma/121354" norm="quae">quae</w>
-               <w lemma="ad" lemmaRef="https://lila-erc.eu/data/id/lemma/87344" norm="a">a</w>
+               <w lemma="a" lemmaRef="https://lila-erc.eu/data/id/lemma/86824" norm="a">a</w>
                <w lemma="priscus" lemmaRef="https://lila-erc.eu/data/id/lemma/119513" norm="priscis">priscis</w>
                <w lemma="gestum" lemmaRef="https://lila-erc.eu/data/id/lemma/104582" norm="gesta">gesta</w>
                <w lemma="refero" lemmaRef="https://lila-erc.eu/data/id/lemma/122494" norm="referre">referre</w>
@@ -555,7 +555,7 @@
             <l n="25">
                <w lemma="nec" lemmaRef="https://lila-erc.eu/data/id/lemma/113512" norm="nec">nec</w>
                <w lemma="procul" lemmaRef="https://lila-erc.eu/data/id/lemma/119631" norm="procul">procul</w>
-               <w lemma="ad" lemmaRef="https://lila-erc.eu/data/id/lemma/87344" norm="a">a</w>
+               <w lemma="a" lemmaRef="https://lila-erc.eu/data/id/lemma/86824" norm="a">a</w>
                <w lemma="fluctus" lemmaRef="https://lila-erc.eu/data/id/lemma/104173" norm="fluctu">fluctu</w>
                <w lemma="sui" lemmaRef="https://lila-erc.eu/data/id/lemma/131255" norm="se">se</w>
                <w lemma="formosus" lemmaRef="https://lila-erc.eu/data/id/lemma/103659" norm="formosissima">formosissima</w>
@@ -808,7 +808,7 @@
             </l>
             <l n="50">
                <w lemma="accido" lemmaRef="https://lila-erc.eu/data/id/lemma/87112" norm="accidit">accidit</w>
-               <w lemma="ad" lemmaRef="https://lila-erc.eu/data/id/lemma/87344" norm="a">a</w>
+               <w lemma="a" lemmaRef="https://lila-erc.eu/data/id/lemma/86824" norm="a">a</w>
                <w lemma="pugna" lemmaRef="https://lila-erc.eu/data/id/lemma/120407" norm="pugna">pugna</w>
                <w lemma="discidium" lemmaRef="https://lila-erc.eu/data/id/lemma/99605" norm="discidioque">discidioque</w>
                <w lemma="do" lemmaRef="https://lila-erc.eu/data/id/lemma/99970" norm="sata">sata</w>
@@ -861,7 +861,7 @@
             <l n="55">
                <w lemma="cum" lemmaRef="https://lila-erc.eu/data/id/lemma/97202" norm="cum">Cum</w>
                <w lemma="totus" lemmaRef="https://lila-erc.eu/data/id/lemma/128484" norm="totum">totum</w>
-               <w lemma="ad" lemmaRef="https://lila-erc.eu/data/id/lemma/87344" norm="a">a</w>
+               <w lemma="a" lemmaRef="https://lila-erc.eu/data/id/lemma/86824" norm="a">a</w>
                <w lemma="pars" lemmaRef="https://lila-erc.eu/data/id/lemma/116084" norm="parte">parte</w>
                <pc>,</pc>
                <w lemma="aut" lemmaRef="https://lila-erc.eu/data/id/lemma/90827" norm="aut">aut</w>
@@ -1208,7 +1208,7 @@
             <l n="91">
                <w lemma="aut" lemmaRef="https://lila-erc.eu/data/id/lemma/90827" norm="aut">Aut</w>
                <w lemma="uenio" lemmaRef="https://lila-erc.eu/data/id/lemma/129790" norm="uenit">uenit</w>
-               <w lemma="ad" lemmaRef="https://lila-erc.eu/data/id/lemma/87344" norm="a">a</w>
+               <w lemma="a" lemmaRef="https://lila-erc.eu/data/id/lemma/86824" norm="a">a</w>
                <w lemma="caelum" lemmaRef="https://lila-erc.eu/data/id/lemma/97622" norm="caelo">caelo</w>
                <w lemma="aut" lemmaRef="https://lila-erc.eu/data/id/lemma/90827" norm="aut">aut</w>
                <w lemma="cum" lemmaRef="https://lila-erc.eu/data/id/lemma/97201" norm="cum">cum</w>
@@ -1252,7 +1252,7 @@
             <l n="95">
                <w lemma="si" lemmaRef="https://lila-erc.eu/data/id/lemma/124676" norm="si">Si</w>
                <w lemma="uenio" lemmaRef="https://lila-erc.eu/data/id/lemma/129790" norm="uenit">uenit</w>
-               <w lemma="ad" lemmaRef="https://lila-erc.eu/data/id/lemma/87344" norm="a">a</w>
+               <w lemma="a" lemmaRef="https://lila-erc.eu/data/id/lemma/86824" norm="a">a</w>
                <w lemma="caelum" lemmaRef="https://lila-erc.eu/data/id/lemma/97622" norm="caelo">caelo</w>
                <pc>,</pc>
                <w lemma="aetherius" lemmaRef="https://lila-erc.eu/data/id/lemma/87966" norm="aethereas">aethereas</w>
