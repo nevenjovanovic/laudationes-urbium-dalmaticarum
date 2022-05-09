@@ -10,6 +10,10 @@ let $query := replace($url, "QSTRING", string($l))
 let $parsed := (doc($query))
 return $parsed//rdfs:label/string()
 };
-let $list := ( "https://lila-erc.eu/data/id/hypolemma/111474" )
-for $l in $list
-return local:qlila($l)
+let $dbname := "nardino-situ" || "-xml"
+let $list := db:open($dbname)//*:w[@lemmaRef]
+for $w in $list
+let $ref := $w/@lemmaRef/string()
+let $l := replace($ref, "http:", "https:")
+let $lem := local:qlila($l)
+return insert node attribute { "lemma"} { $lem } into $w
