@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In laudem nobilitatis Aspalatensis (post 1452)</title>
+            <author>
+               <persName xml:lang="la">Leonardus Montagna</persName> (
+               <persName>Leonardo Montagna</persName>, c. 1425-30 – 1485)
+               <idno type="wikidata">Q23617599</idno>
+            </author>
+            <respStmt>
+               <resp>editionem electronicam praeparavit</resp>
+               <persName>Neven Jovanović
+               <idno type="VIAF">6913774</idno>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+    Romae, <date>1492</date>.
+  Prima editio electronica, Zagreb 2010.
+  </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>elektronska verzija: Neolatina Croatica, znanstveni
+	   projekt na Filozofskom fakultetu Sveučilišta u Zagrebu,
+	   Hrvatska.  <date>veljača 2010</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Kristeller, Iter: Volume VI; Città Del Vaticano; Città Del Vaticano; Biblioteca Apostolica Vaticana (1966-72, 1974, 1975, 1976-84, 1987, 1989); Fondo De Marinis
+             <idno>Ms. 7. mbr. XV. 45 fols. Old binding. Decorated. Formerly Soranzo ms. CCLXVI. Cf. Iter II, p. 607. De Marinis I, p. 85, no. 951 C (ldm 77). Quinto Centenario, p. 117, no. 303.</idno>
+               <note>f. 1v. Leonardi Montagne Veronensis secretarii Ap(ostoli)ci et poete laureati carmina epistolarum et epigrammatum (title only). 2-3. To Lau(rentius Zane) Archipresul Aspalatensis, a verse prologue, inc. Laurenti Aspalati presul clarissime salve. Poems to Alex. Gonzaga in praise of Victorinus Feltrensis (f. 3-4), in praise of Jampetrus Lucensis (4-5v), in laudem Lau(rentii) Valle ad memoratum d. suum (Laur. Zane) et Mar. Donatum (6-7), to Alanus card. Avinionensis (7), to Pius II (7-7v), to the Cardinal of Avignon (7v-8v), to Herm. Barbarus ep. Veronensis (8v-10v), in laudem divi Symeonis de Armenia ad Pium II, with a verse prologue (10v-15v), ad Barbaram Mantue Marchionissam in prohemium cuiusdam libelli rhitmici de iuribus et laudibus mulierum (six lines, f. 16), in laudem nobilitatis Aspalatensis (16-17), ad Bartholomeam coniugem absentem (17-18), in Janum Fsini (sic) opidi Croatie dominum (18), ad Collam Campanum (18v), ad Musam suam (18v-19v), ad Philippam commatrem suam (19v-20), ad Catherinam Bosnie reginam (21-21v). 21v. Liber secundus. Pro R(e)pu(blica) Veneta (22v), ad principes Italie (22v-23), in coniuratos iuvenes contra Paulum II (23), ad Franc. Montagnam patruelem (23v-24v), in detractores Jo. Marii Philelfi Verone conducti (23v-24v), to Marius Philelfus (27v-28v), ad Jo. Jadrievicum Traguriensem compatrem suum (31-35), ad Colam Campanum Aspalati defunctum (35v-37), ad Dossum tabellarium (38v), ad Vitalem Landum (38v-42), in laudem et defensionem Marii Philelfi (42-42v). Responsum eiusdem D. Marii ad ipsum auctorem cum insertis laudibus supradicti domini archipresulis Aspalatini (42v-45v).</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="genus">
+           <!-- kontrolirani katalog za žanrove, za novolatinski? -->
+               <category>
+                  <catDesc>genera litteraria</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy xml:id="aetas">
+           <!-- gdje je kontrolirani katalog za periodizaciju? -->
+               <category>
+                  <catDesc>aetates</catDesc>
+               </category>
+               <category xml:id="locus">
+                  <catDesc>locus</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1452">non ante 1452</date>
+            <placeName ref="http://www.wikidata.org/entity/Q1663">
+               Spalati?
+            </placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="#aetas">
+               <list>
+                  <item>litterae renatae</item>
+                  <item>latinitas recentior</item>
+                  <item>saec. XV</item>
+                  <item>1450-1500</item>
+               </list>
+            </keywords>
+            <keywords scheme="#genus">
+               <list>
+                  <item>poesis</item>
+                  <item>epigramma</item>
+               </list>
+            </keywords>
+            <keywords scheme="#locus">
+               <list>
+             <!-- kontrolirani katalog za mjesta -->
+                  <item>Spalatum</item>
+                  <item>Dalmatia</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12-8</date>
+            <name>Neven Jovanović</name>
+Prvi unos.
+</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docAuthor>Leonardi Montagnae Veronensis, secretarii apostolici, comitis Palatini et poetae laureati</docAuthor>
+         <docTitle>
+            <titlePart>Carmina epistolarum et epigrammatum</titlePart>
+         </docTitle>
+      </front>
+      <body>
+         <div type="epigramma" met="elegiacum">
+            <head>
+               <s><w lemmaRef="http://lila-erc.eu/data/id/lemma/106748" norm="in">In</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/110103" norm="laudem">laudem</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitatis"
+                     >nobilitatis</w>
+                  <w norm="Aspalatensis">Aspalatensis</w></s>
+            </head>
+            <p><s><w lemmaRef="http://lila-erc.eu/data/id/lemma/121165" norm="quis">Quis</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitas"
+                     >nobilitas</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/120421" norm="pulchri">pulchri</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/112872" norm="ueneranda"
+                     >ueneranda</w>
+               <w norm="uetusque" ana="enclisis"><w lemmaRef="http://lila-erc.eu/data/id/lemma/130070">uetus</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w norm="Aspalati">Aspalati</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/118569" norm="posset">posset</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/99407" norm="dignas">dignas</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/102238" norm="expromere"
+                     >expromere</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/110103" norm="laudes">laudes</w>
+                  <pc>?</pc></s>
+               <s><w lemmaRef="http://lila-erc.eu/data/id/lemma/105418" norm="heu">Heu</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="neque">neque</w>
+                  <w lemmaRef="https://logeion.uchicago.edu/Vergilius" norm="Vergilius">Virgilius</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">nec</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="magnus">magnus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/130476" norm="uiuit">uiuit</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/9477" norm="Homerus">Homerus</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/99944" norm="diuino">Diuino</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/115284" norm="ornarunt">ornarunt</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="qui">qui</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/124723" norm="sicut">sicut</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/96629" norm="carmine">carmine</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/24131" norm="Troiam">Troiam</w>
+                  <w norm="Troianosque" ana="enclisis"><w lemmaRef="https://lila-erc.eu/data/id/lemma/24133">Troianos</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/130300" norm="uiros">uiros</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/89998" norm="armis">armis</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113900" norm="noua">noua</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/121683" norm="regna">regna</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/117549" norm="petentes">petentes</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/124690" norm="sic">Sic</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/118569" norm="possint">possint</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="ueteris">ueteris</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/102868" norm="famae">famae</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/112273" norm="monumenta"
+                     >monumenta</w>
+                  <w lemmaRef="https://lila-erc.eu/data/id/lemma/20642" norm="Salonae">Salonae</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/111470" norm="mandare">mandare</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/87961" norm="aeternae">aeternae</w>
+                  <w norm="teque" ana="enclisis"><w lemmaRef="http://lila-erc.eu/data/id/lemma/129131">te</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/130822" norm="urbis">urbis</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/124091" norm="semina">semina</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/127630" norm="tantae">tantae</w>
+                  <pc>.</pc></s>
+               <s><w lemmaRef="http://lila-erc.eu/data/id/lemma/113345" norm="namque">Namque</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="es">es</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/76048" norm="reliquiae"
+                     >reliquiae</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/106221" norm="illius">illius</w>
+                  <w norm="populusque" ana="enclisis"
+                     ><w lemmaRef="http://lila-erc.eu/data/id/lemma/118463">populus</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/126956" norm="superstes"
+                     >superstes</w>
+                  <pc>,</pc>
+                  <w norm="conciuisque" ana="enclisis"
+                     ><w lemmaRef="http://lila-erc.eu/data/id/lemma/95537">Conciuis</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tui">tui</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/127618" norm="tandem">tandem</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/103328" norm="facta">facta</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/107023" norm="incola">incola</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/132231" norm="tecti">tecti</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/1947" norm="Caesaris">Cesaris</w>
+                  <w norm="Illyricique" ana="enclisis"
+                     ><w lemmaRef="http://lila-erc.eu/data/id/lemma/10084">Illirici</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/98168" norm="decus">decus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/111604" norm="maris">maris</w>
+                  <w norm="altaque" ana="enclisis"><w lemmaRef="http://lila-erc.eu/data/id/hypolemma/1781">alta</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/25967" norm="longe">longe</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/104703" norm="gloria">Gloria</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/4450" norm="Dalmatiae">Dalmatiae</w>
+                  <w lemmaRef="https://lila-erc.eu/data/id/lemma/129782" norm="Veneta">Veneta</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/99299" norm="ditione">ditione</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/4503" norm="beatae">beatae</w>
+                  <pc>.</pc></s>
+               <s><w lemmaRef="https://lila-erc.eu/data/id/lemma/13803" norm="Maximus">Maximus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/130906" norm="ut">ut</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/128449" norm="torque">torque</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/23904" norm="Torquatus"
+                     >Torquatus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/99302" norm="dictus">dictus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/105757" norm="hostis">hostis</w>
+                  <w norm="utque" ana="enclisis"><w lemmaRef="http://lila-erc.eu/data/id/lemma/130906">Vt</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/131255" norm="sibi">sibi</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/100067" norm="domitis">Domitis</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/126965" norm="supersit">supersit</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/94731" norm="cognomen">cognomen</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
+                  <w lemmaRef="https://lila-erc.eu/data/id/lemma/7013" norm="Afris">Afris</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/21061" norm="Scipio">Scipio</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/101542" norm="et">et</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/101618" norm="euersis">euersis</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/109082" norm="iisdem">iisdem</w>
+                  <w norm="maiorque" ana="enclisis"><w lemmaRef="http://lila-erc.eu/data/id/lemma/111319">maior</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w norm="minorque" ana="enclisis"><w lemmaRef="http://lila-erc.eu/data/id/lemma/116136">minor</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <pc>,</pc>
+                  <w lemmaRef="https://lila-erc.eu/data/id/lemma/19043" norm="Pollio">Pollio</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/87976" norm="antiqua">antiqua</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/124690" norm="sic">sic</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113505" norm="nato">nato</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/106633" norm="imponere">imponere</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/127912" norm="terra">terra</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipse">Ipse</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tua">tua</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="magnos">magnos</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/87344" norm="a">a</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="qua">qua</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/103126" norm="tulit">tulit</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/105757" norm="hoste">hoste</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129058" norm="triumphos"
+                     >triumphos</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113387" norm="nascenti">Nascenti</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113797" norm="nomen">nomen</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/114108" norm="non">non</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/10868" norm="dedignatus"
+                     >dedignatus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/105647" norm="honoris">honoris</w>
+                  <pc>.</pc></s>
+               <s><w lemmaRef="http://lila-erc.eu/data/id/lemma/101415" norm="ergo">Ergo</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitas"
+                     >nobilitas</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/112092" norm="meritis">meritis</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/94439" norm="clarissima"
+                     >clarissima</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/127630" norm="tantis">tantis</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/hypolemma/32658" norm="perpetuo"
+                     >Perpetuo</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/109736" norm="laetare">laetare</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuis">tuis</w>
+                  <pc>:</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">nec</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="sit">sit</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/93253" norm="causa">causa</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129022" norm="tristitiae"
+                     >Tristitiae</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/74854" norm="quod">quod</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113605" norm="nemo">nemo</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/121142" norm="queat">queat</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/95677" norm="condere">condere</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/99407" norm="digna">digna</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/96629" norm="carmina">Carmina</w>
+                  <pc>;</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/123480" norm="sat">sat</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/138970" norm="decori">decori</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="sunt">sunt</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/112273" norm="monumenta"
+                     >monumenta</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuorum">tuorum</w>
+                  <pc>.</pc></s>
+               <s><w lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">Nec</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/116130" norm="minus">minus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipse">ipse</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuus">tuus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/119259" norm="praesul">praesul</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/119246" norm="praestat">prestat</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/105647" norm="honoris">honoris</w>
+                  <pc>:</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="cui">Cui</w>
+                  <w lemmaRef="https://lila-erc.eu/data/id/lemma/129782" norm="Veneta">Veneta</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/98339" norm="degente">degente</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/100071" norm="domus">domus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/99970" norm="dat">dat</w>
+                  <w norm="Zanna">Zanna</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/116207" norm="paternum">paternum</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/94439" norm="clara">Clara</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/104504" norm="genus">genus</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="ueterum">ueterum</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/128926" norm="titulis">titulis</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/115284" norm="ornatur">ornatur</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/90862" norm="auorum">auorum</w>
+                  <pc>;</pc>
+                  <w norm="Eugeniique" ana="enclisis"><w lemmaRef="https://lila-erc.eu/data/id/lemma/6579">Eugenii</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113596" norm="nepos">nepos</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/111702" norm="materno">materno</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/123363" norm="sanguine">sanguine</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/121110" norm="quarti">quarti</w>
+                  <w norm="huicque" ana="enclisis"><w lemmaRef="http://lila-erc.eu/data/id/lemma/105455">Huic</w><w lemmaRef="https://lila-erc.eu/data/id/lemma/131416" join="left">que</w></w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/127502" norm="secundus">secundus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="erat">erat</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/53375" norm="Franciscus"
+                     >Franciscus</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/90860" norm="auunculus"
+                     >auunculus</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/88426" norm="almae">almae</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/100517" norm="ecclesiae"
+                     >Ecclesiae</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/73416" norm="princeps">princeps</w>
+                  <pc>:</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/113797" norm="nomen">nomen</w>
+                  <w norm="Laurentius">Laurentius</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipsi">ipsi</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/103845" norm="fronde">Fronde</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/129732" norm="uelut">uelut</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/110101" norm="laurus">laurus</w>
+                  <pc>,</pc>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/121289" norm="quoniam">quoniam</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/130356" norm="uirtute">uirtute</w>
+                  <w lemmaRef="http://lila-erc.eu/data/id/lemma/130308" norm="uirescit">uirescit</w>
+                  <pc>.</pc></s></p>
+         </div>
+      </body>
+   </text>
+</TEI>

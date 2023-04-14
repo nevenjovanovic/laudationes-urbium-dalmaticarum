@@ -4,8 +4,8 @@
          <titleStmt>
             <title>Danielis Clarii epistula ad Iulianum Maffeium (15. Oct. 1505), versio electronica</title>
             <author>
-               <persName>Daniel Clarius</persName>, 
-        <date from="1460" to="1523">c. 1460 - non ante 1523</date>
+               <persName xml:lang="la">Daniel Clarius</persName>, 
+        <date from="1457" to="1523">c. 1457 - 5. 10. 1523</date>
                <idno type="wikidata">Q21542922</idno>
             </author>
             <respStmt>
@@ -38,7 +38,7 @@
       </fileDesc>
       <profileDesc>
          <creation>
-            <placeName>Ragusii.</placeName>
+            <placeName ref="https://www.wikidata.org/wiki/Q1722">Ragusii.</placeName>
             <date when="1505-10-15">15. 10. 1505.</date>
          </creation>
          <textClass>
