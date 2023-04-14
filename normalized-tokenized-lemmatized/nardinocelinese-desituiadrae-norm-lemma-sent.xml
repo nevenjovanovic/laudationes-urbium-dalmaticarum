@@ -5,8 +5,10 @@
          <titleStmt>
             <title>Carmen de situ Iadrae (1508), editio electronica orthographice ad normam reducta</title>
             <author ref="v105148933757754302446">
-               <name>Publius Nardinus Celineus (Nardino Celinese)</name>,
-             Maniago, <date>fl. c. 1500</date>
+               <persName xml:lang="la">P. Nardinus Celineus</persName>
+               (<persName>Nardino Celinese</persName>),
+             Maniago, <date>fl. c. 1508</date>
+               <idno type="wikidata">Q117706387</idno>
             </author>
             <editor xml:id="v6913774">
                <persName>
