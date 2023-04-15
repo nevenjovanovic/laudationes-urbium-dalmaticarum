@@ -2,16 +2,17 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Danielis Clarii epistula ad Iulianum Maffeium (15. Oct. 1505), versio electronica</title>
+            <title>Danielis Clarii epistula ad Iulianum Maffeium (15. Oct. 1505), versio
+               electronica</title>
             <author>
-               <persName>Daniel Clarius</persName>, 
-        <date from="1457" to="1523">c. 1457 - 5. 10. 1523</date>
+               <persName xml:lang="la">Daniel Clarius</persName>, <placeName
+                  ref="https://www.wikidata.org/entity/Q2683">Parma</placeName>, <date from="1457"
+                  to="1523">c. 1457 - 5. 10. 1523</date>,
                <idno type="wikidata">Q21542922</idno>
             </author>
             <respStmt>
                <resp>Editionem electronicam curavit</resp>
-               <persName>Neven Jovanović
-                <idno type="VIAF">6913774</idno>
+               <persName>Neven Jovanović <idno type="VIAF">6913774</idno>
                </persName>
             </respStmt>
          </titleStmt>
@@ -38,7 +39,7 @@
       </fileDesc>
       <profileDesc>
          <creation>
-            <placeName ref="https://www.wikidata.org/wiki/Q1722">Ragusii.</placeName>
+            <placeName ref="https://www.wikidata.org/entity/Q1722">Ragusii.</placeName>
             <date when="1505-10-15">15. 10. 1505.</date>
          </creation>
          <textClass>

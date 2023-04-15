@@ -5,9 +5,9 @@
          <titleStmt>
             <title>De laudibus Rhacusae, versio electronica</title>
             <author>
-               <persName>Michael Tarchaniota Marullus</persName> 
-                    (<persName>Michele Marullo</persName>)
-                    <date from="1461" to="1500-04-10">(1461? – 1500-04-10)</date>
+               <persName xml:lang="la">Michael Tarchaniota Marullus</persName> 
+                    <date from="1453" to="1500-04-10">(1453? – 1500-04-10)</date>
+               <placeName ref="https://www.wikidata.org/entity/Q1196055">Morea?</placeName>
                <idno type="wikidata">Q672824</idno>
             </author>
             <respStmt>

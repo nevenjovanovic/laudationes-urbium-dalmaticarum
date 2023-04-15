@@ -5,8 +5,9 @@
          <titleStmt>
             <title>In laudem nobilitatis Aspalatensis (post 1452)</title>
             <author>
-               <persName xml:lang="la">Leonardus Montagna</persName> (
-               <persName>Leonardo Montagna</persName>, c. 1425-30 – 1485)
+               <persName xml:lang="la">Leonardus Montagna</persName>, 
+               <placeName ref="https://www.wikidata.org/entity/Q2028">Verona</placeName>,
+               <date from="1426" to="1485">c. 1426 – 1485</date>,
                <idno type="wikidata">Q23617599</idno>
             </author>
             <respStmt>

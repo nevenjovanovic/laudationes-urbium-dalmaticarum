@@ -3,11 +3,11 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Carmen de situ Iadrae (1508), editio electronica orthographice ad normam reducta</title>
+            <title>Carmen de situ Iadrae (1508), editio electronica orthographice ad normam
+               reducta</title>
             <author ref="v105148933757754302446">
-               <persName xml:lang="la">P. Nardinus Celineus</persName>
-               (<persName>Nardino Celinese</persName>),
-             Maniago, <date>fl. c. 1508</date>
+               <persName xml:lang="la">P. Nardinus Celineus</persName>,
+               <placeName ref="https://www.wikidata.org/entity/Q53174">Maniago</placeName>, <date when="1508">fl. c. 1508</date>
                <idno type="wikidata">Q117706387</idno>
             </author>
             <editor xml:id="v6913774">
@@ -57,10 +57,8 @@
       </encodingDesc>
       <profileDesc>
          <creation>
-            <date>1508</date>
-            <address>
-               <addrLine>Iadrae</addrLine>
-            </address>
+            <date when="1508">1508</date>,
+            <placeName ref="https://www.wikidata.org/entity/Q3370">Iadrae</placeName>
          </creation>
          <abstract>
             <listPerson>
