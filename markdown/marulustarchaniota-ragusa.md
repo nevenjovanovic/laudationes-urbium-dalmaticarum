@@ -3,7 +3,9 @@ title: Michaelis Marulli De laudibus Rhacusae (ante 1489), versio electronica
 lang: lat
 --- 
 
+Michael Tarchaniota Marullus, Wikidata: [Q672824](https://www.wikidata.org/entity/Q672824)
 
+Editio princeps (in facsimili): [Hymni Et Epigrammata Marvlli / Marullo, Michele *1453-1500*. - Electronic ed. Wolfenbüttel : Herzog August Bibliothek, 2004. - Florentiae : Societas Colubris, 26.XI.1497](http://diglib.hab.de/inkunabeln/49-7-poet/start.htm?image=00098)
  
 
 # De laudibus Rhacusae
@@ -48,7 +50,7 @@ cum morem et urbis saepe animo sacra
 tot iura mecum cogito, cum decus  
 pulchramque libertatem auorum  
 perpetua serie retentam  
-interque Thurcas et Venetum asperum  
+interque Turcas et Venetum asperum  
 et inquietae regna Neapolis  
 uix qualis Aetnaeo profundo  
 unda freti natat aestuosi?  
