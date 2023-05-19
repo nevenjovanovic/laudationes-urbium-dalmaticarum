@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>De laudibus Rhacusae, versio electronica</title>
+            <title>De laudibus Rhacusae (ante a. 1489), versio electronica</title>
             <author>
                <persName xml:lang="la">Michael Tarchaniota Marullus</persName> 
                     <date from="1453" to="1500-04-10">(1453? – 1500-04-10)</date>
@@ -202,7 +202,7 @@
                   <w lemma="natura" lemmaRef="http://lila-erc.eu/data/id/lemma/113421" norm="natura">Natura</w>
                   <w lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" norm="et">et</w>
                   <w lemma="abrumpo" lemmaRef="http://lila-erc.eu/data/id/lemma/86983" norm="abrupti">abrupti</w>
-                  <w lemma="supero" lemmaRef="http://lila-erc.eu/data/id/lemma/126911" norm="superbit">superbit</w>
+                  <w lemma="superbio" lemmaRef="https://lila-erc.eu/data/id/lemma/126754" norm="superbit">superbit</w>
                   <w lemma="rupes" lemmaRef="http://lila-erc.eu/data/id/lemma/122278" norm="rupibus">Rupibus</w>
                   <w lemma="aerius" lemmaRef="http://lila-erc.eu/data/id/lemma/87894" norm="aeriis">aeriis</w>
                   <w lemma="profundum" lemmaRef="http://lila-erc.eu/data/id/lemma/119737" norm="profundi">profundi</w>
@@ -264,7 +264,10 @@
                   <pc>,</pc>
                   <w lemma="cum" lemmaRef="http://lila-erc.eu/data/id/lemma/97202" norm="cum">cum</w>
                   <w lemma="decus" lemmaRef="http://lila-erc.eu/data/id/lemma/98168" norm="decus">decus</w>
-                  <w norm="pulchramque" ana="enclisis"><w lemma="pulcher" lemmaRef="http://lila-erc.eu/data/id/lemma/120421" norm="pulchram">Pulchram</w><w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w></w>
+                  <w norm="pulchramque" ana="enclisis">
+                     <w lemma="pulcher" lemmaRef="http://lila-erc.eu/data/id/lemma/120421" norm="pulchram">Pulchram</w>
+                     <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
+                  </w>
                   <w lemma="libertas" lemmaRef="http://lila-erc.eu/data/id/lemma/110394" norm="libertatem">libertatem</w>
                   <w lemma="auus" lemmaRef="http://lila-erc.eu/data/id/lemma/90862" norm="auorum">auorum</w>
                   <w lemma="perpetuus" lemmaRef="http://lila-erc.eu/data/id/lemma/117208" norm="perpetua">Perpetua</w>
@@ -353,7 +356,7 @@
                   <pc>.</pc></s>
                <s><w lemma="sed" lemmaRef="http://lila-erc.eu/data/id/lemma/123994" norm="sed">Sed</w>
                   <w lemma="hic" lemmaRef="http://lila-erc.eu/data/id/lemma/105455" norm="haec">haec</w>
-                  <w lemma="silentus" lemmaRef="http://lila-erc.eu/data/id/lemma/124776" norm="silenti">silenti</w>
+                  <w lemma="silens" lemmaRef="https://lila-erc.eu/data/id/hypolemma/40885" norm="silenti">silenti</w>
                   <w lemma="non" lemmaRef="http://lila-erc.eu/data/id/lemma/114108" norm="non">non</w>
                   <w lemma="patiens" lemmaRef="http://lila-erc.eu/data/id/hypolemma/31216" norm="patiens">patiens</w>
                   <w lemma="amor" lemmaRef="http://lila-erc.eu/data/id/lemma/88717" norm="amor">amor</w>
