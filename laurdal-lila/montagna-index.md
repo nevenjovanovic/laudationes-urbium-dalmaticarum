@@ -60,10 +60,10 @@
       <td>DEEST</td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nobilitas" lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitatis">nobilitatis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="aspalathensis" lemmaRef="DEEST" norm="Aspalathensis">Aspalatensis</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -71,11 +71,11 @@
       <td>DEEST</td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="do" lemmaRef="http://lila-erc.eu/data/id/lemma/99970" norm="dat">dat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="Zanna" lemmaRef="DEEST" norm="Zanna">Zanna</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="paternus" lemmaRef="http://lila-erc.eu/data/id/lemma/116207" norm="paternum">paternum</w>
-        </span>
+        </p>
       </td>
     </tr>
   </tbody>
@@ -106,26 +106,26 @@
       </td>
       <td>4</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dico" lemmaRef="http://lila-erc.eu/data/id/lemma/99302" norm="dictus">dictus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="hostis" lemmaRef="http://lila-erc.eu/data/id/lemma/105757" norm="hostis">hostis</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="cognomen" lemmaRef="http://lila-erc.eu/data/id/lemma/94731" norm="cognomen">cognomen</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="afer" lemmaRef="https://lila-erc.eu/data/id/lemma/7013" norm="Afris">Afris</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="pollio" lemmaRef="https://lila-erc.eu/data/id/lemma/19043" norm="Pollio">Pollio</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="antiquus" lemmaRef="http://lila-erc.eu/data/id/lemma/87976" norm="antiqua">antiqua</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="magnos">magnos</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="a">a</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="qua">qua</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -135,14 +135,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="mando" lemmaRef="http://lila-erc.eu/data/id/lemma/111470" norm="mandare">mandare</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="aeternus" lemmaRef="http://lila-erc.eu/data/id/lemma/87961" norm="aeternae">aeternae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="teque" ana="enclisis">
             <w lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -152,11 +152,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="afer" lemmaRef="https://lila-erc.eu/data/id/lemma/7013" norm="Afris">Afris</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="scipio" lemmaRef="http://lila-erc.eu/data/id/lemma/21061" norm="Scipio">Scipio</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -166,10 +166,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="alitus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/1781" norm="alta">alta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -179,11 +179,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="auunculus" lemmaRef="http://lila-erc.eu/data/id/lemma/90860" norm="auunculus">auunculus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="almus" lemmaRef="http://lila-erc.eu/data/id/lemma/88426" norm="almae">almae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ecclesia" lemmaRef="http://lila-erc.eu/data/id/lemma/100517" norm="ecclesiae">Ecclesiae</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -193,11 +193,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="antiquus" lemmaRef="http://lila-erc.eu/data/id/lemma/87976" norm="antiqua">antiqua</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sic" lemmaRef="http://lila-erc.eu/data/id/lemma/124690" norm="sic">sic</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -207,11 +207,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uir" lemmaRef="http://lila-erc.eu/data/id/lemma/130300" norm="uiros">uiros</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="arma" lemmaRef="http://lila-erc.eu/data/id/lemma/89998" norm="armis">armis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nouus" lemmaRef="http://lila-erc.eu/data/id/lemma/113900" norm="noua">noua</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -221,14 +221,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="uetusque" ana="enclisis">
                   <w lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="uetus">uetus</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="aspalathum" lemmaRef="https://lila-erc.eu/data/id/lemma/25420" norm="Aspalathi">Aspalati</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="possum" lemmaRef="http://lila-erc.eu/data/id/lemma/118569" norm="posset">posset</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -238,11 +238,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="franciscus" lemmaRef="http://lila-erc.eu/data/id/lemma/53375" norm="Franciscus">Franciscus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="auunculus" lemmaRef="http://lila-erc.eu/data/id/lemma/90860" norm="auunculus">auunculus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="almus" lemmaRef="http://lila-erc.eu/data/id/lemma/88426" norm="almae">almae</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -252,14 +252,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="orno" lemmaRef="http://lila-erc.eu/data/id/lemma/115284" norm="ornatur">ornatur</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="auus" lemmaRef="http://lila-erc.eu/data/id/lemma/90862" norm="auorum">auorum</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="Eugeniique" ana="enclisis">
                      <w lemma="eugenius" lemmaRef="https://lila-erc.eu/data/id/lemma/6579" norm="Eugenii">Eugenii</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -269,10 +269,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dicio" lemmaRef="http://lila-erc.eu/data/id/lemma/99299" norm="ditione">ditione</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="beatus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/4503" norm="beatae">beatae</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -282,14 +282,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tectum" lemmaRef="http://lila-erc.eu/data/id/lemma/132231" norm="tecti">tecti</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="caesar" lemmaRef="http://lila-erc.eu/data/id/lemma/1947" norm="Caesaris">Cesaris</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="Illyricique" ana="enclisis">
             <w lemma="illyricum" lemmaRef="http://lila-erc.eu/data/id/lemma/10084" norm="illyrici">Illirici</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -299,16 +299,16 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sicut" lemmaRef="http://lila-erc.eu/data/id/lemma/124723" norm="sicut">sicut</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="carmen" lemmaRef="http://lila-erc.eu/data/id/lemma/96629" norm="carmine">carmine</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="troia" lemmaRef="http://lila-erc.eu/data/id/lemma/24131" norm="Troiam">Troiam</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dignus" lemmaRef="http://lila-erc.eu/data/id/lemma/99407" norm="digna">digna</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="carmen" lemmaRef="http://lila-erc.eu/data/id/lemma/96629" norm="carmina">Carmina</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="satis" lemmaRef="http://lila-erc.eu/data/id/lemma/123480" norm="sat">sat</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -318,11 +318,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="causa" lemmaRef="http://lila-erc.eu/data/id/lemma/93253" norm="causa">causa</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tristitia" lemmaRef="http://lila-erc.eu/data/id/lemma/129022" norm="tristitiae">Tristitiae</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -332,16 +332,16 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="meritum" lemmaRef="http://lila-erc.eu/data/id/lemma/112092" norm="meritis">meritis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="clarus" lemmaRef="http://lila-erc.eu/data/id/lemma/94439" norm="clarissima">clarissima</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tantus" lemmaRef="http://lila-erc.eu/data/id/lemma/127630" norm="tantis">tantis</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="paternus" lemmaRef="http://lila-erc.eu/data/id/lemma/116207" norm="paternum">paternum</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="clarus" lemmaRef="http://lila-erc.eu/data/id/lemma/94439" norm="clara">Clara</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="genus" lemmaRef="http://lila-erc.eu/data/id/lemma/104504" norm="genus">genus</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -351,11 +351,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="supersum" lemmaRef="http://lila-erc.eu/data/id/lemma/126965" norm="supersit">supersit</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="cognomen" lemmaRef="http://lila-erc.eu/data/id/lemma/94731" norm="cognomen">cognomen</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -365,10 +365,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="conciuis" lemmaRef="http://lila-erc.eu/data/id/lemma/95537" norm="conciuis">Conciuis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -378,11 +378,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="condo" lemmaRef="http://lila-erc.eu/data/id/lemma/95677" norm="condere">condere</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dignus" lemmaRef="http://lila-erc.eu/data/id/lemma/99407" norm="digna">digna</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -392,11 +392,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="gloria" lemmaRef="http://lila-erc.eu/data/id/lemma/104703" norm="gloria">Gloria</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dalmatia" lemmaRef="http://lila-erc.eu/data/id/lemma/4450" norm="Dalmatiae">Dalmatiae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uenetus" lemmaRef="https://lila-erc.eu/data/id/lemma/129782" norm="Veneta">Veneta</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -406,11 +406,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="satis" lemmaRef="http://lila-erc.eu/data/id/lemma/123480" norm="sat">sat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="decorum" lemmaRef="http://lila-erc.eu/data/id/lemma/138970" norm="decori">decori</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -420,14 +420,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="Illyricique" ana="enclisis">
             <w lemma="illyricum" lemmaRef="http://lila-erc.eu/data/id/lemma/10084" norm="illyrici">Illirici</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="decus" lemmaRef="http://lila-erc.eu/data/id/lemma/98168" norm="decus">decus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="mare" lemmaRef="http://lila-erc.eu/data/id/lemma/111604" norm="maris">maris</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -437,11 +437,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="non" lemmaRef="http://lila-erc.eu/data/id/lemma/114108" norm="non">non</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dedignatus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/10868" norm="dedignatus">dedignatus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" norm="honoris">honoris</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -451,11 +451,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uenetus" lemmaRef="https://lila-erc.eu/data/id/lemma/129782" norm="Veneta">Veneta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dego" lemmaRef="http://lila-erc.eu/data/id/lemma/98339" norm="degente">degente</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="domus" lemmaRef="http://lila-erc.eu/data/id/lemma/100071" norm="domus">domus</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -465,11 +465,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uenetus" lemmaRef="https://lila-erc.eu/data/id/lemma/129782" norm="Veneta">Veneta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dicio" lemmaRef="http://lila-erc.eu/data/id/lemma/99299" norm="ditione">ditione</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="beatus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/4503" norm="beatae">beatae</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -479,11 +479,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="torquatus" lemmaRef="http://lila-erc.eu/data/id/lemma/23904" norm="Torquatus">Torquatus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dico" lemmaRef="http://lila-erc.eu/data/id/lemma/99302" norm="dictus">dictus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -493,16 +493,16 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="possum" lemmaRef="http://lila-erc.eu/data/id/lemma/118569" norm="posset">posset</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dignus" lemmaRef="http://lila-erc.eu/data/id/lemma/99407" norm="dignas">dignas</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="expromo" lemmaRef="http://lila-erc.eu/data/id/lemma/102238" norm="expromere">expromere</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="condo" lemmaRef="http://lila-erc.eu/data/id/lemma/95677" norm="condere">condere</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dignus" lemmaRef="http://lila-erc.eu/data/id/lemma/99407" norm="digna">digna</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="carmen" lemmaRef="http://lila-erc.eu/data/id/lemma/96629" norm="carmina">Carmina</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -512,11 +512,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="homerus" lemmaRef="http://lila-erc.eu/data/id/lemma/9477" norm="Homerus">Homerus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="diuinus" lemmaRef="http://lila-erc.eu/data/id/lemma/99944" norm="diuino">Diuino</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="orno" lemmaRef="http://lila-erc.eu/data/id/lemma/115284" norm="ornarunt">ornarunt</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -526,11 +526,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="domus" lemmaRef="http://lila-erc.eu/data/id/lemma/100071" norm="domus">domus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="do" lemmaRef="http://lila-erc.eu/data/id/lemma/99970" norm="dat">dat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="Zanna" lemmaRef="DEEST" norm="Zanna">Zanna</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -540,11 +540,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sui" lemmaRef="http://lila-erc.eu/data/id/lemma/131255" norm="sibi">sibi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="domo" lemmaRef="http://lila-erc.eu/data/id/lemma/100067" norm="domitis">Domitis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="supersum" lemmaRef="http://lila-erc.eu/data/id/lemma/126965" norm="supersit">supersit</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -554,11 +554,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dego" lemmaRef="http://lila-erc.eu/data/id/lemma/98339" norm="degente">degente</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="domus" lemmaRef="http://lila-erc.eu/data/id/lemma/100071" norm="domus">domus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="do" lemmaRef="http://lila-erc.eu/data/id/lemma/99970" norm="dat">dat</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -568,11 +568,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="almus" lemmaRef="http://lila-erc.eu/data/id/lemma/88426" norm="almae">almae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ecclesia" lemmaRef="http://lila-erc.eu/data/id/lemma/100517" norm="ecclesiae">Ecclesiae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="princeps" lemmaRef="http://lila-erc.eu/data/id/lemma/73416" norm="princeps">princeps</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -582,10 +582,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ergo" lemmaRef="http://lila-erc.eu/data/id/lemma/101415" norm="ergo">Ergo</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nobilitas" lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitas">nobilitas</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -595,11 +595,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="scipio" lemmaRef="http://lila-erc.eu/data/id/lemma/21061" norm="Scipio">Scipio</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" norm="et">et</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="euerto" lemmaRef="http://lila-erc.eu/data/id/lemma/101618" norm="euersis">euersis</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -609,11 +609,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" norm="et">et</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="euerto" lemmaRef="http://lila-erc.eu/data/id/lemma/101618" norm="euersis">euersis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="idem" lemmaRef="http://lila-erc.eu/data/id/lemma/109082" norm="iisdem">iisdem</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -623,10 +623,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="eugenius" lemmaRef="https://lila-erc.eu/data/id/lemma/6579" norm="Eugenii">Eugenii</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -636,11 +636,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dignus" lemmaRef="http://lila-erc.eu/data/id/lemma/99407" norm="dignas">dignas</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="expromo" lemmaRef="http://lila-erc.eu/data/id/lemma/102238" norm="expromere">expromere</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laus" lemmaRef="http://lila-erc.eu/data/id/lemma/110103" norm="laudes">laudes</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -650,11 +650,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="ueteris">ueteris</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="fama" lemmaRef="http://lila-erc.eu/data/id/lemma/102868" norm="famae">famae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="monumentum" lemmaRef="http://lila-erc.eu/data/id/lemma/112273" norm="monumenta">monumenta</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -664,11 +664,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="qua">qua</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="fero" lemmaRef="http://lila-erc.eu/data/id/lemma/103126" norm="tulit">tulit</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="hostis" lemmaRef="http://lila-erc.eu/data/id/lemma/105757" norm="hoste">hoste</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -678,11 +678,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tandem" lemmaRef="http://lila-erc.eu/data/id/lemma/127618" norm="tandem">tandem</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="fio" lemmaRef="http://lila-erc.eu/data/id/lemma/103328" norm="facta">facta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="incola" lemmaRef="http://lila-erc.eu/data/id/lemma/107023" norm="incola">incola</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -692,11 +692,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="erat">erat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="franciscus" lemmaRef="http://lila-erc.eu/data/id/lemma/53375" norm="Franciscus">Franciscus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="auunculus" lemmaRef="http://lila-erc.eu/data/id/lemma/90860" norm="auunculus">auunculus</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -706,11 +706,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="frons" lemmaRef="http://lila-erc.eu/data/id/lemma/103845" norm="fronde">Fronde</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uelut" lemmaRef="http://lila-erc.eu/data/id/lemma/129732" norm="uelut">uelut</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -720,11 +720,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="clarus" lemmaRef="http://lila-erc.eu/data/id/lemma/94439" norm="clara">Clara</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="genus" lemmaRef="http://lila-erc.eu/data/id/lemma/104504" norm="genus">genus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="ueterum">ueterum</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -734,11 +734,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="longe" lemmaRef="http://lila-erc.eu/data/id/hypolemma/25967" norm="longe">longe</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="gloria" lemmaRef="http://lila-erc.eu/data/id/lemma/104703" norm="gloria">Gloria</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dalmatia" lemmaRef="http://lila-erc.eu/data/id/lemma/4450" norm="Dalmatiae">Dalmatiae</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -748,10 +748,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="heus" lemmaRef="http://lila-erc.eu/data/id/lemma/105418" norm="heu">Heu</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="neque">neque</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -761,10 +761,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="hic" lemmaRef="http://lila-erc.eu/data/id/lemma/105455" norm="huic">Huic</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -774,11 +774,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uiuo" lemmaRef="http://lila-erc.eu/data/id/lemma/130476" norm="uiuit">uiuit</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="homerus" lemmaRef="http://lila-erc.eu/data/id/lemma/9477" norm="Homerus">Homerus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="diuinus" lemmaRef="http://lila-erc.eu/data/id/lemma/99944" norm="diuino">Diuino</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -788,15 +788,15 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dedignatus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/10868" norm="dedignatus">dedignatus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" norm="honoris">honoris</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="praesto" lemmaRef="http://lila-erc.eu/data/id/lemma/119246" norm="praestat">prestat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" norm="honoris">honoris</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="cui">Cui</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -806,19 +806,19 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="hostis" lemmaRef="http://lila-erc.eu/data/id/lemma/105757" norm="hostis">hostis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="utque" ana="enclisis">
             <w lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" norm="ut">Vt</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="fero" lemmaRef="http://lila-erc.eu/data/id/lemma/103126" norm="tulit">tulit</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="hostis" lemmaRef="http://lila-erc.eu/data/id/lemma/105757" norm="hoste">hoste</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="triumphus" lemmaRef="http://lila-erc.eu/data/id/lemma/129058" norm="triumphos">triumphos</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -828,14 +828,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="euerto" lemmaRef="http://lila-erc.eu/data/id/lemma/101618" norm="euersis">euersis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="idem" lemmaRef="http://lila-erc.eu/data/id/lemma/109082" norm="iisdem">iisdem</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="maiorque" ana="enclisis">
             <w lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="maior">maior</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -845,14 +845,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="reliquiae" lemmaRef="http://lila-erc.eu/data/id/lemma/76048" norm="reliquiae">reliquiae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ille" lemmaRef="http://lila-erc.eu/data/id/lemma/106221" norm="illius">illius</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="populusque" ana="enclisis">
             <w lemma="populus" lemmaRef="http://lila-erc.eu/data/id/lemma/118463" norm="populus">populus</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -862,10 +862,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="illyricum" lemmaRef="http://lila-erc.eu/data/id/lemma/10084" norm="illyrici">Illirici</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -875,11 +875,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="natus" lemmaRef="http://lila-erc.eu/data/id/lemma/113505" norm="nato">nato</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="impono" lemmaRef="http://lila-erc.eu/data/id/lemma/106633" norm="imponere">imponere</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="terra" lemmaRef="http://lila-erc.eu/data/id/lemma/127912" norm="terra">terra</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -889,10 +889,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="in" lemmaRef="http://lila-erc.eu/data/id/lemma/106748" norm="in">In</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laus" lemmaRef="http://lila-erc.eu/data/id/lemma/110103" norm="laudem">laudem</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -902,11 +902,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="fio" lemmaRef="http://lila-erc.eu/data/id/lemma/103328" norm="facta">facta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="incola" lemmaRef="http://lila-erc.eu/data/id/lemma/107023" norm="incola">incola</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tectum" lemmaRef="http://lila-erc.eu/data/id/lemma/132231" norm="tecti">tecti</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -916,21 +916,21 @@
       </td>
       <td>3</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="terra" lemmaRef="http://lila-erc.eu/data/id/lemma/127912" norm="terra">terra</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipse">Ipse</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tua">tua</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="parum" lemmaRef="http://lila-erc.eu/data/id/lemma/116130" norm="minus">minus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipse">ipse</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuus">tuus</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laurentius" lemmaRef="https://lila-erc.eu/data/id/lemma/11522" norm="Laurentius">Laurentius</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipsi">ipsi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -940,11 +940,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="perpetue" lemmaRef="http://lila-erc.eu/data/id/hypolemma/32658" norm="perpetuo">Perpetuo</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laetor" lemmaRef="http://lila-erc.eu/data/id/lemma/109736" norm="laetare">laetare</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuis">tuis</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -954,11 +954,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nomen" lemmaRef="http://lila-erc.eu/data/id/lemma/113797" norm="nomen">nomen</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laurentius" lemmaRef="https://lila-erc.eu/data/id/lemma/11522" norm="Laurentius">Laurentius</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipsi">ipsi</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -968,11 +968,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uelut" lemmaRef="http://lila-erc.eu/data/id/lemma/129732" norm="uelut">uelut</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laurus" lemmaRef="http://lila-erc.eu/data/id/lemma/110101" norm="laurus">laurus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quoniam" lemmaRef="http://lila-erc.eu/data/id/lemma/121289" norm="quoniam">quoniam</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -982,15 +982,15 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="in" lemmaRef="http://lila-erc.eu/data/id/lemma/106748" norm="in">In</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laus" lemmaRef="http://lila-erc.eu/data/id/lemma/110103" norm="laudem">laudem</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nobilitas" lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitatis">nobilitatis</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="expromo" lemmaRef="http://lila-erc.eu/data/id/lemma/102238" norm="expromere">expromere</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laus" lemmaRef="http://lila-erc.eu/data/id/lemma/110103" norm="laudes">laudes</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1000,14 +1000,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="altaque" ana="enclisis">
             <w lemma="alitus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/1781" norm="alta">alta</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="longe" lemmaRef="http://lila-erc.eu/data/id/hypolemma/25967" norm="longe">longe</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="gloria" lemmaRef="http://lila-erc.eu/data/id/lemma/104703" norm="gloria">Gloria</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1017,20 +1017,20 @@
       </td>
       <td>3</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">nec</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="magnus">magnus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uiuo" lemmaRef="http://lila-erc.eu/data/id/lemma/130476" norm="uiuit">uiuit</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="maior">maior</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tua">tua</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="magnos">magnos</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="a">a</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1040,11 +1040,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="salonae" lemmaRef="https://lila-erc.eu/data/id/lemma/20642" norm="Salonae">Salonae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="mando" lemmaRef="http://lila-erc.eu/data/id/lemma/111470" norm="mandare">mandare</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="aeternus" lemmaRef="http://lila-erc.eu/data/id/lemma/87961" norm="aeternae">aeternae</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1054,14 +1054,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="decus" lemmaRef="http://lila-erc.eu/data/id/lemma/98168" norm="decus">decus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="mare" lemmaRef="http://lila-erc.eu/data/id/lemma/111604" norm="maris">maris</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="altaque" ana="enclisis">
             <w lemma="alitus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/1781" norm="alta">alta</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1071,11 +1071,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nepos" lemmaRef="http://lila-erc.eu/data/id/lemma/113596" norm="nepos">nepos</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="maternus" lemmaRef="http://lila-erc.eu/data/id/lemma/111702" norm="materno">materno</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1085,10 +1085,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="maximus" lemmaRef="https://lila-erc.eu/data/id/lemma/13803" norm="Maximus">Maximus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" norm="ut">ut</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1098,11 +1098,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nobilitas" lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitas">nobilitas</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="meritum" lemmaRef="http://lila-erc.eu/data/id/lemma/112092" norm="meritis">meritis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="clarus" lemmaRef="http://lila-erc.eu/data/id/lemma/94439" norm="clarissima">clarissima</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1112,16 +1112,16 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="fama" lemmaRef="http://lila-erc.eu/data/id/lemma/102868" norm="famae">famae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="monumentum" lemmaRef="http://lila-erc.eu/data/id/lemma/112273" norm="monumenta">monumenta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="salonae" lemmaRef="https://lila-erc.eu/data/id/lemma/20642" norm="Salonae">Salonae</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="sunt">sunt</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="monumentum" lemmaRef="http://lila-erc.eu/data/id/lemma/112273" norm="monumenta">monumenta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuorum">tuorum</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1131,10 +1131,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="namque" lemmaRef="http://lila-erc.eu/data/id/lemma/113345" norm="namque">Namque</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="es">es</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1144,11 +1144,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="triumphus" lemmaRef="http://lila-erc.eu/data/id/lemma/129058" norm="triumphos">triumphos</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nascor" lemmaRef="http://lila-erc.eu/data/id/lemma/113387" norm="nascenti">Nascenti</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nomen" lemmaRef="http://lila-erc.eu/data/id/lemma/113797" norm="nomen">nomen</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1158,11 +1158,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sic" lemmaRef="http://lila-erc.eu/data/id/lemma/124690" norm="sic">sic</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="natus" lemmaRef="http://lila-erc.eu/data/id/lemma/113505" norm="nato">nato</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="impono" lemmaRef="http://lila-erc.eu/data/id/lemma/106633" norm="imponere">imponere</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1172,25 +1172,25 @@
       </td>
       <td>4</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="heus" lemmaRef="http://lila-erc.eu/data/id/lemma/105418" norm="heu">Heu</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="neque">neque</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uergilius" lemmaRef="https://lila-erc.eu/data/id/lemma/24881" norm="Vergilius">Virgilius</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uergilius" lemmaRef="https://lila-erc.eu/data/id/lemma/24881" norm="Vergilius">Virgilius</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">nec</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="magnus">magnus</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuis">tuis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">nec</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="sit">sit</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">Nec</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="parum" lemmaRef="http://lila-erc.eu/data/id/lemma/116130" norm="minus">minus</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1200,11 +1200,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quod" lemmaRef="http://lila-erc.eu/data/id/lemma/74854" norm="quod">quod</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nemo" lemmaRef="http://lila-erc.eu/data/id/lemma/113605" norm="nemo">nemo</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="queo" lemmaRef="http://lila-erc.eu/data/id/lemma/121142" norm="queat">queat</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1214,14 +1214,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="Eugeniique" ana="enclisis">
                      <w lemma="eugenius" lemmaRef="https://lila-erc.eu/data/id/lemma/6579" norm="Eugenii">Eugenii</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nepos" lemmaRef="http://lila-erc.eu/data/id/lemma/113596" norm="nepos">nepos</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="maternus" lemmaRef="http://lila-erc.eu/data/id/lemma/111702" norm="materno">materno</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1231,21 +1231,21 @@
       </td>
       <td>3</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laus" lemmaRef="http://lila-erc.eu/data/id/lemma/110103" norm="laudem">laudem</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nobilitas" lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitatis">nobilitatis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="aspalathensis" lemmaRef="DEEST" norm="Aspalathensis">Aspalatensis</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nobilitas" lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitas">nobilitas</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="pulcher" lemmaRef="http://lila-erc.eu/data/id/lemma/120421" norm="pulchri">pulchri</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ergo" lemmaRef="http://lila-erc.eu/data/id/lemma/101415" norm="ergo">Ergo</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nobilitas" lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitas">nobilitas</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="meritum" lemmaRef="http://lila-erc.eu/data/id/lemma/112092" norm="meritis">meritis</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1255,16 +1255,16 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nascor" lemmaRef="http://lila-erc.eu/data/id/lemma/113387" norm="nascenti">Nascenti</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nomen" lemmaRef="http://lila-erc.eu/data/id/lemma/113797" norm="nomen">nomen</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="non" lemmaRef="http://lila-erc.eu/data/id/lemma/114108" norm="non">non</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="princeps" lemmaRef="http://lila-erc.eu/data/id/lemma/73416" norm="princeps">princeps</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nomen" lemmaRef="http://lila-erc.eu/data/id/lemma/113797" norm="nomen">nomen</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laurentius" lemmaRef="https://lila-erc.eu/data/id/lemma/11522" norm="Laurentius">Laurentius</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1274,11 +1274,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nomen" lemmaRef="http://lila-erc.eu/data/id/lemma/113797" norm="nomen">nomen</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="non" lemmaRef="http://lila-erc.eu/data/id/lemma/114108" norm="non">non</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dedignatus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/10868" norm="dedignatus">dedignatus</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1288,11 +1288,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="arma" lemmaRef="http://lila-erc.eu/data/id/lemma/89998" norm="armis">armis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nouus" lemmaRef="http://lila-erc.eu/data/id/lemma/113900" norm="noua">noua</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="regnum" lemmaRef="http://lila-erc.eu/data/id/lemma/121683" norm="regna">regna</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1302,16 +1302,16 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="diuinus" lemmaRef="http://lila-erc.eu/data/id/lemma/99944" norm="diuino">Diuino</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="orno" lemmaRef="http://lila-erc.eu/data/id/lemma/115284" norm="ornarunt">ornarunt</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="qui">qui</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="titulus" lemmaRef="http://lila-erc.eu/data/id/lemma/128926" norm="titulis">titulis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="orno" lemmaRef="http://lila-erc.eu/data/id/lemma/115284" norm="ornatur">ornatur</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="auus" lemmaRef="http://lila-erc.eu/data/id/lemma/90862" norm="auorum">auorum</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1321,11 +1321,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">Nec</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="parum" lemmaRef="http://lila-erc.eu/data/id/lemma/116130" norm="minus">minus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipse">ipse</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1335,10 +1335,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="paruus" lemmaRef="http://lila-erc.eu/data/id/lemma/116136" norm="minor">minor</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1348,11 +1348,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="Zanna" lemmaRef="DEEST" norm="Zanna">Zanna</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="paternus" lemmaRef="http://lila-erc.eu/data/id/lemma/116207" norm="paternum">paternum</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="clarus" lemmaRef="http://lila-erc.eu/data/id/lemma/94439" norm="clara">Clara</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1362,11 +1362,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tantus" lemmaRef="http://lila-erc.eu/data/id/lemma/127630" norm="tantis">tantis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="perpetue" lemmaRef="http://lila-erc.eu/data/id/hypolemma/32658" norm="perpetuo">Perpetuo</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laetor" lemmaRef="http://lila-erc.eu/data/id/lemma/109736" norm="laetare">laetare</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1376,11 +1376,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="regnum" lemmaRef="http://lila-erc.eu/data/id/lemma/121683" norm="regna">regna</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="peto" lemmaRef="http://lila-erc.eu/data/id/lemma/117549" norm="petentes">petentes</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sic" lemmaRef="http://lila-erc.eu/data/id/lemma/124690" norm="sic">Sic</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1390,14 +1390,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="minorque" ana="enclisis">
             <w lemma="paruus" lemmaRef="http://lila-erc.eu/data/id/lemma/116136" norm="minor">minor</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="pollio" lemmaRef="https://lila-erc.eu/data/id/lemma/19043" norm="Pollio">Pollio</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="ab">ab</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1407,10 +1407,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="populus" lemmaRef="http://lila-erc.eu/data/id/lemma/118463" norm="populus">populus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1420,16 +1420,16 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="aspalathum" lemmaRef="https://lila-erc.eu/data/id/lemma/25420" norm="Aspalathi">Aspalati</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="possum" lemmaRef="http://lila-erc.eu/data/id/lemma/118569" norm="posset">posset</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dignus" lemmaRef="http://lila-erc.eu/data/id/lemma/99407" norm="dignas">dignas</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sic" lemmaRef="http://lila-erc.eu/data/id/lemma/124690" norm="sic">Sic</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="possum" lemmaRef="http://lila-erc.eu/data/id/lemma/118569" norm="possint">possint</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="ueteris">ueteris</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1439,11 +1439,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="praesto" lemmaRef="http://lila-erc.eu/data/id/lemma/119246" norm="praestat">prestat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" norm="honoris">honoris</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1453,11 +1453,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuus">tuus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="praesul" lemmaRef="http://lila-erc.eu/data/id/lemma/119259" norm="praesul">praesul</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1467,11 +1467,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ecclesia" lemmaRef="http://lila-erc.eu/data/id/lemma/100517" norm="ecclesiae">Ecclesiae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="princeps" lemmaRef="http://lila-erc.eu/data/id/lemma/73416" norm="princeps">princeps</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nomen" lemmaRef="http://lila-erc.eu/data/id/lemma/113797" norm="nomen">nomen</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1481,11 +1481,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nobilitas" lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitas">nobilitas</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="pulcher" lemmaRef="http://lila-erc.eu/data/id/lemma/120421" norm="pulchri">pulchri</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uenerandus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/112872" norm="ueneranda">ueneranda</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1495,14 +1495,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sanguis" lemmaRef="http://lila-erc.eu/data/id/lemma/123363" norm="sanguine">sanguine</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quartum" lemmaRef="http://lila-erc.eu/data/id/lemma/121110" norm="quarti">quarti</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="huicque" ana="enclisis">
             <w lemma="hic" lemmaRef="http://lila-erc.eu/data/id/lemma/105455" norm="huic">Huic</w>
                      <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1512,54 +1512,54 @@
       </td>
       <td>12</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="uetus">uetus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="troianus" lemmaRef="https://lila-erc.eu/data/id/lemma/24133" norm="Troianos">Troianos</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="populus" lemmaRef="http://lila-erc.eu/data/id/lemma/118463" norm="populus">populus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="conciuis" lemmaRef="http://lila-erc.eu/data/id/lemma/95537" norm="conciuis">Conciuis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="illyricum" lemmaRef="http://lila-erc.eu/data/id/lemma/10084" norm="illyrici">Illirici</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="alitus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/1781" norm="alta">alta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" norm="ut">Vt</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="maior">maior</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="paruus" lemmaRef="http://lila-erc.eu/data/id/lemma/116136" norm="minor">minor</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="eugenius" lemmaRef="https://lila-erc.eu/data/id/lemma/6579" norm="Eugenii">Eugenii</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="hic" lemmaRef="http://lila-erc.eu/data/id/lemma/105455" norm="huic">Huic</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1569,11 +1569,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nemo" lemmaRef="http://lila-erc.eu/data/id/lemma/113605" norm="nemo">nemo</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="queo" lemmaRef="http://lila-erc.eu/data/id/lemma/121142" norm="queat">queat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1583,21 +1583,21 @@
       </td>
       <td>3</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="orno" lemmaRef="http://lila-erc.eu/data/id/lemma/115284" norm="ornarunt">ornarunt</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="qui">qui</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sicut" lemmaRef="http://lila-erc.eu/data/id/lemma/124723" norm="sicut">sicut</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="a" lemmaRef="http://lila-erc.eu/data/id/lemma/86824" norm="a">a</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="qua">qua</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="fero" lemmaRef="http://lila-erc.eu/data/id/lemma/103126" norm="tulit">tulit</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="honor" lemmaRef="http://lila-erc.eu/data/id/lemma/105647" norm="honoris">honoris</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="cui">Cui</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uenetus" lemmaRef="https://lila-erc.eu/data/id/lemma/129782" norm="Veneta">Veneta</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1607,10 +1607,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quis" lemmaRef="http://lila-erc.eu/data/id/lemma/121165" norm="quis">Quis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1620,11 +1620,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tristitia" lemmaRef="http://lila-erc.eu/data/id/lemma/129022" norm="tristitiae">Tristitiae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quod" lemmaRef="http://lila-erc.eu/data/id/lemma/74854" norm="quod">quod</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nemo" lemmaRef="http://lila-erc.eu/data/id/lemma/113605" norm="nemo">nemo</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1634,11 +1634,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laurus" lemmaRef="http://lila-erc.eu/data/id/lemma/110101" norm="laurus">laurus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quoniam" lemmaRef="http://lila-erc.eu/data/id/lemma/121289" norm="quoniam">quoniam</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uirtus" lemmaRef="http://lila-erc.eu/data/id/lemma/130356" norm="uirtute">uirtute</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1648,11 +1648,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nouus" lemmaRef="http://lila-erc.eu/data/id/lemma/113900" norm="noua">noua</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="regnum" lemmaRef="http://lila-erc.eu/data/id/lemma/121683" norm="regna">regna</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="peto" lemmaRef="http://lila-erc.eu/data/id/lemma/117549" norm="petentes">petentes</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1662,11 +1662,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="es">es</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="reliquiae" lemmaRef="http://lila-erc.eu/data/id/lemma/76048" norm="reliquiae">reliquiae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ille" lemmaRef="http://lila-erc.eu/data/id/lemma/106221" norm="illius">illius</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1676,11 +1676,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="monumentum" lemmaRef="http://lila-erc.eu/data/id/lemma/112273" norm="monumenta">monumenta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="salonae" lemmaRef="https://lila-erc.eu/data/id/lemma/20642" norm="Salonae">Salonae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="mando" lemmaRef="http://lila-erc.eu/data/id/lemma/111470" norm="mandare">mandare</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1690,11 +1690,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sanguis" lemmaRef="http://lila-erc.eu/data/id/lemma/123363" norm="sanguine">sanguine</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quartum" lemmaRef="http://lila-erc.eu/data/id/lemma/121110" norm="quarti">quarti</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1704,11 +1704,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="carmen" lemmaRef="http://lila-erc.eu/data/id/lemma/96629" norm="carmina">Carmina</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="satis" lemmaRef="http://lila-erc.eu/data/id/lemma/123480" norm="sat">sat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="decorum" lemmaRef="http://lila-erc.eu/data/id/lemma/138970" norm="decori">decori</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1718,11 +1718,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="afer" lemmaRef="https://lila-erc.eu/data/id/lemma/7013" norm="Afris">Afris</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="scipio" lemmaRef="http://lila-erc.eu/data/id/lemma/21061" norm="Scipio">Scipio</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542" norm="et">et</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1732,14 +1732,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="huicque" ana="enclisis">
             <w lemma="hic" lemmaRef="http://lila-erc.eu/data/id/lemma/105455" norm="huic">Huic</w>
                      <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="secundus" lemmaRef="http://lila-erc.eu/data/id/lemma/127502" norm="secundus">secundus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="erat">erat</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1749,11 +1749,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="urbs" lemmaRef="http://lila-erc.eu/data/id/lemma/130822" norm="urbis">urbis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="semen" lemmaRef="http://lila-erc.eu/data/id/lemma/124091" norm="semina">semina</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tantus" lemmaRef="http://lila-erc.eu/data/id/lemma/127630" norm="tantae">tantae</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1763,16 +1763,16 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="peto" lemmaRef="http://lila-erc.eu/data/id/lemma/117549" norm="petentes">petentes</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sic" lemmaRef="http://lila-erc.eu/data/id/lemma/124690" norm="sic">Sic</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="possum" lemmaRef="http://lila-erc.eu/data/id/lemma/118569" norm="possint">possint</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="antiquus" lemmaRef="http://lila-erc.eu/data/id/lemma/87976" norm="antiqua">antiqua</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sic" lemmaRef="http://lila-erc.eu/data/id/lemma/124690" norm="sic">sic</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="natus" lemmaRef="http://lila-erc.eu/data/id/lemma/113505" norm="nato">nato</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1782,11 +1782,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="qui">qui</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sicut" lemmaRef="http://lila-erc.eu/data/id/lemma/124723" norm="sicut">sicut</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="carmen" lemmaRef="http://lila-erc.eu/data/id/lemma/96629" norm="carmine">carmine</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1796,14 +1796,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="utque" ana="enclisis">
             <w lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" norm="ut">Vt</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sui" lemmaRef="http://lila-erc.eu/data/id/lemma/131255" norm="sibi">sibi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="domo" lemmaRef="http://lila-erc.eu/data/id/lemma/100067" norm="domitis">Domitis</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1813,41 +1813,41 @@
       </td>
       <td>7</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="namque" lemmaRef="http://lila-erc.eu/data/id/lemma/113345" norm="namque">Namque</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="es">es</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="reliquiae" lemmaRef="http://lila-erc.eu/data/id/lemma/76048" norm="reliquiae">reliquiae</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="torques" lemmaRef="https://lila-erc.eu/data/id/lemma/128450" norm="torque">torque</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="torquatus" lemmaRef="http://lila-erc.eu/data/id/lemma/23904" norm="Torquatus">Torquatus</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">nec</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="sit">sit</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="sunt">sunt</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="monumentum" lemmaRef="http://lila-erc.eu/data/id/lemma/112273" norm="monumenta">monumenta</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="maternus" lemmaRef="http://lila-erc.eu/data/id/lemma/111702" norm="materno">materno</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sanguis" lemmaRef="http://lila-erc.eu/data/id/lemma/123363" norm="sanguine">sanguine</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="secundus" lemmaRef="http://lila-erc.eu/data/id/lemma/127502" norm="secundus">secundus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="erat">erat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="franciscus" lemmaRef="http://lila-erc.eu/data/id/lemma/53375" norm="Franciscus">Franciscus</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipsi">ipsi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="frons" lemmaRef="http://lila-erc.eu/data/id/lemma/103845" norm="fronde">Fronde</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1857,7 +1857,7 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="populusque" ana="enclisis">
             <w lemma="populus" lemmaRef="http://lila-erc.eu/data/id/lemma/118463" norm="populus">populus</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
@@ -1867,7 +1867,7 @@
             <w lemma="conciuis" lemmaRef="http://lila-erc.eu/data/id/lemma/95537" norm="conciuis">Conciuis</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1877,11 +1877,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="domo" lemmaRef="http://lila-erc.eu/data/id/lemma/100067" norm="domitis">Domitis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="supersum" lemmaRef="http://lila-erc.eu/data/id/lemma/126965" norm="supersit">supersit</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="cognomen" lemmaRef="http://lila-erc.eu/data/id/lemma/94731" norm="cognomen">cognomen</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1891,11 +1891,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tui">tui</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tandem" lemmaRef="http://lila-erc.eu/data/id/lemma/127618" norm="tandem">tandem</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="fio" lemmaRef="http://lila-erc.eu/data/id/lemma/103328" norm="facta">facta</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1905,15 +1905,15 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="semen" lemmaRef="http://lila-erc.eu/data/id/lemma/124091" norm="semina">semina</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tantus" lemmaRef="http://lila-erc.eu/data/id/lemma/127630" norm="tantae">tantae</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="clarus" lemmaRef="http://lila-erc.eu/data/id/lemma/94439" norm="clarissima">clarissima</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tantus" lemmaRef="http://lila-erc.eu/data/id/lemma/127630" norm="tantis">tantis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="perpetue" lemmaRef="http://lila-erc.eu/data/id/hypolemma/32658" norm="perpetuo">Perpetuo</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1923,11 +1923,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="incola" lemmaRef="http://lila-erc.eu/data/id/lemma/107023" norm="incola">incola</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tectum" lemmaRef="http://lila-erc.eu/data/id/lemma/132231" norm="tecti">tecti</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="caesar" lemmaRef="http://lila-erc.eu/data/id/lemma/1947" norm="Caesaris">Cesaris</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1937,11 +1937,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="impono" lemmaRef="http://lila-erc.eu/data/id/lemma/106633" norm="imponere">imponere</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="terra" lemmaRef="http://lila-erc.eu/data/id/lemma/127912" norm="terra">terra</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipse">Ipse</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1951,11 +1951,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="ueterum">ueterum</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="titulus" lemmaRef="http://lila-erc.eu/data/id/lemma/128926" norm="titulis">titulis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="orno" lemmaRef="http://lila-erc.eu/data/id/lemma/115284" norm="ornatur">ornatur</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1965,11 +1965,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="torquatus" lemmaRef="http://lila-erc.eu/data/id/lemma/23904" norm="Torquatus">Torquatus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dico" lemmaRef="http://lila-erc.eu/data/id/lemma/99302" norm="dictus">dictus</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1979,11 +1979,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" norm="ut">ut</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="torques" lemmaRef="https://lila-erc.eu/data/id/lemma/128450" norm="torque">torque</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="est">est</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -1993,11 +1993,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="causa" lemmaRef="http://lila-erc.eu/data/id/lemma/93253" norm="causa">causa</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tristitia" lemmaRef="http://lila-erc.eu/data/id/lemma/129022" norm="tristitiae">Tristitiae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quod" lemmaRef="http://lila-erc.eu/data/id/lemma/74854" norm="quod">quod</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2007,11 +2007,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="hostis" lemmaRef="http://lila-erc.eu/data/id/lemma/105757" norm="hoste">hoste</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="triumphus" lemmaRef="http://lila-erc.eu/data/id/lemma/129058" norm="triumphos">triumphos</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nascor" lemmaRef="http://lila-erc.eu/data/id/lemma/113387" norm="nascenti">Nascenti</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2021,14 +2021,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="carmen" lemmaRef="http://lila-erc.eu/data/id/lemma/96629" norm="carmine">carmine</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="troia" lemmaRef="http://lila-erc.eu/data/id/lemma/24131" norm="Troiam">Troiam</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="Troianosque" ana="enclisis">
                      <w lemma="troianus" lemmaRef="https://lila-erc.eu/data/id/lemma/24133" norm="Troianos">Troianos</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2038,10 +2038,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="troianus" lemmaRef="https://lila-erc.eu/data/id/lemma/24133" norm="Troianos">Troianos</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2051,35 +2051,35 @@
       </td>
       <td>6</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quis" lemmaRef="http://lila-erc.eu/data/id/lemma/121165" norm="quis">Quis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nobilitas" lemmaRef="http://lila-erc.eu/data/id/lemma/113752" norm="nobilitas">nobilitas</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="sit">sit</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="causa" lemmaRef="http://lila-erc.eu/data/id/lemma/93253" norm="causa">causa</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="queo" lemmaRef="http://lila-erc.eu/data/id/lemma/121142" norm="queat">queat</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="condo" lemmaRef="http://lila-erc.eu/data/id/lemma/95677" norm="condere">condere</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="decorum" lemmaRef="http://lila-erc.eu/data/id/lemma/138970" norm="decori">decori</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="sum" lemmaRef="http://lila-erc.eu/data/id/lemma/126689" norm="sunt">sunt</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="praesul" lemmaRef="http://lila-erc.eu/data/id/lemma/119259" norm="praesul">praesul</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="tibi">tibi</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="praesto" lemmaRef="http://lila-erc.eu/data/id/lemma/119246" norm="praestat">prestat</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2089,33 +2089,33 @@
       </td>
       <td>5</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="conciuisque" ana="enclisis">
             <w lemma="conciuis" lemmaRef="http://lila-erc.eu/data/id/lemma/95537" norm="conciuis">Conciuis</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tui">tui</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tandem" lemmaRef="http://lila-erc.eu/data/id/lemma/127618" norm="tandem">tandem</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipse">Ipse</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tua">tua</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="magnos">magnos</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laetor" lemmaRef="http://lila-erc.eu/data/id/lemma/109736" norm="laetare">laetare</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuis">tuis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">nec</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="monumentum" lemmaRef="http://lila-erc.eu/data/id/lemma/112273" norm="monumenta">monumenta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuorum">tuorum</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ipse" lemmaRef="http://lila-erc.eu/data/id/lemma/108945" norm="ipse">ipse</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="tuus" lemmaRef="http://lila-erc.eu/data/id/lemma/129328" norm="tuus">tuus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="praesul" lemmaRef="http://lila-erc.eu/data/id/lemma/119259" norm="praesul">praesul</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2125,11 +2125,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="frons" lemmaRef="http://lila-erc.eu/data/id/lemma/103845" norm="fronde">Fronde</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uelut" lemmaRef="http://lila-erc.eu/data/id/lemma/129732" norm="uelut">uelut</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="laurus" lemmaRef="http://lila-erc.eu/data/id/lemma/110101" norm="laurus">laurus</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2139,14 +2139,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="pulcher" lemmaRef="http://lila-erc.eu/data/id/lemma/120421" norm="pulchri">pulchri</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uenerandus" lemmaRef="http://lila-erc.eu/data/id/hypolemma/112872" norm="ueneranda">ueneranda</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="uetusque" ana="enclisis">
                   <w lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="uetus">uetus</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2156,16 +2156,16 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dalmatia" lemmaRef="http://lila-erc.eu/data/id/lemma/4450" norm="Dalmatiae">Dalmatiae</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uenetus" lemmaRef="https://lila-erc.eu/data/id/lemma/129782" norm="Veneta">Veneta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dicio" lemmaRef="http://lila-erc.eu/data/id/lemma/99299" norm="ditione">ditione</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="qui" lemmaRef="http://lila-erc.eu/data/id/lemma/121354" norm="cui">Cui</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uenetus" lemmaRef="https://lila-erc.eu/data/id/lemma/129782" norm="Veneta">Veneta</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="dego" lemmaRef="http://lila-erc.eu/data/id/lemma/98339" norm="degente">degente</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2175,11 +2175,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="neque">neque</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uergilius" lemmaRef="https://lila-erc.eu/data/id/lemma/24881" norm="Vergilius">Virgilius</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="nec" lemmaRef="http://lila-erc.eu/data/id/lemma/113512" norm="nec">nec</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2189,20 +2189,20 @@
       </td>
       <td>3</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="uetus">uetus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="possum" lemmaRef="http://lila-erc.eu/data/id/lemma/118569" norm="possint">possint</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="ueteris">ueteris</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="fama" lemmaRef="http://lila-erc.eu/data/id/lemma/102868" norm="famae">famae</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="genus" lemmaRef="http://lila-erc.eu/data/id/lemma/104504" norm="genus">genus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uetus" lemmaRef="http://lila-erc.eu/data/id/lemma/130070" norm="ueterum">ueterum</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="titulus" lemmaRef="http://lila-erc.eu/data/id/lemma/128926" norm="titulis">titulis</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2212,14 +2212,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="Troianosque" ana="enclisis">
                      <w lemma="troianus" lemmaRef="https://lila-erc.eu/data/id/lemma/24133" norm="Troianos">Troianos</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uir" lemmaRef="http://lila-erc.eu/data/id/lemma/130300" norm="uiros">uiros</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="arma" lemmaRef="http://lila-erc.eu/data/id/lemma/89998" norm="armis">armis</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2229,10 +2229,10 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uirtus" lemmaRef="http://lila-erc.eu/data/id/lemma/130356" norm="uirtute">uirtute</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uiresco" lemmaRef="http://lila-erc.eu/data/id/lemma/130308" norm="uirescit">uirescit</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2242,11 +2242,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="quoniam" lemmaRef="http://lila-erc.eu/data/id/lemma/121289" norm="quoniam">quoniam</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uirtus" lemmaRef="http://lila-erc.eu/data/id/lemma/130356" norm="uirtute">uirtute</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uiresco" lemmaRef="http://lila-erc.eu/data/id/lemma/130308" norm="uirescit">uirescit</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2256,11 +2256,11 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="magnus" lemmaRef="http://lila-erc.eu/data/id/lemma/111319" norm="magnus">magnus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="uiuo" lemmaRef="http://lila-erc.eu/data/id/lemma/130476" norm="uiuit">uiuit</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="homerus" lemmaRef="http://lila-erc.eu/data/id/lemma/9477" norm="Homerus">Homerus</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2270,14 +2270,14 @@
       </td>
       <td>1</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" norm="teque" ana="enclisis">
             <w lemma="tu" lemmaRef="http://lila-erc.eu/data/id/lemma/129131" norm="te">te</w>
             <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
           </w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="urbs" lemmaRef="http://lila-erc.eu/data/id/lemma/130822" norm="urbis">urbis</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="semen" lemmaRef="http://lila-erc.eu/data/id/lemma/124091" norm="semina">semina</w>
-        </span>
+        </p>
       </td>
     </tr>
     <tr>
@@ -2287,15 +2287,15 @@
       </td>
       <td>2</td>
       <td>
-        <span>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="maximus" lemmaRef="https://lila-erc.eu/data/id/lemma/13803" norm="Maximus">Maximus</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" norm="ut">ut</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="torques" lemmaRef="https://lila-erc.eu/data/id/lemma/128450" norm="torque">torque</w>
-        </span>
-        <span>
+        </p>
+        <p>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="ut" lemmaRef="http://lila-erc.eu/data/id/lemma/130906" norm="ut">Vt</w>
           <w xmlns="http://www.tei-c.org/ns/1.0" lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416" norm="que" join="left">que</w>
-        </span>
+        </p>
       </td>
     </tr>
   </tbody>
