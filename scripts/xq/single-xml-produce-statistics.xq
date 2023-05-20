@@ -1,5 +1,5 @@
 declare option output:indent "yes";
-declare variable $path := "../../norm-tok-lem-w-lila-lemmata/nardinocelinese-desituiadrae-norm-lemma-sent.xml";
+declare variable $path := "../../norm-tok-lem-w-lila-lemmata/clarius-d-maffei-1505-norm-lemma-sent.xml";
 
 declare function local:table($wcount, $lemmacount){
 element div {
