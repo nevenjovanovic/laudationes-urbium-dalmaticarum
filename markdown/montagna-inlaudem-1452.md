@@ -4,8 +4,9 @@ lang: lat
 --- 
 
 
-Leonardi Montagnae Veronensis, secretarii apostolici, comitis Palatini et poetae laureati
-Carmina epistolarum et epigrammatum
+Auctor: Leonardus Montagna Veronensis, Wikidata [Q23617599](http://www.wikidata.org/entity/Q23617599)
+
+Fons: Biblioteca Apostolica Vaticana, [Fondo De Marinis, Ms. 7](https://digi.vatlib.it/view/MSS_De.Marinis.7): Leonardi Montagne Veronensis secretarii Ap(ostoli)ci et poete laureati Carmina epistolarum et epigrammatum... f. 16-17.
 
 # In laudem nobilitatis Aspalatensis
 
