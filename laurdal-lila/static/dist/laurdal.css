@@ -1,0 +1,24 @@
+@import url("chota.css");
+
+:root {
+  --color-primary: #d33682; /* brand color */
+  --grid-maxWidth: 108rem; /* max container width 1080px */
+  --font-family-sans:  monaco, "Consolas", "Lucida Console", monospace;
+  --bg-color: #fdf6e3;
+  --color-error: #d33682;
+  --color-success: #859900;
+}
+
+.small {
+  font-size: x-small;
+}
+
+span.dropdown {
+    display: inline;
+}
+
+td > span {
+    display: block;
+}
+
+
