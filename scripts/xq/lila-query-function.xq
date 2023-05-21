@@ -10,8 +10,8 @@ let $query := replace($url, "QSTRING", string($l))
 let $parsed := (doc($query))
 return $parsed//rdfs:label/string()
 };
-let $dbname := "nardino-situ" || "-xml"
-let $list := db:open($dbname)//*:w[@lemmaRef]
+let $dbname := "laud-lemm-sent"
+let $list := db:get($dbname)//*:w[starts-with(@lemmaRef, "http://lila-erc.eu")]
 for $w in $list
 let $ref := $w/@lemmaRef/string()
 let $l := replace($ref, "http:", "https:")

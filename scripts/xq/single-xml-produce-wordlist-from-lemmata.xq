@@ -48,7 +48,7 @@ declare function local:table($body, $caption){
   }
 };
 declare function local:context($w){
-  for $ww in $w return element span { $ww/preceding-sibling::*:w[1] , $ww , $ww/following-sibling::*:w[1]  }
+  for $ww in $w return element p { $ww/preceding-sibling::*:w[1] , $ww , $ww/following-sibling::*:w[1]  }
 };
 let $tabledeest :=
 let $text := fetch:doc($path)//*:text
