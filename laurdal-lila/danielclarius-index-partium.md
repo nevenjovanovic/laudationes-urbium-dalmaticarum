@@ -9,8 +9,6 @@
 
 <div class="col">
 
-<h1 class="text-success">Index partium orationis in opere: Danielis Clarii epistula ad Iulianum Maffeium (15. Oct. 1505), versio electronica</h1>
-
 <p>Textus: <a href="https://croala.ffzg.unizg.hr/eklogai/neolatina/1505-clarius-archiepiscopo/">Danielis Clarii epistula ad Iulianum Maffeium (15. Oct. 1505), versio electronica</a></p>
 
 <p>Auctor: Daniel Clarius, Wikidata: <a href="https://www.wikidata.org/entity/Q21542922">Q21542922</a></p>

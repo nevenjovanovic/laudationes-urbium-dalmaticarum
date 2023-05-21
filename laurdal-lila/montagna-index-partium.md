@@ -1,13 +1,11 @@
 
-# Index partium orationis in opere: In laudem nobilitatis Aspalatensis (post 1452)
+# LaUrDal: Index partium orationis in opere: In laudem nobilitatis Aspalatensis (post 1452)
 
 <div class="container">
       
 <div class="row">
 
 <div class="col">
-
-<h1 class="text-success">Index partium orationis in opere: In laudem nobilitatis Aspalatensis (post 1452)</h1>
   
 <p>Textus: <a href="https://croala.ffzg.unizg.hr/eklogai/neolatina/montagna-inlaudem-1452/">In laudem nobilitatis Aspalatensis (post 1452)</a></p>
 

@@ -1,5 +1,5 @@
 
-# Index partium orationis in P. Nardini Celinei Carmine de situ Iadrae (1508)
+# LaUrDal: Index partium orationis in P. Nardini Celinei Carmine de situ Iadrae (1508)
 
 
 <div class="container">
@@ -7,8 +7,6 @@
 <div class="row">
 
 <div class="col">
-
-<h1 class="text-error">Index partium orationis in P. Nardini Celinei Carmine de situ Iadrae (1508)</h1>
 
 <p>Auctor: P. Nardinus Celineus, Wikidata <a href="https://www.wikidata.org/entity/Q117706387">Q117706387</a></p>
 

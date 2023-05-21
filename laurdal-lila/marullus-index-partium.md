@@ -1,5 +1,5 @@
 
-# Index partium orationis in opere: De laudibus Rhacusae (ante a. 1489), versio electronica
+# LaUrDal: Index partium orationis in opere: De laudibus Rhacusae (ante a. 1489), versio electronica
 
 <div class="container">
 
