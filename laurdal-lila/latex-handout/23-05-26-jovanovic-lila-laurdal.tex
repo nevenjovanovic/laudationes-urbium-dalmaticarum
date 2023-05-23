@@ -1,0 +1,77 @@
+% Created 2023-03-07 uto 21:30
+% Intended LaTeX compiler: pdflatex
+\documentclass[a4paper,11pt]{article}
+\usepackage{minted}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage{latin}
+\setotherlanguage{croatian}
+\author{Neven Jovanović, University of Zagreb\\
+neven.jovanovic@ffzg.unizg.hr}
+\date{Milan, 26 May 2023}
+\title{CroALa (LaUrDal) texts and LiLa Lemma Bank}
+\hypersetup{
+ pdfauthor={Neven Jovanović},
+ pdftitle={CroALa (LaUrDal) texts and LiLa Lemma Bank}
+ pdfkeywords={Latin language, Neo-Latin, lemmatization, lemma, scholarly edition},
+ pdfsubject={},
+ pdfcreator={Emacs 28.2 (Org mode 9.6)}, 
+ pdflang={English}}
+\setmainfont{Linux Libertine}
+\setsansfont{Linux Libertine}
+\setlength{\parindent}{0pt}
+\hyphenation{Fi-lip-po}
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\noindent \textit{Laudationes urbium Dalmaticarum} (LaUrDal) is a collection of Latin texts written in 1268–1608 about cities of Istria, Quarnaro, Dalmatia and Albania. Thanks to the support of ERC AdriArchCult, a small selection of LaUrDal texts was annotated with LiLa lemmata URIs. Questions: what about lemmata in (digital) scholarly editions? What about practical problems when adding lemmata to such editions? There is potential of these editions to become Linked (Open) Data sets – on the lexical level, it has been made possible by the existence of LiLa Knowledge Base. Что делать?
+\end{abstract}
+
+\section*{Internet}
+
+\begin{itemize}
+\item Connecting LaUrDal to LiLa lemmata, a demonstration \\
+  \url{https://croala.ffzg.unizg.hr/eklogai/laurdal-lila/}
+\item \textit{Laudationes urbium Dalmaticarum} on GitHub \\
+  \url{https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum}
+\end{itemize}
+
+\thispagestyle{empty}
+
+\section*{An encoded TEI XML fragment from LaUrDal}
+
+\begin{small}
+\begin{minted}{xml}
+<w lemma="retineo" lemmaRef="http://lila-erc.eu/data/id/lemma/122776"
+   norm="retentam">retentam</w>
+<w norm="interque" ana="enclisis">
+  <w lemma="inter" lemmaRef="http://lila-erc.eu/data/id/lemma/108392"
+     norm="inter">Inter</w>
+  <w lemma="que" lemmaRef="https://lila-erc.eu/data/id/lemma/131416"
+     norm="que" join="left">que</w>
+</w>
+<w lemma="Turca" lemmaRef="DEEST" norm="Turcas">Thurcas</w>
+<w lemma="et" lemmaRef="http://lila-erc.eu/data/id/lemma/101542"
+   norm="et">et</w>
+<w lemma="uenetus" lemmaRef="https://lila-erc.eu/data/id/lemma/129783"
+   norm="Venetum">Venetum</w>
+<w lemma="asper" lemmaRef="http://lila-erc.eu/data/id/lemma/90240"
+   norm="asperum">asperum</w>
+\end{minted}
+\end{small}
+
+%\section{Conclusion}
+
+
+\end{document}
