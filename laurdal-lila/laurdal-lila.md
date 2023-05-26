@@ -17,22 +17,29 @@ lang: lat
 
 Praeparavit Neven Jovanović, ORCID [0000-0002-9119-399](https://orcid.org/0000-0002-9119-399X), Universitatis Zagrabiensis Facultas philosophica.
 
+Hancce paginam invenies in interrete apud: **croala.ffzg.unizg.hr/eklogai/laurdal-lila/**.
+
+Notarum PDF invenies in: [github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/laurdal-lila/latex-handout/23-05-26-jovanovic-lila-laurdal.pdf](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/laurdal-lila/latex-handout/23-05-26-jovanovic-lila-laurdal.pdf).
+
+Exaratum ope et auxilio: [Architectural Culture of the Early Modern Eastern Adriatic](https://pric.unive.it/projects/adriarchcult/) (AdriArchCult).
+
+
 ## Quid sit LaUrDal
 
-Laudationes urbium Dalmaticarum bibliotheca est digitalis operum (et excerptorum) Latinorum ubi urbes Dalmaticae memorentur sive laudentur. Formam veterem invenies [huc](http://www.ffzg.unizg.hr/klafil/croala/laud.form.html) (PhiloLogic).
+Laudationes urbium Dalmaticarum bibliotheca est digitalis operum (et excerptorum) Latinorum ubi urbes Dalmaticae memorentur sive laudentur. Formam veterem invenies [huc (Philologic)](http://www.ffzg.unizg.hr/klafil/croala/laud.form.html).
 
 ### Cf.
 
-+ Jovanović, Neven. 2012. ‘Dubrovnik in the Corpus of Eastern Adriatic Humanist Laudationes Urbium’, Dubrovnik Annals, 16: 23–36
-+ Jovanović, Neven. 2011. ‘Marulić i laudationes urbium’, Colloquia Maruliana XX, (Književni krug Split - Marulianum, centar za proučavanje Marka Marulića i njegova humanističkoga kruga): 141–63
++ Jovanović, Neven. 2012. [‘Dubrovnik in the Corpus of Eastern Adriatic Humanist Laudationes Urbium’](https://hrcak.srce.hr/87493), Dubrovnik Annals, 16: 23–36
++ Jovanović, Neven. 2011. [‘Marulić i laudationes urbium’](https://hrcak.srce.hr/67341), Colloquia Maruliana XX, (Književni krug Split - Marulianum, centar za proučavanje Marka Marulića i njegova humanističkoga kruga): 141–63 (with a summary in English)
 
 
 ## Opera in hac probatione
 
-1. [Leonardi Montagnae epigramma in laudem nobilitatis Aspalatensis (1452)](neolatina/montagna-inlaudem-1452.md) (Split); in [Github](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/markdown/montagna-inlaudem-1452.md)
-3. [Michaelis Marulli De laudibus Rhacusae (ante 1489)](neolatina/marullustarchaniota-ragusa.md) (Dubrovnik); in [Github](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/markdown/marulustarchaniota-ragusa.md)
-6. [Epistola Danielis Clarii ad Iulianum archiepiscopum Ragusinum (1505)](neolatina/1505-clarius-archiepiscopo.md) (Dubrovnik); in [Github](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/markdown/clarius-d-maffei-1505-normalized.md)
-5. [P. Nardini Celinei De situ Iadrae (1508)](neolatina/nardino-desituiadrae-1508.md) (Zadar); in [Github](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/markdown/nardino-desituiadrae-1508.md)
+1. [Leonardi Montagnae epigramma in laudem nobilitatis Aspalatensis (1452)](neolatina/montagna-inlaudem-1452.md) (Split); [Markdown in Github](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/markdown/montagna-inlaudem-1452.md)
+3. [Michaelis Marulli De laudibus Rhacusae (ante 1489)](neolatina/marullustarchaniota-ragusa.md) (Dubrovnik); [Markdown in Github](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/markdown/marulustarchaniota-ragusa.md)
+6. [Epistola Danielis Clarii ad Iulianum archiepiscopum Ragusinum (1505)](neolatina/1505-clarius-archiepiscopo.md) (Dubrovnik); [Markdown in Github](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/markdown/clarius-d-maffei-1505-normalized.md)
+5. [P. Nardini Celinei De situ Iadrae (1508)](neolatina/nardino-desituiadrae-1508.md) (Zadar); [Markdown in Github](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum/blob/main/markdown/nardino-desituiadrae-1508.md)
 
 ## Indices verborum alphabetice
 
@@ -106,3 +113,7 @@ In Linked Open Data (LOD): a permanent URI serves as a peg or a hinge to hang di
 # Apotheca in Github
 
 Apotheca: [Laudationes urbium Dalmaticarum](https://github.com/nevenjovanovic/laudationes-urbium-dalmaticarum) (LaUrDal)
+
+# Supported by
+
+This repository is part of a project that has received funding from the European Union's Horizon 2020 Research and Innovation Programme (GA n. 865863 ERC-AdriArchCult).
